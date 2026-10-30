@@ -25,7 +25,7 @@ import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
-REPO = os.environ.get("GITHUB_REPOSITORY", "JonataOliveiraa/Bunny-Loader-Mods")
+REPO = os.environ.get("GITHUB_REPOSITORY", "ningnaa/Ning-Launcher-Mods")
 FORMAT = 1
 
 

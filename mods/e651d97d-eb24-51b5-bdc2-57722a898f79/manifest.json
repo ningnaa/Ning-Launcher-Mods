@@ -7,17 +7,17 @@
   "authors": [
     {
       "name": "rzc0d3r",
-      "role": "Original mod, code and assets",
+      "role": "原模组、代码与资源",
       "link": "https://github.com/rzc00d3r/MitaNPC"
     },
     {
       "name": "Potato",
-      "role": "Bunny Loader port",
+      "role": "Bunny Loader 移植",
       "avatar": "potato.png",
       "color": "#E8C170"
     }
   ],
-  "category": "NPCs",
+  "category": "NPC",
   "summary": "Four MiSide town NPCs with voiced dialogue, shops, weapons, pets and permanent combat manuals.",
   "license": "MIT",
   "updated": "2026-10-19",
@@ -25,11 +25,11 @@
   "entry": "main.js",
   "links": [
     {
-      "title": "Original Workshop mod",
+      "title": "创意工坊原模组",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3402763063"
     },
     {
-      "title": "Original source code",
+      "title": "原版源代码",
       "url": "https://github.com/rzc00d3r/MitaNPC"
     }
   ],

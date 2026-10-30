@@ -6,21 +6,21 @@
   "authors": [
     {
       "name": "MooMoo",
-      "role": "Original Creator",
+      "role": "原作者",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3315564370",
       "avatar": "steam.png"
     },
     {
       "name": "crumb",
-      "role": "Ping icon sprites"
+      "role": "延迟图标像素图"
     },
     {
       "name": "otterly",
-      "role": "Mod icon border"
+      "role": "模组图标边框"
     },
     {
       "name": "Animatak_",
-      "role": "Port",
+      "role": "移植",
       "avatar": "animatak.png",
       "color": "#841FFF",
       "link": "https://discord.gg/mkPMd9shZH"
@@ -28,11 +28,11 @@
   ],
   "links": [
     {
-      "title": "Original Mod",
+      "title": "原模组",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3315564370"
     }
   ],
-  "category": "Utility",
+  "category": "实用工具",
   "summary": "See your ping in multiplayer, pick an icon style that everyone sees, and open a panel with the ping of every connected player.",
   "localizedSummaries": {
     "pt-BR": "Veja seu ping no multijogador, escolha um estilo de ícone que todos veem e abra um painel com o ping de cada jogador conectado.",

@@ -6,14 +6,14 @@
   "authors": [
     {
       "name": "Bunny Loader",
-      "role": "Pacote",
+      "role": "资源包制作",
       "avatar": "bunny-loader.png",
       "color": "#F9E141"
     },
     "Comic Neue Project Authors"
   ],
   "type": "font",
-  "category": "Fontes",
+  "category": "字体",
   "summary": "Troca as fontes do jogo pela Comic Neue, nítida em qualquer tela",
   "license": "OFL-1.1",
   "updated": "2026-10-18",

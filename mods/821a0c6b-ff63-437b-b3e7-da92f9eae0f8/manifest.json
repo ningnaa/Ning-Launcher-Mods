@@ -6,20 +6,20 @@
   "authors": [
     {
       "name": "BasicallyIAmFox",
-      "role": "Original Creator",
+      "role": "原作者",
       "avatar": "steam.png",
       "color": "#F0F0F0",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2832487441"
     },
     {
       "name": "GST378",
-      "role": "Bunny Loader Port",
+      "role": "Bunny Loader 移植",
       "avatar": "lemon.webp",
       "color": "#FEFE00",
       "link": "https://youtube.com/@gst_378?si=-18HzRizRpiFJrEP"
     }
   ],
-  "category": "QoL",
+  "category": "便利功能",
   "summary": "Allows you to check the item wiki from within the game.",
   "theme": {
     "accent": "F0F0F0",

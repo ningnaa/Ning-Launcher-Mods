@@ -7,19 +7,19 @@
   "authors": [
     {
       "name": "Astigmatic",
-      "role": "Fonte original",
+      "role": "原字体",
       "link": "https://fonts.google.com/specimen/Aclonica"
     },
     {
       "name": "Potato",
-      "role": "Port para o Bunny Loader",
+      "role": "Bunny Loader 移植",
       "avatar": "potato.png",
       "color": "#E8C170",
       "link": "https://github.com/JonataOliveiraa"
     }
   ],
   "type": "font",
-  "category": "Fontes",
+  "category": "字体",
   "summary": "Letras arredondadas e grossas, no estilo de cartaz de aventura",
   "license": "Apache-2.0",
   "blVersion": 2,
@@ -29,7 +29,7 @@
   ],
   "links": [
     {
-      "title": "Fonte original",
+      "title": "原字体",
       "url": "https://fonts.google.com/specimen/Aclonica"
     }
   ],

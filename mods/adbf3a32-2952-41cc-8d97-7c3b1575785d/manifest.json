@@ -6,13 +6,13 @@
   "authors": [
     {
       "name": "GST378",
-      "role": "author",
+      "role": "作者",
       "avatar": "0.jpg",
       "color": "#ffffff",
       "link": "https://youtube.com/@gst_378"
     }
   ],
-  "category": "Gameplay",
+  "category": "玩法",
   "summary": "为游戏添加自定义世界难度（原版只有普通/专家/大师/旅行难度），并加入传奇难度。.",
   "license": "",
   "updated": "2026-10-16",

@@ -7,13 +7,13 @@
   "authors": [
     {
       "name": "Barometz",
-      "role": "Original Creator",
+      "role": "原作者",
       "avatar": "github.png",
       "color": "#FFFFFF",
       "link": "https://github.com/Barometz-Mod/MinecraftPaintings"
     }
   ],
-  "category": "Visual",
+  "category": "视觉效果",
   "updated": "2026-10-22",
   "blVersion": 2,
   "gameVersion": [

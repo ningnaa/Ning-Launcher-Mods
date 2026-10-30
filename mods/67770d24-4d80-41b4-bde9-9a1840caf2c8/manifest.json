@@ -6,10 +6,10 @@
   "authors": [
     {
       "name": "VowTz",
-      "role": "Author"
+      "role": "作者"
     }
   ],
-  "category": "Itens",
+  "category": "物品",
   "summary": "Zoom enhancements",
   "license": "MIT",
   "updated": "2026-10-18",

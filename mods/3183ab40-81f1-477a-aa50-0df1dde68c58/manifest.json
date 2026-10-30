@@ -6,24 +6,24 @@
   "authors": [
     {
       "name": "FuzzyGolf291773",
-      "role": "Original mod and pet animations",
+      "role": "原模组与宠物动画",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3810452158",
       "avatar": "steam.png"
     },
     {
       "name": "MineGame223 and Group For One",
-      "role": "Touhou Little Friend framework and sprite foundations",
+      "role": "Touhou Little Friend 框架与像素图基础",
       "link": "https://github.com/MineGame223/TouhouLittleFriend"
     },
     {
       "name": "Potato",
-      "role": "Port to Bunny Loader and Brazilian Portuguese localization",
+      "role": "Bunny Loader 移植与巴西葡萄牙语本地化",
       "avatar": "potato.png",
       "color": "#E8C170",
       "link": "https://github.com/JonataOliveiraa"
     }
   ],
-  "category": "Pets",
+  "category": "宠物",
   "summary": "Sixteen animated Touhou companions with conversations, seven light pets, crafting recipes and Kasen's oni transformations.",
   "license": "GPL-3.0",
   "updated": "2026-10-04",
@@ -36,7 +36,7 @@
   "dependencies": [],
   "links": [
     {
-      "title": "Original Steam Workshop mod",
+      "title": "Steam 创意工坊原模组",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3810452158"
     },
     {

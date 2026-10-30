@@ -6,15 +6,15 @@
   "authors": [
     {
       "name": "yiyang233",
-      "role": "Original mod and visual assets"
+      "role": "原模组与视觉资源"
     },
     {
       "name": "Potato",
       "avatar": "potato.png",
-      "role": "Bunny Loader port"
+      "role": "Bunny Loader 移植"
     }
   ],
-  "category": "Visual",
+  "category": "视觉效果",
   "summary": "Sunlight, moonlight, shadow rays and bloom over the world, ported from the tModLoader mod and rebuilt to run on phones.",
   "updated": "2026-10-19",
   "blVersion": 2,

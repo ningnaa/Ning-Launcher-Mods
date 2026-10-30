@@ -6,27 +6,27 @@
   "authors": [
     {
       "name": "Gurgle_Nurgle",
-      "role": "Spritework",
+      "role": "像素美术",
       "avatar": "0.png",
       "color": "#F0F0F0",
       "link": "https://github.com/GurgleNurgle"
     },
     {
       "name": "silent_ptr",
-      "role": "Coding",
+      "role": "代码",
       "avatar": "1.jpeg",
       "color": "#F0F0F0",
       "link": "https://github.com/silentptr"
     },
     {
       "name": "Zandberg",
-      "role": "Coding",
+      "role": "代码",
       "avatar": "2.png",
       "color": "#F0F0F0",
       "link": "https://github.com/Zandberg-x"
     }
   ],
-  "category": "Building",
+  "category": "建筑",
   "summary": "Terrarchitect is a furniture / build mod that adds a wide variety of custom-made, high-quality decorational items and blocks to Terraria! It also aims to make some previously ubobtainable or unplacable vanilla items available.",
   "updated": "2026-10-09",
   "blVersion": 2,
@@ -50,11 +50,11 @@
   },
   "links": [
     {
-      "title": "Subreddit",
+      "title": "Reddit 社区",
       "url": "https://www.reddit.com/r/Terrarchitect/"
     },
     {
-      "title": "Forum",
+      "title": "论坛",
       "url": "https://forums.terraria.org/index.php?threads/terrarchitect.95959/"
     },
     {

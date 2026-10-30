@@ -32,17 +32,17 @@
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532",
-            "role": "Port"
+            "role": "移植"
           },
           {
             "name": "al",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "steam.png",
             "color": "#F0F0F0",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3796173238"
           }
         ],
-        "category": "Gameplay",
+        "category": "玩法",
         "summary": "Hit the Goblin Tinkerer with any weapon to lower his reforge prices.",
         "updated": "2026-10-08",
         "blVersion": 2,
@@ -87,13 +87,13 @@
         "authors": [
           {
             "name": "Orion",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "steam.png",
             "color": "#F0F0F0",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2817496179"
           }
         ],
-        "category": "Visual",
+        "category": "视觉效果",
         "updated": "2026-10-15",
         "blVersion": 2,
         "gameVersion": [
@@ -143,26 +143,26 @@
         "authors": [
           {
             "name": "Mantovani",
-            "role": "Bunny Loader port, fixes & optimization",
+            "role": "Bunny Loader 移植、修复与优化",
             "avatar": "mantovani.webp",
             "color": "#FFD700"
           },
           {
             "name": "jopojelly",
-            "role": "Original mod creator",
+            "role": "原模组作者",
             "avatar": "jopojelly.webp",
             "color": "#FFFFFF",
             "link": "https://forums.terraria.org/index.php?threads/begone-evil-disable-corruption-spread.72285/"
           }
         ],
-        "category": "Utilidade",
+        "category": "实用工具",
         "summary": "Disables natural Corruption, Crimson and Hallow biome spread by default, with a per-world /spread toggle.",
         "updated": "2026-10-04",
         "blVersion": 2,
         "entry": "main.js",
         "links": [
           {
-            "title": "Original mod",
+            "title": "原模组",
             "url": "https://forums.terraria.org/index.php?threads/begone-evil-disable-corruption-spread.72285/"
           }
         ],
@@ -207,7 +207,7 @@
         "authors": [
           {
             "name": "JaquavionBennet",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "steam.png",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3760868784"
           },
@@ -216,10 +216,10 @@
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532",
-            "role": "Port"
+            "role": "移植"
           }
         ],
-        "category": "Decoration",
+        "category": "装饰",
         "summary": "Hologram Projectors that show any unlocked Bestiary creature as an animated, configurable hologram.",
         "updated": "2026-10-13",
         "blVersion": 2,
@@ -263,13 +263,13 @@
         "authors": [
           {
             "name": "GST378",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "lemon.webp",
             "color": "#FEFE00",
             "link": "https://youtube.com/@gst_378?si=-18HzRizRpiFJrEP"
           }
         ],
-        "category": "Utilities",
+        "category": "实用工具",
         "summary": "Replaces the traditional Goblin Tinkerer interface with a new system that allows you to browse and select item prefixes directly.",
         "updated": "2026-10-04",
         "blVersion": 2,
@@ -321,7 +321,7 @@
         "authors": [
           {
             "name": "jopojelly",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "steam.png",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2669644269"
           },
@@ -330,16 +330,16 @@
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532",
-            "role": "Port"
+            "role": "移植"
           }
         ],
         "links": [
           {
-            "title": "Original Mod",
+            "title": "原模组",
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2669644269"
           }
         ],
-        "category": "Interface",
+        "category": "界面",
         "summary": "A Boss Log book with every boss, mini-boss and event: progress checklist, spawn items and recipes, loot and collectibles, fight records, despawn messages and a boss radar.",
         "updated": "2026-10-27",
         "blVersion": 2,
@@ -395,10 +395,10 @@
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532",
-            "role": "Author"
+            "role": "作者"
           }
         ],
-        "category": "Utility",
+        "category": "实用工具",
         "updated": "2026-10-04",
         "blVersion": 2,
         "gameVersion": [
@@ -443,11 +443,11 @@
         "author": "The Wise Willow",
         "description": "Boss-Colored Relics(Remastered Edition)",
         "type": "texture",
-        "category": "Textures",
+        "category": "材质",
         "blVersion": 2,
         "links": [
           {
-            "title": "Original Terraria Resource Pack",
+            "title": "原版泰拉瑞亚资源包",
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3661349204"
           }
         ],
@@ -487,7 +487,7 @@
         "name": "BunnySocial",
         "version": "1.0.0-ningzh.1",
         "author": "VowTz",
-        "category": "Jogabilidade",
+        "category": "玩法",
         "summary": "Every vanity slot works like an accessory slot.",
         "description": "Items in the vanity (social) slots now apply their effects too, exactly as if they were in the matching equipment slot.",
         "blVersion": 2,
@@ -530,10 +530,10 @@
         "authors": [
           {
             "name": "VowTz",
-            "role": "Inspiration"
+            "role": "灵感来源"
           }
         ],
-        "category": "Itens",
+        "category": "物品",
         "summary": "Point at any container (chest, piggy bank, safe, forge, void vault) to see what is inside.",
         "license": "GPL-3.0",
         "updated": "2026-10-18",
@@ -585,19 +585,19 @@
         "authors": [
           {
             "name": "PvtFudgepants",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "steam.png",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2793782057"
           },
           {
             "name": "Animatak_",
-            "role": "Port",
+            "role": "移植",
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532"
           }
         ],
-        "category": "Visual",
+        "category": "视觉效果",
         "summary": "Damage numbers and tooltips in the color of the weapon's class: melee, ranged, magic, summon, sentry, throwing and modded classes.",
         "updated": "2026-10-12",
         "blVersion": 2,
@@ -654,13 +654,13 @@
         "authors": [
           {
             "name": "Consolaria Team",
-            "role": "Original Mod",
+            "role": "原模组",
             "avatar": "consolaria_team.png",
             "color": "#FFFFFF",
             "link": "https://github.com/has2r/Consolaria-2.0"
           }
         ],
-        "category": "Content",
+        "category": "内容扩展",
         "summary": "Tons of exclusive content from the legacy and old-gen versions, reworked and rebalanced for modern Terraria.",
         "license": "MIT",
         "updated": "2026-10-01",
@@ -673,15 +673,15 @@
         "dependencies": [],
         "links": [
           {
-            "title": "Official Wiki",
+            "title": "官方 Wiki",
             "url": "https://terrariamods.wiki.gg/wiki/Consolaria"
           },
           {
-            "title": "Discord Server",
+            "title": "Discord 社区",
             "url": "https://discord.gg/DTABXbd"
           },
           {
-            "title": "Github Page",
+            "title": "GitHub 页面",
             "url": "https://github.com/has2r/Consolaria-2.0"
           }
         ],
@@ -734,15 +734,15 @@
         "authors": [
           {
             "name": "Log Spiral (Original Creator)",
-            "role": "Original mod and visual assets"
+            "role": "原模组与视觉资源"
           },
           {
             "name": "Castorzeira (port)",
             "avatar": "Castorzeira.png",
-            "role": "Bunny Loader port"
+            "role": "Bunny Loader 移植"
           }
         ],
-        "category": "Visual",
+        "category": "视觉效果",
         "summary": "Efeito Slash Maneiro",
         "description": "efeito slash totalmente exagerado e bonito",
         "updated": "2026-10-20",
@@ -791,13 +791,13 @@
         "authors": [
           {
             "name": "Gorffy, Ink of the Eternity, Litos the Litium",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "steam.png",
             "color": "#FFFFFF",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3331547573"
           }
         ],
-        "category": "Gameplay",
+        "category": "玩法",
         "updated": "2026-10-22",
         "blVersion": 2,
         "gameVersion": [
@@ -842,7 +842,7 @@
         "author": "Santartica",
         "description": "Terraria Ovehaul for Health and Mana",
         "type": "texture",
-        "category": "Textures",
+        "category": "材质",
         "blVersion": 2,
         "localizedNames": {
           "zh-Hans": "暗黑奇幻生命与魔力界面"
@@ -884,7 +884,7 @@
             "name": "VowTz"
           }
         ],
-        "category": "Jogabilidade",
+        "category": "玩法",
         "summary": "Gives the player a basic dash without needing any dashing accessory.",
         "license": "no license",
         "updated": "2026-10-29",
@@ -935,13 +935,13 @@
         "authors": [
           {
             "name": "GST378",
-            "role": "author",
+            "role": "作者",
             "avatar": "0.png",
             "color": "#ffffff",
             "link": "https://youtube.com/@gst_378"
           }
         ],
-        "category": "Utilidade",
+        "category": "实用工具",
         "summary": "一个直观的工具界面：难度切换、实体清除、碰撞箱、天气与时间、相机与拍照模式、调试信息。",
         "license": "",
         "updated": "2026-10-15",
@@ -989,10 +989,10 @@
         "authors": [
           {
             "name": "VowTz",
-            "role": "Author"
+            "role": "作者"
           }
         ],
-        "category": "Jogabilidade",
+        "category": "玩法",
         "summary": "Melee swords swing toward where you aim, and the hitbox follows the blade.",
         "license": "MIT",
         "updated": "2026-10-25",
@@ -1046,12 +1046,12 @@
         "authors": [
           {
             "name": "Bunny Loader",
-            "role": "Código e arte",
+            "role": "代码与美术",
             "avatar": "bunny-loader.png",
             "color": "#F9E141"
           }
         ],
-        "category": "Armas",
+        "category": "武器",
         "summary": "Toda arma nasce com o dobro do dano.",
         "license": "MIT",
         "updated": "2026-09-22",
@@ -1098,15 +1098,15 @@
         "author": "Fanec",
         "description": "Don't Starve inspired NPC portraits — port Bunny Loader.",
         "type": "texture",
-        "category": "Textures",
+        "category": "材质",
         "blVersion": 2,
         "links": [
           {
-            "title": "Original Terraria Resource Pack",
+            "title": "原版泰拉瑞亚资源包",
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3679638344"
           },
           {
-            "title": "Bunny Loader texture pack guide",
+            "title": "Bunny Loader 材质包指南",
             "url": "https://github.com/JonataOliveiraa/Bunny-Loader/blob/main/docs/mods/14-pacotes-de-textura.md"
           }
         ],
@@ -1152,7 +1152,7 @@
         "authors": [
           {
             "name": "Animatak_",
-            "role": "Author",
+            "role": "作者",
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/mkPMd9shZH"
@@ -1164,7 +1164,7 @@
             "url": "https://discord.gg/mkPMd9shZH"
           }
         ],
-        "category": "World",
+        "category": "世界",
         "summary": "A secret seed for a world so flat you can run without fear of tripping into a hole: type \"flat\" when creating a world. Caves, biomes, structures and the floating islands stay as usual.",
         "localizedSummaries": {
           "pt-BR": "Uma seed secreta para um mundo tão plano que dá para correr sem medo de cair num buraco: digite \"plano\" ou \"flat\" ao criar um mundo. Cavernas, biomas, estruturas e as ilhas flutuantes continuam normais.",
@@ -1217,19 +1217,19 @@
         "authors": [
           {
             "name": "Astigmatic",
-            "role": "Fonte original",
+            "role": "原字体",
             "link": "https://fonts.google.com/specimen/Aclonica"
           },
           {
             "name": "Potato",
-            "role": "Port para o Bunny Loader",
+            "role": "Bunny Loader 移植",
             "avatar": "potato.png",
             "color": "#E8C170",
             "link": "https://github.com/JonataOliveiraa"
           }
         ],
         "type": "font",
-        "category": "Fontes",
+        "category": "字体",
         "summary": "Letras arredondadas e grossas, no estilo de cartaz de aventura",
         "license": "Apache-2.0",
         "blVersion": 2,
@@ -1239,7 +1239,7 @@
         ],
         "links": [
           {
-            "title": "Fonte original",
+            "title": "原字体",
             "url": "https://fonts.google.com/specimen/Aclonica"
           }
         ],
@@ -1291,19 +1291,19 @@
         "authors": [
           {
             "name": "Nate Piekos (Blambot)",
-            "role": "Fonte original",
+            "role": "原字体",
             "link": "https://blambot.com"
           },
           {
             "name": "Potato",
-            "role": "Port para o Bunny Loader",
+            "role": "Bunny Loader 移植",
             "avatar": "potato.png",
             "color": "#E8C170",
             "link": "https://github.com/JonataOliveiraa"
           }
         ],
         "type": "font",
-        "category": "Fontes",
+        "category": "字体",
         "summary": "Letra de taverna medieval, desenhada à mão",
         "license": "Freeware não comercial (Blambot)",
         "blVersion": 2,
@@ -1313,7 +1313,7 @@
         ],
         "links": [
           {
-            "title": "Fonte original",
+            "title": "原字体",
             "url": "https://blambot.com"
           }
         ],
@@ -1364,14 +1364,14 @@
         "authors": [
           {
             "name": "Bunny Loader",
-            "role": "Pacote",
+            "role": "资源包制作",
             "avatar": "bunny-loader.png",
             "color": "#F9E141"
           },
           "Comic Neue Project Authors"
         ],
         "type": "font",
-        "category": "Fontes",
+        "category": "字体",
         "summary": "Troca as fontes do jogo pela Comic Neue, nítida em qualquer tela",
         "license": "OFL-1.1",
         "updated": "2026-10-18",
@@ -1428,23 +1428,23 @@
         "authors": [
           {
             "name": "Microsoft",
-            "role": "Fonte original"
+            "role": "原字体"
           },
           {
             "name": "Mirasein",
-            "role": "Resource pack Custom Fonts (PC)",
+            "role": "电脑版 Custom Fonts 资源包",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2439864365"
           },
           {
             "name": "Potato",
-            "role": "Port para o Bunny Loader",
+            "role": "Bunny Loader 移植",
             "avatar": "potato.png",
             "color": "#E8C170",
             "link": "https://github.com/JonataOliveiraa"
           }
         ],
         "type": "font",
-        "category": "Fontes",
+        "category": "字体",
         "summary": "Serifada clássica, do resource pack Custom Fonts do PC",
         "license": "Fonte Pescadero da Microsoft",
         "blVersion": 2,
@@ -1454,7 +1454,7 @@
         ],
         "links": [
           {
-            "title": "Original no Steam Workshop",
+            "title": "Steam 创意工坊原作",
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2439864365"
           }
         ],
@@ -1506,19 +1506,19 @@
         "authors": [
           {
             "name": "Pete Klassen",
-            "role": "Fonte original",
+            "role": "原字体",
             "link": "https://www.dafont.com/ringbearer.font"
           },
           {
             "name": "Potato",
-            "role": "Port para o Bunny Loader",
+            "role": "Bunny Loader 移植",
             "avatar": "potato.png",
             "color": "#E8C170",
             "link": "https://github.com/JonataOliveiraa"
           }
         ],
         "type": "font",
-        "category": "Fontes",
+        "category": "字体",
         "summary": "A letra do logotipo de O Senhor dos Anéis",
         "license": "Gratuita para uso pessoal",
         "blVersion": 2,
@@ -1528,7 +1528,7 @@
         ],
         "links": [
           {
-            "title": "Fonte original",
+            "title": "原字体",
             "url": "https://www.dafont.com/ringbearer.font"
           }
         ],
@@ -1578,18 +1578,18 @@
         "authors": [
           {
             "name": "Korlex",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "steam.png"
           },
           {
             "name": "Animatak_",
-            "role": "Port",
+            "role": "移植",
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/mkPMd9shZH"
           }
         ],
-        "category": "World",
+        "category": "世界",
         "summary": "Gnorp, an alien builder town NPC, sells globes that instantly build houses, castles, arenas, elevators, pylons, lakes and minecart tracks where you tap.",
         "localizedSummaries": {
           "pt-BR": "Gnorp, um NPC construtor alienígena, vende globos que constroem na hora casas, castelos, arenas, elevadores, pilares, lagos e trilhos onde você toca.",
@@ -1635,7 +1635,7 @@
         "name": "Gorilla",
         "version": "1.0.0-ningzh.1",
         "author": "ported by Animatak",
-        "category": "Meme",
+        "category": "趣味",
         "summary": "Enfrente o Gorila. Talvez você precise de 100 homens para derrotar essa coisa... e não espere sair vivo.",
         "description": "Enfrente o Gorila, um chefe ridiculamente poderoso e brutal. Talvez você precise de 100 homens para derrotar essa coisa... e mesmo assim, não espere sobreviver.\nMod original desenvolvido por GabeHasWon.",
         "updated": "2026-09-30",
@@ -1684,20 +1684,20 @@
         "authors": [
           {
             "name": "Cyrillya",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "steam.png",
             "color": "#F0F0F0",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2793971101"
           },
           {
             "name": "GST378",
-            "role": "Bunny Loader Port",
+            "role": "Bunny Loader 移植",
             "avatar": "lemon.webp",
             "color": "#FEFE00",
             "link": "https://youtube.com/@gst_378?si=-18HzRizRpiFJrEP"
           }
         ],
-        "category": "QoL",
+        "category": "便利功能",
         "summary": "This mod makes the gravity inversion effect not flip your screen, only the player flips.",
         "updated": "2026-10-04",
         "blVersion": 2,
@@ -1750,10 +1750,10 @@
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532",
-            "role": "Author"
+            "role": "作者"
           }
         ],
-        "category": "Visual",
+        "category": "视觉效果",
         "summary": "Your head follows the cursor, your body leans as you move, and slimes, zombies and critters lean too.",
         "updated": "2026-10-08",
         "blVersion": 2,
@@ -1799,20 +1799,20 @@
         "authors": [
           {
             "name": "diniamo",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "steam.png",
             "color": "#F0F0F0",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2992213994"
           },
           {
             "name": "GST378",
-            "role": "Bunny Loader Port",
+            "role": "Bunny Loader 移植",
             "avatar": "lemon.webp",
             "color": "#FEFE00",
             "link": "https://youtube.com/@gst_378?si=-18HzRizRpiFJrEP"
           }
         ],
-        "category": "QoL",
+        "category": "便利功能",
         "summary": "Allows you to fall through platforms instantly while holding your down key instead of stopping for a moment.",
         "updated": "2026-10-01",
         "blVersion": 2,
@@ -1868,7 +1868,7 @@
         "authors": [
           {
             "name": "Cleyera",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "steam.png",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2922358421"
           },
@@ -1877,23 +1877,23 @@
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532",
-            "role": "Port"
+            "role": "移植"
           },
           {
             "name": "Cavalier",
-            "role": "Chinese localization (original)",
+            "role": "原版中文本地化",
             "avatar": "steam.png"
           }
         ],
-        "category": "Decoration",
+        "category": "装饰",
         "summary": "A Display Base to show off any item, with glitter, outline and light effects. Made from marble or granite.",
         "updated": "2026-10-12",
         "blVersion": 2,
         "entry": "main.js",
         "pages": [
           {
-            "title": "Crafting",
-            "file": "docs/crafting.md"
+            "title": "合成配方",
+            "file": "docs/crafting_zh-Hans.md"
           }
         ],
         "localizedNames": {
@@ -1934,13 +1934,13 @@
         "authors": [
           {
             "name": "GST378",
-            "role": "author",
+            "role": "作者",
             "avatar": "0.jpg",
             "color": "#ffffff",
             "link": "https://youtube.com/@gst_378"
           }
         ],
-        "category": "Gameplay",
+        "category": "玩法",
         "summary": "为游戏添加自定义世界难度（原版只有普通/专家/大师/旅行难度），并加入传奇难度。.",
         "license": "",
         "updated": "2026-10-16",
@@ -1991,15 +1991,15 @@
         "authors": [
           {
             "name": "yiyang233",
-            "role": "Original mod and visual assets"
+            "role": "原模组与视觉资源"
           },
           {
             "name": "Potato",
             "avatar": "potato.png",
-            "role": "Bunny Loader port"
+            "role": "Bunny Loader 移植"
           }
         ],
-        "category": "Visual",
+        "category": "视觉效果",
         "summary": "Sunlight, moonlight, shadow rays and bloom over the world, ported from the tModLoader mod and rebuilt to run on phones.",
         "updated": "2026-10-19",
         "blVersion": 2,
@@ -2045,7 +2045,7 @@
         "authors": [
           {
             "name": "ChemAtDark",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "steam.png",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2847872897"
           },
@@ -2054,10 +2054,10 @@
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532",
-            "role": "Port"
+            "role": "移植"
           }
         ],
-        "category": "Visual",
+        "category": "视觉效果",
         "summary": "Borderlands-style light beams and glows in each dropped item's rarity color, with beam styles, glow and configurable lists.",
         "updated": "2026-10-12",
         "blVersion": 2,
@@ -2134,13 +2134,13 @@
         "authors": [
           {
             "name": "Barometz",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "github.png",
             "color": "#FFFFFF",
             "link": "https://github.com/Barometz-Mod/MinecraftPaintings"
           }
         ],
-        "category": "Visual",
+        "category": "视觉效果",
         "updated": "2026-10-22",
         "blVersion": 2,
         "gameVersion": [
@@ -2191,12 +2191,12 @@
         "authors": [
           {
             "name": "Bunny Loader",
-            "role": "Código e arte",
+            "role": "代码与美术",
             "avatar": "bunny-loader.png",
             "color": "#F9E141"
           }
         ],
-        "category": "Armas",
+        "category": "武器",
         "summary": "A Minishark vira uma metralhadora.",
         "license": "MIT",
         "updated": "2026-10-19",
@@ -2250,17 +2250,17 @@
         "authors": [
           {
             "name": "rzc0d3r",
-            "role": "Original mod, code and assets",
+            "role": "原模组、代码与资源",
             "link": "https://github.com/rzc00d3r/MitaNPC"
           },
           {
             "name": "Potato",
-            "role": "Bunny Loader port",
+            "role": "Bunny Loader 移植",
             "avatar": "potato.png",
             "color": "#E8C170"
           }
         ],
-        "category": "NPCs",
+        "category": "NPC",
         "summary": "Four MiSide town NPCs with voiced dialogue, shops, weapons, pets and permanent combat manuals.",
         "license": "MIT",
         "updated": "2026-10-19",
@@ -2268,11 +2268,11 @@
         "entry": "main.js",
         "links": [
           {
-            "title": "Original Workshop mod",
+            "title": "创意工坊原模组",
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3402763063"
           },
           {
-            "title": "Original source code",
+            "title": "原版源代码",
             "url": "https://github.com/rzc00d3r/MitaNPC"
           }
         ],
@@ -2321,13 +2321,13 @@
         "authors": [
           {
             "name": "Lunaros",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "steam.png",
             "color": "#FFFFFF",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3288950444"
           }
         ],
-        "category": "QoL",
+        "category": "便利功能",
         "updated": "2026-10-22",
         "blVersion": 2,
         "gameVersion": [
@@ -2377,19 +2377,19 @@
         "authors": [
           {
             "name": "Ryan (RightoeusRyan)",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "steam.png",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2563610738"
           },
           {
             "name": "Animatak_",
-            "role": "Port",
+            "role": "移植",
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/KcRfNEMUxn"
           }
         ],
-        "category": "Gameplay",
+        "category": "玩法",
         "summary": "This mod allows NPCs to take fall damage. Pretty self explanatory. This bonus also applies to bosses.",
         "updated": "2026-10-24",
         "blVersion": 2,
@@ -2401,7 +2401,7 @@
         "dependencies": [],
         "links": [
           {
-            "title": "Original Mod",
+            "title": "原模组",
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2563610738"
           }
         ],
@@ -2446,7 +2446,7 @@
         "authors": [
           {
             "name": "EurusK",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "steam.png",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3631856806"
           },
@@ -2455,10 +2455,10 @@
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532",
-            "role": "Port"
+            "role": "移植"
           }
         ],
-        "category": "Interface",
+        "category": "界面",
         "summary": "An RPG-style banner announces every Town NPC and town pet that moves into your world.",
         "updated": "2026-10-13",
         "blVersion": 2,
@@ -2500,14 +2500,14 @@
         "authors": [
           {
             "name": "JADen",
-            "role": "Original tModLoader mod"
+            "role": "原 tModLoader 模组"
           },
           {
             "name": "VowTz",
-            "role": "Port"
+            "role": "移植"
           }
         ],
-        "category": "Jogabilidade",
+        "category": "玩法",
         "summary": "Healing past full health becomes temporary Overhealth that absorbs damage and slowly decays.",
         "license": "AGPL-3.0",
         "updated": "2026-10-22",
@@ -2555,13 +2555,13 @@
         "authors": [
           {
             "name": "LevitatingGT",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "steam.png",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3610770947"
           },
           {
             "name": "Animatak_",
-            "role": "Port",
+            "role": "移植",
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/mkPMd9shZH"
@@ -2569,11 +2569,11 @@
         ],
         "links": [
           {
-            "title": "Original Mod",
+            "title": "原模组",
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3610770947"
           }
         ],
-        "category": "Visual",
+        "category": "视觉效果",
         "summary": "A ragdoll and body physics engine for Terraria: enemies collapse into ragdolls, lose heads and limbs, bleed sticky blood, and humanoids and slimes wobble with physics. Purely cosmetic.",
         "localizedSummaries": {
           "pt-BR": "Um motor de ragdoll e física de corpos para o Terraria: inimigos caem como bonecos de pano, perdem a cabeça e as pernas, sangram sangue que gruda no chão, e humanoides e slimes balançam com física. Só visual.",
@@ -2626,21 +2626,21 @@
         "authors": [
           {
             "name": "MooMoo",
-            "role": "Original Creator",
+            "role": "原作者",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3315564370",
             "avatar": "steam.png"
           },
           {
             "name": "crumb",
-            "role": "Ping icon sprites"
+            "role": "延迟图标像素图"
           },
           {
             "name": "otterly",
-            "role": "Mod icon border"
+            "role": "模组图标边框"
           },
           {
             "name": "Animatak_",
-            "role": "Port",
+            "role": "移植",
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/mkPMd9shZH"
@@ -2648,11 +2648,11 @@
         ],
         "links": [
           {
-            "title": "Original Mod",
+            "title": "原模组",
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3315564370"
           }
         ],
-        "category": "Utility",
+        "category": "实用工具",
         "summary": "See your ping in multiplayer, pick an icon style that everyone sees, and open a panel with the ping of every connected player.",
         "localizedSummaries": {
           "pt-BR": "Veja seu ping no multijogador, escolha um estilo de ícone que todos veem e abra um painel com o ping de cada jogador conectado.",
@@ -2706,7 +2706,7 @@
             "name": "VowTz"
           }
         ],
-        "category": "Utilidade",
+        "category": "实用工具",
         "summary": "Quality-of-life tweaks, every one a toggle in Mod Configuration.",
         "license": "MIT",
         "updated": "2026-10-25",
@@ -2750,13 +2750,13 @@
         "authors": [
           {
             "name": "GST378",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "lemon.webp",
             "color": "#FEFE00",
             "link": "https://youtube.com/@gst_378?si=-18HzRizRpiFJrEP"
           }
         ],
-        "category": "Visual",
+        "category": "视觉效果",
         "summary": "Items placed in frames will be drawn at their actual size",
         "updated": "2026-10-04",
         "blVersion": 2,
@@ -2808,12 +2808,12 @@
         "authors": [
           {
             "name": "Bunny Loader",
-            "role": "Código e arte",
+            "role": "代码与美术",
             "avatar": "bunny-loader.png",
             "color": "#F9E141"
           }
         ],
-        "category": "Jogabilidade",
+        "category": "玩法",
         "summary": "Cair de qualquer altura deixou de doer.",
         "license": "MIT",
         "updated": "2026-09-22",
@@ -2865,7 +2865,7 @@
             "avatar": "potato.png"
           }
         ],
-        "category": "Jogabilidade",
+        "category": "玩法",
         "summary": "On multiplayer, the host's inventory, armor, pets and life/mana are shared with everyone.",
         "license": "MIT",
         "updated": "2026-10-07",
@@ -2911,7 +2911,7 @@
         "authors": [
           {
             "name": "Animatak_",
-            "role": "Author",
+            "role": "作者",
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/mkPMd9shZH"
@@ -2923,7 +2923,7 @@
             "url": "https://discord.gg/mkPMd9shZH"
           }
         ],
-        "category": "Utility",
+        "category": "实用工具",
         "summary": "Create teleports with a name and a biome icon, organize them in a list with search, favorites and filters, and travel to them from the map. When you die, a way back that is only yours.",
         "localizedSummaries": {
           "pt-BR": "Crie teleportes com nome e ícone do bioma, organize-os numa lista com busca, favoritos e filtros, e viaje até eles pelo mapa. Ao morrer, um ponto de volta só seu.",
@@ -2970,7 +2970,7 @@
         "name": "Templo Pirâmide",
         "version": "1.1.1-ningzh.1",
         "author": "Cortex",
-        "category": "Jogabilidade",
+        "category": "玩法",
         "summary": "Uma pirâmide Lihzahrd com andares distantes, câmaras e um grande salão para o Golem.",
         "updated": "2026-10-19",
         "blVersion": 2,
@@ -3026,27 +3026,27 @@
         "authors": [
           {
             "name": "Gurgle_Nurgle",
-            "role": "Spritework",
+            "role": "像素美术",
             "avatar": "0.png",
             "color": "#F0F0F0",
             "link": "https://github.com/GurgleNurgle"
           },
           {
             "name": "silent_ptr",
-            "role": "Coding",
+            "role": "代码",
             "avatar": "1.jpeg",
             "color": "#F0F0F0",
             "link": "https://github.com/silentptr"
           },
           {
             "name": "Zandberg",
-            "role": "Coding",
+            "role": "代码",
             "avatar": "2.png",
             "color": "#F0F0F0",
             "link": "https://github.com/Zandberg-x"
           }
         ],
-        "category": "Building",
+        "category": "建筑",
         "summary": "Terrarchitect is a furniture / build mod that adds a wide variety of custom-made, high-quality decorational items and blocks to Terraria! It also aims to make some previously ubobtainable or unplacable vanilla items available.",
         "updated": "2026-10-09",
         "blVersion": 2,
@@ -3070,11 +3070,11 @@
         },
         "links": [
           {
-            "title": "Subreddit",
+            "title": "Reddit 社区",
             "url": "https://www.reddit.com/r/Terrarchitect/"
           },
           {
-            "title": "Forum",
+            "title": "论坛",
             "url": "https://forums.terraria.org/index.php?threads/terrarchitect.95959/"
           },
           {
@@ -3121,24 +3121,24 @@
         "authors": [
           {
             "name": "CeleryMan",
-            "role": "Original mod",
+            "role": "原模组",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2956773024",
             "avatar": "steam.png"
           },
           {
             "name": "Bloa",
-            "role": "Port to Bunny Loader",
+            "role": "Bunny Loader 移植",
             "avatar": "bloa.png"
           }
         ],
-        "category": "Gameplay",
+        "category": "玩法",
         "summary": "Players are tied together by a rope and have to cooperate.",
         "updated": "2026-10-21",
         "blVersion": 2,
         "entry": "main.js",
         "links": [
           {
-            "title": "Original Steam Workshop mod",
+            "title": "Steam 创意工坊原模组",
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2956773024"
           }
         ],
@@ -3185,7 +3185,7 @@
           {
             "name": "Nil256",
             "avatar": "steam.png",
-            "role": "Original Creator",
+            "role": "原作者",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3582340033"
           },
           {
@@ -3193,10 +3193,10 @@
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532",
-            "role": "Port"
+            "role": "移植"
           }
         ],
-        "category": "Interface",
+        "category": "界面",
         "summary": "Adds a small icon to the left of each item tooltip line: damage, speed, defense, tool power, potions, prefixes and more.",
         "updated": "2026-10-11",
         "blVersion": 2,
@@ -3243,7 +3243,7 @@
             "avatar": "castorzeira.png"
           }
         ],
-        "category": "Gameplay",
+        "category": "玩法",
         "summary": "Teste top-down: sem gravidade, 8 direções, golpe na direção do mouse e mundo top-down em ilha com os biomas do Terraria.",
         "description": "VERSÃO BETA: este mod ainda não está completo e pode ter erros, bugs e comportamentos inesperados. Use por sua conta e risco e, de preferência, em mundos de teste (faça backup dos seus saves). O Top-Down Mode transforma o Terraria em um jogo de visão de cima: sem gravidade, com movimento em 8 direções, golpe de espada na direção do mouse, mundos novos gerados como ilha com os biomas do Terraria (rios, lagos, árvores, cactos, pedras e mato), água em movimento com nado, ciclo de dia e noite, profundidade (y-sort) de árvores, móveis e NPCs, e cavernas com minérios acessadas por escada. Novidades ainda estão sendo adicionadas e alguns sistemas podem mudar nas próximas versões.",
         "updated": "2026-10-25",
@@ -3295,19 +3295,19 @@
         "authors": [
           {
             "name": "中学生",
-            "role": "Original mod (tModLoader)",
+            "role": "原 tModLoader 模组",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2973922820",
             "avatar": "steam.png"
           },
           {
             "name": "Potato",
-            "role": "Port to Bunny Loader",
+            "role": "Bunny Loader 移植",
             "avatar": "potato.png",
             "color": "#E8C170",
             "link": "https://github.com/JonataOliveiraa"
           }
         ],
-        "category": "Pets",
+        "category": "宠物",
         "type": "mod",
         "summary": "Adventure with cute partners: 19 Touhou characters as pets, dropped by the bosses. They animate, react to the world and talk to you and to each other.",
         "license": "GPL-3.0",
@@ -3321,11 +3321,11 @@
         "dependencies": [],
         "links": [
           {
-            "title": "Original mod on the Steam Workshop",
+            "title": "Steam 创意工坊原模组",
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2973922820"
           },
           {
-            "title": "Source code (GitHub)",
+            "title": "源代码（GitHub）",
             "url": "https://github.com/MineGame223/TouhouLittleFriend"
           }
         ],
@@ -3370,10 +3370,10 @@
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.com/invite/tl-pro-402880167737032705",
-            "role": "Autor"
+            "role": "作者"
           }
         ],
-        "category": "Utilidade",
+        "category": "实用工具",
         "summary": "Teleporta NPCs de cidade para suas casas.",
         "updated": "2026-09-27",
         "blVersion": 2,
@@ -3424,13 +3424,13 @@
         "authors": [
           {
             "name": "Animatak_",
-            "role": "Creator",
+            "role": "作者",
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532"
           }
         ],
-        "category": "Utility",
+        "category": "实用工具",
         "summary": "In multiplayer, every player's explored map is shared with everyone every minute.",
         "updated": "2026-10-27",
         "blVersion": 2,
@@ -3485,10 +3485,10 @@
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532",
-            "role": "Author"
+            "role": "作者"
           }
         ],
-        "category": "Utility",
+        "category": "实用工具",
         "summary": "Break one ore with your pickaxe and the whole vein comes with it. Add any block with /vein add.",
         "updated": "2026-10-07",
         "blVersion": 2,
@@ -3535,12 +3535,12 @@
         "authors": [
           {
             "name": "Bunny Loader",
-            "role": "Código e arte",
+            "role": "代码与美术",
             "avatar": "bunny-loader.png",
             "color": "#F9E141"
           }
         ],
-        "category": "Cheat",
+        "category": "作弊",
         "summary": "Você não morre",
         "license": "MIT",
         "updated": "2026-10-02",
@@ -3598,19 +3598,19 @@
         "authors": [
           {
             "name": "Flashkirby",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "steam.png",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3455924006"
           },
           {
             "name": "Animatak_",
-            "role": "Port",
+            "role": "移植",
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532"
           }
         ],
-        "category": "Visual",
+        "category": "视觉效果",
         "summary": "Shows the held item on your character: swords at the waist, weapons on the back, bows, books and staves in their own poses, and combat poses after attacking.",
         "updated": "2026-10-12",
         "blVersion": 2,
@@ -3655,20 +3655,20 @@
         "authors": [
           {
             "name": "HilariousWalnut34",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "steam.png",
             "color": "#F0F0F0",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2563851005"
           },
           {
             "name": "GST378",
-            "role": "Bunny Loader Port",
+            "role": "Bunny Loader 移植",
             "avatar": "lemon.webp",
             "color": "#FEFE00",
             "link": "https://youtube.com/@gst_378?si=-18HzRizRpiFJrEP"
           }
         ],
-        "category": "Utility",
+        "category": "实用工具",
         "summary": "When you look at a modded item, block or NPC, WMITF will show you the name of the mod which it came from.",
         "updated": "2026-10-02",
         "blVersion": 2,
@@ -3719,20 +3719,20 @@
         "authors": [
           {
             "name": "BasicallyIAmFox",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "steam.png",
             "color": "#F0F0F0",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2832487441"
           },
           {
             "name": "GST378",
-            "role": "Bunny Loader Port",
+            "role": "Bunny Loader 移植",
             "avatar": "lemon.webp",
             "color": "#FEFE00",
             "link": "https://youtube.com/@gst_378?si=-18HzRizRpiFJrEP"
           }
         ],
-        "category": "QoL",
+        "category": "便利功能",
         "summary": "Allows you to check the item wiki from within the game.",
         "theme": {
           "accent": "F0F0F0",
@@ -3789,24 +3789,24 @@
         "authors": [
           {
             "name": "FuzzyGolf291773",
-            "role": "Original mod and pet animations",
+            "role": "原模组与宠物动画",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3810452158",
             "avatar": "steam.png"
           },
           {
             "name": "MineGame223 and Group For One",
-            "role": "Touhou Little Friend framework and sprite foundations",
+            "role": "Touhou Little Friend 框架与像素图基础",
             "link": "https://github.com/MineGame223/TouhouLittleFriend"
           },
           {
             "name": "Potato",
-            "role": "Port to Bunny Loader and Brazilian Portuguese localization",
+            "role": "Bunny Loader 移植与巴西葡萄牙语本地化",
             "avatar": "potato.png",
             "color": "#E8C170",
             "link": "https://github.com/JonataOliveiraa"
           }
         ],
-        "category": "Pets",
+        "category": "宠物",
         "summary": "Sixteen animated Touhou companions with conversations, seven light pets, crafting recipes and Kasen's oni transformations.",
         "license": "GPL-3.0",
         "updated": "2026-10-04",
@@ -3819,7 +3819,7 @@
         "dependencies": [],
         "links": [
           {
-            "title": "Original Steam Workshop mod",
+            "title": "Steam 创意工坊原模组",
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3810452158"
           },
           {
@@ -3868,7 +3868,7 @@
         "authors": [
           {
             "name": "jopojelly",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "steam.png",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2843258712"
           },
@@ -3877,10 +3877,10 @@
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/mkPMd9shZH",
-            "role": "Port"
+            "role": "移植"
           }
         ],
-        "category": "Utility",
+        "category": "实用工具",
         "summary": "Watch your world being generated: a live map filled column by column, pause, skip or repeat steps, or cancel the generation.",
         "localizedSummaries": {
           "pt-BR": "Veja o seu mundo sendo gerado: um mapa ao vivo preenchido coluna por coluna, pause, pule ou repita etapas, ou cancele a geração.",
@@ -3929,10 +3929,10 @@
         "authors": [
           {
             "name": "VowTz",
-            "role": "Author"
+            "role": "作者"
           }
         ],
-        "category": "Itens",
+        "category": "物品",
         "summary": "Zoom enhancements",
         "license": "MIT",
         "updated": "2026-10-18",
@@ -3983,7 +3983,7 @@
             "name": "lzup333"
           }
         ],
-        "category": "Jogabilidade",
+        "category": "玩法",
         "summary": "抛出鱼钩后数量固定 5 倍，实现多倍鱼钩。",
         "license": "AGPL-3.0",
         "updated": "2026-10-22",

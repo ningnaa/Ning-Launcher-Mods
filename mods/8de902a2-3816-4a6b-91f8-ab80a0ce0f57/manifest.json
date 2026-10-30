@@ -6,7 +6,7 @@
   "authors": [
     {
       "name": "Animatak_",
-      "role": "Author",
+      "role": "作者",
       "avatar": "animatak.png",
       "color": "#841FFF",
       "link": "https://discord.gg/mkPMd9shZH"
@@ -18,7 +18,7 @@
       "url": "https://discord.gg/mkPMd9shZH"
     }
   ],
-  "category": "Utility",
+  "category": "实用工具",
   "summary": "Create teleports with a name and a biome icon, organize them in a list with search, favorites and filters, and travel to them from the map. When you die, a way back that is only yours.",
   "localizedSummaries": {
     "pt-BR": "Crie teleportes com nome e ícone do bioma, organize-os numa lista com busca, favoritos e filtros, e viaje até eles pelo mapa. Ao morrer, um ponto de volta só seu.",

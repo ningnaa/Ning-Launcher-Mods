@@ -9,10 +9,10 @@
       "avatar": "animatak.png",
       "color": "#841FFF",
       "link": "https://discord.gg/lemon-studio-1422278971227115532",
-      "role": "Author"
+      "role": "作者"
     }
   ],
-  "category": "Utility",
+  "category": "实用工具",
   "summary": "Break one ore with your pickaxe and the whole vein comes with it. Add any block with /vein add.",
   "updated": "2026-10-07",
   "blVersion": 2,

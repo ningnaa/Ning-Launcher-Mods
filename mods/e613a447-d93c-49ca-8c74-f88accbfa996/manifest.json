@@ -6,19 +6,19 @@
   "authors": [
     {
       "name": "PvtFudgepants",
-      "role": "Original Creator",
+      "role": "原作者",
       "avatar": "steam.png",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2793782057"
     },
     {
       "name": "Animatak_",
-      "role": "Port",
+      "role": "移植",
       "avatar": "animatak.png",
       "color": "#841FFF",
       "link": "https://discord.gg/lemon-studio-1422278971227115532"
     }
   ],
-  "category": "Visual",
+  "category": "视觉效果",
   "summary": "Damage numbers and tooltips in the color of the weapon's class: melee, ranged, magic, summon, sentry, throwing and modded classes.",
   "updated": "2026-10-12",
   "blVersion": 2,

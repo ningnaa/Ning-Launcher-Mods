@@ -6,10 +6,10 @@
   "authors": [
     {
       "name": "VowTz",
-      "role": "Inspiration"
+      "role": "灵感来源"
     }
   ],
-  "category": "Itens",
+  "category": "物品",
   "summary": "Point at any container (chest, piggy bank, safe, forge, void vault) to see what is inside.",
   "license": "GPL-3.0",
   "updated": "2026-10-18",

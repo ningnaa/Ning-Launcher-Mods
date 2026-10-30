@@ -6,13 +6,13 @@
   "authors": [
     {
       "name": "LevitatingGT",
-      "role": "Original Creator",
+      "role": "原作者",
       "avatar": "steam.png",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3610770947"
     },
     {
       "name": "Animatak_",
-      "role": "Port",
+      "role": "移植",
       "avatar": "animatak.png",
       "color": "#841FFF",
       "link": "https://discord.gg/mkPMd9shZH"
@@ -20,11 +20,11 @@
   ],
   "links": [
     {
-      "title": "Original Mod",
+      "title": "原模组",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3610770947"
     }
   ],
-  "category": "Visual",
+  "category": "视觉效果",
   "summary": "A ragdoll and body physics engine for Terraria: enemies collapse into ragdolls, lose heads and limbs, bleed sticky blood, and humanoids and slimes wobble with physics. Purely cosmetic.",
   "localizedSummaries": {
     "pt-BR": "Um motor de ragdoll e física de corpos para o Terraria: inimigos caem como bonecos de pano, perdem a cabeça e as pernas, sangram sangue que gruda no chão, e humanoides e slimes balançam com física. Só visual.",

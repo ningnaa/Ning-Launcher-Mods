@@ -6,20 +6,20 @@
   "authors": [
     {
       "name": "diniamo",
-      "role": "Original Creator",
+      "role": "原作者",
       "avatar": "steam.png",
       "color": "#F0F0F0",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2992213994"
     },
     {
       "name": "GST378",
-      "role": "Bunny Loader Port",
+      "role": "Bunny Loader 移植",
       "avatar": "lemon.webp",
       "color": "#FEFE00",
       "link": "https://youtube.com/@gst_378?si=-18HzRizRpiFJrEP"
     }
   ],
-  "category": "QoL",
+  "category": "便利功能",
   "summary": "Allows you to fall through platforms instantly while holding your down key instead of stopping for a moment.",
   "updated": "2026-10-01",
   "blVersion": 2,

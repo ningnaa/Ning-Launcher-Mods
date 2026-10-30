@@ -6,13 +6,13 @@
   "authors": [
     {
       "name": "GST378",
-      "role": "author",
+      "role": "作者",
       "avatar": "0.png",
       "color": "#ffffff",
       "link": "https://youtube.com/@gst_378"
     }
   ],
-  "category": "Utilidade",
+  "category": "实用工具",
   "summary": "一个直观的工具界面：难度切换、实体清除、碰撞箱、天气与时间、相机与拍照模式、调试信息。",
   "license": "",
   "updated": "2026-10-15",

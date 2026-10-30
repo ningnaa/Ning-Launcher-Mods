@@ -6,20 +6,20 @@
   "authors": [
     {
       "name": "HilariousWalnut34",
-      "role": "Original Creator",
+      "role": "原作者",
       "avatar": "steam.png",
       "color": "#F0F0F0",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2563851005"
     },
     {
       "name": "GST378",
-      "role": "Bunny Loader Port",
+      "role": "Bunny Loader 移植",
       "avatar": "lemon.webp",
       "color": "#FEFE00",
       "link": "https://youtube.com/@gst_378?si=-18HzRizRpiFJrEP"
     }
   ],
-  "category": "Utility",
+  "category": "实用工具",
   "summary": "When you look at a modded item, block or NPC, WMITF will show you the name of the mod which it came from.",
   "updated": "2026-10-02",
   "blVersion": 2,

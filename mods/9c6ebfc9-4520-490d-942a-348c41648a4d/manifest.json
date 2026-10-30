@@ -6,13 +6,13 @@
   "authors": [
     {
       "name": "GST378",
-      "role": "Original Creator",
+      "role": "原作者",
       "avatar": "lemon.webp",
       "color": "#FEFE00",
       "link": "https://youtube.com/@gst_378?si=-18HzRizRpiFJrEP"
     }
   ],
-  "category": "Utilities",
+  "category": "实用工具",
   "summary": "Replaces the traditional Goblin Tinkerer interface with a new system that allows you to browse and select item prefixes directly.",
   "updated": "2026-10-04",
   "blVersion": 2,

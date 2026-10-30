@@ -7,7 +7,7 @@
     {
       "name": "Nil256",
       "avatar": "steam.png",
-      "role": "Original Creator",
+      "role": "原作者",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3582340033"
     },
     {
@@ -15,10 +15,10 @@
       "avatar": "animatak.png",
       "color": "#841FFF",
       "link": "https://discord.gg/lemon-studio-1422278971227115532",
-      "role": "Port"
+      "role": "移植"
     }
   ],
-  "category": "Interface",
+  "category": "界面",
   "summary": "Adds a small icon to the left of each item tooltip line: damage, speed, defense, tool power, potions, prefixes and more.",
   "updated": "2026-10-11",
   "blVersion": 2,

@@ -6,13 +6,13 @@
   "authors": [
     {
       "name": "Consolaria Team",
-      "role": "Original Mod",
+      "role": "原模组",
       "avatar": "consolaria_team.png",
       "color": "#FFFFFF",
       "link": "https://github.com/has2r/Consolaria-2.0"
     }
   ],
-  "category": "Content",
+  "category": "内容扩展",
   "summary": "Tons of exclusive content from the legacy and old-gen versions, reworked and rebalanced for modern Terraria.",
   "license": "MIT",
   "updated": "2026-10-01",
@@ -25,15 +25,15 @@
   "dependencies": [],
   "links": [
     {
-      "title": "Official Wiki",
+      "title": "官方 Wiki",
       "url": "https://terrariamods.wiki.gg/wiki/Consolaria"
     },
     {
-      "title": "Discord Server",
+      "title": "Discord 社区",
       "url": "https://discord.gg/DTABXbd"
     },
     {
-      "title": "Github Page",
+      "title": "GitHub 页面",
       "url": "https://github.com/has2r/Consolaria-2.0"
     }
   ],

@@ -6,7 +6,7 @@
   "authors": [
     {
       "name": "jopojelly",
-      "role": "Original Creator",
+      "role": "原作者",
       "avatar": "steam.png",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2843258712"
     },
@@ -15,10 +15,10 @@
       "avatar": "animatak.png",
       "color": "#841FFF",
       "link": "https://discord.gg/mkPMd9shZH",
-      "role": "Port"
+      "role": "移植"
     }
   ],
-  "category": "Utility",
+  "category": "实用工具",
   "summary": "Watch your world being generated: a live map filled column by column, pause, skip or repeat steps, or cancel the generation.",
   "localizedSummaries": {
     "pt-BR": "Veja o seu mundo sendo gerado: um mapa ao vivo preenchido coluna por coluna, pause, pule ou repita etapas, ou cancele a geração.",

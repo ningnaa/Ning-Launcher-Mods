@@ -6,7 +6,7 @@
   "authors": [
     {
       "name": "JaquavionBennet",
-      "role": "Original Creator",
+      "role": "原作者",
       "avatar": "steam.png",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3760868784"
     },
@@ -15,10 +15,10 @@
       "avatar": "animatak.png",
       "color": "#841FFF",
       "link": "https://discord.gg/lemon-studio-1422278971227115532",
-      "role": "Port"
+      "role": "移植"
     }
   ],
-  "category": "Decoration",
+  "category": "装饰",
   "summary": "Hologram Projectors that show any unlocked Bestiary creature as an animated, configurable hologram.",
   "updated": "2026-10-13",
   "blVersion": 2,

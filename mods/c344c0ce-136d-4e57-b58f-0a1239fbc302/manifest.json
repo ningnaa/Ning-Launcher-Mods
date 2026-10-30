@@ -6,24 +6,24 @@
   "authors": [
     {
       "name": "CeleryMan",
-      "role": "Original mod",
+      "role": "原模组",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2956773024",
       "avatar": "steam.png"
     },
     {
       "name": "Bloa",
-      "role": "Port to Bunny Loader",
+      "role": "Bunny Loader 移植",
       "avatar": "bloa.png"
     }
   ],
-  "category": "Gameplay",
+  "category": "玩法",
   "summary": "Players are tied together by a rope and have to cooperate.",
   "updated": "2026-10-21",
   "blVersion": 2,
   "entry": "main.js",
   "links": [
     {
-      "title": "Original Steam Workshop mod",
+      "title": "Steam 创意工坊原模组",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2956773024"
     }
   ],

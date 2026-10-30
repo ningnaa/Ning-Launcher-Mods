@@ -2,23 +2,23 @@
   "uid": "f16fc5fd-5b01-42dc-bdbc-669bfda6c090",
   "id": "weaponoutlite",
   "name": "Weapon Out Lite",
-  "version": "1.1.1",
+  "version": "1.1.1-ningzh.1",
   "authors": [
     {
       "name": "Flashkirby",
-      "role": "原作者",
+      "role": "Original Creator",
       "avatar": "steam.png",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3455924006"
     },
     {
       "name": "Animatak_",
-      "role": "移植",
+      "role": "Port",
       "avatar": "animatak.png",
       "color": "#841FFF",
       "link": "https://discord.gg/lemon-studio-1422278971227115532"
     }
   ],
-  "category": "视觉效果",
+  "category": "Visual",
   "summary": "Shows the held item on your character: swords at the waist, weapons on the back, bows, books and staves in their own poses, and combat poses after attacking.",
   "updated": "2026-10-12",
   "blVersion": 2,
@@ -28,5 +28,10 @@
   },
   "localizedSummaries": {
     "zh-Hans": "在角色身上展示当前手持物品：腰间的剑、背负的武器，以及弓、书和法杖的专属姿势，并加入攻击后的战斗姿势。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.1.1"
   }
 }

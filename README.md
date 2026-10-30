@@ -34,3 +34,9 @@ APK 不需要 GitHub 登录或令牌。这个仓库与上游独立维护，不�
 ## 更新模组
 
 先上传新的 `.bl` 到对应 `mod-<id>-v<version>` Release，再更新索引中的版本、下载地址、字节数及 SHA-256，以及 `mods/<uid>/` 的展示文件。发布顺序应保证索引指向已经可下载的文件。使用上游发布工具时，必须先将目标仓库配置为 `ningnaa/Ning-Launcher-Mods`。
+
+## 国内镜像与包内中文
+
+国内镜像：[nigngng/Ning-Launcher-Mods](https://gitee.com/nigngng/Ning-Launcher-Mods)。启动器优先从 Gitee 下载，失败后回退 GitHub，每个包仍校验 SHA-256。
+
+当前索引已升级为独立中文版本：保留作者已有中文，补齐模组内部缺失语言表，详见 [汉化说明](LOCALIZATION.md) 和 [来源记录](internal-localization-sources.json)。这是基于 Bunny Loader 的非官方分支目录，保留原作者及各包许可证声明。

@@ -2,23 +2,23 @@
   "uid": "e613a447-d93c-49ca-8c74-f88accbfa996",
   "id": "coloreddamagetypes",
   "name": "Colored Damage Types",
-  "version": "1.1.0",
+  "version": "1.1.0-ningzh.1",
   "authors": [
     {
       "name": "PvtFudgepants",
-      "role": "原作者",
+      "role": "Original Creator",
       "avatar": "steam.png",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2793782057"
     },
     {
       "name": "Animatak_",
-      "role": "移植",
+      "role": "Port",
       "avatar": "animatak.png",
       "color": "#841FFF",
       "link": "https://discord.gg/lemon-studio-1422278971227115532"
     }
   ],
-  "category": "视觉效果",
+  "category": "Visual",
   "summary": "Damage numbers and tooltips in the color of the weapon's class: melee, ranged, magic, summon, sentry, throwing and modded classes.",
   "updated": "2026-10-12",
   "blVersion": 2,
@@ -28,5 +28,10 @@
   },
   "localizedSummaries": {
     "zh-Hans": "按近战、远程、魔法、召唤、哨兵、投掷和模组职业，为伤害数字与物品提示着色。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.1.0"
   }
 }

@@ -2,11 +2,11 @@
   "uid": "55e1d4c5-3dc5-4c73-acaa-52a5bf0750f5",
   "id": "worldgenpreviewer",
   "name": "WorldGen Previewer",
-  "version": "1.2.0",
+  "version": "1.2.0-ningzh.1",
   "authors": [
     {
       "name": "jopojelly",
-      "role": "原作者",
+      "role": "Original Creator",
       "avatar": "steam.png",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2843258712"
     },
@@ -15,10 +15,10 @@
       "avatar": "animatak.png",
       "color": "#841FFF",
       "link": "https://discord.gg/mkPMd9shZH",
-      "role": "移植"
+      "role": "Port"
     }
   ],
-  "category": "实用工具",
+  "category": "Utility",
   "summary": "Watch your world being generated: a live map filled column by column, pause, skip or repeat steps, or cancel the generation.",
   "localizedSummaries": {
     "pt-BR": "Veja o seu mundo sendo gerado: um mapa ao vivo preenchido coluna por coluna, pause, pule ou repita etapas, ou cancele a geração.",
@@ -35,5 +35,10 @@
   "entry": "main.js",
   "localizedNames": {
     "zh-Hans": "世界生成预览"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.2.0"
   }
 }

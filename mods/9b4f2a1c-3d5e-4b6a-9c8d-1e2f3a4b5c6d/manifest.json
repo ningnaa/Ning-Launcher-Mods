@@ -3,13 +3,13 @@
   "id": "defaultdash",
   "name": "Default Dash",
   "type": "mod",
-  "version": "1.0.0",
+  "version": "1.0.0-ningzh.1",
   "authors": [
     {
       "name": "VowTz"
     }
   ],
-  "category": "玩法",
+  "category": "Jogabilidade",
   "summary": "Gives the player a basic dash without needing any dashing accessory.",
   "license": "no license",
   "updated": "2026-10-29",
@@ -25,5 +25,10 @@
   },
   "localizedSummaries": {
     "zh-Hans": "无需装备冲刺饰品，也能使用基础冲刺。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.0.0"
   }
 }

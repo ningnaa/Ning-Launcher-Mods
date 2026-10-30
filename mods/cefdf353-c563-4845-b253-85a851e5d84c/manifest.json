@@ -2,19 +2,19 @@
   "uid": "cefdf353-c563-4845-b253-85a851e5d84c",
   "id": "lightsandshadows",
   "name": "Lights And Shadows",
-  "version": "1.0.0",
+  "version": "1.0.0-ningzh.1",
   "authors": [
     {
       "name": "yiyang233",
-      "role": "原模组与视觉资源"
+      "role": "Original mod and visual assets"
     },
     {
       "name": "Potato",
       "avatar": "potato.png",
-      "role": "Bunny Loader 移植"
+      "role": "Bunny Loader port"
     }
   ],
-  "category": "视觉效果",
+  "category": "Visual",
   "summary": "Sunlight, moonlight, shadow rays and bloom over the world, ported from the tModLoader mod and rebuilt to run on phones.",
   "updated": "2026-10-19",
   "blVersion": 2,
@@ -24,5 +24,10 @@
   },
   "localizedSummaries": {
     "zh-Hans": "为世界添加日光、月光、光影射线和外发光，将 tModLoader 模组移植并调整为适合手机运行。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.0.0"
   }
 }

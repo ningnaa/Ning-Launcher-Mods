@@ -2,17 +2,17 @@
   "uid": "35117929-e61f-42bc-97c5-773228761b99",
   "id": "universalmap",
   "name": "Universal Map",
-  "version": "1.1.2",
+  "version": "1.1.2-ningzh.1",
   "authors": [
     {
       "name": "Animatak_",
-      "role": "作者",
+      "role": "Creator",
       "avatar": "animatak.png",
       "color": "#841FFF",
       "link": "https://discord.gg/lemon-studio-1422278971227115532"
     }
   ],
-  "category": "实用工具",
+  "category": "Utility",
   "summary": "In multiplayer, every player's explored map is shared with everyone every minute.",
   "updated": "2026-10-27",
   "blVersion": 2,
@@ -29,5 +29,10 @@
   },
   "localizedNames": {
     "zh-Hans": "通用地图"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.1.2"
   }
 }

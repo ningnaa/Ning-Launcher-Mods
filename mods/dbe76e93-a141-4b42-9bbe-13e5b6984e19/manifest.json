@@ -2,17 +2,17 @@
   "uid": "dbe76e93-a141-4b42-9bbe-13e5b6984e19",
   "id": "bosscursor",
   "name": "Boss Cursor",
-  "version": "1.1.0",
+  "version": "1.1.0-ningzh.1",
   "authors": [
     {
       "name": "Animatak_",
       "avatar": "animatak.png",
       "color": "#841FFF",
       "link": "https://discord.gg/lemon-studio-1422278971227115532",
-      "role": "作者"
+      "role": "Author"
     }
   ],
-  "category": "实用工具",
+  "category": "Utility",
   "updated": "2026-10-04",
   "blVersion": 2,
   "gameVersion": [
@@ -26,5 +26,10 @@
   },
   "localizedSummaries": {
     "zh-Hans": "用箭头指示屏幕外或远处 Boss 的方向，方便战斗时追踪目标。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.1.0"
   }
 }

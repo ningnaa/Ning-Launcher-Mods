@@ -2,17 +2,17 @@
   "uid": "dae471c1-1177-4640-9cb7-68e29de58f6b",
   "id": "consolaria",
   "name": "Consolaria Mobile",
-  "version": "1.0.2",
+  "version": "1.0.2-ningzh.1",
   "authors": [
     {
       "name": "Consolaria Team",
-      "role": "原模组",
+      "role": "Original Mod",
       "avatar": "consolaria_team.png",
       "color": "#FFFFFF",
       "link": "https://github.com/has2r/Consolaria-2.0"
     }
   ],
-  "category": "内容扩展",
+  "category": "Content",
   "summary": "Tons of exclusive content from the legacy and old-gen versions, reworked and rebalanced for modern Terraria.",
   "license": "MIT",
   "updated": "2026-10-01",
@@ -25,15 +25,15 @@
   "dependencies": [],
   "links": [
     {
-      "title": "官方 Wiki",
+      "title": "Official Wiki",
       "url": "https://terrariamods.wiki.gg/wiki/Consolaria"
     },
     {
-      "title": "Discord 社区",
+      "title": "Discord Server",
       "url": "https://discord.gg/DTABXbd"
     },
     {
-      "title": "GitHub 页面",
+      "title": "Github Page",
       "url": "https://github.com/has2r/Consolaria-2.0"
     }
   ],
@@ -54,5 +54,10 @@
   },
   "localizedSummaries": {
     "zh-Hans": "让旧版移动端和主机版的独占内容回归，并针对现代泰拉瑞亚重新设计和平衡。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.0.2"
   }
 }

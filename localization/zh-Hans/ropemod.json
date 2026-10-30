@@ -1,0 +1,19 @@
+{
+  "Configs.RopeConfig.ropeLengthConfig.Label": "绳索长度",
+  "Configs.RopeConfig.resistanceConfig.Label": "拉力衰减",
+  "Configs.RopeConfig.resistanceConfig.Tooltip": "根据距离减弱拉力",
+  "Configs.RopeConfig.baseResistanceConfig.Label": "弹性",
+  "Configs.RopeConfig.baseResistanceConfig.Tooltip": "增强拉力",
+  "Configs.RopeConfig.ropeStyleConfig.Label": "绳索外观",
+  "Configs.RopeConfig.ropeStyleConfig.Tooltip": "用于绘制绳索的贴图",
+  "Configs.RopeConfig.deathHandlingConfig.Label": "死亡处理方式",
+  "Configs.RopeConfig.ropeStyleConfig.rope": "绳索",
+  "Configs.RopeConfig.ropeStyleConfig.vine": "藤蔓",
+  "Configs.RopeConfig.ropeStyleConfig.silk": "丝绳",
+  "Configs.RopeConfig.ropeStyleConfig.web": "蛛丝绳",
+  "Configs.RopeConfig.ropeStyleConfig.chain": "锁链",
+  "Configs.RopeConfig.ropeStyleConfig.chaotix": "卡奥蒂克斯",
+  "Configs.RopeConfig.ropeStyleConfig.none": "不显示",
+  "Configs.RopeConfig.deathHandlingConfig.AllPlayersDie": "所有玩家一起死亡",
+  "Configs.RopeConfig.deathHandlingConfig.RespawnsAtRespawnPoint": "在重生点复活"
+}

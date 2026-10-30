@@ -2,14 +2,14 @@
   "uid": "8539e254-45e2-4519-8381-e38c7806f19a",
   "id": "sharedinventory",
   "name": "Shared Inventory",
-  "version": "0.2.0",
+  "version": "0.2.0-ningzh.1",
   "authors": [
     {
       "name": "Potato",
       "avatar": "potato.png"
     }
   ],
-  "category": "玩法",
+  "category": "Jogabilidade",
   "summary": "On multiplayer, the host's inventory, armor, pets and life/mana are shared with everyone.",
   "license": "MIT",
   "updated": "2026-10-07",
@@ -20,5 +20,10 @@
   },
   "localizedSummaries": {
     "zh-Hans": "多人游戏中，所有玩家共享房主的背包、装备、宠物、生命值和魔力值。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "0.2.0"
   }
 }

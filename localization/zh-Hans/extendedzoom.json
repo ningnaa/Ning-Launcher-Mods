@@ -1,0 +1,6 @@
+{
+  "Configs.ZoomConfig.FartherZoom.Label": "扩大缩放范围",
+  "Configs.ZoomConfig.SmoothZoom.Label": "平滑缩放",
+  "Configs.ZoomConfig.NoPinchOpenMap.Label": "双指缩放时不打开地图",
+  "Configs.ZoomConfig.SmoothMapZoom.Label": "地图平滑缩放"
+}

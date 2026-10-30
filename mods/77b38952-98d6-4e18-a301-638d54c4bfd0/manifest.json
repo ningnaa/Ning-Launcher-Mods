@@ -2,17 +2,17 @@
   "uid": "77b38952-98d6-4e18-a301-638d54c4bfd0",
   "id": "townnpchome",
   "name": "TownNPC Home",
-  "version": "1.0.0",
+  "version": "1.0.0-ningzh.1",
   "authors": [
     {
       "name": "Animatak_",
       "avatar": "animatak.png",
       "color": "#841FFF",
       "link": "https://discord.com/invite/tl-pro-402880167737032705",
-      "role": "作者"
+      "role": "Autor"
     }
   ],
-  "category": "实用工具",
+  "category": "Utilidade",
   "summary": "Teleporta NPCs de cidade para suas casas.",
   "updated": "2026-09-27",
   "blVersion": 2,
@@ -27,5 +27,10 @@
   },
   "localizedSummaries": {
     "zh-Hans": "将城镇 NPC 传送回各自的住所。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.0.0"
   }
 }

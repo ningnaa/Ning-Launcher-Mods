@@ -2,25 +2,25 @@
   "uid": "ae7c31e7-a0d5-4064-995d-acedf7fd5afc",
   "id": "pingmod",
   "name": "Player Ping UI",
-  "version": "1.0.5",
+  "version": "1.0.5-ningzh.1",
   "authors": [
     {
       "name": "MooMoo",
-      "role": "原作者",
+      "role": "Original Creator",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3315564370",
       "avatar": "steam.png"
     },
     {
       "name": "crumb",
-      "role": "延迟图标像素图"
+      "role": "Ping icon sprites"
     },
     {
       "name": "otterly",
-      "role": "模组图标边框"
+      "role": "Mod icon border"
     },
     {
       "name": "Animatak_",
-      "role": "移植",
+      "role": "Port",
       "avatar": "animatak.png",
       "color": "#841FFF",
       "link": "https://discord.gg/mkPMd9shZH"
@@ -28,11 +28,11 @@
   ],
   "links": [
     {
-      "title": "原模组",
+      "title": "Original Mod",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3315564370"
     }
   ],
-  "category": "实用工具",
+  "category": "Utility",
   "summary": "See your ping in multiplayer, pick an icon style that everyone sees, and open a panel with the ping of every connected player.",
   "localizedSummaries": {
     "pt-BR": "Veja seu ping no multijogador, escolha um estilo de ícone que todos veem e abra um painel com o ping de cada jogador conectado.",
@@ -49,5 +49,10 @@
   "entry": "main.js",
   "localizedNames": {
     "zh-Hans": "玩家延迟面板"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.0.5"
   }
 }

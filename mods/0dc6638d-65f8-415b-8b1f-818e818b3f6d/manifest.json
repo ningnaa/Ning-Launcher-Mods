@@ -2,17 +2,17 @@
   "uid": "0dc6638d-65f8-415b-8b1f-818e818b3f6d",
   "id": "resized-frames",
   "name": "Resized Frames",
-  "version": "1.0.0",
+  "version": "1.0.0-ningzh.1",
   "authors": [
     {
       "name": "GST378",
-      "role": "原作者",
+      "role": "Original Creator",
       "avatar": "lemon.webp",
       "color": "#FEFE00",
       "link": "https://youtube.com/@gst_378?si=-18HzRizRpiFJrEP"
     }
   ],
-  "category": "视觉效果",
+  "category": "Visual",
   "summary": "Items placed in frames will be drawn at their actual size",
   "updated": "2026-10-04",
   "blVersion": 2,
@@ -27,5 +27,10 @@
   },
   "localizedSummaries": {
     "zh-Hans": "让物品框中的物品按实际尺寸显示。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.0.0"
   }
 }

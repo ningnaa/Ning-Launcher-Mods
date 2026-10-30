@@ -5,11 +5,11 @@
       "uid": "31b7ee57-73c8-4a66-ab91-c44440430ee7",
       "id": "abusegoblin",
       "name": "Abuse Goblin",
-      "version": "1.0.0",
+      "version": "1.0.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-abusegoblin-v1.0.0/abusegoblin-1.0.0.bl",
-        "sha256": "833c103fb442129a6cc4b7550578e9530a2e1558a95f22803ad6a989262a513b",
-        "size": 83825
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-abusegoblin-v1.0.0-ningzh.1/abusegoblin-1.0.0-ningzh.1.bl",
+        "sha256": "85d810bc4a9e3ac9f2efee157826799844b9202417174987a67d6500c8548f65",
+        "size": 84672
       },
       "files": [
         "manifest.json",
@@ -25,24 +25,24 @@
         "uid": "31b7ee57-73c8-4a66-ab91-c44440430ee7",
         "id": "abusegoblin",
         "name": "Abuse Goblin",
-        "version": "1.0.0",
+        "version": "1.0.0-ningzh.1",
         "authors": [
           {
             "name": "Animatak_",
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532",
-            "role": "移植"
+            "role": "Port"
           },
           {
             "name": "al",
-            "role": "原作者",
+            "role": "Original Creator",
             "avatar": "steam.png",
             "color": "#F0F0F0",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3796173238"
           }
         ],
-        "category": "玩法",
+        "category": "Gameplay",
         "summary": "Hit the Goblin Tinkerer with any weapon to lower his reforge prices.",
         "updated": "2026-10-08",
         "blVersion": 2,
@@ -52,6 +52,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "用任意武器攻击哥布林工匠，降低他的重铸价格。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.0"
         }
       }
     },
@@ -59,11 +64,11 @@
       "uid": "0c2e1d93-1149-4942-adb2-860ad8a9b965",
       "id": "atmospheric-torches",
       "name": "Atmospheric Torches",
-      "version": "1.0.0",
+      "version": "1.0.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-atmospheric-torches-v1.0.0/atmospheric-torches-1.0.0.bl",
-        "sha256": "81a591850eab95727ba967cc3c1de18b71c7ddb61b265923e7026c4ecf9dd081",
-        "size": 582742
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-atmospheric-torches-v1.0.0-ningzh.1/atmospheric-torches-1.0.0-ningzh.1.bl",
+        "sha256": "b6c9c07163821a01f6e618c0f028a4b5bc493944b1b1846bc0b70aad23ea0121",
+        "size": 582939
       },
       "files": [
         "manifest.json",
@@ -78,17 +83,17 @@
         "id": "atmospheric-torches",
         "name": "Atmospheric Torches",
         "summary": "This mod simply adds an orange tint to normal torches and tiki torches, with their placed tiles and biome torches getting a slight flicker for atmosphere.",
-        "version": "1.0.0",
+        "version": "1.0.0-ningzh.1",
         "authors": [
           {
             "name": "Orion",
-            "role": "原作者",
+            "role": "Original Creator",
             "avatar": "steam.png",
             "color": "#F0F0F0",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2817496179"
           }
         ],
-        "category": "视觉效果",
+        "category": "Visual",
         "updated": "2026-10-15",
         "blVersion": 2,
         "gameVersion": [
@@ -102,6 +107,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "为普通火把和提基火把增添橙色光晕，并让放置后的火把及生物群系火把轻微闪烁。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.0"
         }
       }
     },
@@ -109,11 +119,11 @@
       "uid": "6af3b741-65ee-4f5f-99b0-77018638d9fd",
       "id": "disablecorruptionspread",
       "name": "Begone, Evil! (Disable Evil Biome Spread)",
-      "version": "1.0",
+      "version": "1.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-disablecorruptionspread-v1.0/disablecorruptionspread-1.0.bl",
-        "sha256": "5b323972951d9d7b19666f5558f5e88342d3aac043bfbbec0b53615ea90e86e1",
-        "size": 33105
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-disablecorruptionspread-v1.0-ningzh.1/disablecorruptionspread-1.0-ningzh.1.bl",
+        "sha256": "67f02672f7f7a345b58634577931efca4acdcf2ffdc04dcf136ffe1ce5fd0cd5",
+        "size": 35320
       },
       "files": [
         "manifest.json",
@@ -129,30 +139,30 @@
         "uid": "6af3b741-65ee-4f5f-99b0-77018638d9fd",
         "id": "disablecorruptionspread",
         "name": "Begone, Evil! (Disable Evil Biome Spread)",
-        "version": "1.0",
+        "version": "1.0-ningzh.1",
         "authors": [
           {
             "name": "Mantovani",
-            "role": "Bunny Loader 移植、修复与优化",
+            "role": "Bunny Loader port, fixes & optimization",
             "avatar": "mantovani.webp",
             "color": "#FFD700"
           },
           {
             "name": "jopojelly",
-            "role": "原模组作者",
+            "role": "Original mod creator",
             "avatar": "jopojelly.webp",
             "color": "#FFFFFF",
             "link": "https://forums.terraria.org/index.php?threads/begone-evil-disable-corruption-spread.72285/"
           }
         ],
-        "category": "实用工具",
+        "category": "Utilidade",
         "summary": "Disables natural Corruption, Crimson and Hallow biome spread by default, with a per-world /spread toggle.",
         "updated": "2026-10-04",
         "blVersion": 2,
         "entry": "main.js",
         "links": [
           {
-            "title": "原模组",
+            "title": "Original mod",
             "url": "https://forums.terraria.org/index.php?threads/begone-evil-disable-corruption-spread.72285/"
           }
         ],
@@ -161,6 +171,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "默认阻止腐化、猩红与神圣之地自然蔓延，可使用 /spread 为每个世界单独切换。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0"
         }
       }
     },
@@ -168,11 +183,11 @@
       "uid": "c83a16d7-d5e8-459d-b5fa-d7ab63117102",
       "id": "bestiarydisplays",
       "name": "Bestiary Displays",
-      "version": "1.1.0",
+      "version": "1.1.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-bestiarydisplays-v1.1.0/bestiarydisplays-1.1.0.bl",
-        "sha256": "f0fdf6141a9360a34830c88e323d9d7bbd571cb291f061732c2cd99629d46a30",
-        "size": 165768
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-bestiarydisplays-v1.1.0-ningzh.1/bestiarydisplays-1.1.0-ningzh.1.bl",
+        "sha256": "b4e95cd338e5564b19637cd7f62a436b66cae204c38f42c0a4f7248735557abe",
+        "size": 169350
       },
       "files": [
         "manifest.json",
@@ -188,11 +203,11 @@
         "uid": "c83a16d7-d5e8-459d-b5fa-d7ab63117102",
         "id": "bestiarydisplays",
         "name": "Bestiary Displays",
-        "version": "1.1.0",
+        "version": "1.1.0-ningzh.1",
         "authors": [
           {
             "name": "JaquavionBennet",
-            "role": "原作者",
+            "role": "Original Creator",
             "avatar": "steam.png",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3760868784"
           },
@@ -201,10 +216,10 @@
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532",
-            "role": "移植"
+            "role": "Port"
           }
         ],
-        "category": "装饰",
+        "category": "Decoration",
         "summary": "Hologram Projectors that show any unlocked Bestiary creature as an animated, configurable hologram.",
         "updated": "2026-10-13",
         "blVersion": 2,
@@ -214,6 +229,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "用全息投影仪展示图鉴中已解锁的生物，支持动画和多种显示设置。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.1.0"
         }
       }
     },
@@ -221,11 +241,11 @@
       "uid": "9c6ebfc9-4520-490d-942a-348c41648a4d",
       "id": "better-reforge",
       "name": "Better Reforge",
-      "version": "1.0.1",
+      "version": "1.0.1-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-better-reforge-v1.0.1/better-reforge-1.0.1.bl",
-        "sha256": "b1cee9b0b23e60c5a26abe12ed115733b4bbe16171bfb9c455052803cec927a4",
-        "size": 1553690
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-better-reforge-v1.0.1-ningzh.1/better-reforge-1.0.1-ningzh.1.bl",
+        "sha256": "4e2577288eefa7b5545dafabcfeb547359a2ba1574a41c25be546062c42a03c3",
+        "size": 1553908
       },
       "files": [
         "manifest.json",
@@ -239,17 +259,17 @@
         "uid": "9c6ebfc9-4520-490d-942a-348c41648a4d",
         "id": "better-reforge",
         "name": "Better Reforge",
-        "version": "1.0.1",
+        "version": "1.0.1-ningzh.1",
         "authors": [
           {
             "name": "GST378",
-            "role": "原作者",
+            "role": "Original Creator",
             "avatar": "lemon.webp",
             "color": "#FEFE00",
             "link": "https://youtube.com/@gst_378?si=-18HzRizRpiFJrEP"
           }
         ],
-        "category": "实用工具",
+        "category": "Utilities",
         "summary": "Replaces the traditional Goblin Tinkerer interface with a new system that allows you to browse and select item prefixes directly.",
         "updated": "2026-10-04",
         "blVersion": 2,
@@ -264,6 +284,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "替换哥布林工匠的传统重铸界面，让你直接浏览和选择物品修饰语。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.1"
         }
       }
     },
@@ -271,11 +296,11 @@
       "uid": "5bd9553e-8439-4ddb-a12c-805b34b855e8",
       "id": "bosschecklist",
       "name": "Boss Checklist",
-      "version": "1.1.1",
+      "version": "1.1.1-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-bosschecklist-v1.1.1/bosschecklist-1.1.1.bl",
-        "sha256": "dda08edb7ad62d483b4be41e4349e081f915fe7304c18d04f839af92cfea4aa5",
-        "size": 983944
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-bosschecklist-v1.1.1-ningzh.1/bosschecklist-1.1.1-ningzh.1.bl",
+        "sha256": "2f3db7370b21f72ef79cba6f55e4f58b7e20b760fd819400a4b2878a9605972a",
+        "size": 990536
       },
       "files": [
         "manifest.json",
@@ -292,11 +317,11 @@
         "uid": "5bd9553e-8439-4ddb-a12c-805b34b855e8",
         "id": "bosschecklist",
         "name": "Boss Checklist",
-        "version": "1.1.1",
+        "version": "1.1.1-ningzh.1",
         "authors": [
           {
             "name": "jopojelly",
-            "role": "原作者",
+            "role": "Original Creator",
             "avatar": "steam.png",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2669644269"
           },
@@ -305,16 +330,16 @@
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532",
-            "role": "移植"
+            "role": "Port"
           }
         ],
         "links": [
           {
-            "title": "原模组",
+            "title": "Original Mod",
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2669644269"
           }
         ],
-        "category": "界面",
+        "category": "Interface",
         "summary": "A Boss Log book with every boss, mini-boss and event: progress checklist, spawn items and recipes, loot and collectibles, fight records, despawn messages and a boss radar.",
         "updated": "2026-10-27",
         "blVersion": 2,
@@ -331,6 +356,11 @@
         },
         "localizedNames": {
           "zh-Hans": "Boss 清单"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.1.1"
         }
       }
     },
@@ -338,11 +368,11 @@
       "uid": "dbe76e93-a141-4b42-9bbe-13e5b6984e19",
       "id": "bosscursor",
       "name": "Boss Cursor",
-      "version": "1.1.0",
+      "version": "1.1.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-bosscursor-v1.1.0/bosscursor-1.1.0.bl",
-        "sha256": "05f567352afcf759cd783dc061675d62e7cb161225144338b4b91a122f2e1f77",
-        "size": 107178
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-bosscursor-v1.1.0-ningzh.1/bosscursor-1.1.0-ningzh.1.bl",
+        "sha256": "884446562dd4f9be247dddb03e98e76593c0f09ee0bf9086ce39e61e74dddf40",
+        "size": 107862
       },
       "files": [
         "manifest.json",
@@ -358,17 +388,17 @@
         "uid": "dbe76e93-a141-4b42-9bbe-13e5b6984e19",
         "id": "bosscursor",
         "name": "Boss Cursor",
-        "version": "1.1.0",
+        "version": "1.1.0-ningzh.1",
         "authors": [
           {
             "name": "Animatak_",
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532",
-            "role": "作者"
+            "role": "Author"
           }
         ],
-        "category": "实用工具",
+        "category": "Utility",
         "updated": "2026-10-04",
         "blVersion": 2,
         "gameVersion": [
@@ -382,6 +412,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "用箭头指示屏幕外或远处 Boss 的方向，方便战斗时追踪目标。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.1.0"
         }
       }
     },
@@ -389,11 +424,11 @@
       "uid": "e2f97cd2-138a-5e31-bbab-f276bd5a9cfb",
       "id": "boss-colored-relics",
       "name": "Boss-Colored Relics",
-      "version": "1.0",
+      "version": "1.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-boss-colored-relics-v1.0/boss-colored-relics-1.0.bl",
-        "sha256": "26ab5ee74aac134955fbbeee711dd888e6f860a73f8e6b0a85ab3760f74fb642",
-        "size": 186293
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-boss-colored-relics-v1.0-ningzh.1/boss-colored-relics-1.0-ningzh.1.bl",
+        "sha256": "ed608728885e0d6385d151a10e6e7a5427ab5875688d03db525b304e41b77c48",
+        "size": 187885
       },
       "files": [
         "manifest.json",
@@ -404,15 +439,15 @@
         "uid": "e2f97cd2-138a-5e31-bbab-f276bd5a9cfb",
         "id": "boss-colored-relics",
         "name": "Boss-Colored Relics",
-        "version": "1.0",
+        "version": "1.0-ningzh.1",
         "author": "The Wise Willow",
         "description": "Boss-Colored Relics(Remastered Edition)",
         "type": "texture",
-        "category": "材质",
+        "category": "Textures",
         "blVersion": 2,
         "links": [
           {
-            "title": "原版泰拉瑞亚资源包",
+            "title": "Original Terraria Resource Pack",
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3661349204"
           }
         ],
@@ -422,6 +457,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "为 Boss 圣物赋予对应的色彩，采用重制版资源。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0"
         }
       }
     },
@@ -429,11 +469,11 @@
       "uid": "bcb72e90-3716-4cd1-b8a4-866a963958e5",
       "id": "bunnysocial",
       "name": "BunnySocial",
-      "version": "1.0.0",
+      "version": "1.0.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-bunnysocial-v1.0.0/bunnysocial-1.0.0.bl",
-        "sha256": "d81318260ccc552d2cc385d198d1751d1100a23fb88bd73c49840acf8aad014b",
-        "size": 1704071
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-bunnysocial-v1.0.0-ningzh.1/bunnysocial-1.0.0-ningzh.1.bl",
+        "sha256": "f4195b5c7e66c4e5af3461581c09ba71ea011dcc332744fc541ac6532820d67a",
+        "size": 1704549
       },
       "files": [
         "manifest.json",
@@ -445,9 +485,9 @@
         "uid": "bcb72e90-3716-4cd1-b8a4-866a963958e5",
         "id": "bunnysocial",
         "name": "BunnySocial",
-        "version": "1.0.0",
+        "version": "1.0.0-ningzh.1",
         "author": "VowTz",
-        "category": "玩法",
+        "category": "Jogabilidade",
         "summary": "Every vanity slot works like an accessory slot.",
         "description": "Items in the vanity (social) slots now apply their effects too, exactly as if they were in the matching equipment slot.",
         "blVersion": 2,
@@ -457,6 +497,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "让每个时装栏也能发挥对应装备栏的效果。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.0"
         }
       },
       "publishedAt": "2026-10-28T02:20:38Z"
@@ -465,11 +510,11 @@
       "uid": "c7257a97-0552-4aa5-bc55-95f102b0e230",
       "id": "chestpeek",
       "name": "ChestPeek",
-      "version": "0.1.0",
+      "version": "0.1.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-chestpeek-v0.1.0/chestpeek-0.1.0.bl",
-        "sha256": "cc01b57109e0806582a907912f7472aad8b2cf2e79a15d7ed0341cc9f29c673b",
-        "size": 636332
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-chestpeek-v0.1.0-ningzh.1/chestpeek-0.1.0-ningzh.1.bl",
+        "sha256": "f2b320343bd9287dc2ec4be4795ea127293dac7f93b3331faf574693478f4c5e",
+        "size": 636968
       },
       "files": [
         "manifest.json",
@@ -481,14 +526,14 @@
         "uid": "c7257a97-0552-4aa5-bc55-95f102b0e230",
         "id": "chestpeek",
         "name": "ChestPeek",
-        "version": "0.1.0",
+        "version": "0.1.0-ningzh.1",
         "authors": [
           {
             "name": "VowTz",
-            "role": "灵感来源"
+            "role": "Inspiration"
           }
         ],
-        "category": "物品",
+        "category": "Itens",
         "summary": "Point at any container (chest, piggy bank, safe, forge, void vault) to see what is inside.",
         "license": "GPL-3.0",
         "updated": "2026-10-18",
@@ -504,6 +549,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "指向箱子、猪猪存钱罐、保险箱、护卫熔炉或虚空保险库，即可预览其中的物品。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "0.1.0"
         }
       }
     },
@@ -511,11 +561,11 @@
       "uid": "e613a447-d93c-49ca-8c74-f88accbfa996",
       "id": "coloreddamagetypes",
       "name": "Colored Damage Types",
-      "version": "1.1.0",
+      "version": "1.1.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-coloreddamagetypes-v1.1.0/coloreddamagetypes-1.1.0.bl",
-        "sha256": "8a07666790141d4cec4db5ac7fce0e92bd87067574d6406ab1baa9cbe7440c33",
-        "size": 104234
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-coloreddamagetypes-v1.1.0-ningzh.1/coloreddamagetypes-1.1.0-ningzh.1.bl",
+        "sha256": "5337c505a90385f3687a0ddac2f035a30d7aab00156d9d3894bbec4ac96e68c4",
+        "size": 107452
       },
       "files": [
         "manifest.json",
@@ -531,23 +581,23 @@
         "uid": "e613a447-d93c-49ca-8c74-f88accbfa996",
         "id": "coloreddamagetypes",
         "name": "Colored Damage Types",
-        "version": "1.1.0",
+        "version": "1.1.0-ningzh.1",
         "authors": [
           {
             "name": "PvtFudgepants",
-            "role": "原作者",
+            "role": "Original Creator",
             "avatar": "steam.png",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2793782057"
           },
           {
             "name": "Animatak_",
-            "role": "移植",
+            "role": "Port",
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532"
           }
         ],
-        "category": "视觉效果",
+        "category": "Visual",
         "summary": "Damage numbers and tooltips in the color of the weapon's class: melee, ranged, magic, summon, sentry, throwing and modded classes.",
         "updated": "2026-10-12",
         "blVersion": 2,
@@ -557,6 +607,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "按近战、远程、魔法、召唤、哨兵、投掷和模组职业，为伤害数字与物品提示着色。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.1.0"
         }
       }
     },
@@ -564,11 +619,11 @@
       "uid": "dae471c1-1177-4640-9cb7-68e29de58f6b",
       "id": "consolaria",
       "name": "Consolaria Mobile",
-      "version": "1.0.2",
+      "version": "1.0.2-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-consolaria-v1.0.2/consolaria-1.0.2.bl",
-        "sha256": "819223975836014733808a23ef3c8da48b227106fa62c644ffa3fea7428950d2",
-        "size": 27409077
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-consolaria-v1.0.2-ningzh.1/consolaria-1.0.2-ningzh.1.bl",
+        "sha256": "f372fabd38b6e1c64e696cea9a11496e9518cbf5b5e4e6ca93ab847f3da86f1a",
+        "size": 27396753
       },
       "files": [
         "manifest.json",
@@ -595,17 +650,17 @@
         "uid": "dae471c1-1177-4640-9cb7-68e29de58f6b",
         "id": "consolaria",
         "name": "Consolaria Mobile",
-        "version": "1.0.2",
+        "version": "1.0.2-ningzh.1",
         "authors": [
           {
             "name": "Consolaria Team",
-            "role": "原模组",
+            "role": "Original Mod",
             "avatar": "consolaria_team.png",
             "color": "#FFFFFF",
             "link": "https://github.com/has2r/Consolaria-2.0"
           }
         ],
-        "category": "内容扩展",
+        "category": "Content",
         "summary": "Tons of exclusive content from the legacy and old-gen versions, reworked and rebalanced for modern Terraria.",
         "license": "MIT",
         "updated": "2026-10-01",
@@ -618,15 +673,15 @@
         "dependencies": [],
         "links": [
           {
-            "title": "官方 Wiki",
+            "title": "Official Wiki",
             "url": "https://terrariamods.wiki.gg/wiki/Consolaria"
           },
           {
-            "title": "Discord 社区",
+            "title": "Discord Server",
             "url": "https://discord.gg/DTABXbd"
           },
           {
-            "title": "GitHub 页面",
+            "title": "Github Page",
             "url": "https://github.com/has2r/Consolaria-2.0"
           }
         ],
@@ -647,6 +702,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "让旧版移动端和主机版的独占内容回归，并针对现代泰拉瑞亚重新设计和平衡。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.2"
         }
       }
     },
@@ -654,11 +714,11 @@
       "uid": "dc3f4de8-1c59-4d92-a986-3ea0e4b42e15",
       "id": "cooleritemvisualeffect",
       "name": "Cooler Item Visual Effect — Bunny Port",
-      "version": "1.0.9-bunny.9",
+      "version": "1.0.9-bunny.9.ningzh.2",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-cooleritemvisualeffect-v1.0.9-bunny.9/cooleritemvisualeffect-1.0.9-bunny.9.bl",
-        "sha256": "f0f9a9f328f4b7a6b1762a8ba68ea897b1857dcd7ecf2ace5c12035d7c245048",
-        "size": 38679
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-cooleritemvisualeffect-v1.0.9-bunny.9.ningzh.2/cooleritemvisualeffect-1.0.9-bunny.9.ningzh.2.bl",
+        "sha256": "16c7ec1d30ad57d33427ff944fc2fcd07aaf32b4ac66088fe26189362d80d7cc",
+        "size": 40449
       },
       "files": [
         "manifest.json",
@@ -670,19 +730,19 @@
         "uid": "dc3f4de8-1c59-4d92-a986-3ea0e4b42e15",
         "id": "cooleritemvisualeffect",
         "name": "Cooler Item Visual Effect — Bunny Port",
-        "version": "1.0.9-bunny.9",
+        "version": "1.0.9-bunny.9.ningzh.2",
         "authors": [
           {
             "name": "Log Spiral (Original Creator)",
-            "role": "原模组与视觉资源"
+            "role": "Original mod and visual assets"
           },
           {
             "name": "Castorzeira (port)",
             "avatar": "Castorzeira.png",
-            "role": "Bunny Loader 移植"
+            "role": "Bunny Loader port"
           }
         ],
-        "category": "视觉效果",
+        "category": "Visual",
         "summary": "Efeito Slash Maneiro",
         "description": "efeito slash totalmente exagerado e bonito",
         "updated": "2026-10-20",
@@ -693,6 +753,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "夸张而华丽的挥砍特效，Bunny Loader 移植版。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 2,
+          "baseVersion": "1.0.9-bunny.9"
         }
       },
       "publishedAt": "2026-10-29T10:39:39Z"
@@ -701,11 +766,11 @@
       "uid": "a4f0d04b-f2f0-499b-b4b8-6d89e4bcbd6a",
       "id": "coyote-frames",
       "name": "Coyote Frames",
-      "version": "1.0.0",
+      "version": "1.0.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-coyote-frames-v1.0.0/coyote-frames-1.0.0.bl",
-        "sha256": "1d2266231ef0dba0d0dbf1e432c8b3880048efaca1e3f91525eb9897189f6015",
-        "size": 345885
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-coyote-frames-v1.0.0-ningzh.1/coyote-frames-1.0.0-ningzh.1.bl",
+        "sha256": "a962cc5b15a35ede69bb72144295269249a233838f2b3fa6399b5a699590fbfa",
+        "size": 346568
       },
       "files": [
         "manifest.json",
@@ -721,18 +786,18 @@
         "id": "coyote-frames",
         "name": "Coyote Frames",
         "summary": "Mod that allows player to use Coyote frames that are presented in many other games.",
-        "version": "1.0.0",
+        "version": "1.0.0-ningzh.1",
         "license": "MIT",
         "authors": [
           {
             "name": "Gorffy, Ink of the Eternity, Litos the Litium",
-            "role": "原作者",
+            "role": "Original Creator",
             "avatar": "steam.png",
             "color": "#FFFFFF",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3331547573"
           }
         ],
-        "category": "玩法",
+        "category": "Gameplay",
         "updated": "2026-10-22",
         "blVersion": 2,
         "gameVersion": [
@@ -746,6 +811,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "加入其他游戏中常见的离地宽限帧，让玩家离开平台边缘后仍有短暂的起跳机会。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.0"
         }
       }
     },
@@ -753,11 +823,11 @@
       "uid": "62f7b9da-e712-5f22-b943-dbf5474d5b4c",
       "id": "darkfantasyhealthmana",
       "name": "Dark Fantasy Health/Mana",
-      "version": "1.1.0",
+      "version": "1.1.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-darkfantasyhealthmana-v1.1.0/darkfantasyhealthmana-1.1.0.bl",
-        "sha256": "12becbea1fe3082f4cff51a5efe5233065db517dbcc3ce0d525249fae8927a16",
-        "size": 17036
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-darkfantasyhealthmana-v1.1.0-ningzh.1/darkfantasyhealthmana-1.1.0-ningzh.1.bl",
+        "sha256": "b1be996e9d863aae1ee585391add9980ae32e71907f0569aadf9ae1b6bcbcd61",
+        "size": 17438
       },
       "files": [
         "manifest.json",
@@ -768,17 +838,22 @@
         "uid": "62f7b9da-e712-5f22-b943-dbf5474d5b4c",
         "id": "darkfantasyhealthmana",
         "name": "Dark Fantasy Health/Mana",
-        "version": "1.1.0",
+        "version": "1.1.0-ningzh.1",
         "author": "Santartica",
         "description": "Terraria Ovehaul for Health and Mana",
         "type": "texture",
-        "category": "材质",
+        "category": "Textures",
         "blVersion": 2,
         "localizedNames": {
           "zh-Hans": "暗黑奇幻生命与魔力界面"
         },
         "localizedSummaries": {
           "zh-Hans": "为生命值和魔力界面换上 Terraria Overhaul 风格的材质。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.1.0"
         }
       },
       "publishedAt": "2026-10-28T02:19:59Z"
@@ -787,11 +862,11 @@
       "uid": "9b4f2a1c-3d5e-4b6a-9c8d-1e2f3a4b5c6d",
       "id": "defaultdash",
       "name": "Default Dash",
-      "version": "1.0.0",
+      "version": "1.0.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-defaultdash-v1.0.0/defaultdash-1.0.0.bl",
-        "sha256": "9bf10fc73fc74578a4b64641fd7956709ecb34d962471a315fcc5a56bd140256",
-        "size": 87359
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-defaultdash-v1.0.0-ningzh.1/defaultdash-1.0.0-ningzh.1.bl",
+        "sha256": "c5cf0fb83e0f7141705fb06b25d1ae1eedbe703229b03a1ffcab42f16e39bd3f",
+        "size": 87990
       },
       "files": [
         "manifest.json",
@@ -803,13 +878,13 @@
         "id": "defaultdash",
         "name": "Default Dash",
         "type": "mod",
-        "version": "1.0.0",
+        "version": "1.0.0-ningzh.1",
         "authors": [
           {
             "name": "VowTz"
           }
         ],
-        "category": "玩法",
+        "category": "Jogabilidade",
         "summary": "Gives the player a basic dash without needing any dashing accessory.",
         "license": "no license",
         "updated": "2026-10-29",
@@ -825,6 +900,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "无需装备冲刺饰品，也能使用基础冲刺。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.0"
         }
       },
       "publishedAt": "2026-10-29T10:39:17Z"
@@ -833,11 +913,11 @@
       "uid": "22b95101-7032-49ab-92a8-468f3030aa41",
       "id": "devtools",
       "name": "Dev Tools",
-      "version": "1.0.1",
+      "version": "1.0.1-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-devtools-v1.0.1/devtools-1.0.1.bl",
-        "sha256": "a42b55558ad2ceae7a6dba13c62429464b2b179d316d192cffcded3bb76c01ad",
-        "size": 226776
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-devtools-v1.0.1-ningzh.1/devtools-1.0.1-ningzh.1.bl",
+        "sha256": "3fe19967bfcb91035ef4d8752990a4a5975e92f33ef2e0cdece7284205f0d45d",
+        "size": 225754
       },
       "files": [
         "manifest.json",
@@ -851,17 +931,17 @@
         "uid": "22b95101-7032-49ab-92a8-468f3030aa41",
         "id": "devtools",
         "name": "Dev Tools",
-        "version": "1.0.1",
+        "version": "1.0.1-ningzh.1",
         "authors": [
           {
             "name": "GST378",
-            "role": "作者",
+            "role": "author",
             "avatar": "0.png",
             "color": "#ffffff",
             "link": "https://youtube.com/@gst_378"
           }
         ],
-        "category": "实用工具",
+        "category": "Utilidade",
         "summary": "一个直观的工具界面：难度切换、实体清除、碰撞箱、天气与时间、相机与拍照模式、调试信息。",
         "license": "",
         "updated": "2026-10-15",
@@ -877,6 +957,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "一个直观的工具界面：难度切换、实体清除、碰撞箱、天气与时间、相机与拍照模式、调试信息。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.1"
         }
       }
     },
@@ -884,11 +969,11 @@
       "uid": "cece9409-844d-476a-8953-1a59de78db92",
       "id": "directionalswings",
       "name": "Directional Swings",
-      "version": "1.1.1",
+      "version": "1.1.1-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-directionalswings-v1.1.1/directionalswings-1.1.1.bl",
-        "sha256": "c38525616daab42fe75799ec0d9428da7a5fb25e87d5a8570fc01b4e3569e87a",
-        "size": 1389150
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-directionalswings-v1.1.1-ningzh.1/directionalswings-1.1.1-ningzh.1.bl",
+        "sha256": "a750f2b11a824d3d9493d69fb3fef2d4556d0324b8589962c41a6883fe304b94",
+        "size": 1390351
       },
       "files": [
         "manifest.json",
@@ -900,14 +985,14 @@
         "uid": "cece9409-844d-476a-8953-1a59de78db92",
         "id": "directionalswings",
         "name": "Directional Swings",
-        "version": "1.1.1",
+        "version": "1.1.1-ningzh.1",
         "authors": [
           {
             "name": "VowTz",
-            "role": "作者"
+            "role": "Author"
           }
         ],
-        "category": "玩法",
+        "category": "Jogabilidade",
         "summary": "Melee swords swing toward where you aim, and the hitbox follows the blade.",
         "license": "MIT",
         "updated": "2026-10-25",
@@ -923,6 +1008,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "近战剑朝瞄准方向挥动，攻击判定跟随剑刃。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.1.1"
         }
       },
       "publishedAt": "2026-10-26T10:27:00Z"
@@ -931,11 +1021,11 @@
       "uid": "95728a1c-1fb7-4ed7-af5b-d12bdec38e46",
       "id": "dobrodedano",
       "name": "Dobro de Dano",
-      "version": "1.0.0",
+      "version": "1.0.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-dobrodedano-v1.0.0/dobrodedano-1.0.0.bl",
-        "sha256": "1ce2d058efe8ca4b021baa5f5abc6f895d47c18d425eb764822024b05ef7b47c",
-        "size": 15888
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-dobrodedano-v1.0.0-ningzh.1/dobrodedano-1.0.0-ningzh.1.bl",
+        "sha256": "9dfb0469e6aefc3e9aba22da3891bc276374c606dea20f6e947629b12eb3d16f",
+        "size": 16775
       },
       "files": [
         "manifest.json",
@@ -952,16 +1042,16 @@
         "uid": "95728a1c-1fb7-4ed7-af5b-d12bdec38e46",
         "id": "dobrodedano",
         "name": "Dobro de Dano",
-        "version": "1.0.0",
+        "version": "1.0.0-ningzh.1",
         "authors": [
           {
             "name": "Bunny Loader",
-            "role": "代码与美术",
+            "role": "Código e arte",
             "avatar": "bunny-loader.png",
             "color": "#F9E141"
           }
         ],
-        "category": "武器",
+        "category": "Armas",
         "summary": "Toda arma nasce com o dobro do dano.",
         "license": "MIT",
         "updated": "2026-09-22",
@@ -977,6 +1067,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "让所有武器获得双倍基础伤害。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.0"
         }
       }
     },
@@ -984,11 +1079,11 @@
       "uid": "e2f97cd2-138a-5e31-bbab-f206bd5a9cfb",
       "id": "dont-starve-inspired-npc-portraits",
       "name": "Don't Starve inspired NPC portraits",
-      "version": "1.0.0",
+      "version": "1.0.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-dont-starve-inspired-npc-portraits-v1.0.0/dont-starve-inspired-npc-portraits-1.0.0.bl",
-        "sha256": "8fd0e46ba2c2013e6bf6d2c310fe208eb9a470e857c92e1f43b7a40d14189f39",
-        "size": 1371721
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-dont-starve-inspired-npc-portraits-v1.0.0-ningzh.1/dont-starve-inspired-npc-portraits-1.0.0-ningzh.1.bl",
+        "sha256": "c7329352ad788e7fa3395ddfbd68d1b69cde73ae67a7fbf03016e8705fbd7235",
+        "size": 1372096
       },
       "files": [
         "manifest.json",
@@ -999,19 +1094,19 @@
         "uid": "e2f97cd2-138a-5e31-bbab-f206bd5a9cfb",
         "id": "dont-starve-inspired-npc-portraits",
         "name": "Don't Starve inspired NPC portraits",
-        "version": "1.0.0",
+        "version": "1.0.0-ningzh.1",
         "author": "Fanec",
         "description": "Don't Starve inspired NPC portraits — port Bunny Loader.",
         "type": "texture",
-        "category": "材质",
+        "category": "Textures",
         "blVersion": 2,
         "links": [
           {
-            "title": "原版泰拉瑞亚资源包",
+            "title": "Original Terraria Resource Pack",
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3679638344"
           },
           {
-            "title": "Bunny Loader 材质包指南",
+            "title": "Bunny Loader texture pack guide",
             "url": "https://github.com/JonataOliveiraa/Bunny-Loader/blob/main/docs/mods/14-pacotes-de-textura.md"
           }
         ],
@@ -1021,6 +1116,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "饥荒风格的 NPC 肖像资源包，Bunny Loader 移植版。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.0"
         }
       },
       "publishedAt": "2026-10-26T10:26:37Z"
@@ -1029,11 +1129,11 @@
       "uid": "18be738c-3c45-4191-b666-e0801f602b2a",
       "id": "flatseed",
       "name": "Flat Seed",
-      "version": "1.0.0",
+      "version": "1.0.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-flatseed-v1.0.0/flatseed-1.0.0.bl",
-        "sha256": "6d2520422f8a08da58359c89515c1e3050dadbc492bb93c3231a56dafdb8119a",
-        "size": 54685
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-flatseed-v1.0.0-ningzh.1/flatseed-1.0.0-ningzh.1.bl",
+        "sha256": "ab6c17829c22a440b86ce656ac4651e6a9d6154ef9bc5cfe41944a5b5c9f698d",
+        "size": 54212
       },
       "files": [
         "manifest.json",
@@ -1048,11 +1148,11 @@
         "uid": "18be738c-3c45-4191-b666-e0801f602b2a",
         "id": "flatseed",
         "name": "Flat Seed",
-        "version": "1.0.0",
+        "version": "1.0.0-ningzh.1",
         "authors": [
           {
             "name": "Animatak_",
-            "role": "作者",
+            "role": "Author",
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/mkPMd9shZH"
@@ -1064,7 +1164,7 @@
             "url": "https://discord.gg/mkPMd9shZH"
           }
         ],
-        "category": "世界",
+        "category": "World",
         "summary": "A secret seed for a world so flat you can run without fear of tripping into a hole: type \"flat\" when creating a world. Caves, biomes, structures and the floating islands stay as usual.",
         "localizedSummaries": {
           "pt-BR": "Uma seed secreta para um mundo tão plano que dá para correr sem medo de cair num buraco: digite \"plano\" ou \"flat\" ao criar um mundo. Cavernas, biomas, estruturas e as ilhas flutuantes continuam normais.",
@@ -1079,6 +1179,11 @@
         "entry": "main.js",
         "localizedNames": {
           "zh-Hans": "平坦世界种子"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.0"
         }
       }
     },
@@ -1086,11 +1191,11 @@
       "uid": "72922151-b656-35dd-a8f9-a7a272f12b25",
       "id": "fonte-aclonica",
       "name": "Fonte Aclonica",
-      "version": "1.0.0",
+      "version": "1.0.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-fonte-aclonica-v1.0.0/fonte-aclonica-1.0.0.bl",
-        "sha256": "964f94136ee90d76c98bcc8954bf26fd6398b6d0ca6f653417529ff4a383052f",
-        "size": 986580
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-fonte-aclonica-v1.0.0-ningzh.1/fonte-aclonica-1.0.0-ningzh.1.bl",
+        "sha256": "fffb26350175102f3754737cd3e5598b3a998e46c11174361bd39c931a4853f8",
+        "size": 987417
       },
       "files": [
         "manifest.json",
@@ -1107,24 +1212,24 @@
         "uid": "72922151-b656-35dd-a8f9-a7a272f12b25",
         "id": "fonte-aclonica",
         "name": "Fonte Aclonica",
-        "version": "1.0.0",
+        "version": "1.0.0-ningzh.1",
         "author": "Astigmatic",
         "authors": [
           {
             "name": "Astigmatic",
-            "role": "原字体",
+            "role": "Fonte original",
             "link": "https://fonts.google.com/specimen/Aclonica"
           },
           {
             "name": "Potato",
-            "role": "Bunny Loader 移植",
+            "role": "Port para o Bunny Loader",
             "avatar": "potato.png",
             "color": "#E8C170",
             "link": "https://github.com/JonataOliveiraa"
           }
         ],
         "type": "font",
-        "category": "字体",
+        "category": "Fontes",
         "summary": "Letras arredondadas e grossas, no estilo de cartaz de aventura",
         "license": "Apache-2.0",
         "blVersion": 2,
@@ -1134,7 +1239,7 @@
         ],
         "links": [
           {
-            "title": "原字体",
+            "title": "Fonte original",
             "url": "https://fonts.google.com/specimen/Aclonica"
           }
         ],
@@ -1148,6 +1253,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "圆润粗厚的字形，具有冒险海报的风格。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.0"
         }
       }
     },
@@ -1155,11 +1265,11 @@
       "uid": "2c4b5895-88ad-30f5-9c0a-ba1a4e0310c1",
       "id": "fonte-ale-and-wenches",
       "name": "Fonte Ale and Wenches",
-      "version": "1.0.0",
+      "version": "1.0.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-fonte-ale-and-wenches-v1.0.0/fonte-ale-and-wenches-1.0.0.bl",
-        "sha256": "904078cb6ffe792be995986fa1893c1420614616da8e3b06042131b76736525f",
-        "size": 749818
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-fonte-ale-and-wenches-v1.0.0-ningzh.1/fonte-ale-and-wenches-1.0.0-ningzh.1.bl",
+        "sha256": "73397e333be94b8d9d3024b653a541837d53b57afde5d5d6873d3d7dfe793feb",
+        "size": 750710
       },
       "files": [
         "manifest.json",
@@ -1176,24 +1286,24 @@
         "uid": "2c4b5895-88ad-30f5-9c0a-ba1a4e0310c1",
         "id": "fonte-ale-and-wenches",
         "name": "Fonte Ale and Wenches",
-        "version": "1.0.0",
+        "version": "1.0.0-ningzh.1",
         "author": "Nate Piekos (Blambot)",
         "authors": [
           {
             "name": "Nate Piekos (Blambot)",
-            "role": "原字体",
+            "role": "Fonte original",
             "link": "https://blambot.com"
           },
           {
             "name": "Potato",
-            "role": "Bunny Loader 移植",
+            "role": "Port para o Bunny Loader",
             "avatar": "potato.png",
             "color": "#E8C170",
             "link": "https://github.com/JonataOliveiraa"
           }
         ],
         "type": "font",
-        "category": "字体",
+        "category": "Fontes",
         "summary": "Letra de taverna medieval, desenhada à mão",
         "license": "Freeware não comercial (Blambot)",
         "blVersion": 2,
@@ -1203,7 +1313,7 @@
         ],
         "links": [
           {
-            "title": "原字体",
+            "title": "Fonte original",
             "url": "https://blambot.com"
           }
         ],
@@ -1217,6 +1327,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "手绘风格的中世纪酒馆字体。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.0"
         }
       }
     },
@@ -1224,11 +1339,11 @@
       "uid": "19e3900c-83a2-4e9f-9724-1a38f82dcae9",
       "id": "fontecomicneue",
       "name": "Fonte Comic Neue",
-      "version": "1.0.0",
+      "version": "1.0.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-fontecomicneue-v1.0.0/fontecomicneue-1.0.0.bl",
-        "sha256": "57bc9123f5e2c2a4136d5c6a62e79e500e19362603364596c623a351d80746af",
-        "size": 780181
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-fontecomicneue-v1.0.0-ningzh.1/fontecomicneue-1.0.0-ningzh.1.bl",
+        "sha256": "40cb1f49783384d4d89bbd0e08e025eeb954cd79e232bd732d5a4629f7a2ba86",
+        "size": 781090
       },
       "files": [
         "manifest.json",
@@ -1245,18 +1360,18 @@
         "uid": "19e3900c-83a2-4e9f-9724-1a38f82dcae9",
         "id": "fontecomicneue",
         "name": "Fonte Comic Neue",
-        "version": "1.0.0",
+        "version": "1.0.0-ningzh.1",
         "authors": [
           {
             "name": "Bunny Loader",
-            "role": "资源包制作",
+            "role": "Pacote",
             "avatar": "bunny-loader.png",
             "color": "#F9E141"
           },
           "Comic Neue Project Authors"
         ],
         "type": "font",
-        "category": "字体",
+        "category": "Fontes",
         "summary": "Troca as fontes do jogo pela Comic Neue, nítida em qualquer tela",
         "license": "OFL-1.1",
         "updated": "2026-10-18",
@@ -1275,6 +1390,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "将游戏字体替换为 Comic Neue，在不同屏幕上保持清晰。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.0"
         }
       }
     },
@@ -1282,11 +1402,11 @@
       "uid": "ca37f1dd-ed7c-3db5-b46c-4c3c958fc54a",
       "id": "fonte-pescadero",
       "name": "Fonte Pescadero",
-      "version": "1.0.0",
+      "version": "1.0.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-fonte-pescadero-v1.0.0/fonte-pescadero-1.0.0.bl",
-        "sha256": "f33f5335fe6aea5127cdb17778f86e2ffd9513747200496304e045059c0bdf35",
-        "size": 183628
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-fonte-pescadero-v1.0.0-ningzh.1/fonte-pescadero-1.0.0-ningzh.1.bl",
+        "sha256": "458b206e59a884aee6f6dfb60aef1e85955fca46780d7e3db53cec1f6c6cdfd4",
+        "size": 184468
       },
       "files": [
         "manifest.json",
@@ -1303,28 +1423,28 @@
         "uid": "ca37f1dd-ed7c-3db5-b46c-4c3c958fc54a",
         "id": "fonte-pescadero",
         "name": "Fonte Pescadero",
-        "version": "1.0.0",
+        "version": "1.0.0-ningzh.1",
         "author": "Microsoft",
         "authors": [
           {
             "name": "Microsoft",
-            "role": "原字体"
+            "role": "Fonte original"
           },
           {
             "name": "Mirasein",
-            "role": "电脑版 Custom Fonts 资源包",
+            "role": "Resource pack Custom Fonts (PC)",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2439864365"
           },
           {
             "name": "Potato",
-            "role": "Bunny Loader 移植",
+            "role": "Port para o Bunny Loader",
             "avatar": "potato.png",
             "color": "#E8C170",
             "link": "https://github.com/JonataOliveiraa"
           }
         ],
         "type": "font",
-        "category": "字体",
+        "category": "Fontes",
         "summary": "Serifada clássica, do resource pack Custom Fonts do PC",
         "license": "Fonte Pescadero da Microsoft",
         "blVersion": 2,
@@ -1334,7 +1454,7 @@
         ],
         "links": [
           {
-            "title": "Steam 创意工坊原作",
+            "title": "Original no Steam Workshop",
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2439864365"
           }
         ],
@@ -1348,6 +1468,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "来自电脑版 Custom Fonts 资源包的经典衬线字体。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.0"
         }
       }
     },
@@ -1355,11 +1480,11 @@
       "uid": "ad3d1b57-654e-33f3-a5b0-e09ea96484f0",
       "id": "fonte-ringbearer",
       "name": "Fonte Ringbearer",
-      "version": "1.0.0",
+      "version": "1.0.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-fonte-ringbearer-v1.0.0/fonte-ringbearer-1.0.0.bl",
-        "sha256": "d7c7655d4389d97104935d9e4e419aa9e72701b1f94d2da96dd86c42ca77f0c3",
-        "size": 600258
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-fonte-ringbearer-v1.0.0-ningzh.1/fonte-ringbearer-1.0.0-ningzh.1.bl",
+        "sha256": "61cb92758f967f64b24d39c2c2f6b75ec43c2f17adbd24a520301a3ffd8b3d72",
+        "size": 601188
       },
       "files": [
         "manifest.json",
@@ -1376,24 +1501,24 @@
         "uid": "ad3d1b57-654e-33f3-a5b0-e09ea96484f0",
         "id": "fonte-ringbearer",
         "name": "Fonte Ringbearer",
-        "version": "1.0.0",
+        "version": "1.0.0-ningzh.1",
         "author": "Pete Klassen",
         "authors": [
           {
             "name": "Pete Klassen",
-            "role": "原字体",
+            "role": "Fonte original",
             "link": "https://www.dafont.com/ringbearer.font"
           },
           {
             "name": "Potato",
-            "role": "Bunny Loader 移植",
+            "role": "Port para o Bunny Loader",
             "avatar": "potato.png",
             "color": "#E8C170",
             "link": "https://github.com/JonataOliveiraa"
           }
         ],
         "type": "font",
-        "category": "字体",
+        "category": "Fontes",
         "summary": "A letra do logotipo de O Senhor dos Anéis",
         "license": "Gratuita para uso pessoal",
         "blVersion": 2,
@@ -1403,7 +1528,7 @@
         ],
         "links": [
           {
-            "title": "原字体",
+            "title": "Fonte original",
             "url": "https://www.dafont.com/ringbearer.font"
           }
         ],
@@ -1417,6 +1542,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "采用《指环王》标志风格的字体。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.0"
         }
       }
     },
@@ -1424,11 +1554,11 @@
       "uid": "064e2318-32a8-4c41-a625-bcc8388ced91",
       "id": "gnorpbuilder",
       "name": "Gnorp's Builder",
-      "version": "1.3.8.5",
+      "version": "1.3.8.5-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-gnorpbuilder-v1.3.8.5/gnorpbuilder-1.3.8.5.bl",
-        "sha256": "28f97ae3fb580dcaafc1da1810be806785b07ac73b9ed603a6709eac33f86580",
-        "size": 4930066
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-gnorpbuilder-v1.3.8.5-ningzh.1/gnorpbuilder-1.3.8.5-ningzh.1.bl",
+        "sha256": "e1b440d1e63da7b48286ab73bf8b78b9b92860e3bbfebf96a7230dcc1fd3dc60",
+        "size": 4932716
       },
       "files": [
         "manifest.json",
@@ -1444,22 +1574,22 @@
         "uid": "064e2318-32a8-4c41-a625-bcc8388ced91",
         "id": "gnorpbuilder",
         "name": "Gnorp's Builder",
-        "version": "1.3.8.5",
+        "version": "1.3.8.5-ningzh.1",
         "authors": [
           {
             "name": "Korlex",
-            "role": "原作者",
+            "role": "Original Creator",
             "avatar": "steam.png"
           },
           {
             "name": "Animatak_",
-            "role": "移植",
+            "role": "Port",
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/mkPMd9shZH"
           }
         ],
-        "category": "世界",
+        "category": "World",
         "summary": "Gnorp, an alien builder town NPC, sells globes that instantly build houses, castles, arenas, elevators, pylons, lakes and minecart tracks where you tap.",
         "localizedSummaries": {
           "pt-BR": "Gnorp, um NPC construtor alienígena, vende globos que constroem na hora casas, castelos, arenas, elevadores, pilares, lagos e trilhos onde você toca.",
@@ -1476,6 +1606,11 @@
         "entry": "main.js",
         "localizedNames": {
           "zh-Hans": "Gnorp 建筑师"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.3.8.5"
         }
       }
     },
@@ -1483,11 +1618,11 @@
       "uid": "4ef70487-0ffd-4b37-adbd-9e9a403d5307",
       "id": "gorilla",
       "name": "Gorilla",
-      "version": "1.0.0",
+      "version": "1.0.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-gorilla-v1.0.0/gorilla-1.0.0.bl",
-        "sha256": "43ef50769cc11ee71d32d63ecd0859fddfb5669784b9a77eaa4e9687ee6fa3a1",
-        "size": 117907
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-gorilla-v1.0.0-ningzh.1/gorilla-1.0.0-ningzh.1.bl",
+        "sha256": "9a87282693bb2256fc05303b8873e23967a1cfd9d53cd2c6dd37252aa9a46134",
+        "size": 120108
       },
       "files": [
         "manifest.json",
@@ -1498,9 +1633,9 @@
         "uid": "4ef70487-0ffd-4b37-adbd-9e9a403d5307",
         "id": "gorilla",
         "name": "Gorilla",
-        "version": "1.0.0",
+        "version": "1.0.0-ningzh.1",
         "author": "ported by Animatak",
-        "category": "趣味",
+        "category": "Meme",
         "summary": "Enfrente o Gorila. Talvez você precise de 100 homens para derrotar essa coisa... e não espere sair vivo.",
         "description": "Enfrente o Gorila, um chefe ridiculamente poderoso e brutal. Talvez você precise de 100 homens para derrotar essa coisa... e mesmo assim, não espere sobreviver.\nMod original desenvolvido por GabeHasWon.",
         "updated": "2026-09-30",
@@ -1516,6 +1651,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "挑战强大而凶暴的大猩猩。也许需要一百个人才能打倒它……即便如此，也别指望能活下来。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.0"
         }
       }
     },
@@ -1523,11 +1663,11 @@
       "uid": "12754257-00fe-4c58-b21b-7af0c5faf7b3",
       "id": "gravity-dont-flip-screen",
       "name": "Gravitation Don't Flip the Screen",
-      "version": "1.0.0",
+      "version": "1.0.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-gravity-dont-flip-screen-v1.0.0/gravity-dont-flip-screen-1.0.0.bl",
-        "sha256": "218c21cb06cef9e82d0d09a379e889c02d230d7a56185f52e42c2a1997dbf730",
-        "size": 1169006
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-gravity-dont-flip-screen-v1.0.0-ningzh.1/gravity-dont-flip-screen-1.0.0-ningzh.1.bl",
+        "sha256": "304461adb25e1d0183c92872202747d6d97d81e00127f94f51c60e897bbd432d",
+        "size": 1169295
       },
       "files": [
         "manifest.json",
@@ -1540,24 +1680,24 @@
         "uid": "12754257-00fe-4c58-b21b-7af0c5faf7b3",
         "id": "gravity-dont-flip-screen",
         "name": "Gravitation Don't Flip the Screen",
-        "version": "1.0.0",
+        "version": "1.0.0-ningzh.1",
         "authors": [
           {
             "name": "Cyrillya",
-            "role": "原作者",
+            "role": "Original Creator",
             "avatar": "steam.png",
             "color": "#F0F0F0",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2793971101"
           },
           {
             "name": "GST378",
-            "role": "Bunny Loader 移植",
+            "role": "Bunny Loader Port",
             "avatar": "lemon.webp",
             "color": "#FEFE00",
             "link": "https://youtube.com/@gst_378?si=-18HzRizRpiFJrEP"
           }
         ],
-        "category": "便利功能",
+        "category": "QoL",
         "summary": "This mod makes the gravity inversion effect not flip your screen, only the player flips.",
         "updated": "2026-10-04",
         "blVersion": 2,
@@ -1572,6 +1712,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "反转重力时只翻转角色，不翻转整个画面。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.0"
         }
       }
     },
@@ -1579,11 +1724,11 @@
       "uid": "47f60fb6-0b46-453e-b19e-389867412da8",
       "id": "improvedmovement",
       "name": "Improved Movement",
-      "version": "1.2.0",
+      "version": "1.2.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-improvedmovement-v1.2.0/improvedmovement-1.2.0.bl",
-        "sha256": "b62a317f89da3a30da35536c8dd690ad0b6150ac240b8905172947444d1f97a2",
-        "size": 44922
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-improvedmovement-v1.2.0-ningzh.1/improvedmovement-1.2.0-ningzh.1.bl",
+        "sha256": "313607e6f1bb2b32c27da888c00735a55378d3fbb21a4a8f28101b6a4b9fd111",
+        "size": 46123
       },
       "files": [
         "manifest.json",
@@ -1598,17 +1743,17 @@
         "uid": "47f60fb6-0b46-453e-b19e-389867412da8",
         "id": "improvedmovement",
         "name": "Improved Movement",
-        "version": "1.2.0",
+        "version": "1.2.0-ningzh.1",
         "authors": [
           {
             "name": "Animatak_",
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532",
-            "role": "作者"
+            "role": "Author"
           }
         ],
-        "category": "视觉效果",
+        "category": "Visual",
         "summary": "Your head follows the cursor, your body leans as you move, and slimes, zombies and critters lean too.",
         "updated": "2026-10-08",
         "blVersion": 2,
@@ -1618,6 +1763,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "角色头部跟随光标、身体随移动倾斜；史莱姆、僵尸和小动物也会随动作倾斜。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.2.0"
         }
       }
     },
@@ -1625,11 +1775,11 @@
       "uid": "469b0c4b-acfa-463b-90df-5db222a81351",
       "id": "instantplatformfallthrough",
       "name": "Instant Platform Fallthrough",
-      "version": "1.0.0",
+      "version": "1.0.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-instantplatformfallthrough-v1.0.0/instantplatformfallthrough-1.0.0.bl",
-        "sha256": "a4d576ea89b2d132ac19efc452736fd30d507505ebf8fc94429c7f4beeb87db6",
-        "size": 999797
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-instantplatformfallthrough-v1.0.0-ningzh.1/instantplatformfallthrough-1.0.0-ningzh.1.bl",
+        "sha256": "1d659ce901eb908a44ddb270c9a49c5a553a3d76db5708970b34b9047e451a12",
+        "size": 1000938
       },
       "files": [
         "manifest.json",
@@ -1645,24 +1795,24 @@
         "uid": "469b0c4b-acfa-463b-90df-5db222a81351",
         "id": "instantplatformfallthrough",
         "name": "Instant Platform Fallthrough",
-        "version": "1.0.0",
+        "version": "1.0.0-ningzh.1",
         "authors": [
           {
             "name": "diniamo",
-            "role": "原作者",
+            "role": "Original Creator",
             "avatar": "steam.png",
             "color": "#F0F0F0",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2992213994"
           },
           {
             "name": "GST378",
-            "role": "Bunny Loader 移植",
+            "role": "Bunny Loader Port",
             "avatar": "lemon.webp",
             "color": "#FEFE00",
             "link": "https://youtube.com/@gst_378?si=-18HzRizRpiFJrEP"
           }
         ],
-        "category": "便利功能",
+        "category": "QoL",
         "summary": "Allows you to fall through platforms instantly while holding your down key instead of stopping for a moment.",
         "updated": "2026-10-01",
         "blVersion": 2,
@@ -1677,6 +1827,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "按住向下键时立即穿过平台下落，不再短暂停顿。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.0"
         }
       }
     },
@@ -1684,11 +1839,11 @@
       "uid": "2d01296e-d4e9-4493-a107-6ee6835f349e",
       "id": "displaybase",
       "name": "Item Display Base",
-      "version": "1.0.2",
+      "version": "1.0.2-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-displaybase-v1.0.2/displaybase-1.0.2.bl",
-        "sha256": "a5acb72327b2e4cdac8fff4541706bfe8002eff4201890da0764f28ac11e9299",
-        "size": 290143
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-displaybase-v1.0.2-ningzh.1/displaybase-1.0.2-ningzh.1.bl",
+        "sha256": "1269af14a910918f333b9525f2e900a098c6661f38d370ae26407414e01cf16d",
+        "size": 291430
       },
       "files": [
         "manifest.json",
@@ -1709,11 +1864,11 @@
         "uid": "2d01296e-d4e9-4493-a107-6ee6835f349e",
         "id": "displaybase",
         "name": "Item Display Base",
-        "version": "1.0.2",
+        "version": "1.0.2-ningzh.1",
         "authors": [
           {
             "name": "Cleyera",
-            "role": "原作者",
+            "role": "Original Creator",
             "avatar": "steam.png",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2922358421"
           },
@@ -1722,23 +1877,23 @@
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532",
-            "role": "移植"
+            "role": "Port"
           },
           {
             "name": "Cavalier",
-            "role": "原版中文本地化",
+            "role": "Chinese localization (original)",
             "avatar": "steam.png"
           }
         ],
-        "category": "装饰",
+        "category": "Decoration",
         "summary": "A Display Base to show off any item, with glitter, outline and light effects. Made from marble or granite.",
         "updated": "2026-10-12",
         "blVersion": 2,
         "entry": "main.js",
         "pages": [
           {
-            "title": "合成配方",
-            "file": "docs/crafting_zh-Hans.md"
+            "title": "Crafting",
+            "file": "docs/crafting.md"
           }
         ],
         "localizedNames": {
@@ -1746,6 +1901,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "用大理石或花岗岩制作展示基座，展示任意物品，并添加闪烁、描边和照明效果。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.2"
         }
       }
     },
@@ -1753,11 +1913,11 @@
       "uid": "adbf3a32-2952-41cc-8d97-7c3b1575785d",
       "id": "moddifficulty",
       "name": "Legendary Difficulty",
-      "version": "1.0.0",
+      "version": "1.0.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-moddifficulty-v1.0.0/moddifficulty-1.0.0.bl",
-        "sha256": "417b4adf5610897c796c029cdfe96c13beaf7d3d697fb923bbd1f295a267d26d",
-        "size": 48518
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-moddifficulty-v1.0.0-ningzh.1/moddifficulty-1.0.0-ningzh.1.bl",
+        "sha256": "592b7f14a8c0a9236daf06845c1ab022e6532bcd3069efd84851149182f29ce6",
+        "size": 49978
       },
       "files": [
         "manifest.json",
@@ -1770,17 +1930,17 @@
         "uid": "adbf3a32-2952-41cc-8d97-7c3b1575785d",
         "id": "moddifficulty",
         "name": "Legendary Difficulty",
-        "version": "1.0.0",
+        "version": "1.0.0-ningzh.1",
         "authors": [
           {
             "name": "GST378",
-            "role": "作者",
+            "role": "author",
             "avatar": "0.jpg",
             "color": "#ffffff",
             "link": "https://youtube.com/@gst_378"
           }
         ],
-        "category": "玩法",
+        "category": "Gameplay",
         "summary": "为游戏添加自定义世界难度（原版只有普通/专家/大师/旅行难度），并加入传奇难度。.",
         "license": "",
         "updated": "2026-10-16",
@@ -1796,6 +1956,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "为游戏添加自定义世界难度，并在原版普通、专家、大师和旅行难度之外加入传奇难度。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.0"
         }
       }
     },
@@ -1803,11 +1968,11 @@
       "uid": "cefdf353-c563-4845-b253-85a851e5d84c",
       "id": "lightsandshadows",
       "name": "Lights And Shadows",
-      "version": "1.0.0",
+      "version": "1.0.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-lightsandshadows-v1.0.0/lightsandshadows-1.0.0.bl",
-        "sha256": "f4633b5c3dbabbfdf4049c05c5f065d7c8f13ed6d5bf6693266eb49670b8d5eb",
-        "size": 264542
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-lightsandshadows-v1.0.0-ningzh.1/lightsandshadows-1.0.0-ningzh.1.bl",
+        "sha256": "deede8a03d87b063d8096111fa21d0290392053fcc4cc51d9aeae4a87f3a8e06",
+        "size": 268019
       },
       "files": [
         "manifest.json",
@@ -1822,19 +1987,19 @@
         "uid": "cefdf353-c563-4845-b253-85a851e5d84c",
         "id": "lightsandshadows",
         "name": "Lights And Shadows",
-        "version": "1.0.0",
+        "version": "1.0.0-ningzh.1",
         "authors": [
           {
             "name": "yiyang233",
-            "role": "原模组与视觉资源"
+            "role": "Original mod and visual assets"
           },
           {
             "name": "Potato",
             "avatar": "potato.png",
-            "role": "Bunny Loader 移植"
+            "role": "Bunny Loader port"
           }
         ],
-        "category": "视觉效果",
+        "category": "Visual",
         "summary": "Sunlight, moonlight, shadow rays and bloom over the world, ported from the tModLoader mod and rebuilt to run on phones.",
         "updated": "2026-10-19",
         "blVersion": 2,
@@ -1844,6 +2009,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "为世界添加日光、月光、光影射线和外发光，将 tModLoader 模组移植并调整为适合手机运行。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.0"
         }
       }
     },
@@ -1851,11 +2021,11 @@
       "uid": "a9538fc3-d926-43dd-a893-6d49a83da1c9",
       "id": "lootbeams",
       "name": "Loot Beams",
-      "version": "1.1.2",
+      "version": "1.1.2-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-lootbeams-v1.1.2/lootbeams-1.1.2.bl",
-        "sha256": "fbb8891babe3ad4840d1ebb5b446a14720d8be06fa4374086188a94f226a162d",
-        "size": 117494
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-lootbeams-v1.1.2-ningzh.1/lootbeams-1.1.2-ningzh.1.bl",
+        "sha256": "aceeffb9e96972d27c9e64fa3ea5d0d3f810e4d6200bdde253483b7ad8258e82",
+        "size": 120707
       },
       "files": [
         "manifest.json",
@@ -1871,11 +2041,11 @@
         "uid": "a9538fc3-d926-43dd-a893-6d49a83da1c9",
         "id": "lootbeams",
         "name": "Loot Beams",
-        "version": "1.1.2",
+        "version": "1.1.2-ningzh.1",
         "authors": [
           {
             "name": "ChemAtDark",
-            "role": "原作者",
+            "role": "Original Creator",
             "avatar": "steam.png",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2847872897"
           },
@@ -1884,10 +2054,10 @@
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532",
-            "role": "移植"
+            "role": "Port"
           }
         ],
-        "category": "视觉效果",
+        "category": "Visual",
         "summary": "Borderlands-style light beams and glows in each dropped item's rarity color, with beam styles, glow and configurable lists.",
         "updated": "2026-10-12",
         "blVersion": 2,
@@ -1897,6 +2067,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "为掉落物添加《无主之地》风格的稀有度彩色光柱与光晕，支持样式和筛选列表设置。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.1.2"
         }
       }
     },
@@ -1904,11 +2079,11 @@
       "uid": "024d3144-6342-4dbe-93b6-3eec25f7e23e",
       "id": "mc-paintings",
       "name": "Minecraft Paintings",
-      "version": "1.0.0",
+      "version": "1.0.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-mc-paintings-v1.0.0/mc-paintings-1.0.0.bl",
-        "sha256": "6a27c46e2d217b7053e56ba443bd80da36a18e7d13df6b677b7f1ac62bccf2c2",
-        "size": 296249
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-mc-paintings-v1.0.0-ningzh.1/mc-paintings-1.0.0-ningzh.1.bl",
+        "sha256": "b37111cfd38378d9eb7cdecc31a05169631577f65e68bcee5758e15cd44a1d57",
+        "size": 296877
       },
       "files": [
         "manifest.json",
@@ -1955,17 +2130,17 @@
         "id": "mc-paintings",
         "name": "Minecraft Paintings",
         "summary": "Minecraft Paintings is a small-scale aesthetic content mod that adds all 30 paintings featured in Minecraft, manually recreated to include less noise and tile dimensions fitting Terraria paintings.",
-        "version": "1.0.0",
+        "version": "1.0.0-ningzh.1",
         "authors": [
           {
             "name": "Barometz",
-            "role": "原作者",
+            "role": "Original Creator",
             "avatar": "github.png",
             "color": "#FFFFFF",
             "link": "https://github.com/Barometz-Mod/MinecraftPaintings"
           }
         ],
-        "category": "视觉效果",
+        "category": "Visual",
         "updated": "2026-10-22",
         "blVersion": 2,
         "gameVersion": [
@@ -1979,6 +2154,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "添加《我的世界》的 30 幅画作，手工重绘以减少杂点，并适配泰拉瑞亚的画作尺寸。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.0"
         }
       }
     },
@@ -1986,11 +2166,11 @@
       "uid": "fc731e9a-2844-433b-ade1-5a0ab23165c4",
       "id": "hellomod",
       "name": "Minishark Turbo",
-      "version": "1.1.1",
+      "version": "1.1.1-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-hellomod-v1.1.1/hellomod-1.1.1.bl",
-        "sha256": "362908d5d9d9823ba957e5fed1cfa7a7a6114ba5392a6378cf5c1fd9a06f3885",
-        "size": 14373
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-hellomod-v1.1.1-ningzh.1/hellomod-1.1.1-ningzh.1.bl",
+        "sha256": "0af845da678a5a42bc0cc03401bd0a2723cf6c39d35d900474b109b014f6dc05",
+        "size": 15209
       },
       "files": [
         "manifest.json",
@@ -2007,16 +2187,16 @@
         "uid": "fc731e9a-2844-433b-ade1-5a0ab23165c4",
         "id": "hellomod",
         "name": "Minishark Turbo",
-        "version": "1.1.1",
+        "version": "1.1.1-ningzh.1",
         "authors": [
           {
             "name": "Bunny Loader",
-            "role": "代码与美术",
+            "role": "Código e arte",
             "avatar": "bunny-loader.png",
             "color": "#F9E141"
           }
         ],
-        "category": "武器",
+        "category": "Armas",
         "summary": "A Minishark vira uma metralhadora.",
         "license": "MIT",
         "updated": "2026-10-19",
@@ -2033,6 +2213,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "让迷你鲨化身高速机枪。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.1.1"
         }
       }
     },
@@ -2040,11 +2225,11 @@
       "uid": "e651d97d-eb24-51b5-bdc2-57722a898f79",
       "id": "mitanpc",
       "name": "Mita NPC",
-      "version": "1.0.2",
+      "version": "1.0.2-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-mitanpc-v1.0.2/mitanpc-1.0.2.bl",
-        "sha256": "0dd5831fab8820fa20a05e23029678ab8f09d8c8ef97b22311fd89c3e563a3cf",
-        "size": 3061612
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-mitanpc-v1.0.2-ningzh.1/mitanpc-1.0.2-ningzh.1.bl",
+        "sha256": "44516847bb541dad45528b268cbc02cd5bab2d1bfb011876998d797db81c50a7",
+        "size": 3067877
       },
       "files": [
         "manifest.json",
@@ -2060,22 +2245,22 @@
         "uid": "e651d97d-eb24-51b5-bdc2-57722a898f79",
         "id": "mitanpc",
         "name": "Mita NPC",
-        "version": "1.0.2",
+        "version": "1.0.2-ningzh.1",
         "upstreamVersion": "0.0.9",
         "authors": [
           {
             "name": "rzc0d3r",
-            "role": "原模组、代码与资源",
+            "role": "Original mod, code and assets",
             "link": "https://github.com/rzc00d3r/MitaNPC"
           },
           {
             "name": "Potato",
-            "role": "Bunny Loader 移植",
+            "role": "Bunny Loader port",
             "avatar": "potato.png",
             "color": "#E8C170"
           }
         ],
-        "category": "NPC",
+        "category": "NPCs",
         "summary": "Four MiSide town NPCs with voiced dialogue, shops, weapons, pets and permanent combat manuals.",
         "license": "MIT",
         "updated": "2026-10-19",
@@ -2083,11 +2268,11 @@
         "entry": "main.js",
         "links": [
           {
-            "title": "创意工坊原模组",
+            "title": "Original Workshop mod",
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3402763063"
           },
           {
-            "title": "原版源代码",
+            "title": "Original source code",
             "url": "https://github.com/rzc00d3r/MitaNPC"
           }
         ],
@@ -2101,6 +2286,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "添加四位来自《米塔》（MiSide）的城镇 NPC，包含语音对话、商店、武器、宠物和永久战斗手册。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.2"
         }
       }
     },
@@ -2108,11 +2298,11 @@
       "uid": "005ff90e-02cd-4caa-ba96-953378fca597",
       "id": "no-useless-pickups",
       "name": "No Useless Pickups",
-      "version": "1.0.0",
+      "version": "1.0.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-no-useless-pickups-v1.0.0/no-useless-pickups-1.0.0.bl",
-        "sha256": "10bb2f05ee53a90b52310da675d4b65980f55785796a2bb4202687f06903ff5a",
-        "size": 108259
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-no-useless-pickups-v1.0.0-ningzh.1/no-useless-pickups-1.0.0-ningzh.1.bl",
+        "sha256": "be659c61a46f2b647b0a2c937286a33dc51574e15cbf311d476d305f4400188c",
+        "size": 108716
       },
       "files": [
         "manifest.json",
@@ -2127,17 +2317,17 @@
         "id": "no-useless-pickups",
         "name": "No Useless Pickups",
         "summary": "Consumable pickups (life hearts, mana stars, and Nebula boosters) can no longer be picked up if they are not needed.",
-        "version": "1.0.0",
+        "version": "1.0.0-ningzh.1",
         "authors": [
           {
             "name": "Lunaros",
-            "role": "原作者",
+            "role": "Original Creator",
             "avatar": "steam.png",
             "color": "#FFFFFF",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3288950444"
           }
         ],
-        "category": "便利功能",
+        "category": "QoL",
         "updated": "2026-10-22",
         "blVersion": 2,
         "gameVersion": [
@@ -2151,6 +2341,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "不需要回复或增益时，不再拾取生命心、魔力星和星云强化焰等消耗性掉落物。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.0"
         }
       }
     },
@@ -2158,11 +2353,11 @@
       "uid": "96640ec6-506d-457f-a695-8e212bd07184",
       "id": "npcfalldamage",
       "name": "NPC Fall Damage",
-      "version": "1.0.0",
+      "version": "1.0.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-npcfalldamage-v1.0.0/npcfalldamage-1.0.0.bl",
-        "sha256": "c14fe7e011617f4c9b67cee2fa0b4fc408e20fdc00faa8a6316108758ea2c4b6",
-        "size": 77945
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-npcfalldamage-v1.0.0-ningzh.1/npcfalldamage-1.0.0-ningzh.1.bl",
+        "sha256": "b4d4711229a390812783af374bf7b7eb574721762b7e4b038a352efd4ddd6bc3",
+        "size": 78405
       },
       "files": [
         "manifest.json",
@@ -2178,23 +2373,23 @@
         "uid": "96640ec6-506d-457f-a695-8e212bd07184",
         "id": "npcfalldamage",
         "name": "NPC Fall Damage",
-        "version": "1.0.0",
+        "version": "1.0.0-ningzh.1",
         "authors": [
           {
             "name": "Ryan (RightoeusRyan)",
-            "role": "原作者",
+            "role": "Original Creator",
             "avatar": "steam.png",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2563610738"
           },
           {
             "name": "Animatak_",
-            "role": "移植",
+            "role": "Port",
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/KcRfNEMUxn"
           }
         ],
-        "category": "玩法",
+        "category": "Gameplay",
         "summary": "This mod allows NPCs to take fall damage. Pretty self explanatory. This bonus also applies to bosses.",
         "updated": "2026-10-24",
         "blVersion": 2,
@@ -2206,7 +2401,7 @@
         "dependencies": [],
         "links": [
           {
-            "title": "原模组",
+            "title": "Original Mod",
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2563610738"
           }
         ],
@@ -2215,6 +2410,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "让 NPC 也会受到摔落伤害，Boss 同样适用。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.0"
         }
       }
     },
@@ -2222,11 +2422,11 @@
       "uid": "421e4df1-c2d7-45ec-86ec-563ccc597273",
       "id": "npcunlockannouncer",
       "name": "NPC Unlock Announcer",
-      "version": "1.0.0",
+      "version": "1.0.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-npcunlockannouncer-v1.0.0/npcunlockannouncer-1.0.0.bl",
-        "sha256": "e998181204d3318d26001e28924fc051fffe54584e7c084124aeb0beddd02292",
-        "size": 684394
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-npcunlockannouncer-v1.0.0-ningzh.1/npcunlockannouncer-1.0.0-ningzh.1.bl",
+        "sha256": "b0c122aedac3f552c5bd2a38eb65e8961223deedab7a73acfe5d4527f7f936bc",
+        "size": 685312
       },
       "files": [
         "manifest.json",
@@ -2242,11 +2442,11 @@
         "uid": "421e4df1-c2d7-45ec-86ec-563ccc597273",
         "id": "npcunlockannouncer",
         "name": "NPC Unlock Announcer",
-        "version": "1.0.0",
+        "version": "1.0.0-ningzh.1",
         "authors": [
           {
             "name": "EurusK",
-            "role": "原作者",
+            "role": "Original Creator",
             "avatar": "steam.png",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3631856806"
           },
@@ -2255,10 +2455,10 @@
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532",
-            "role": "移植"
+            "role": "Port"
           }
         ],
-        "category": "界面",
+        "category": "Interface",
         "summary": "An RPG-style banner announces every Town NPC and town pet that moves into your world.",
         "updated": "2026-10-13",
         "blVersion": 2,
@@ -2268,6 +2468,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "当城镇 NPC 或城镇宠物入住时，显示角色扮演游戏风格的公告横幅。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.0"
         }
       }
     },
@@ -2275,11 +2480,11 @@
       "uid": "a26a4992-e895-4120-a903-0e23b376c8a1",
       "id": "overhealth",
       "name": "Overhealth",
-      "version": "1.0.2",
+      "version": "1.0.2-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-overhealth-v1.0.2/overhealth-1.0.2.bl",
-        "sha256": "bd5271afcc1e0d9e959dc241a84b03e6e111c354e232d460b7a4d63fcb823614",
-        "size": 13651
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-overhealth-v1.0.2-ningzh.1/overhealth-1.0.2-ningzh.1.bl",
+        "sha256": "ee8eab0bb9d2ead9b0aef660786a9a1297114a1f08a10059f0ab1a0b509d1a51",
+        "size": 15897
       },
       "files": [
         "manifest.json",
@@ -2291,18 +2496,18 @@
         "uid": "a26a4992-e895-4120-a903-0e23b376c8a1",
         "id": "overhealth",
         "name": "Overhealth",
-        "version": "1.0.2",
+        "version": "1.0.2-ningzh.1",
         "authors": [
           {
             "name": "JADen",
-            "role": "原 tModLoader 模组"
+            "role": "Original tModLoader mod"
           },
           {
             "name": "VowTz",
-            "role": "移植"
+            "role": "Port"
           }
         ],
-        "category": "玩法",
+        "category": "Jogabilidade",
         "summary": "Healing past full health becomes temporary Overhealth that absorbs damage and slowly decays.",
         "license": "AGPL-3.0",
         "updated": "2026-10-22",
@@ -2313,6 +2518,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "超过生命上限的治疗量会转化为临时溢出生命值，用于吸收伤害，并随时间衰减。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.2"
         }
       },
       "publishedAt": "2026-10-26T10:27:19Z"
@@ -2321,11 +2531,11 @@
       "uid": "3cfaa0a0-6ddf-4484-900e-6c482ef4e1c7",
       "id": "kineticgore",
       "name": "Physaria (Kinetic Gore)",
-      "version": "2.8.2",
+      "version": "2.8.2-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-kineticgore-v2.8.2/kineticgore-2.8.2.bl",
-        "sha256": "ed5b8bd576825ae076f8cf668877a2fb9e91bf9e9b34dbdbbaa246b581c786ce",
-        "size": 292187
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-kineticgore-v2.8.2-ningzh.1/kineticgore-2.8.2-ningzh.1.bl",
+        "sha256": "de4ee56781ed50768ce64ca431aca3452acd9f6c2cc2ca05b110899ab2b58dc4",
+        "size": 293259
       },
       "files": [
         "manifest.json",
@@ -2341,17 +2551,17 @@
         "uid": "3cfaa0a0-6ddf-4484-900e-6c482ef4e1c7",
         "id": "kineticgore",
         "name": "Physaria (Kinetic Gore)",
-        "version": "2.8.2",
+        "version": "2.8.2-ningzh.1",
         "authors": [
           {
             "name": "LevitatingGT",
-            "role": "原作者",
+            "role": "Original Creator",
             "avatar": "steam.png",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3610770947"
           },
           {
             "name": "Animatak_",
-            "role": "移植",
+            "role": "Port",
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/mkPMd9shZH"
@@ -2359,11 +2569,11 @@
         ],
         "links": [
           {
-            "title": "原模组",
+            "title": "Original Mod",
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3610770947"
           }
         ],
-        "category": "视觉效果",
+        "category": "Visual",
         "summary": "A ragdoll and body physics engine for Terraria: enemies collapse into ragdolls, lose heads and limbs, bleed sticky blood, and humanoids and slimes wobble with physics. Purely cosmetic.",
         "localizedSummaries": {
           "pt-BR": "Um motor de ragdoll e física de corpos para o Terraria: inimigos caem como bonecos de pano, perdem a cabeça e as pernas, sangram sangue que gruda no chão, e humanoides e slimes balançam com física. Só visual.",
@@ -2380,6 +2590,11 @@
         "entry": "main.js",
         "localizedNames": {
           "zh-Hans": "物理布娃娃（Physaria）"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "2.8.2"
         }
       }
     },
@@ -2387,11 +2602,11 @@
       "uid": "ae7c31e7-a0d5-4064-995d-acedf7fd5afc",
       "id": "pingmod",
       "name": "Player Ping UI",
-      "version": "1.0.5",
+      "version": "1.0.5-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-pingmod-v1.0.5/pingmod-1.0.5.bl",
-        "sha256": "0257d4a96426ad8a909fdbf3086fec2c1f65921da52056268e038624d4008404",
-        "size": 118848
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-pingmod-v1.0.5-ningzh.1/pingmod-1.0.5-ningzh.1.bl",
+        "sha256": "9e61a89128d354703129a51ae12d2a857b83c2e403943276b0f0fc281738f2ba",
+        "size": 121267
       },
       "files": [
         "manifest.json",
@@ -2407,25 +2622,25 @@
         "uid": "ae7c31e7-a0d5-4064-995d-acedf7fd5afc",
         "id": "pingmod",
         "name": "Player Ping UI",
-        "version": "1.0.5",
+        "version": "1.0.5-ningzh.1",
         "authors": [
           {
             "name": "MooMoo",
-            "role": "原作者",
+            "role": "Original Creator",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3315564370",
             "avatar": "steam.png"
           },
           {
             "name": "crumb",
-            "role": "延迟图标像素图"
+            "role": "Ping icon sprites"
           },
           {
             "name": "otterly",
-            "role": "模组图标边框"
+            "role": "Mod icon border"
           },
           {
             "name": "Animatak_",
-            "role": "移植",
+            "role": "Port",
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/mkPMd9shZH"
@@ -2433,11 +2648,11 @@
         ],
         "links": [
           {
-            "title": "原模组",
+            "title": "Original Mod",
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3315564370"
           }
         ],
-        "category": "实用工具",
+        "category": "Utility",
         "summary": "See your ping in multiplayer, pick an icon style that everyone sees, and open a panel with the ping of every connected player.",
         "localizedSummaries": {
           "pt-BR": "Veja seu ping no multijogador, escolha um estilo de ícone que todos veem e abra um painel com o ping de cada jogador conectado.",
@@ -2454,6 +2669,11 @@
         "entry": "main.js",
         "localizedNames": {
           "zh-Hans": "玩家延迟面板"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.5"
         }
       }
     },
@@ -2461,11 +2681,11 @@
       "uid": "89bcf9c1-64d4-4f1a-8c59-464bbf1e14c8",
       "id": "qualityofbunny",
       "name": "Quality of Bunny",
-      "version": "68",
+      "version": "68-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-qualityofbunny-v68/qualityofbunny-68.bl",
-        "sha256": "8a4dc316994530c3d0e084011c815fb09f0bc2390aa97bfb8cfedb693a2fab39",
-        "size": 419467
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-qualityofbunny-v68-ningzh.1/qualityofbunny-68-ningzh.1.bl",
+        "sha256": "41b6cb9792c9374e8884e1e1bb158e0e6fbc35abcd27a2f00a51fe06191b8556",
+        "size": 422582
       },
       "files": [
         "manifest.json",
@@ -2480,13 +2700,13 @@
         "uid": "89bcf9c1-64d4-4f1a-8c59-464bbf1e14c8",
         "id": "qualityofbunny",
         "name": "Quality of Bunny",
-        "version": "68",
+        "version": "68-ningzh.1",
         "authors": [
           {
             "name": "VowTz"
           }
         ],
-        "category": "实用工具",
+        "category": "Utilidade",
         "summary": "Quality-of-life tweaks, every one a toggle in Mod Configuration.",
         "license": "MIT",
         "updated": "2026-10-25",
@@ -2497,6 +2717,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "提供多项便利性改进，每项都可在模组配置中单独开关。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "68"
         }
       }
     },
@@ -2504,11 +2729,11 @@
       "uid": "0dc6638d-65f8-415b-8b1f-818e818b3f6d",
       "id": "resized-frames",
       "name": "Resized Frames",
-      "version": "1.0.0",
+      "version": "1.0.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-resized-frames-v1.0.0/resized-frames-1.0.0.bl",
-        "sha256": "5a88a35d992e35ac1d5fe863b5d0a2afaeef628471678a226ea7710a0a3fbd7f",
-        "size": 1294852
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-resized-frames-v1.0.0-ningzh.1/resized-frames-1.0.0-ningzh.1.bl",
+        "sha256": "f7090dfaf5cec4319324c40e468a0c59f8bbbf4ca68b16cdf356babdd7fe28b6",
+        "size": 1295125
       },
       "files": [
         "manifest.json",
@@ -2521,17 +2746,17 @@
         "uid": "0dc6638d-65f8-415b-8b1f-818e818b3f6d",
         "id": "resized-frames",
         "name": "Resized Frames",
-        "version": "1.0.0",
+        "version": "1.0.0-ningzh.1",
         "authors": [
           {
             "name": "GST378",
-            "role": "原作者",
+            "role": "Original Creator",
             "avatar": "lemon.webp",
             "color": "#FEFE00",
             "link": "https://youtube.com/@gst_378?si=-18HzRizRpiFJrEP"
           }
         ],
-        "category": "视觉效果",
+        "category": "Visual",
         "summary": "Items placed in frames will be drawn at their actual size",
         "updated": "2026-10-04",
         "blVersion": 2,
@@ -2546,6 +2771,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "让物品框中的物品按实际尺寸显示。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.0"
         }
       }
     },
@@ -2553,11 +2783,11 @@
       "uid": "15b99fa4-580f-40c6-9a26-78e3928876d7",
       "id": "semqueda",
       "name": "Sem Dano de Queda",
-      "version": "1.0.0",
+      "version": "1.0.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-semqueda-v1.0.0/semqueda-1.0.0.bl",
-        "sha256": "393e8bad02b17c7266a8f21f4c11086764150af554fbd1dcf15445239ab39fee",
-        "size": 11298
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-semqueda-v1.0.0-ningzh.1/semqueda-1.0.0-ningzh.1.bl",
+        "sha256": "7e9846fd4ea819d6f32f132f595ab359f65b6e4a10f82ff083fc03b734ce5c5d",
+        "size": 12071
       },
       "files": [
         "manifest.json",
@@ -2574,16 +2804,16 @@
         "uid": "15b99fa4-580f-40c6-9a26-78e3928876d7",
         "id": "semqueda",
         "name": "Sem Dano de Queda",
-        "version": "1.0.0",
+        "version": "1.0.0-ningzh.1",
         "authors": [
           {
             "name": "Bunny Loader",
-            "role": "代码与美术",
+            "role": "Código e arte",
             "avatar": "bunny-loader.png",
             "color": "#F9E141"
           }
         ],
-        "category": "玩法",
+        "category": "Jogabilidade",
         "summary": "Cair de qualquer altura deixou de doer.",
         "license": "MIT",
         "updated": "2026-09-22",
@@ -2599,6 +2829,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "从任意高度跌落都不会受到摔落伤害。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.0"
         }
       }
     },
@@ -2606,11 +2841,11 @@
       "uid": "8539e254-45e2-4519-8381-e38c7806f19a",
       "id": "sharedinventory",
       "name": "Shared Inventory",
-      "version": "0.2.0",
+      "version": "0.2.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-sharedinventory-v0.2.0/sharedinventory-0.2.0.bl",
-        "sha256": "30c808f4d862c82207d4c0de5eac15fe6d3e567b398fada61e1e86bc1da6facd",
-        "size": 251107
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-sharedinventory-v0.2.0-ningzh.1/sharedinventory-0.2.0-ningzh.1.bl",
+        "sha256": "45e63115658be39f6b3f712b3e6d0de4de631f19bf9fc6d941b76971fdabea63",
+        "size": 253631
       },
       "files": [
         "manifest.json",
@@ -2623,14 +2858,14 @@
         "uid": "8539e254-45e2-4519-8381-e38c7806f19a",
         "id": "sharedinventory",
         "name": "Shared Inventory",
-        "version": "0.2.0",
+        "version": "0.2.0-ningzh.1",
         "authors": [
           {
             "name": "Potato",
             "avatar": "potato.png"
           }
         ],
-        "category": "玩法",
+        "category": "Jogabilidade",
         "summary": "On multiplayer, the host's inventory, armor, pets and life/mana are shared with everyone.",
         "license": "MIT",
         "updated": "2026-10-07",
@@ -2641,6 +2876,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "多人游戏中，所有玩家共享房主的背包、装备、宠物、生命值和魔力值。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "0.2.0"
         }
       }
     },
@@ -2648,11 +2888,11 @@
       "uid": "8de902a2-3816-4a6b-91f8-ab80a0ce0f57",
       "id": "teleportkeeper",
       "name": "Teleport Keeper",
-      "version": "1.2.0",
+      "version": "1.2.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-teleportkeeper-v1.2.0/teleportkeeper-1.2.0.bl",
-        "sha256": "27347befdf08d55a83be7b56b89ce0072a95a0c25889bcd6feb2d0ec7f7c3ad3",
-        "size": 92811
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-teleportkeeper-v1.2.0-ningzh.1/teleportkeeper-1.2.0-ningzh.1.bl",
+        "sha256": "780ec700940da1fb9bbd6b6f764c717c67f4008080a41ced094c87eba24d51c7",
+        "size": 96389
       },
       "files": [
         "manifest.json",
@@ -2667,11 +2907,11 @@
         "uid": "8de902a2-3816-4a6b-91f8-ab80a0ce0f57",
         "id": "teleportkeeper",
         "name": "Teleport Keeper",
-        "version": "1.2.0",
+        "version": "1.2.0-ningzh.1",
         "authors": [
           {
             "name": "Animatak_",
-            "role": "作者",
+            "role": "Author",
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/mkPMd9shZH"
@@ -2683,7 +2923,7 @@
             "url": "https://discord.gg/mkPMd9shZH"
           }
         ],
-        "category": "实用工具",
+        "category": "Utility",
         "summary": "Create teleports with a name and a biome icon, organize them in a list with search, favorites and filters, and travel to them from the map. When you die, a way back that is only yours.",
         "localizedSummaries": {
           "pt-BR": "Crie teleportes com nome e ícone do bioma, organize-os numa lista com busca, favoritos e filtros, e viaje até eles pelo mapa. Ao morrer, um ponto de volta só seu.",
@@ -2698,6 +2938,11 @@
         "entry": "main.js",
         "localizedNames": {
           "zh-Hans": "传送点管家"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.2.0"
         }
       }
     },
@@ -2705,11 +2950,11 @@
       "uid": "cd8c4f20-bc13-4b47-a508-305a6fc05ae2",
       "id": "templopiramide",
       "name": "Templo Pirâmide",
-      "version": "1.1.1",
+      "version": "1.1.1-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-templopiramide-v1.1.1/templopiramide-1.1.1.bl",
-        "sha256": "113110e2a3d92af639eecb3c7993959b76e487be3877f04f73296b7a55788b0c",
-        "size": 16338
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-templopiramide-v1.1.1-ningzh.1/templopiramide-1.1.1-ningzh.1.bl",
+        "sha256": "c6b2324161b55c236de6cf6b91147c8fd7d7ce03e15885ee3ec590283a9cfde7",
+        "size": 18918
       },
       "files": [
         "manifest.json",
@@ -2723,9 +2968,9 @@
         "uid": "cd8c4f20-bc13-4b47-a508-305a6fc05ae2",
         "id": "templopiramide",
         "name": "Templo Pirâmide",
-        "version": "1.1.1",
+        "version": "1.1.1-ningzh.1",
         "author": "Cortex",
-        "category": "玩法",
+        "category": "Jogabilidade",
         "summary": "Uma pirâmide Lihzahrd com andares distantes, câmaras e um grande salão para o Golem.",
         "updated": "2026-10-19",
         "blVersion": 2,
@@ -2740,6 +2985,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "将丛林蜥蜴神庙改造成层间距宽阔、带有多个房间及石巨人大厅的金字塔。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.1.1"
         }
       }
     },
@@ -2747,11 +2997,11 @@
       "uid": "30f21a81-4240-420b-a9ba-924e917fc571",
       "id": "terrarchitect",
       "name": "Terrarchitect",
-      "version": "1.0.3",
+      "version": "1.0.3-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-terrarchitect-v1.0.3/terrarchitect-1.0.3.bl",
-        "sha256": "864a18c6c300c014712378caa8859167186011ac8f6d2fa6bd8bf14b625e407b",
-        "size": 2254412
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-terrarchitect-v1.0.3-ningzh.1/terrarchitect-1.0.3-ningzh.1.bl",
+        "sha256": "f3c5028c11fadebd93a607bc68821fd1b32a1f34bf168b665a13c8fd8484ff4d",
+        "size": 2245064
       },
       "files": [
         "manifest.json",
@@ -2772,31 +3022,31 @@
         "uid": "30f21a81-4240-420b-a9ba-924e917fc571",
         "id": "terrarchitect",
         "name": "Terrarchitect",
-        "version": "1.0.3",
+        "version": "1.0.3-ningzh.1",
         "authors": [
           {
             "name": "Gurgle_Nurgle",
-            "role": "像素美术",
+            "role": "Spritework",
             "avatar": "0.png",
             "color": "#F0F0F0",
             "link": "https://github.com/GurgleNurgle"
           },
           {
             "name": "silent_ptr",
-            "role": "代码",
+            "role": "Coding",
             "avatar": "1.jpeg",
             "color": "#F0F0F0",
             "link": "https://github.com/silentptr"
           },
           {
             "name": "Zandberg",
-            "role": "代码",
+            "role": "Coding",
             "avatar": "2.png",
             "color": "#F0F0F0",
             "link": "https://github.com/Zandberg-x"
           }
         ],
-        "category": "建筑",
+        "category": "Building",
         "summary": "Terrarchitect is a furniture / build mod that adds a wide variety of custom-made, high-quality decorational items and blocks to Terraria! It also aims to make some previously ubobtainable or unplacable vanilla items available.",
         "updated": "2026-10-09",
         "blVersion": 2,
@@ -2820,11 +3070,11 @@
         },
         "links": [
           {
-            "title": "Reddit 社区",
+            "title": "Subreddit",
             "url": "https://www.reddit.com/r/Terrarchitect/"
           },
           {
-            "title": "论坛",
+            "title": "Forum",
             "url": "https://forums.terraria.org/index.php?threads/terrarchitect.95959/"
           },
           {
@@ -2837,6 +3087,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "添加大量精细的家具、装饰物和方块，并让部分原本无法获取或放置的原版物品可以使用。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.3"
         }
       }
     },
@@ -2844,11 +3099,11 @@
       "uid": "c344c0ce-136d-4e57-b58f-0a1239fbc302",
       "id": "ropemod",
       "name": "Terraria Tethers",
-      "version": "0.3.1",
+      "version": "0.3.1-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-ropemod-v0.3.1/ropemod-0.3.1.bl",
-        "sha256": "b04fec8693e7d376f16b00133de6d9f03db8c040fd0d25f9e85d7f4dfece145a",
-        "size": 53417
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-ropemod-v0.3.1-ningzh.1/ropemod-0.3.1-ningzh.1.bl",
+        "sha256": "0047f3130381c7b1431eb61ba57d8a3730b7dc02ebee1cf8e39ecbda06242e93",
+        "size": 54706
       },
       "files": [
         "manifest.json",
@@ -2862,28 +3117,28 @@
         "uid": "c344c0ce-136d-4e57-b58f-0a1239fbc302",
         "id": "ropemod",
         "name": "Terraria Tethers",
-        "version": "0.3.1",
+        "version": "0.3.1-ningzh.1",
         "authors": [
           {
             "name": "CeleryMan",
-            "role": "原模组",
+            "role": "Original mod",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2956773024",
             "avatar": "steam.png"
           },
           {
             "name": "Bloa",
-            "role": "Bunny Loader 移植",
+            "role": "Port to Bunny Loader",
             "avatar": "bloa.png"
           }
         ],
-        "category": "玩法",
+        "category": "Gameplay",
         "summary": "Players are tied together by a rope and have to cooperate.",
         "updated": "2026-10-21",
         "blVersion": 2,
         "entry": "main.js",
         "links": [
           {
-            "title": "Steam 创意工坊原模组",
+            "title": "Original Steam Workshop mod",
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2956773024"
           }
         ],
@@ -2892,6 +3147,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "用绳索把玩家连接起来，必须互相配合才能行动。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "0.3.1"
         }
       },
       "publishedAt": "2026-10-22T16:56:20Z"
@@ -2900,11 +3160,11 @@
       "uid": "5f0b0d15-6ee8-4e03-aafb-825d9ba5ca19",
       "id": "tooltipicon",
       "name": "Tooltip Icon",
-      "version": "1.0.1",
+      "version": "1.0.1-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-tooltipicon-v1.0.1/tooltipicon-1.0.1.bl",
-        "sha256": "97b6e48773c5d1dadb0c8f4607f22bcc624385ddf2fa6424e98b5955d9315a35",
-        "size": 106016
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-tooltipicon-v1.0.1-ningzh.1/tooltipicon-1.0.1-ningzh.1.bl",
+        "sha256": "db96077af40efbe586124d09ca5b4437288acff757f8b23087f2ebd7637595a1",
+        "size": 106725
       },
       "files": [
         "manifest.json",
@@ -2920,12 +3180,12 @@
         "uid": "5f0b0d15-6ee8-4e03-aafb-825d9ba5ca19",
         "id": "tooltipicon",
         "name": "Tooltip Icon",
-        "version": "1.0.1",
+        "version": "1.0.1-ningzh.1",
         "authors": [
           {
             "name": "Nil256",
             "avatar": "steam.png",
-            "role": "原作者",
+            "role": "Original Creator",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3582340033"
           },
           {
@@ -2933,10 +3193,10 @@
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532",
-            "role": "移植"
+            "role": "Port"
           }
         ],
-        "category": "界面",
+        "category": "Interface",
         "summary": "Adds a small icon to the left of each item tooltip line: damage, speed, defense, tool power, potions, prefixes and more.",
         "updated": "2026-10-11",
         "blVersion": 2,
@@ -2946,6 +3206,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "为伤害、速度、防御、工具能力、药水、修饰语等物品提示行添加小图标。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.1"
         }
       }
     },
@@ -2953,11 +3218,11 @@
       "uid": "7b1e9c52-3f4a-4d6e-9a18-5c2d8e0f41a7",
       "id": "topdownmode",
       "name": "Top-Down Mode (teste)",
-      "version": "0.31.0",
+      "version": "0.31.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-topdownmode-v0.31.0/topdownmode-0.31.0.bl",
-        "sha256": "877eb21f23319616f0bb08de1e7df2537712f212ec9834670ca1c4483f0d2314",
-        "size": 2847929
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-topdownmode-v0.31.0-ningzh.1/topdownmode-0.31.0-ningzh.1.bl",
+        "sha256": "64b53eed88c53a38b47bb540e92fc2f22dd1b2838f4a910562682b5fe38a8b6d",
+        "size": 2867366
       },
       "files": [
         "manifest.json",
@@ -2971,14 +3236,14 @@
         "uid": "7b1e9c52-3f4a-4d6e-9a18-5c2d8e0f41a7",
         "id": "topdownmode",
         "name": "Top-Down Mode (teste)",
-        "version": "0.31.0",
+        "version": "0.31.0-ningzh.1",
         "authors": [
           {
             "name": "Castorzeira",
             "avatar": "castorzeira.png"
           }
         ],
-        "category": "玩法",
+        "category": "Gameplay",
         "summary": "Teste top-down: sem gravidade, 8 direções, golpe na direção do mouse e mundo top-down em ilha com os biomas do Terraria.",
         "description": "VERSÃO BETA: este mod ainda não está completo e pode ter erros, bugs e comportamentos inesperados. Use por sua conta e risco e, de preferência, em mundos de teste (faça backup dos seus saves). O Top-Down Mode transforma o Terraria em um jogo de visão de cima: sem gravidade, com movimento em 8 direções, golpe de espada na direção do mouse, mundos novos gerados como ilha com os biomas do Terraria (rios, lagos, árvores, cactos, pedras e mato), água em movimento com nado, ciclo de dia e noite, profundidade (y-sort) de árvores, móveis e NPCs, e cavernas com minérios acessadas por escada. Novidades ainda estão sendo adicionadas e alguns sistemas podem mudar nas próximas versões.",
         "updated": "2026-10-25",
@@ -2994,6 +3259,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "无重力、八方向移动、朝光标方向挥砍，并生成包含泰拉瑞亚生物群系的俯视角岛屿世界。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "0.31.0"
         }
       },
       "publishedAt": "2026-10-26T17:28:54Z"
@@ -3002,11 +3272,11 @@
       "uid": "2465f295-e293-4742-93fe-73d86b92c6e5",
       "id": "touhoupets",
       "name": "Touhou Pets",
-      "version": "1.0.4",
+      "version": "1.0.4-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-touhoupets-v1.0.4/touhoupets-1.0.4.bl",
-        "sha256": "bd59c93494638c74161ad48cf215932ff63cd184426a6ff1e4f4e0e715b285a4",
-        "size": 257233
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-touhoupets-v1.0.4-ningzh.1/touhoupets-1.0.4-ningzh.1.bl",
+        "sha256": "0b21fd12c935c26be2b89a30737af46fbb831ad9445fe41f69a37560a15f6fdb",
+        "size": 265586
       },
       "files": [
         "manifest.json",
@@ -3021,23 +3291,23 @@
         "uid": "2465f295-e293-4742-93fe-73d86b92c6e5",
         "id": "touhoupets",
         "name": "Touhou Pets",
-        "version": "1.0.4",
+        "version": "1.0.4-ningzh.1",
         "authors": [
           {
             "name": "中学生",
-            "role": "原 tModLoader 模组",
+            "role": "Original mod (tModLoader)",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2973922820",
             "avatar": "steam.png"
           },
           {
             "name": "Potato",
-            "role": "Bunny Loader 移植",
+            "role": "Port to Bunny Loader",
             "avatar": "potato.png",
             "color": "#E8C170",
             "link": "https://github.com/JonataOliveiraa"
           }
         ],
-        "category": "宠物",
+        "category": "Pets",
         "type": "mod",
         "summary": "Adventure with cute partners: 19 Touhou characters as pets, dropped by the bosses. They animate, react to the world and talk to you and to each other.",
         "license": "GPL-3.0",
@@ -3051,11 +3321,11 @@
         "dependencies": [],
         "links": [
           {
-            "title": "Steam 创意工坊原模组",
+            "title": "Original mod on the Steam Workshop",
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2973922820"
           },
           {
-            "title": "源代码（GitHub）",
+            "title": "Source code (GitHub)",
             "url": "https://github.com/MineGame223/TouhouLittleFriend"
           }
         ],
@@ -3064,6 +3334,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "19 位东方角色化身宠物，由 Boss 掉落；她们拥有动画，会回应周围环境，并与玩家或其他伙伴交谈。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.4"
         }
       }
     },
@@ -3071,11 +3346,11 @@
       "uid": "77b38952-98d6-4e18-a301-638d54c4bfd0",
       "id": "townnpchome",
       "name": "TownNPC Home",
-      "version": "1.0.0",
+      "version": "1.0.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-townnpchome-v1.0.0/townnpchome-1.0.0.bl",
-        "sha256": "7a85ddfac28b4c50b0ffd0e8cf37bd546c50e41751fb9fae6301dbb8ec74b9a6",
-        "size": 35297
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-townnpchome-v1.0.0-ningzh.1/townnpchome-1.0.0-ningzh.1.bl",
+        "sha256": "423b7bae612f6abf7ed34328eb91b921cabb93c908d58b18a36ef396372e02a9",
+        "size": 35710
       },
       "files": [
         "manifest.json",
@@ -3088,17 +3363,17 @@
         "uid": "77b38952-98d6-4e18-a301-638d54c4bfd0",
         "id": "townnpchome",
         "name": "TownNPC Home",
-        "version": "1.0.0",
+        "version": "1.0.0-ningzh.1",
         "authors": [
           {
             "name": "Animatak_",
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.com/invite/tl-pro-402880167737032705",
-            "role": "作者"
+            "role": "Autor"
           }
         ],
-        "category": "实用工具",
+        "category": "Utilidade",
         "summary": "Teleporta NPCs de cidade para suas casas.",
         "updated": "2026-09-27",
         "blVersion": 2,
@@ -3113,6 +3388,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "将城镇 NPC 传送回各自的住所。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.0"
         }
       }
     },
@@ -3120,11 +3400,11 @@
       "uid": "35117929-e61f-42bc-97c5-773228761b99",
       "id": "universalmap",
       "name": "Universal Map",
-      "version": "1.1.2",
+      "version": "1.1.2-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-universalmap-v1.1.2/universalmap-1.1.2.bl",
-        "sha256": "b83ec21c7a5b2e7609a99ee153c06d546491d47dc67e1c3412393535a70fea3a",
-        "size": 71055
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-universalmap-v1.1.2-ningzh.1/universalmap-1.1.2-ningzh.1.bl",
+        "sha256": "a9fadfbcf84a39a7d40865db9583830f1e52a82d81c643155206c22a6f6a7249",
+        "size": 72567
       },
       "files": [
         "manifest.json",
@@ -3140,17 +3420,17 @@
         "uid": "35117929-e61f-42bc-97c5-773228761b99",
         "id": "universalmap",
         "name": "Universal Map",
-        "version": "1.1.2",
+        "version": "1.1.2-ningzh.1",
         "authors": [
           {
             "name": "Animatak_",
-            "role": "作者",
+            "role": "Creator",
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532"
           }
         ],
-        "category": "实用工具",
+        "category": "Utility",
         "summary": "In multiplayer, every player's explored map is shared with everyone every minute.",
         "updated": "2026-10-27",
         "blVersion": 2,
@@ -3167,6 +3447,11 @@
         },
         "localizedNames": {
           "zh-Hans": "通用地图"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.1.2"
         }
       }
     },
@@ -3174,11 +3459,11 @@
       "uid": "ed06a60f-5b26-47ab-b684-e801ff88f2aa",
       "id": "veinminer",
       "name": "Vein Miner",
-      "version": "1.1.0",
+      "version": "1.1.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-veinminer-v1.1.0/veinminer-1.1.0.bl",
-        "sha256": "a1f8564d9d70cefd98459ee1317c0c3db06f1b6c0ac80712b93cbea64ef6c46f",
-        "size": 48291
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-veinminer-v1.1.0-ningzh.1/veinminer-1.1.0-ningzh.1.bl",
+        "sha256": "75b26e1a51181ca8e1d5a3579143590a754d82a26e1c843ab7e09966e048ae95",
+        "size": 49547
       },
       "files": [
         "manifest.json",
@@ -3193,17 +3478,17 @@
         "uid": "ed06a60f-5b26-47ab-b684-e801ff88f2aa",
         "id": "veinminer",
         "name": "Vein Miner",
-        "version": "1.1.0",
+        "version": "1.1.0-ningzh.1",
         "authors": [
           {
             "name": "Animatak_",
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532",
-            "role": "作者"
+            "role": "Author"
           }
         ],
-        "category": "实用工具",
+        "category": "Utility",
         "summary": "Break one ore with your pickaxe and the whole vein comes with it. Add any block with /vein add.",
         "updated": "2026-10-07",
         "blVersion": 2,
@@ -3213,6 +3498,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "用镐敲掉一块矿石，即可连同整条矿脉一起挖掘；使用 /vein add 可添加其他方块。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.1.0"
         }
       }
     },
@@ -3220,11 +3510,11 @@
       "uid": "ddc6440e-bcaf-4bc9-9e21-9633b49bd1bf",
       "id": "vidacheia",
       "name": "Vida Cheia",
-      "version": "1.0.2",
+      "version": "1.0.2-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-vidacheia-v1.0.2/vidacheia-1.0.2.bl",
-        "sha256": "eb1c681bfce26d8b58b04c578fea1989bb99b1267f3c0d0ed5d9fe84c9ed3e6d",
-        "size": 11021
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-vidacheia-v1.0.2-ningzh.1/vidacheia-1.0.2-ningzh.1.bl",
+        "sha256": "e75a91bffcc39d9630203ae49c6ff8bd56cd93e011c375278c3dc8925123469b",
+        "size": 11689
       },
       "files": [
         "manifest.json",
@@ -3241,16 +3531,16 @@
         "uid": "ddc6440e-bcaf-4bc9-9e21-9633b49bd1bf",
         "id": "vidacheia",
         "name": "Vida Cheia",
-        "version": "1.0.2",
+        "version": "1.0.2-ningzh.1",
         "authors": [
           {
             "name": "Bunny Loader",
-            "role": "代码与美术",
+            "role": "Código e arte",
             "avatar": "bunny-loader.png",
             "color": "#F9E141"
           }
         ],
-        "category": "作弊",
+        "category": "Cheat",
         "summary": "Você não morre",
         "license": "MIT",
         "updated": "2026-10-02",
@@ -3271,6 +3561,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "让角色不会死亡。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.2"
         }
       }
     },
@@ -3278,11 +3573,11 @@
       "uid": "f16fc5fd-5b01-42dc-bdbc-669bfda6c090",
       "id": "weaponoutlite",
       "name": "Weapon Out Lite",
-      "version": "1.1.1",
+      "version": "1.1.1-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-weaponoutlite-v1.1.1/weaponoutlite-1.1.1.bl",
-        "sha256": "f054626823eaa3daba2aeeee6493c35c5b2facf8133bde05ba878e8cfa80df63",
-        "size": 168144
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-weaponoutlite-v1.1.1-ningzh.1/weaponoutlite-1.1.1-ningzh.1.bl",
+        "sha256": "c3f29ee1f348437ba9456cfe8dee3265f91a85736c3d84b0438984c43e569638",
+        "size": 168948
       },
       "files": [
         "manifest.json",
@@ -3299,23 +3594,23 @@
         "uid": "f16fc5fd-5b01-42dc-bdbc-669bfda6c090",
         "id": "weaponoutlite",
         "name": "Weapon Out Lite",
-        "version": "1.1.1",
+        "version": "1.1.1-ningzh.1",
         "authors": [
           {
             "name": "Flashkirby",
-            "role": "原作者",
+            "role": "Original Creator",
             "avatar": "steam.png",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3455924006"
           },
           {
             "name": "Animatak_",
-            "role": "移植",
+            "role": "Port",
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532"
           }
         ],
-        "category": "视觉效果",
+        "category": "Visual",
         "summary": "Shows the held item on your character: swords at the waist, weapons on the back, bows, books and staves in their own poses, and combat poses after attacking.",
         "updated": "2026-10-12",
         "blVersion": 2,
@@ -3325,6 +3620,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "在角色身上展示当前手持物品：腰间的剑、背负的武器，以及弓、书和法杖的专属姿势，并加入攻击后的战斗姿势。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.1.1"
         }
       }
     },
@@ -3332,11 +3632,11 @@
       "uid": "be81ae6a-ac8a-4d23-bcd1-2bb8d056d37d",
       "id": "wmitf",
       "name": "Which Mod Is This From?",
-      "version": "1.0.0",
+      "version": "1.0.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-wmitf-v1.0.0/wmitf-1.0.0.bl",
-        "sha256": "ddd402b970bdae51ebc25dc3632c6778e6ec089b09151e4dc42a9e452589cd69",
-        "size": 1001109
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-wmitf-v1.0.0-ningzh.1/wmitf-1.0.0-ningzh.1.bl",
+        "sha256": "fb56dc5c22da377570a5c99205a10a0b14f93798dbdf73de3d3a7e304b0920b8",
+        "size": 1001596
       },
       "files": [
         "manifest.json",
@@ -3351,24 +3651,24 @@
         "uid": "be81ae6a-ac8a-4d23-bcd1-2bb8d056d37d",
         "id": "wmitf",
         "name": "Which Mod Is This From?",
-        "version": "1.0.0",
+        "version": "1.0.0-ningzh.1",
         "authors": [
           {
             "name": "HilariousWalnut34",
-            "role": "原作者",
+            "role": "Original Creator",
             "avatar": "steam.png",
             "color": "#F0F0F0",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2563851005"
           },
           {
             "name": "GST378",
-            "role": "Bunny Loader 移植",
+            "role": "Bunny Loader Port",
             "avatar": "lemon.webp",
             "color": "#FEFE00",
             "link": "https://youtube.com/@gst_378?si=-18HzRizRpiFJrEP"
           }
         ],
-        "category": "实用工具",
+        "category": "Utility",
         "summary": "When you look at a modded item, block or NPC, WMITF will show you the name of the mod which it came from.",
         "updated": "2026-10-02",
         "blVersion": 2,
@@ -3383,6 +3683,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "查看模组物品、方块或 NPC 时，显示它们所属的模组名称。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.0"
         }
       }
     },
@@ -3390,11 +3695,11 @@
       "uid": "821a0c6b-ff63-437b-b3e7-da92f9eae0f8",
       "id": "wikithis",
       "name": "Wikithis",
-      "version": "1.0.0",
+      "version": "1.0.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-wikithis-v1.0.0/wikithis-1.0.0.bl",
-        "sha256": "551e726dca4e0a44ff9178ad2c247bc263e636d35557419740dac39832cac3ae",
-        "size": 1451243
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-wikithis-v1.0.0-ningzh.1/wikithis-1.0.0-ningzh.1.bl",
+        "sha256": "dbb52e389c7ff39a6a997711d5171d40012baa6b1f70f86a927dc96f8296c800",
+        "size": 1451916
       },
       "files": [
         "manifest.json",
@@ -3410,24 +3715,24 @@
         "uid": "821a0c6b-ff63-437b-b3e7-da92f9eae0f8",
         "id": "wikithis",
         "name": "Wikithis",
-        "version": "1.0.0",
+        "version": "1.0.0-ningzh.1",
         "authors": [
           {
             "name": "BasicallyIAmFox",
-            "role": "原作者",
+            "role": "Original Creator",
             "avatar": "steam.png",
             "color": "#F0F0F0",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2832487441"
           },
           {
             "name": "GST378",
-            "role": "Bunny Loader 移植",
+            "role": "Bunny Loader Port",
             "avatar": "lemon.webp",
             "color": "#FEFE00",
             "link": "https://youtube.com/@gst_378?si=-18HzRizRpiFJrEP"
           }
         ],
-        "category": "便利功能",
+        "category": "QoL",
         "summary": "Allows you to check the item wiki from within the game.",
         "theme": {
           "accent": "F0F0F0",
@@ -3447,6 +3752,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "直接在游戏中查询物品的 Wiki 页面。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.0"
         }
       }
     },
@@ -3454,11 +3764,11 @@
       "uid": "3183ab40-81f1-477a-aa50-0df1dde68c58",
       "id": "wildandhorned",
       "name": "Wild and Horned",
-      "version": "1.5.2",
+      "version": "1.5.2-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-wildandhorned-v1.5.2/wildandhorned-1.5.2.bl",
-        "sha256": "740b9fd54fef87ca5f583aeed6a0639d861442d5798dc919629a753681bbb065",
-        "size": 182703
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-wildandhorned-v1.5.2-ningzh.1/wildandhorned-1.5.2-ningzh.1.bl",
+        "sha256": "80bddc63ffdf036d8041d7ed9509cb6bf472835317c2b990b24be074690d0c18",
+        "size": 201708
       },
       "files": [
         "manifest.json",
@@ -3475,28 +3785,28 @@
         "uid": "3183ab40-81f1-477a-aa50-0df1dde68c58",
         "id": "wildandhorned",
         "name": "Wild and Horned",
-        "version": "1.5.2",
+        "version": "1.5.2-ningzh.1",
         "authors": [
           {
             "name": "FuzzyGolf291773",
-            "role": "原模组与宠物动画",
+            "role": "Original mod and pet animations",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3810452158",
             "avatar": "steam.png"
           },
           {
             "name": "MineGame223 and Group For One",
-            "role": "Touhou Little Friend 框架与像素图基础",
+            "role": "Touhou Little Friend framework and sprite foundations",
             "link": "https://github.com/MineGame223/TouhouLittleFriend"
           },
           {
             "name": "Potato",
-            "role": "Bunny Loader 移植与巴西葡萄牙语本地化",
+            "role": "Port to Bunny Loader and Brazilian Portuguese localization",
             "avatar": "potato.png",
             "color": "#E8C170",
             "link": "https://github.com/JonataOliveiraa"
           }
         ],
-        "category": "宠物",
+        "category": "Pets",
         "summary": "Sixteen animated Touhou companions with conversations, seven light pets, crafting recipes and Kasen's oni transformations.",
         "license": "GPL-3.0",
         "updated": "2026-10-04",
@@ -3509,7 +3819,7 @@
         "dependencies": [],
         "links": [
           {
-            "title": "Steam 创意工坊原模组",
+            "title": "Original Steam Workshop mod",
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3810452158"
           },
           {
@@ -3522,6 +3832,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "添加 16 位带动画与对话的东方伙伴、7 位照明宠物、合成配方，以及茨木华扇的鬼形态变身。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.5.2"
         }
       }
     },
@@ -3529,11 +3844,11 @@
       "uid": "55e1d4c5-3dc5-4c73-acaa-52a5bf0750f5",
       "id": "worldgenpreviewer",
       "name": "WorldGen Previewer",
-      "version": "1.2.0",
+      "version": "1.2.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-worldgenpreviewer-v1.2.0/worldgenpreviewer-1.2.0.bl",
-        "sha256": "fdf9f657990f697a7d2cf0e7a1a435bc6beda6fcdc29627cffedb7374e139a96",
-        "size": 141676
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-worldgenpreviewer-v1.2.0-ningzh.1/worldgenpreviewer-1.2.0-ningzh.1.bl",
+        "sha256": "fef2313776af691e96f154c0b27116a735696495a75ce3758587da3eea64d5c7",
+        "size": 143549
       },
       "files": [
         "manifest.json",
@@ -3549,11 +3864,11 @@
         "uid": "55e1d4c5-3dc5-4c73-acaa-52a5bf0750f5",
         "id": "worldgenpreviewer",
         "name": "WorldGen Previewer",
-        "version": "1.2.0",
+        "version": "1.2.0-ningzh.1",
         "authors": [
           {
             "name": "jopojelly",
-            "role": "原作者",
+            "role": "Original Creator",
             "avatar": "steam.png",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2843258712"
           },
@@ -3562,10 +3877,10 @@
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/mkPMd9shZH",
-            "role": "移植"
+            "role": "Port"
           }
         ],
-        "category": "实用工具",
+        "category": "Utility",
         "summary": "Watch your world being generated: a live map filled column by column, pause, skip or repeat steps, or cancel the generation.",
         "localizedSummaries": {
           "pt-BR": "Veja o seu mundo sendo gerado: um mapa ao vivo preenchido coluna por coluna, pause, pule ou repita etapas, ou cancele a geração.",
@@ -3582,6 +3897,11 @@
         "entry": "main.js",
         "localizedNames": {
           "zh-Hans": "世界生成预览"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.2.0"
         }
       }
     },
@@ -3589,11 +3909,11 @@
       "uid": "67770d24-4d80-41b4-bde9-9a1840caf2c8",
       "id": "extendedzoom",
       "name": "Zoom Tweaks",
-      "version": "0.6.2",
+      "version": "0.6.2-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-extendedzoom-v0.6.2/extendedzoom-0.6.2.bl",
-        "sha256": "6777076cccdffb2c125446c1249f6751251d89a5b526c680e81d43f186dcf9b8",
-        "size": 8613
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-extendedzoom-v0.6.2-ningzh.1/extendedzoom-0.6.2-ningzh.1.bl",
+        "sha256": "4ab4081f55e1332bafad69fcb2f889a83618f3387070659e61bdde203fd1d135",
+        "size": 9347
       },
       "files": [
         "manifest.json",
@@ -3605,14 +3925,14 @@
         "uid": "67770d24-4d80-41b4-bde9-9a1840caf2c8",
         "id": "extendedzoom",
         "name": "Zoom Tweaks",
-        "version": "0.6.2",
+        "version": "0.6.2-ningzh.1",
         "authors": [
           {
             "name": "VowTz",
-            "role": "作者"
+            "role": "Author"
           }
         ],
-        "category": "物品",
+        "category": "Itens",
         "summary": "Zoom enhancements",
         "license": "MIT",
         "updated": "2026-10-18",
@@ -3628,6 +3948,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "增强游戏画面的缩放功能。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "0.6.2"
         }
       }
     },
@@ -3635,11 +3960,11 @@
       "uid": "fbb7eb80-3232-4079-998c-cb863e14f3dd",
       "id": "voluntaryhook",
       "name": "愿者上钩 (VoluntaryHook)",
-      "version": "1.1.0",
+      "version": "1.1.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-voluntaryhook-v1.1.0/voluntaryhook-1.1.0.bl",
-        "sha256": "9e2678ec0a19ce094c00301aa4dfeaa88cb7cb9f7c6c1b55b7241d7b6928ecdc",
-        "size": 3947
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-voluntaryhook-v1.1.0-ningzh.1/voluntaryhook-1.1.0-ningzh.1.bl",
+        "sha256": "cd1c1d2980f2eac8eb14533d6d46936f8aaeb61beb4eaa84ac42d4c0c43a3110",
+        "size": 4465
       },
       "files": [
         "manifest.json",
@@ -3652,13 +3977,13 @@
         "uid": "fbb7eb80-3232-4079-998c-cb863e14f3dd",
         "id": "voluntaryhook",
         "name": "愿者上钩 (VoluntaryHook)",
-        "version": "1.1.0",
+        "version": "1.1.0-ningzh.1",
         "authors": [
           {
             "name": "lzup333"
           }
         ],
-        "category": "玩法",
+        "category": "Jogabilidade",
         "summary": "抛出鱼钩后数量固定 5 倍，实现多倍鱼钩。",
         "license": "AGPL-3.0",
         "updated": "2026-10-22",
@@ -3669,6 +3994,11 @@
         },
         "localizedSummaries": {
           "zh-Hans": "抛出鱼钩后，鱼钩数量固定为五倍。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.1.0"
         }
       },
       "publishedAt": "2026-10-22T16:57:49Z"

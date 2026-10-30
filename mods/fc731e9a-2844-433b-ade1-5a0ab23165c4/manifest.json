@@ -2,16 +2,16 @@
   "uid": "fc731e9a-2844-433b-ade1-5a0ab23165c4",
   "id": "hellomod",
   "name": "Minishark Turbo",
-  "version": "1.1.1",
+  "version": "1.1.1-ningzh.1",
   "authors": [
     {
       "name": "Bunny Loader",
-      "role": "代码与美术",
+      "role": "Código e arte",
       "avatar": "bunny-loader.png",
       "color": "#F9E141"
     }
   ],
-  "category": "武器",
+  "category": "Armas",
   "summary": "A Minishark vira uma metralhadora.",
   "license": "MIT",
   "updated": "2026-10-19",
@@ -28,5 +28,10 @@
   },
   "localizedSummaries": {
     "zh-Hans": "让迷你鲨化身高速机枪。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.1.1"
   }
 }

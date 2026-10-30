@@ -2,11 +2,11 @@
   "uid": "5bd9553e-8439-4ddb-a12c-805b34b855e8",
   "id": "bosschecklist",
   "name": "Boss Checklist",
-  "version": "1.1.1",
+  "version": "1.1.1-ningzh.1",
   "authors": [
     {
       "name": "jopojelly",
-      "role": "原作者",
+      "role": "Original Creator",
       "avatar": "steam.png",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2669644269"
     },
@@ -15,16 +15,16 @@
       "avatar": "animatak.png",
       "color": "#841FFF",
       "link": "https://discord.gg/lemon-studio-1422278971227115532",
-      "role": "移植"
+      "role": "Port"
     }
   ],
   "links": [
     {
-      "title": "原模组",
+      "title": "Original Mod",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2669644269"
     }
   ],
-  "category": "界面",
+  "category": "Interface",
   "summary": "A Boss Log book with every boss, mini-boss and event: progress checklist, spawn items and recipes, loot and collectibles, fight records, despawn messages and a boss radar.",
   "updated": "2026-10-27",
   "blVersion": 2,
@@ -41,5 +41,10 @@
   },
   "localizedNames": {
     "zh-Hans": "Boss 清单"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.1.1"
   }
 }

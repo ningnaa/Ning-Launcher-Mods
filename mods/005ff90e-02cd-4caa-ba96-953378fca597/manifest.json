@@ -3,17 +3,17 @@
   "id": "no-useless-pickups",
   "name": "No Useless Pickups",
   "summary": "Consumable pickups (life hearts, mana stars, and Nebula boosters) can no longer be picked up if they are not needed.",
-  "version": "1.0.0",
+  "version": "1.0.0-ningzh.1",
   "authors": [
     {
       "name": "Lunaros",
-      "role": "原作者",
+      "role": "Original Creator",
       "avatar": "steam.png",
       "color": "#FFFFFF",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3288950444"
     }
   ],
-  "category": "便利功能",
+  "category": "QoL",
   "updated": "2026-10-22",
   "blVersion": 2,
   "gameVersion": [
@@ -27,5 +27,10 @@
   },
   "localizedSummaries": {
     "zh-Hans": "不需要回复或增益时，不再拾取生命心、魔力星和星云强化焰等消耗性掉落物。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.0.0"
   }
 }

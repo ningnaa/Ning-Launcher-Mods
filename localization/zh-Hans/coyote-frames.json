@@ -1,0 +1,6 @@
+{
+  "Configs.CoyoteConfig.Messages.Label": "消息",
+  "Configs.CoyoteConfig.WelcomeMessageToggle.Label": "显示欢迎消息",
+  "Configs.CoyoteConfig.Frames.Label": "帧数",
+  "Configs.CoyoteConfig.CoyoteTimeFramesDefault.Label": "离地后可起跳的帧数"
+}

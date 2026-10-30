@@ -3,17 +3,17 @@
   "id": "mc-paintings",
   "name": "Minecraft Paintings",
   "summary": "Minecraft Paintings is a small-scale aesthetic content mod that adds all 30 paintings featured in Minecraft, manually recreated to include less noise and tile dimensions fitting Terraria paintings.",
-  "version": "1.0.0",
+  "version": "1.0.0-ningzh.1",
   "authors": [
     {
       "name": "Barometz",
-      "role": "原作者",
+      "role": "Original Creator",
       "avatar": "github.png",
       "color": "#FFFFFF",
       "link": "https://github.com/Barometz-Mod/MinecraftPaintings"
     }
   ],
-  "category": "视觉效果",
+  "category": "Visual",
   "updated": "2026-10-22",
   "blVersion": 2,
   "gameVersion": [
@@ -27,5 +27,10 @@
   },
   "localizedSummaries": {
     "zh-Hans": "添加《我的世界》的 30 幅画作，手工重绘以减少杂点，并适配泰拉瑞亚的画作尺寸。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.0.0"
   }
 }

@@ -2,23 +2,23 @@
   "uid": "2465f295-e293-4742-93fe-73d86b92c6e5",
   "id": "touhoupets",
   "name": "Touhou Pets",
-  "version": "1.0.4",
+  "version": "1.0.4-ningzh.1",
   "authors": [
     {
       "name": "中学生",
-      "role": "原 tModLoader 模组",
+      "role": "Original mod (tModLoader)",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2973922820",
       "avatar": "steam.png"
     },
     {
       "name": "Potato",
-      "role": "Bunny Loader 移植",
+      "role": "Port to Bunny Loader",
       "avatar": "potato.png",
       "color": "#E8C170",
       "link": "https://github.com/JonataOliveiraa"
     }
   ],
-  "category": "宠物",
+  "category": "Pets",
   "type": "mod",
   "summary": "Adventure with cute partners: 19 Touhou characters as pets, dropped by the bosses. They animate, react to the world and talk to you and to each other.",
   "license": "GPL-3.0",
@@ -32,11 +32,11 @@
   "dependencies": [],
   "links": [
     {
-      "title": "Steam 创意工坊原模组",
+      "title": "Original mod on the Steam Workshop",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2973922820"
     },
     {
-      "title": "源代码（GitHub）",
+      "title": "Source code (GitHub)",
       "url": "https://github.com/MineGame223/TouhouLittleFriend"
     }
   ],
@@ -45,5 +45,10 @@
   },
   "localizedSummaries": {
     "zh-Hans": "19 位东方角色化身宠物，由 Boss 掉落；她们拥有动画，会回应周围环境，并与玩家或其他伙伴交谈。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.0.4"
   }
 }

@@ -1,0 +1,20 @@
+{
+  "Configs.QoBConfig.DeathHeader.Label": "死亡与战斗",
+  "Configs.QoBConfig.RespawnFullHP.Label": "复活时恢复全部生命值",
+  "Configs.QoBConfig.FasterRespawn.Label": "加快复活",
+  "Configs.QoBConfig.KeepBuffs.Label": "死亡后保留增益",
+  "Configs.QoBConfig.NoTombstone.Label": "不生成墓碑",
+  "Configs.QoBConfig.NoDamageVariance.Label": "取消伤害浮动",
+  "Configs.QoBConfig.BuffHeader.Label": "增益与制作站",
+  "Configs.QoBConfig.InfinitePotions.Label": "无限药水增益",
+  "Configs.QoBConfig.PotionsNeeded.Label": "所需药水数量",
+  "Configs.QoBConfig.InfiniteStations.Label": "无限制作站增益",
+  "Configs.QoBConfig.PortableStations.Label": "便携制作站",
+  "Configs.QoBConfig.WorldHeader.Label": "世界",
+  "Configs.QoBConfig.NoBiomeSpread.Label": "禁止生物群系蔓延",
+  "Configs.QoBConfig.PylonNoNPC.Label": "晶塔无需附近有 NPC",
+  "Configs.QoBConfig.ItemHeader.Label": "物品",
+  "Configs.QoBConfig.ShowModName.Label": "显示所属模组名称",
+  "Configs.QoBConfig.InfiniteAnglerQuests.Label": "无限渔夫任务",
+  "Configs.QoBConfig.GlowingLife.Label": "生命水晶和生命果发光"
+}

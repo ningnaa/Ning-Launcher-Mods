@@ -2,18 +2,18 @@
   "uid": "19e3900c-83a2-4e9f-9724-1a38f82dcae9",
   "id": "fontecomicneue",
   "name": "Fonte Comic Neue",
-  "version": "1.0.0",
+  "version": "1.0.0-ningzh.1",
   "authors": [
     {
       "name": "Bunny Loader",
-      "role": "资源包制作",
+      "role": "Pacote",
       "avatar": "bunny-loader.png",
       "color": "#F9E141"
     },
     "Comic Neue Project Authors"
   ],
   "type": "font",
-  "category": "字体",
+  "category": "Fontes",
   "summary": "Troca as fontes do jogo pela Comic Neue, nítida em qualquer tela",
   "license": "OFL-1.1",
   "updated": "2026-10-18",
@@ -32,5 +32,10 @@
   },
   "localizedSummaries": {
     "zh-Hans": "将游戏字体替换为 Comic Neue，在不同屏幕上保持清晰。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.0.0"
   }
 }

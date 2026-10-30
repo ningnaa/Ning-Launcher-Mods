@@ -2,28 +2,28 @@
   "uid": "3183ab40-81f1-477a-aa50-0df1dde68c58",
   "id": "wildandhorned",
   "name": "Wild and Horned",
-  "version": "1.5.2",
+  "version": "1.5.2-ningzh.1",
   "authors": [
     {
       "name": "FuzzyGolf291773",
-      "role": "原模组与宠物动画",
+      "role": "Original mod and pet animations",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3810452158",
       "avatar": "steam.png"
     },
     {
       "name": "MineGame223 and Group For One",
-      "role": "Touhou Little Friend 框架与像素图基础",
+      "role": "Touhou Little Friend framework and sprite foundations",
       "link": "https://github.com/MineGame223/TouhouLittleFriend"
     },
     {
       "name": "Potato",
-      "role": "Bunny Loader 移植与巴西葡萄牙语本地化",
+      "role": "Port to Bunny Loader and Brazilian Portuguese localization",
       "avatar": "potato.png",
       "color": "#E8C170",
       "link": "https://github.com/JonataOliveiraa"
     }
   ],
-  "category": "宠物",
+  "category": "Pets",
   "summary": "Sixteen animated Touhou companions with conversations, seven light pets, crafting recipes and Kasen's oni transformations.",
   "license": "GPL-3.0",
   "updated": "2026-10-04",
@@ -36,7 +36,7 @@
   "dependencies": [],
   "links": [
     {
-      "title": "Steam 创意工坊原模组",
+      "title": "Original Steam Workshop mod",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3810452158"
     },
     {
@@ -49,5 +49,10 @@
   },
   "localizedSummaries": {
     "zh-Hans": "添加 16 位带动画与对话的东方伙伴、7 位照明宠物、合成配方，以及茨木华扇的鬼形态变身。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.5.2"
   }
 }

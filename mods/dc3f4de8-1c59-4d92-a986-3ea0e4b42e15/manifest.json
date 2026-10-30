@@ -2,19 +2,19 @@
   "uid": "dc3f4de8-1c59-4d92-a986-3ea0e4b42e15",
   "id": "cooleritemvisualeffect",
   "name": "Cooler Item Visual Effect — Bunny Port",
-  "version": "1.0.9-bunny.9",
+  "version": "1.0.9-bunny.9.ningzh.2",
   "authors": [
     {
       "name": "Log Spiral (Original Creator)",
-      "role": "原模组与视觉资源"
+      "role": "Original mod and visual assets"
     },
     {
       "name": "Castorzeira (port)",
       "avatar": "Castorzeira.png",
-      "role": "Bunny Loader 移植"
+      "role": "Bunny Loader port"
     }
   ],
-  "category": "视觉效果",
+  "category": "Visual",
   "summary": "Efeito Slash Maneiro",
   "description": "efeito slash totalmente exagerado e bonito",
   "updated": "2026-10-20",
@@ -25,5 +25,10 @@
   },
   "localizedSummaries": {
     "zh-Hans": "夸张而华丽的挥砍特效，Bunny Loader 移植版。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 2,
+    "baseVersion": "1.0.9-bunny.9"
   }
 }

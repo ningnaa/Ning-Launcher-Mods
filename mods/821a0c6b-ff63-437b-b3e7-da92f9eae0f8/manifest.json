@@ -2,24 +2,24 @@
   "uid": "821a0c6b-ff63-437b-b3e7-da92f9eae0f8",
   "id": "wikithis",
   "name": "Wikithis",
-  "version": "1.0.0",
+  "version": "1.0.0-ningzh.1",
   "authors": [
     {
       "name": "BasicallyIAmFox",
-      "role": "原作者",
+      "role": "Original Creator",
       "avatar": "steam.png",
       "color": "#F0F0F0",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2832487441"
     },
     {
       "name": "GST378",
-      "role": "Bunny Loader 移植",
+      "role": "Bunny Loader Port",
       "avatar": "lemon.webp",
       "color": "#FEFE00",
       "link": "https://youtube.com/@gst_378?si=-18HzRizRpiFJrEP"
     }
   ],
-  "category": "便利功能",
+  "category": "QoL",
   "summary": "Allows you to check the item wiki from within the game.",
   "theme": {
     "accent": "F0F0F0",
@@ -39,5 +39,10 @@
   },
   "localizedSummaries": {
     "zh-Hans": "直接在游戏中查询物品的 Wiki 页面。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.0.0"
   }
 }

@@ -2,17 +2,17 @@
   "uid": "adbf3a32-2952-41cc-8d97-7c3b1575785d",
   "id": "moddifficulty",
   "name": "Legendary Difficulty",
-  "version": "1.0.0",
+  "version": "1.0.0-ningzh.1",
   "authors": [
     {
       "name": "GST378",
-      "role": "作者",
+      "role": "author",
       "avatar": "0.jpg",
       "color": "#ffffff",
       "link": "https://youtube.com/@gst_378"
     }
   ],
-  "category": "玩法",
+  "category": "Gameplay",
   "summary": "为游戏添加自定义世界难度（原版只有普通/专家/大师/旅行难度），并加入传奇难度。.",
   "license": "",
   "updated": "2026-10-16",
@@ -28,5 +28,10 @@
   },
   "localizedSummaries": {
     "zh-Hans": "为游戏添加自定义世界难度，并在原版普通、专家、大师和旅行难度之外加入传奇难度。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.0.0"
   }
 }

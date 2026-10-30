@@ -2,14 +2,14 @@
   "uid": "cece9409-844d-476a-8953-1a59de78db92",
   "id": "directionalswings",
   "name": "Directional Swings",
-  "version": "1.1.1",
+  "version": "1.1.1-ningzh.1",
   "authors": [
     {
       "name": "VowTz",
-      "role": "作者"
+      "role": "Author"
     }
   ],
-  "category": "玩法",
+  "category": "Jogabilidade",
   "summary": "Melee swords swing toward where you aim, and the hitbox follows the blade.",
   "license": "MIT",
   "updated": "2026-10-25",
@@ -25,5 +25,10 @@
   },
   "localizedSummaries": {
     "zh-Hans": "近战剑朝瞄准方向挥动，攻击判定跟随剑刃。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.1.1"
   }
 }

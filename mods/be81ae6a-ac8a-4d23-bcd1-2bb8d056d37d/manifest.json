@@ -2,24 +2,24 @@
   "uid": "be81ae6a-ac8a-4d23-bcd1-2bb8d056d37d",
   "id": "wmitf",
   "name": "Which Mod Is This From?",
-  "version": "1.0.0",
+  "version": "1.0.0-ningzh.1",
   "authors": [
     {
       "name": "HilariousWalnut34",
-      "role": "原作者",
+      "role": "Original Creator",
       "avatar": "steam.png",
       "color": "#F0F0F0",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2563851005"
     },
     {
       "name": "GST378",
-      "role": "Bunny Loader 移植",
+      "role": "Bunny Loader Port",
       "avatar": "lemon.webp",
       "color": "#FEFE00",
       "link": "https://youtube.com/@gst_378?si=-18HzRizRpiFJrEP"
     }
   ],
-  "category": "实用工具",
+  "category": "Utility",
   "summary": "When you look at a modded item, block or NPC, WMITF will show you the name of the mod which it came from.",
   "updated": "2026-10-02",
   "blVersion": 2,
@@ -34,5 +34,10 @@
   },
   "localizedSummaries": {
     "zh-Hans": "查看模组物品、方块或 NPC 时，显示它们所属的模组名称。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.0.0"
   }
 }

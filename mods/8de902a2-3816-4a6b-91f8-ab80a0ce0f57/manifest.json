@@ -2,11 +2,11 @@
   "uid": "8de902a2-3816-4a6b-91f8-ab80a0ce0f57",
   "id": "teleportkeeper",
   "name": "Teleport Keeper",
-  "version": "1.2.0",
+  "version": "1.2.0-ningzh.1",
   "authors": [
     {
       "name": "Animatak_",
-      "role": "作者",
+      "role": "Author",
       "avatar": "animatak.png",
       "color": "#841FFF",
       "link": "https://discord.gg/mkPMd9shZH"
@@ -18,7 +18,7 @@
       "url": "https://discord.gg/mkPMd9shZH"
     }
   ],
-  "category": "实用工具",
+  "category": "Utility",
   "summary": "Create teleports with a name and a biome icon, organize them in a list with search, favorites and filters, and travel to them from the map. When you die, a way back that is only yours.",
   "localizedSummaries": {
     "pt-BR": "Crie teleportes com nome e ícone do bioma, organize-os numa lista com busca, favoritos e filtros, e viaje até eles pelo mapa. Ao morrer, um ponto de volta só seu.",
@@ -33,5 +33,10 @@
   "entry": "main.js",
   "localizedNames": {
     "zh-Hans": "传送点管家"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.2.0"
   }
 }

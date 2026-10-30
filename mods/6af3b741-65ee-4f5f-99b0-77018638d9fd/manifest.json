@@ -2,30 +2,30 @@
   "uid": "6af3b741-65ee-4f5f-99b0-77018638d9fd",
   "id": "disablecorruptionspread",
   "name": "Begone, Evil! (Disable Evil Biome Spread)",
-  "version": "1.0",
+  "version": "1.0-ningzh.1",
   "authors": [
     {
       "name": "Mantovani",
-      "role": "Bunny Loader 移植、修复与优化",
+      "role": "Bunny Loader port, fixes & optimization",
       "avatar": "mantovani.webp",
       "color": "#FFD700"
     },
     {
       "name": "jopojelly",
-      "role": "原模组作者",
+      "role": "Original mod creator",
       "avatar": "jopojelly.webp",
       "color": "#FFFFFF",
       "link": "https://forums.terraria.org/index.php?threads/begone-evil-disable-corruption-spread.72285/"
     }
   ],
-  "category": "实用工具",
+  "category": "Utilidade",
   "summary": "Disables natural Corruption, Crimson and Hallow biome spread by default, with a per-world /spread toggle.",
   "updated": "2026-10-04",
   "blVersion": 2,
   "entry": "main.js",
   "links": [
     {
-      "title": "原模组",
+      "title": "Original mod",
       "url": "https://forums.terraria.org/index.php?threads/begone-evil-disable-corruption-spread.72285/"
     }
   ],
@@ -34,5 +34,10 @@
   },
   "localizedSummaries": {
     "zh-Hans": "默认阻止腐化、猩红与神圣之地自然蔓延，可使用 /spread 为每个世界单独切换。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.0"
   }
 }

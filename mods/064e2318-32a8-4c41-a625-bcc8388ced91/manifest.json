@@ -2,22 +2,22 @@
   "uid": "064e2318-32a8-4c41-a625-bcc8388ced91",
   "id": "gnorpbuilder",
   "name": "Gnorp's Builder",
-  "version": "1.3.8.5",
+  "version": "1.3.8.5-ningzh.1",
   "authors": [
     {
       "name": "Korlex",
-      "role": "原作者",
+      "role": "Original Creator",
       "avatar": "steam.png"
     },
     {
       "name": "Animatak_",
-      "role": "移植",
+      "role": "Port",
       "avatar": "animatak.png",
       "color": "#841FFF",
       "link": "https://discord.gg/mkPMd9shZH"
     }
   ],
-  "category": "世界",
+  "category": "World",
   "summary": "Gnorp, an alien builder town NPC, sells globes that instantly build houses, castles, arenas, elevators, pylons, lakes and minecart tracks where you tap.",
   "localizedSummaries": {
     "pt-BR": "Gnorp, um NPC construtor alienígena, vende globos que constroem na hora casas, castelos, arenas, elevadores, pilares, lagos e trilhos onde você toca.",
@@ -34,5 +34,10 @@
   "entry": "main.js",
   "localizedNames": {
     "zh-Hans": "Gnorp 建筑师"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.3.8.5"
   }
 }

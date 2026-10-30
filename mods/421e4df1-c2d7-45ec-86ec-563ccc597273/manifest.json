@@ -2,11 +2,11 @@
   "uid": "421e4df1-c2d7-45ec-86ec-563ccc597273",
   "id": "npcunlockannouncer",
   "name": "NPC Unlock Announcer",
-  "version": "1.0.0",
+  "version": "1.0.0-ningzh.1",
   "authors": [
     {
       "name": "EurusK",
-      "role": "原作者",
+      "role": "Original Creator",
       "avatar": "steam.png",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3631856806"
     },
@@ -15,10 +15,10 @@
       "avatar": "animatak.png",
       "color": "#841FFF",
       "link": "https://discord.gg/lemon-studio-1422278971227115532",
-      "role": "移植"
+      "role": "Port"
     }
   ],
-  "category": "界面",
+  "category": "Interface",
   "summary": "An RPG-style banner announces every Town NPC and town pet that moves into your world.",
   "updated": "2026-10-13",
   "blVersion": 2,
@@ -28,5 +28,10 @@
   },
   "localizedSummaries": {
     "zh-Hans": "当城镇 NPC 或城镇宠物入住时，显示角色扮演游戏风格的公告横幅。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.0.0"
   }
 }

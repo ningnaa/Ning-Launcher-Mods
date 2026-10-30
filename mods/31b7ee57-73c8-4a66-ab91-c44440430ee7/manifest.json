@@ -2,24 +2,24 @@
   "uid": "31b7ee57-73c8-4a66-ab91-c44440430ee7",
   "id": "abusegoblin",
   "name": "Abuse Goblin",
-  "version": "1.0.0",
+  "version": "1.0.0-ningzh.1",
   "authors": [
     {
       "name": "Animatak_",
       "avatar": "animatak.png",
       "color": "#841FFF",
       "link": "https://discord.gg/lemon-studio-1422278971227115532",
-      "role": "移植"
+      "role": "Port"
     },
     {
       "name": "al",
-      "role": "原作者",
+      "role": "Original Creator",
       "avatar": "steam.png",
       "color": "#F0F0F0",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3796173238"
     }
   ],
-  "category": "玩法",
+  "category": "Gameplay",
   "summary": "Hit the Goblin Tinkerer with any weapon to lower his reforge prices.",
   "updated": "2026-10-08",
   "blVersion": 2,
@@ -29,5 +29,10 @@
   },
   "localizedSummaries": {
     "zh-Hans": "用任意武器攻击哥布林工匠，降低他的重铸价格。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.0.0"
   }
 }

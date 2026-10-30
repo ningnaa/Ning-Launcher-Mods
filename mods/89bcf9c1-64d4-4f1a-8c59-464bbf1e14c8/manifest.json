@@ -2,13 +2,13 @@
   "uid": "89bcf9c1-64d4-4f1a-8c59-464bbf1e14c8",
   "id": "qualityofbunny",
   "name": "Quality of Bunny",
-  "version": "68",
+  "version": "68-ningzh.1",
   "authors": [
     {
       "name": "VowTz"
     }
   ],
-  "category": "实用工具",
+  "category": "Utilidade",
   "summary": "Quality-of-life tweaks, every one a toggle in Mod Configuration.",
   "license": "MIT",
   "updated": "2026-10-25",
@@ -19,5 +19,10 @@
   },
   "localizedSummaries": {
     "zh-Hans": "提供多项便利性改进，每项都可在模组配置中单独开关。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "68"
   }
 }

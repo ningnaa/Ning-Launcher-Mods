@@ -1,0 +1,17 @@
+{
+  "LogMessage.LateCall": "调用警告: 尝试的消息, '{0}', 过早发送. 预计将不会返回完整的调用信息. 为了获得最佳结果, 请在PostAddRecipes中进行调用.",
+  "LogMessage.ModCallDocumentation": "已更新的BossChecklist的Mod.Call文档在此处: https://github.com/JavidPack/BossChecklist/wiki/[1.4.4]-Boss-Log-Entry-Mod-Call",
+  "LogMessage.OldCall_Orphan": "来自{1}的{0}Mod调用结构不正确. Mod开发者可以参阅以下链接:\n https://github.com/JavidPack/BossChecklist/wiki/[1.4.4]-Other-Mod-Calls",
+  "LogMessage.MustContainMod": "({0}) 传递的Mod实例无效. 你的调用必须包含Mod实例才能生成条目键.",
+  "LogMessage.MustContainName": "({internalName}) 传递的内部名称无效. 你的调用必须包含由字母和/或数字组成的字符串, 并且其中不含空白字符, 以便生成条目键.",
+  "LogMessage.MustContainMod_Orphan": "({0}) 传递的Mod实例无效. 为了日志记录，你的调用必须包含Mod实例.",
+  "LogMessage.DuplicateEntry": "检查你的代码是否存在重复条目或拼写错误，因为此条目已被注册: [{0}{1}]",
+  "LogMessage.RegisteredBosses": "{0}已成功注册{1}Boss: {2}",
+  "LogMessage.RegisteredMiniBosses": "{0}已成功注册{1}小Boss: {2}",
+  "LogMessage.RegisteredEvents": "{0}已成功注册{1}事件: {2}",
+  "LogMessage.SuccessfulOrphanData": "{0}已成功注册{1}'{2}'孤立数据值",
+  "LogMessage.InvalidOrphanKey": "来自{1}的'{0}'调用包含无效键 ({2}) , 将被忽略.",
+  "LogMessage.InvalidEventEntry": "{0}不是事件条目并且无法响应{1}的调用",
+  "LogMessage.DownedIsNull": "在为[{0}]创建Boss日志条目时提交的参数确定为空. 在ModCall问题解决之前, 条目不会被添加.",
+  "LogMessage.RegisteredEntry": "已成功向 Boss 日志注册条目：[{0}]"
+}

@@ -1,0 +1,8 @@
+{
+  "EnableCorruptionSpread": "启用生物群系蔓延",
+  "DisableCorruptionSpread": "禁用生物群系蔓延",
+  "CorruptionSpreadDisabledMessage": "已禁用蔓延。腐化、猩红与神圣生物群系将不再自然蔓延。",
+  "CorruptionSpreadEnabledMessage": "已启用蔓延。腐化、猩红与神圣生物群系将正常蔓延。",
+  "OnEnterWorldWarnCorruptionSpreadEnabled": "警告：生物群系蔓延已启用。腐化、猩红与神圣将正常蔓延。在聊天中输入 /spread 可再次禁用。",
+  "UseHerosButtonInstead": "请改用 HERO's Mod 中的按钮。"
+}

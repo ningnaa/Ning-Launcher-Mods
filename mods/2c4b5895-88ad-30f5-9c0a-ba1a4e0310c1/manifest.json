@@ -2,24 +2,24 @@
   "uid": "2c4b5895-88ad-30f5-9c0a-ba1a4e0310c1",
   "id": "fonte-ale-and-wenches",
   "name": "Fonte Ale and Wenches",
-  "version": "1.0.0",
+  "version": "1.0.0-ningzh.1",
   "author": "Nate Piekos (Blambot)",
   "authors": [
     {
       "name": "Nate Piekos (Blambot)",
-      "role": "原字体",
+      "role": "Fonte original",
       "link": "https://blambot.com"
     },
     {
       "name": "Potato",
-      "role": "Bunny Loader 移植",
+      "role": "Port para o Bunny Loader",
       "avatar": "potato.png",
       "color": "#E8C170",
       "link": "https://github.com/JonataOliveiraa"
     }
   ],
   "type": "font",
-  "category": "字体",
+  "category": "Fontes",
   "summary": "Letra de taverna medieval, desenhada à mão",
   "license": "Freeware não comercial (Blambot)",
   "blVersion": 2,
@@ -29,7 +29,7 @@
   ],
   "links": [
     {
-      "title": "原字体",
+      "title": "Fonte original",
       "url": "https://blambot.com"
     }
   ],
@@ -43,5 +43,10 @@
   },
   "localizedSummaries": {
     "zh-Hans": "手绘风格的中世纪酒馆字体。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.0.0"
   }
 }

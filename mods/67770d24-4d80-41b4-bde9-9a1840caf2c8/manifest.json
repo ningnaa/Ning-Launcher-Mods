@@ -2,14 +2,14 @@
   "uid": "67770d24-4d80-41b4-bde9-9a1840caf2c8",
   "id": "extendedzoom",
   "name": "Zoom Tweaks",
-  "version": "0.6.2",
+  "version": "0.6.2-ningzh.1",
   "authors": [
     {
       "name": "VowTz",
-      "role": "作者"
+      "role": "Author"
     }
   ],
-  "category": "物品",
+  "category": "Itens",
   "summary": "Zoom enhancements",
   "license": "MIT",
   "updated": "2026-10-18",
@@ -25,5 +25,10 @@
   },
   "localizedSummaries": {
     "zh-Hans": "增强游戏画面的缩放功能。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "0.6.2"
   }
 }

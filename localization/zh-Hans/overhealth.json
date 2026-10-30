@@ -1,0 +1,18 @@
+{
+  "Configs.OverhealthConfig.Gameplay.Label": "玩法",
+  "Configs.OverhealthConfig.Enabled.Label": "启用额外生命值",
+  "Configs.OverhealthConfig.MaximumOverhealth.Label": "额外生命值上限",
+  "Configs.OverhealthConfig.Decay.Label": "衰减",
+  "Configs.OverhealthConfig.ConstantDecay.Label": "固定衰减",
+  "Configs.OverhealthConfig.ProgressiveDecay.Label": "渐进衰减",
+  "Configs.OverhealthConfig.DecayMultiplier.Label": "衰减倍率",
+  "Configs.OverhealthConfig.Visuals.Label": "显示",
+  "Configs.OverhealthConfig.ShowUI.Label": "显示额外生命值面板",
+  "Configs.OverhealthConfig.HudX.Label": "面板水平位置",
+  "Configs.OverhealthConfig.HudY.Label": "面板垂直位置",
+  "Configs.OverhealthConfig.HudScale.Label": "面板大小",
+  "Configs.OverhealthConfig.HudOpacity.Label": "面板不透明度",
+  "Configs.OverhealthConfig.Other.Label": "其他",
+  "Configs.OverhealthConfig.DebugLog.Label": "调试日志",
+  "Configs.OverhealthConfig.DemoHud.Label": "预览面板"
+}

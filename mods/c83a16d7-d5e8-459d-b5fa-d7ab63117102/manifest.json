@@ -2,11 +2,11 @@
   "uid": "c83a16d7-d5e8-459d-b5fa-d7ab63117102",
   "id": "bestiarydisplays",
   "name": "Bestiary Displays",
-  "version": "1.1.0",
+  "version": "1.1.0-ningzh.1",
   "authors": [
     {
       "name": "JaquavionBennet",
-      "role": "原作者",
+      "role": "Original Creator",
       "avatar": "steam.png",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3760868784"
     },
@@ -15,10 +15,10 @@
       "avatar": "animatak.png",
       "color": "#841FFF",
       "link": "https://discord.gg/lemon-studio-1422278971227115532",
-      "role": "移植"
+      "role": "Port"
     }
   ],
-  "category": "装饰",
+  "category": "Decoration",
   "summary": "Hologram Projectors that show any unlocked Bestiary creature as an animated, configurable hologram.",
   "updated": "2026-10-13",
   "blVersion": 2,
@@ -28,5 +28,10 @@
   },
   "localizedSummaries": {
     "zh-Hans": "用全息投影仪展示图鉴中已解锁的生物，支持动画和多种显示设置。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.1.0"
   }
 }

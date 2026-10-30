@@ -2,9 +2,9 @@
   "uid": "cd8c4f20-bc13-4b47-a508-305a6fc05ae2",
   "id": "templopiramide",
   "name": "Templo Pirâmide",
-  "version": "1.1.1",
+  "version": "1.1.1-ningzh.1",
   "author": "Cortex",
-  "category": "玩法",
+  "category": "Jogabilidade",
   "summary": "Uma pirâmide Lihzahrd com andares distantes, câmaras e um grande salão para o Golem.",
   "updated": "2026-10-19",
   "blVersion": 2,
@@ -19,5 +19,10 @@
   },
   "localizedSummaries": {
     "zh-Hans": "将丛林蜥蜴神庙改造成层间距宽阔、带有多个房间及石巨人大厅的金字塔。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.1.1"
   }
 }

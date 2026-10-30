@@ -1,0 +1,6 @@
+{
+  "Configs.DirectionalSwingsConfig.Enabled.Label": "定向挥击",
+  "Configs.DirectionalSwingsConfig.Tools.Label": "工具也使用定向挥击",
+  "Configs.DirectionalSwingsConfig.LockAim.Label": "挥击开始时锁定瞄准方向",
+  "Configs.DirectionalSwingsConfig.Arc.Label": "挥击弧度"
+}

@@ -2,11 +2,11 @@
   "uid": "a9538fc3-d926-43dd-a893-6d49a83da1c9",
   "id": "lootbeams",
   "name": "Loot Beams",
-  "version": "1.1.2",
+  "version": "1.1.2-ningzh.1",
   "authors": [
     {
       "name": "ChemAtDark",
-      "role": "原作者",
+      "role": "Original Creator",
       "avatar": "steam.png",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2847872897"
     },
@@ -15,10 +15,10 @@
       "avatar": "animatak.png",
       "color": "#841FFF",
       "link": "https://discord.gg/lemon-studio-1422278971227115532",
-      "role": "移植"
+      "role": "Port"
     }
   ],
-  "category": "视觉效果",
+  "category": "Visual",
   "summary": "Borderlands-style light beams and glows in each dropped item's rarity color, with beam styles, glow and configurable lists.",
   "updated": "2026-10-12",
   "blVersion": 2,
@@ -28,5 +28,10 @@
   },
   "localizedSummaries": {
     "zh-Hans": "为掉落物添加《无主之地》风格的稀有度彩色光柱与光晕，支持样式和筛选列表设置。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.1.2"
   }
 }

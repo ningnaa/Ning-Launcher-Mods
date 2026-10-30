@@ -2,31 +2,31 @@
   "uid": "30f21a81-4240-420b-a9ba-924e917fc571",
   "id": "terrarchitect",
   "name": "Terrarchitect",
-  "version": "1.0.3",
+  "version": "1.0.3-ningzh.1",
   "authors": [
     {
       "name": "Gurgle_Nurgle",
-      "role": "像素美术",
+      "role": "Spritework",
       "avatar": "0.png",
       "color": "#F0F0F0",
       "link": "https://github.com/GurgleNurgle"
     },
     {
       "name": "silent_ptr",
-      "role": "代码",
+      "role": "Coding",
       "avatar": "1.jpeg",
       "color": "#F0F0F0",
       "link": "https://github.com/silentptr"
     },
     {
       "name": "Zandberg",
-      "role": "代码",
+      "role": "Coding",
       "avatar": "2.png",
       "color": "#F0F0F0",
       "link": "https://github.com/Zandberg-x"
     }
   ],
-  "category": "建筑",
+  "category": "Building",
   "summary": "Terrarchitect is a furniture / build mod that adds a wide variety of custom-made, high-quality decorational items and blocks to Terraria! It also aims to make some previously ubobtainable or unplacable vanilla items available.",
   "updated": "2026-10-09",
   "blVersion": 2,
@@ -50,11 +50,11 @@
   },
   "links": [
     {
-      "title": "Reddit 社区",
+      "title": "Subreddit",
       "url": "https://www.reddit.com/r/Terrarchitect/"
     },
     {
-      "title": "论坛",
+      "title": "Forum",
       "url": "https://forums.terraria.org/index.php?threads/terrarchitect.95959/"
     },
     {
@@ -67,5 +67,10 @@
   },
   "localizedSummaries": {
     "zh-Hans": "添加大量精细的家具、装饰物和方块，并让部分原本无法获取或放置的原版物品可以使用。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.0.3"
   }
 }

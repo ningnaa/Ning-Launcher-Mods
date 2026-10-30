@@ -3,17 +3,17 @@
   "id": "atmospheric-torches",
   "name": "Atmospheric Torches",
   "summary": "This mod simply adds an orange tint to normal torches and tiki torches, with their placed tiles and biome torches getting a slight flicker for atmosphere.",
-  "version": "1.0.0",
+  "version": "1.0.0-ningzh.1",
   "authors": [
     {
       "name": "Orion",
-      "role": "原作者",
+      "role": "Original Creator",
       "avatar": "steam.png",
       "color": "#F0F0F0",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2817496179"
     }
   ],
-  "category": "视觉效果",
+  "category": "Visual",
   "updated": "2026-10-15",
   "blVersion": 2,
   "gameVersion": [
@@ -27,5 +27,10 @@
   },
   "localizedSummaries": {
     "zh-Hans": "为普通火把和提基火把增添橙色光晕，并让放置后的火把及生物群系火把轻微闪烁。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.0.0"
   }
 }

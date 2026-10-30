@@ -2,28 +2,28 @@
   "uid": "c344c0ce-136d-4e57-b58f-0a1239fbc302",
   "id": "ropemod",
   "name": "Terraria Tethers",
-  "version": "0.3.1",
+  "version": "0.3.1-ningzh.1",
   "authors": [
     {
       "name": "CeleryMan",
-      "role": "原模组",
+      "role": "Original mod",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2956773024",
       "avatar": "steam.png"
     },
     {
       "name": "Bloa",
-      "role": "Bunny Loader 移植",
+      "role": "Port to Bunny Loader",
       "avatar": "bloa.png"
     }
   ],
-  "category": "玩法",
+  "category": "Gameplay",
   "summary": "Players are tied together by a rope and have to cooperate.",
   "updated": "2026-10-21",
   "blVersion": 2,
   "entry": "main.js",
   "links": [
     {
-      "title": "Steam 创意工坊原模组",
+      "title": "Original Steam Workshop mod",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2956773024"
     }
   ],
@@ -32,5 +32,10 @@
   },
   "localizedSummaries": {
     "zh-Hans": "用绳索把玩家连接起来，必须互相配合才能行动。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "0.3.1"
   }
 }

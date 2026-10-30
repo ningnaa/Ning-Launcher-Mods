@@ -2,14 +2,14 @@
   "uid": "c7257a97-0552-4aa5-bc55-95f102b0e230",
   "id": "chestpeek",
   "name": "ChestPeek",
-  "version": "0.1.0",
+  "version": "0.1.0-ningzh.1",
   "authors": [
     {
       "name": "VowTz",
-      "role": "灵感来源"
+      "role": "Inspiration"
     }
   ],
-  "category": "物品",
+  "category": "Itens",
   "summary": "Point at any container (chest, piggy bank, safe, forge, void vault) to see what is inside.",
   "license": "GPL-3.0",
   "updated": "2026-10-18",
@@ -25,5 +25,10 @@
   },
   "localizedSummaries": {
     "zh-Hans": "指向箱子、猪猪存钱罐、保险箱、护卫熔炉或虚空保险库，即可预览其中的物品。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "0.1.0"
   }
 }

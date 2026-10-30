@@ -2,18 +2,18 @@
   "uid": "a26a4992-e895-4120-a903-0e23b376c8a1",
   "id": "overhealth",
   "name": "Overhealth",
-  "version": "1.0.2",
+  "version": "1.0.2-ningzh.1",
   "authors": [
     {
       "name": "JADen",
-      "role": "原 tModLoader 模组"
+      "role": "Original tModLoader mod"
     },
     {
       "name": "VowTz",
-      "role": "移植"
+      "role": "Port"
     }
   ],
-  "category": "玩法",
+  "category": "Jogabilidade",
   "summary": "Healing past full health becomes temporary Overhealth that absorbs damage and slowly decays.",
   "license": "AGPL-3.0",
   "updated": "2026-10-22",
@@ -24,5 +24,10 @@
   },
   "localizedSummaries": {
     "zh-Hans": "超过生命上限的治疗量会转化为临时溢出生命值，用于吸收伤害，并随时间衰减。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.0.2"
   }
 }

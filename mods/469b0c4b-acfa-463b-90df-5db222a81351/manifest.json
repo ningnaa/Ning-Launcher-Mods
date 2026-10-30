@@ -2,24 +2,24 @@
   "uid": "469b0c4b-acfa-463b-90df-5db222a81351",
   "id": "instantplatformfallthrough",
   "name": "Instant Platform Fallthrough",
-  "version": "1.0.0",
+  "version": "1.0.0-ningzh.1",
   "authors": [
     {
       "name": "diniamo",
-      "role": "原作者",
+      "role": "Original Creator",
       "avatar": "steam.png",
       "color": "#F0F0F0",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2992213994"
     },
     {
       "name": "GST378",
-      "role": "Bunny Loader 移植",
+      "role": "Bunny Loader Port",
       "avatar": "lemon.webp",
       "color": "#FEFE00",
       "link": "https://youtube.com/@gst_378?si=-18HzRizRpiFJrEP"
     }
   ],
-  "category": "便利功能",
+  "category": "QoL",
   "summary": "Allows you to fall through platforms instantly while holding your down key instead of stopping for a moment.",
   "updated": "2026-10-01",
   "blVersion": 2,
@@ -34,5 +34,10 @@
   },
   "localizedSummaries": {
     "zh-Hans": "按住向下键时立即穿过平台下落，不再短暂停顿。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.0.0"
   }
 }

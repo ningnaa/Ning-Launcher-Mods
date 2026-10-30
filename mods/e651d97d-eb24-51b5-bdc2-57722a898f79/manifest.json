@@ -2,22 +2,22 @@
   "uid": "e651d97d-eb24-51b5-bdc2-57722a898f79",
   "id": "mitanpc",
   "name": "Mita NPC",
-  "version": "1.0.2",
+  "version": "1.0.2-ningzh.1",
   "upstreamVersion": "0.0.9",
   "authors": [
     {
       "name": "rzc0d3r",
-      "role": "原模组、代码与资源",
+      "role": "Original mod, code and assets",
       "link": "https://github.com/rzc00d3r/MitaNPC"
     },
     {
       "name": "Potato",
-      "role": "Bunny Loader 移植",
+      "role": "Bunny Loader port",
       "avatar": "potato.png",
       "color": "#E8C170"
     }
   ],
-  "category": "NPC",
+  "category": "NPCs",
   "summary": "Four MiSide town NPCs with voiced dialogue, shops, weapons, pets and permanent combat manuals.",
   "license": "MIT",
   "updated": "2026-10-19",
@@ -25,11 +25,11 @@
   "entry": "main.js",
   "links": [
     {
-      "title": "创意工坊原模组",
+      "title": "Original Workshop mod",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3402763063"
     },
     {
-      "title": "原版源代码",
+      "title": "Original source code",
       "url": "https://github.com/rzc00d3r/MitaNPC"
     }
   ],
@@ -43,5 +43,10 @@
   },
   "localizedSummaries": {
     "zh-Hans": "添加四位来自《米塔》（MiSide）的城镇 NPC，包含语音对话、商店、武器、宠物和永久战斗手册。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.0.2"
   }
 }

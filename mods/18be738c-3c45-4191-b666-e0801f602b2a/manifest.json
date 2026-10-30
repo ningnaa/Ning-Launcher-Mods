@@ -2,11 +2,11 @@
   "uid": "18be738c-3c45-4191-b666-e0801f602b2a",
   "id": "flatseed",
   "name": "Flat Seed",
-  "version": "1.0.0",
+  "version": "1.0.0-ningzh.1",
   "authors": [
     {
       "name": "Animatak_",
-      "role": "作者",
+      "role": "Author",
       "avatar": "animatak.png",
       "color": "#841FFF",
       "link": "https://discord.gg/mkPMd9shZH"
@@ -18,7 +18,7 @@
       "url": "https://discord.gg/mkPMd9shZH"
     }
   ],
-  "category": "世界",
+  "category": "World",
   "summary": "A secret seed for a world so flat you can run without fear of tripping into a hole: type \"flat\" when creating a world. Caves, biomes, structures and the floating islands stay as usual.",
   "localizedSummaries": {
     "pt-BR": "Uma seed secreta para um mundo tão plano que dá para correr sem medo de cair num buraco: digite \"plano\" ou \"flat\" ao criar um mundo. Cavernas, biomas, estruturas e as ilhas flutuantes continuam normais.",
@@ -33,5 +33,10 @@
   "entry": "main.js",
   "localizedNames": {
     "zh-Hans": "平坦世界种子"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.0.0"
   }
 }

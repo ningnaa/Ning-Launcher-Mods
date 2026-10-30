@@ -2,17 +2,17 @@
   "uid": "9c6ebfc9-4520-490d-942a-348c41648a4d",
   "id": "better-reforge",
   "name": "Better Reforge",
-  "version": "1.0.1",
+  "version": "1.0.1-ningzh.1",
   "authors": [
     {
       "name": "GST378",
-      "role": "原作者",
+      "role": "Original Creator",
       "avatar": "lemon.webp",
       "color": "#FEFE00",
       "link": "https://youtube.com/@gst_378?si=-18HzRizRpiFJrEP"
     }
   ],
-  "category": "实用工具",
+  "category": "Utilities",
   "summary": "Replaces the traditional Goblin Tinkerer interface with a new system that allows you to browse and select item prefixes directly.",
   "updated": "2026-10-04",
   "blVersion": 2,
@@ -27,5 +27,10 @@
   },
   "localizedSummaries": {
     "zh-Hans": "替换哥布林工匠的传统重铸界面，让你直接浏览和选择物品修饰语。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.0.1"
   }
 }

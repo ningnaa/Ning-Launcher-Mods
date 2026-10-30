@@ -2,17 +2,17 @@
   "uid": "22b95101-7032-49ab-92a8-468f3030aa41",
   "id": "devtools",
   "name": "Dev Tools",
-  "version": "1.0.1",
+  "version": "1.0.1-ningzh.1",
   "authors": [
     {
       "name": "GST378",
-      "role": "作者",
+      "role": "author",
       "avatar": "0.png",
       "color": "#ffffff",
       "link": "https://youtube.com/@gst_378"
     }
   ],
-  "category": "实用工具",
+  "category": "Utilidade",
   "summary": "一个直观的工具界面：难度切换、实体清除、碰撞箱、天气与时间、相机与拍照模式、调试信息。",
   "license": "",
   "updated": "2026-10-15",
@@ -28,5 +28,10 @@
   },
   "localizedSummaries": {
     "zh-Hans": "一个直观的工具界面：难度切换、实体清除、碰撞箱、天气与时间、相机与拍照模式、调试信息。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.0.1"
   }
 }

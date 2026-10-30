@@ -4,9 +4,15 @@
   "name": "BunnySocial",
   "version": "1.0.0",
   "author": "VowTz",
-  "category": "Jogabilidade",
+  "category": "玩法",
   "summary": "Every vanity slot works like an accessory slot.",
   "description": "Items in the vanity (social) slots now apply their effects too, exactly as if they were in the matching equipment slot.",
   "blVersion": 2,
-  "entry": "main.js"
+  "entry": "main.js",
+  "localizedNames": {
+    "zh-Hans": "时装栏生效"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "让每个时装栏也能发挥对应装备栏的效果。"
+  }
 }

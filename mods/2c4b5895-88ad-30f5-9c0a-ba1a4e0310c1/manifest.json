@@ -7,19 +7,19 @@
   "authors": [
     {
       "name": "Nate Piekos (Blambot)",
-      "role": "Fonte original",
+      "role": "原字体",
       "link": "https://blambot.com"
     },
     {
       "name": "Potato",
-      "role": "Port para o Bunny Loader",
+      "role": "Bunny Loader 移植",
       "avatar": "potato.png",
       "color": "#E8C170",
       "link": "https://github.com/JonataOliveiraa"
     }
   ],
   "type": "font",
-  "category": "Fontes",
+  "category": "字体",
   "summary": "Letra de taverna medieval, desenhada à mão",
   "license": "Freeware não comercial (Blambot)",
   "blVersion": 2,
@@ -29,7 +29,7 @@
   ],
   "links": [
     {
-      "title": "Fonte original",
+      "title": "原字体",
       "url": "https://blambot.com"
     }
   ],
@@ -37,5 +37,11 @@
     "accent": "#D9A066",
     "panel": "#33221A",
     "heading": "#FBE6CF"
+  },
+  "localizedNames": {
+    "zh-Hans": "Ale and Wenches 字体"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "手绘风格的中世纪酒馆字体。"
   }
 }

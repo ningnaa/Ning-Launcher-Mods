@@ -9,19 +9,25 @@
       "avatar": "animatak.png",
       "color": "#841FFF",
       "link": "https://discord.gg/lemon-studio-1422278971227115532",
-      "role": "Port"
+      "role": "移植"
     },
     {
       "name": "al",
-      "role": "Original Creator",
+      "role": "原作者",
       "avatar": "steam.png",
       "color": "#F0F0F0",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3796173238"
     }
   ],
-  "category": "Gameplay",
+  "category": "玩法",
   "summary": "Hit the Goblin Tinkerer with any weapon to lower his reforge prices.",
   "updated": "2026-10-08",
   "blVersion": 2,
-  "entry": "main.js"
+  "entry": "main.js",
+  "localizedNames": {
+    "zh-Hans": "哥布林砍价"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "用任意武器攻击哥布林工匠，降低他的重铸价格。"
+  }
 }

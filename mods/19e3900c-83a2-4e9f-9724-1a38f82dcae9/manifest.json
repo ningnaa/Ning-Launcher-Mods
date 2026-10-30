@@ -6,14 +6,14 @@
   "authors": [
     {
       "name": "Bunny Loader",
-      "role": "Pacote",
+      "role": "资源包制作",
       "avatar": "bunny-loader.png",
       "color": "#F9E141"
     },
     "Comic Neue Project Authors"
   ],
   "type": "font",
-  "category": "Fontes",
+  "category": "字体",
   "summary": "Troca as fontes do jogo pela Comic Neue, nítida em qualquer tela",
   "license": "OFL-1.1",
   "updated": "2026-10-18",
@@ -26,5 +26,11 @@
     "accent": "#7FD3FF",
     "panel": "#1F2E44",
     "heading": "#E3F4FF"
+  },
+  "localizedNames": {
+    "zh-Hans": "Comic Neue 字体"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "将游戏字体替换为 Comic Neue，在不同屏幕上保持清晰。"
   }
 }

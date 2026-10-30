@@ -6,12 +6,12 @@
   "authors": [
     {
       "name": "Bunny Loader",
-      "role": "Código e arte",
+      "role": "代码与美术",
       "avatar": "bunny-loader.png",
       "color": "#F9E141"
     }
   ],
-  "category": "Armas",
+  "category": "武器",
   "summary": "A Minishark vira uma metralhadora.",
   "license": "MIT",
   "updated": "2026-10-19",
@@ -22,5 +22,11 @@
     301720
   ],
   "entry": "main.js",
-  "dependencies": []
+  "dependencies": [],
+  "localizedNames": {
+    "zh-Hans": "迷你鲨强化"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "让迷你鲨化身高速机枪。"
+  }
 }

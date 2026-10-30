@@ -9,10 +9,10 @@
       "avatar": "animatak.png",
       "color": "#841FFF",
       "link": "https://discord.gg/lemon-studio-1422278971227115532",
-      "role": "Author"
+      "role": "作者"
     }
   ],
-  "category": "Utility",
+  "category": "实用工具",
   "updated": "2026-10-04",
   "blVersion": 2,
   "gameVersion": [
@@ -20,5 +20,11 @@
     301720
   ],
   "entry": "main.js",
-  "dependencies": []
+  "dependencies": [],
+  "localizedNames": {
+    "zh-Hans": "Boss 光标"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "用箭头指示屏幕外或远处 Boss 的方向，方便战斗时追踪目标。"
+  }
 }

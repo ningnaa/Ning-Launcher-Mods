@@ -8,10 +8,16 @@
       "name": "VowTz"
     }
   ],
-  "category": "Utilidade",
+  "category": "实用工具",
   "summary": "Quality-of-life tweaks, every one a toggle in Mod Configuration.",
   "license": "MIT",
   "updated": "2026-10-25",
   "blVersion": 2,
-  "entry": "main.js"
+  "entry": "main.js",
+  "localizedNames": {
+    "zh-Hans": "兔兔便利功能"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "提供多项便利性改进，每项都可在模组配置中单独开关。"
+  }
 }

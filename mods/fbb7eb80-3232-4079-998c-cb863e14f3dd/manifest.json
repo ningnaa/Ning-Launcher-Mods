@@ -3,11 +3,21 @@
   "id": "voluntaryhook",
   "name": "愿者上钩 (VoluntaryHook)",
   "version": "1.1.0",
-  "authors": [{ "name": "lzup333" }],
-  "category": "Jogabilidade",
+  "authors": [
+    {
+      "name": "lzup333"
+    }
+  ],
+  "category": "玩法",
   "summary": "抛出鱼钩后数量固定 5 倍，实现多倍鱼钩。",
   "license": "AGPL-3.0",
   "updated": "2026-10-22",
   "blVersion": 2,
-  "entry": "main.js"
+  "entry": "main.js",
+  "localizedNames": {
+    "zh-Hans": "愿者上钩"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "抛出鱼钩后，鱼钩数量固定为五倍。"
+  }
 }

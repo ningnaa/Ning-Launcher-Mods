@@ -9,7 +9,7 @@
       "avatar": "castorzeira.png"
     }
   ],
-  "category": "Gameplay",
+  "category": "玩法",
   "summary": "Teste top-down: sem gravidade, 8 direções, golpe na direção do mouse e mundo top-down em ilha com os biomas do Terraria.",
   "description": "VERSÃO BETA: este mod ainda não está completo e pode ter erros, bugs e comportamentos inesperados. Use por sua conta e risco e, de preferência, em mundos de teste (faça backup dos seus saves). O Top-Down Mode transforma o Terraria em um jogo de visão de cima: sem gravidade, com movimento em 8 direções, golpe de espada na direção do mouse, mundos novos gerados como ilha com os biomas do Terraria (rios, lagos, árvores, cactos, pedras e mato), água em movimento com nado, ciclo de dia e noite, profundidade (y-sort) de árvores, móveis e NPCs, e cavernas com minérios acessadas por escada. Novidades ainda estão sendo adicionadas e alguns sistemas podem mudar nas próximas versões.",
   "updated": "2026-10-25",
@@ -19,5 +19,11 @@
     "background": "docs/background.jpg",
     "backgroundMode": "cover",
     "backgroundDim": 0.4
+  },
+  "localizedNames": {
+    "zh-Hans": "俯视角模式（测试版）"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "无重力、八方向移动、朝光标方向挥砍，并生成包含泰拉瑞亚生物群系的俯视角岛屿世界。"
   }
 }

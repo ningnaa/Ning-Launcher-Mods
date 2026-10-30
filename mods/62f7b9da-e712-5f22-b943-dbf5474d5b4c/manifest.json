@@ -6,6 +6,12 @@
   "author": "Santartica",
   "description": "Terraria Ovehaul for Health and Mana",
   "type": "texture",
-  "category": "Textures",
-  "blVersion": 2
+  "category": "材质",
+  "blVersion": 2,
+  "localizedNames": {
+    "zh-Hans": "暗黑奇幻生命与魔力界面"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "为生命值和魔力界面换上 Terraria Overhaul 风格的材质。"
+  }
 }

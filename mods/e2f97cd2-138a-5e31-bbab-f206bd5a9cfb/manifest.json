@@ -6,17 +6,23 @@
   "author": "Fanec",
   "description": "Don't Starve inspired NPC portraits — port Bunny Loader.",
   "type": "texture",
-  "category": "Textures",
+  "category": "材质",
   "blVersion": 2,
   "links": [
     {
-      "title": "Original Terraria Resource Pack",
+      "title": "原版泰拉瑞亚资源包",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3679638344"
     },
     {
-      "title": "Bunny Loader texture pack guide",
+      "title": "Bunny Loader 材质包指南",
       "url": "https://github.com/JonataOliveiraa/Bunny-Loader/blob/main/docs/mods/14-pacotes-de-textura.md"
     }
   ],
-  "notes": "Original resource pack by Fanec. Texture assets retained with their original relative paths under content/Images."
+  "notes": "Original resource pack by Fanec. Texture assets retained with their original relative paths under content/Images.",
+  "localizedNames": {
+    "zh-Hans": "饥荒风格 NPC 肖像"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "饥荒风格的 NPC 肖像资源包，Bunny Loader 移植版。"
+  }
 }

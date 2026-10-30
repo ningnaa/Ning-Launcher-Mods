@@ -6,7 +6,7 @@
   "authors": [
     {
       "name": "Cleyera",
-      "role": "Original Creator",
+      "role": "原作者",
       "avatar": "steam.png",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2922358421"
     },
@@ -15,23 +15,29 @@
       "avatar": "animatak.png",
       "color": "#841FFF",
       "link": "https://discord.gg/lemon-studio-1422278971227115532",
-      "role": "Port"
+      "role": "移植"
     },
     {
       "name": "Cavalier",
-      "role": "Chinese localization (original)",
+      "role": "原版中文本地化",
       "avatar": "steam.png"
     }
   ],
-  "category": "Decoration",
+  "category": "装饰",
   "summary": "A Display Base to show off any item, with glitter, outline and light effects. Made from marble or granite.",
   "updated": "2026-10-12",
   "blVersion": 2,
   "entry": "main.js",
   "pages": [
     {
-      "title": "Crafting",
-      "file": "docs/crafting.md"
+      "title": "合成配方",
+      "file": "docs/crafting_zh-Hans.md"
     }
-  ]
+  ],
+  "localizedNames": {
+    "zh-Hans": "物品展示基座"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "用大理石或花岗岩制作展示基座，展示任意物品，并添加闪烁、描边和照明效果。"
+  }
 }

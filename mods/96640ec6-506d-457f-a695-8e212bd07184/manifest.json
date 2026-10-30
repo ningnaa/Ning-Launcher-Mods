@@ -6,19 +6,19 @@
   "authors": [
     {
       "name": "Ryan (RightoeusRyan)",
-      "role": "Original Creator",
+      "role": "原作者",
       "avatar": "steam.png",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2563610738"
     },
     {
       "name": "Animatak_",
-      "role": "Port",
+      "role": "移植",
       "avatar": "animatak.png",
       "color": "#841FFF",
       "link": "https://discord.gg/KcRfNEMUxn"
     }
   ],
-  "category": "Gameplay",
+  "category": "玩法",
   "summary": "This mod allows NPCs to take fall damage. Pretty self explanatory. This bonus also applies to bosses.",
   "updated": "2026-10-24",
   "blVersion": 2,
@@ -30,8 +30,14 @@
   "dependencies": [],
   "links": [
     {
-      "title": "Original Mod",
+      "title": "原模组",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2563610738"
     }
-    ]
+  ],
+  "localizedNames": {
+    "zh-Hans": "NPC 摔落伤害"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "让 NPC 也会受到摔落伤害，Boss 同样适用。"
+  }
 }

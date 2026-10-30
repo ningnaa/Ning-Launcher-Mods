@@ -6,13 +6,13 @@
   "authors": [
     {
       "name": "GST378",
-      "role": "Original Creator",
+      "role": "原作者",
       "avatar": "lemon.webp",
       "color": "#FEFE00",
       "link": "https://youtube.com/@gst_378?si=-18HzRizRpiFJrEP"
     }
   ],
-  "category": "Visual",
+  "category": "视觉效果",
   "summary": "Items placed in frames will be drawn at their actual size",
   "updated": "2026-10-04",
   "blVersion": 2,
@@ -21,5 +21,11 @@
     301720
   ],
   "entry": "main.js",
-  "dependencies": []
+  "dependencies": [],
+  "localizedNames": {
+    "zh-Hans": "物品框原尺寸显示"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "让物品框中的物品按实际尺寸显示。"
+  }
 }

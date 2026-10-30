@@ -7,19 +7,19 @@
   "authors": [
     {
       "name": "Pete Klassen",
-      "role": "Fonte original",
+      "role": "原字体",
       "link": "https://www.dafont.com/ringbearer.font"
     },
     {
       "name": "Potato",
-      "role": "Port para o Bunny Loader",
+      "role": "Bunny Loader 移植",
       "avatar": "potato.png",
       "color": "#E8C170",
       "link": "https://github.com/JonataOliveiraa"
     }
   ],
   "type": "font",
-  "category": "Fontes",
+  "category": "字体",
   "summary": "A letra do logotipo de O Senhor dos Anéis",
   "license": "Gratuita para uso pessoal",
   "blVersion": 2,
@@ -29,7 +29,7 @@
   ],
   "links": [
     {
-      "title": "Fonte original",
+      "title": "原字体",
       "url": "https://www.dafont.com/ringbearer.font"
     }
   ],
@@ -37,5 +37,11 @@
     "accent": "#E8C170",
     "panel": "#2B2418",
     "heading": "#FFF1CF"
+  },
+  "localizedNames": {
+    "zh-Hans": "Ringbearer 字体"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "采用《指环王》标志风格的字体。"
   }
 }

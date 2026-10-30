@@ -6,13 +6,19 @@
   "author": "The Wise Willow",
   "description": "Boss-Colored Relics(Remastered Edition)",
   "type": "texture",
-  "category": "Textures",
+  "category": "材质",
   "blVersion": 2,
   "links": [
     {
-      "title": "Original Terraria Resource Pack",
+      "title": "原版泰拉瑞亚资源包",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3661349204"
     }
   ],
-  "notes": "Original resource pack by The Wise Willow"
+  "notes": "Original resource pack by The Wise Willow",
+  "localizedNames": {
+    "zh-Hans": "Boss 彩色圣物"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "为 Boss 圣物赋予对应的色彩，采用重制版资源。"
+  }
 }

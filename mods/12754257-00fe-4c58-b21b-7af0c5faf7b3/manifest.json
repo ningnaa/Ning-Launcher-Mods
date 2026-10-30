@@ -6,20 +6,20 @@
   "authors": [
     {
       "name": "Cyrillya",
-      "role": "Original Creator",
+      "role": "原作者",
       "avatar": "steam.png",
       "color": "#F0F0F0",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2793971101"
     },
     {
       "name": "GST378",
-      "role": "Bunny Loader Port",
+      "role": "Bunny Loader 移植",
       "avatar": "lemon.webp",
       "color": "#FEFE00",
       "link": "https://youtube.com/@gst_378?si=-18HzRizRpiFJrEP"
     }
   ],
-  "category": "QoL",
+  "category": "便利功能",
   "summary": "This mod makes the gravity inversion effect not flip your screen, only the player flips.",
   "updated": "2026-10-04",
   "blVersion": 2,
@@ -28,5 +28,11 @@
     301720
   ],
   "entry": "main.js",
-  "dependencies": []
+  "dependencies": [],
+  "localizedNames": {
+    "zh-Hans": "重力反转不翻转屏幕"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "反转重力时只翻转角色，不翻转整个画面。"
+  }
 }

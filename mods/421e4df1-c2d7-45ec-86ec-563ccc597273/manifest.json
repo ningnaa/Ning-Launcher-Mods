@@ -6,7 +6,7 @@
   "authors": [
     {
       "name": "EurusK",
-      "role": "Original Creator",
+      "role": "原作者",
       "avatar": "steam.png",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3631856806"
     },
@@ -15,12 +15,18 @@
       "avatar": "animatak.png",
       "color": "#841FFF",
       "link": "https://discord.gg/lemon-studio-1422278971227115532",
-      "role": "Port"
+      "role": "移植"
     }
   ],
-  "category": "Interface",
+  "category": "界面",
   "summary": "An RPG-style banner announces every Town NPC and town pet that moves into your world.",
   "updated": "2026-10-13",
   "blVersion": 2,
-  "entry": "main.js"
+  "entry": "main.js",
+  "localizedNames": {
+    "zh-Hans": "NPC 入住公告"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "当城镇 NPC 或城镇宠物入住时，显示角色扮演游戏风格的公告横幅。"
+  }
 }

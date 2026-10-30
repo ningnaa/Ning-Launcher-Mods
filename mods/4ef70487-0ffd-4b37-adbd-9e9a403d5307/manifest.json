@@ -4,7 +4,7 @@
   "name": "Gorilla",
   "version": "1.0.0",
   "author": "ported by Animatak",
-  "category": "Meme",
+  "category": "趣味",
   "summary": "Enfrente o Gorila. Talvez você precise de 100 homens para derrotar essa coisa... e não espere sair vivo.",
   "description": "Enfrente o Gorila, um chefe ridiculamente poderoso e brutal. Talvez você precise de 100 homens para derrotar essa coisa... e mesmo assim, não espere sobreviver.\nMod original desenvolvido por GabeHasWon.",
   "updated": "2026-09-30",
@@ -14,5 +14,11 @@
     301720
   ],
   "entry": "main.js",
-  "dependencies": []
+  "dependencies": [],
+  "localizedNames": {
+    "zh-Hans": "大猩猩 Boss"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "挑战强大而凶暴的大猩猩。也许需要一百个人才能打倒它……即便如此，也别指望能活下来。"
+  }
 }

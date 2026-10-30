@@ -6,7 +6,7 @@
   "authors": [
     {
       "name": "jopojelly",
-      "role": "Original Creator",
+      "role": "原作者",
       "avatar": "steam.png",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2669644269"
     },
@@ -15,16 +15,16 @@
       "avatar": "animatak.png",
       "color": "#841FFF",
       "link": "https://discord.gg/lemon-studio-1422278971227115532",
-      "role": "Port"
+      "role": "移植"
     }
   ],
   "links": [
     {
-      "title": "Original Mod",
+      "title": "原模组",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2669644269"
     }
   ],
-  "category": "Interface",
+  "category": "界面",
   "summary": "A Boss Log book with every boss, mini-boss and event: progress checklist, spawn items and recipes, loot and collectibles, fight records, despawn messages and a boss radar.",
   "updated": "2026-10-27",
   "blVersion": 2,
@@ -38,5 +38,8 @@
     "ru-RU": "Boss Log со всеми боссами, мини-боссами и событиями: список прогресса, предметы призыва и рецепты, добыча и коллекция, рекорды боёв, сообщения об уходе и радар боссов.",
     "pl-PL": "Boss Log ze wszystkimi bossami, mini-bossami i wydarzeniami: lista postępu, przedmioty przywołujące i przepisy, łupy i kolekcja, rekordy walk, komunikaty o odejściu i radar bossów.",
     "zh-Hans": "一本包含所有Boss、小Boss和事件的 Boss Log：进度清单、召唤物品与配方、战利品与收藏品、战斗记录、Boss离开提示以及Boss雷达。"
+  },
+  "localizedNames": {
+    "zh-Hans": "Boss 清单"
   }
 }

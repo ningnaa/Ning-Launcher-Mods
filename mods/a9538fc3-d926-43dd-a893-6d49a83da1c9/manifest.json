@@ -6,7 +6,7 @@
   "authors": [
     {
       "name": "ChemAtDark",
-      "role": "Original Creator",
+      "role": "原作者",
       "avatar": "steam.png",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2847872897"
     },
@@ -15,12 +15,18 @@
       "avatar": "animatak.png",
       "color": "#841FFF",
       "link": "https://discord.gg/lemon-studio-1422278971227115532",
-      "role": "Port"
+      "role": "移植"
     }
   ],
-  "category": "Visual",
+  "category": "视觉效果",
   "summary": "Borderlands-style light beams and glows in each dropped item's rarity color, with beam styles, glow and configurable lists.",
   "updated": "2026-10-12",
   "blVersion": 2,
-  "entry": "main.js"
+  "entry": "main.js",
+  "localizedNames": {
+    "zh-Hans": "掉落物光柱"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "为掉落物添加《无主之地》风格的稀有度彩色光柱与光晕，支持样式和筛选列表设置。"
+  }
 }

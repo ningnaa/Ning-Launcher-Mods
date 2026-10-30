@@ -1,0 +1,977 @@
+{
+  "policy": [
+    "优先使用原作者或移植维护者发布的中文内容。",
+    "缺少中文时，按泰拉瑞亚的物品、NPC、生物群系和机制语境翻译。",
+    "保留原名、署名、许可证、URL、API、物品 ID、版本号及包哈希。",
+    "目录译文不代表模组游戏内的所有文本均已汉化。"
+  ],
+  "referenceSources": [
+    {
+      "url": "https://github.com/LogSpiral/CoolerItemVisualEffect",
+      "use": "核对作者原始名称 C.I.V.E. 和近战武器视觉效果术语；未将电脑版专属功能写入移植版说明。"
+    },
+    {
+      "url": "https://github.com/Flashkirby/WeaponOutLite",
+      "use": "核对原作者仓库；本目录使用移植发布包内已有的中文设置名称。"
+    },
+    {
+      "url": "https://terraria.wiki.gg/zh/wiki/强化?variant=zh",
+      "use": "核对星云盔甲掉落的强化焰术语。"
+    }
+  ],
+  "entries": [
+    {
+      "id": "abusegoblin",
+      "uid": "31b7ee57-73c8-4a66-ab91-c44440430ee7",
+      "name": "哥布林砍价",
+      "originalName": "Abuse Goblin",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-abusegoblin-v1.0.0/abusegoblin-1.0.0.bl",
+      "packageSha256": "833c103fb442129a6cc4b7550578e9530a2e1558a95f22803ad6a989262a513b",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [
+        "content/Localization/zh-Hans.json"
+      ],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "atmospheric-torches",
+      "uid": "0c2e1d93-1149-4942-adb2-860ad8a9b965",
+      "name": "氛围火把",
+      "originalName": "Atmospheric Torches",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-atmospheric-torches-v1.0.0/atmospheric-torches-1.0.0.bl",
+      "packageSha256": "81a591850eab95727ba967cc3c1de18b71c7ddb61b265923e7026c4ecf9dd081",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [
+        "content/Localization/zh-Hans.json"
+      ],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "disablecorruptionspread",
+      "uid": "6af3b741-65ee-4f5f-99b0-77018638d9fd",
+      "name": "禁止邪恶蔓延",
+      "originalName": "Begone, Evil! (Disable Evil Biome Spread)",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-disablecorruptionspread-v1.0/disablecorruptionspread-1.0.bl",
+      "packageSha256": "5b323972951d9d7b19666f5558f5e88342d3aac043bfbbec0b53615ea90e86e1",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "bestiarydisplays",
+      "uid": "c83a16d7-d5e8-459d-b5fa-d7ab63117102",
+      "name": "生物图鉴全息展示",
+      "originalName": "Bestiary Displays",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-bestiarydisplays-v1.1.0/bestiarydisplays-1.1.0.bl",
+      "packageSha256": "f0fdf6141a9360a34830c88e323d9d7bbd571cb291f061732c2cd99629d46a30",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [
+        "content/Localization/zh-Hans.json"
+      ],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "better-reforge",
+      "uid": "9c6ebfc9-4520-490d-942a-348c41648a4d",
+      "name": "更好的重铸",
+      "originalName": "Better Reforge",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-better-reforge-v1.0.1/better-reforge-1.0.1.bl",
+      "packageSha256": "b1cee9b0b23e60c5a26abe12ed115733b4bbe16171bfb9c455052803cec927a4",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [
+        "content/Localization/zh-Hans.json"
+      ],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "bosschecklist",
+      "uid": "5bd9553e-8439-4ddb-a12c-805b34b855e8",
+      "name": "Boss 清单",
+      "originalName": "Boss Checklist",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-bosschecklist-v1.1.1/bosschecklist-1.1.1.bl",
+      "packageSha256": "dda08edb7ad62d483b4be41e4349e081f915fe7304c18d04f839af92cfea4aa5",
+      "descriptionSource": "发布包中的现成中文原文",
+      "reusedFiles": [
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
+      ],
+      "reusedSummary": true,
+      "publishedChineseFiles": [
+        "changelog_zh-Hans.md",
+        "content/Localization/zh-Hans.json",
+        "description_zh-Hans.md"
+      ],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "bosscursor",
+      "uid": "dbe76e93-a141-4b42-9bbe-13e5b6984e19",
+      "name": "Boss 光标",
+      "originalName": "Boss Cursor",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-bosscursor-v1.1.0/bosscursor-1.1.0.bl",
+      "packageSha256": "05f567352afcf759cd783dc061675d62e7cb161225144338b4b91a122f2e1f77",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [
+        "content/Localization/zh-Hans.json"
+      ],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "boss-colored-relics",
+      "uid": "e2f97cd2-138a-5e31-bbab-f276bd5a9cfb",
+      "name": "Boss 彩色圣物",
+      "originalName": "Boss-Colored Relics",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-boss-colored-relics-v1.0/boss-colored-relics-1.0.bl",
+      "packageSha256": "26ab5ee74aac134955fbbeee711dd888e6f860a73f8e6b0a85ab3760f74fb642",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "bunnysocial",
+      "uid": "bcb72e90-3716-4cd1-b8a4-866a963958e5",
+      "name": "时装栏生效",
+      "originalName": "BunnySocial",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-bunnysocial-v1.0.0/bunnysocial-1.0.0.bl",
+      "packageSha256": "d81318260ccc552d2cc385d198d1751d1100a23fb88bd73c49840acf8aad014b",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "chestpeek",
+      "uid": "c7257a97-0552-4aa5-bc55-95f102b0e230",
+      "name": "容器预览",
+      "originalName": "ChestPeek",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-chestpeek-v0.1.0/chestpeek-0.1.0.bl",
+      "packageSha256": "cc01b57109e0806582a907912f7472aad8b2cf2e79a15d7ed0341cc9f29c673b",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "coloreddamagetypes",
+      "uid": "e613a447-d93c-49ca-8c74-f88accbfa996",
+      "name": "伤害类型着色",
+      "originalName": "Colored Damage Types",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-coloreddamagetypes-v1.1.0/coloreddamagetypes-1.1.0.bl",
+      "packageSha256": "8a07666790141d4cec4db5ac7fce0e92bd87067574d6406ab1baa9cbe7440c33",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [
+        "content/Localization/zh-Hans.json"
+      ],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "consolaria",
+      "uid": "dae471c1-1177-4640-9cb7-68e29de58f6b",
+      "name": "Consolaria：旧版独占内容",
+      "originalName": "Consolaria Mobile",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-consolaria-v1.0.2/consolaria-1.0.2.bl",
+      "packageSha256": "819223975836014733808a23ef3c8da48b227106fa62c644ffa3fea7428950d2",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [
+        "content/Localization/zh-Hans.json"
+      ],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "cooleritemvisualeffect",
+      "uid": "dc3f4de8-1c59-4d92-a986-3ea0e4b42e15",
+      "name": "近战武器视觉特效（C.I.V.E.）",
+      "originalName": "Cooler Item Visual Effect — Bunny Port",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-cooleritemvisualeffect-v1.0.9-bunny.9/cooleritemvisualeffect-1.0.9-bunny.9.bl",
+      "packageSha256": "f0f9a9f328f4b7a6b1762a8ba68ea897b1857dcd7ecf2ace5c12035d7c245048",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "coyote-frames",
+      "uid": "a4f0d04b-f2f0-499b-b4b8-6d89e4bcbd6a",
+      "name": "离地宽限跳跃",
+      "originalName": "Coyote Frames",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-coyote-frames-v1.0.0/coyote-frames-1.0.0.bl",
+      "packageSha256": "1d2266231ef0dba0d0dbf1e432c8b3880048efaca1e3f91525eb9897189f6015",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "darkfantasyhealthmana",
+      "uid": "62f7b9da-e712-5f22-b943-dbf5474d5b4c",
+      "name": "暗黑奇幻生命与魔力界面",
+      "originalName": "Dark Fantasy Health/Mana",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-darkfantasyhealthmana-v1.1.0/darkfantasyhealthmana-1.1.0.bl",
+      "packageSha256": "12becbea1fe3082f4cff51a5efe5233065db517dbcc3ce0d525249fae8927a16",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "defaultdash",
+      "uid": "9b4f2a1c-3d5e-4b6a-9c8d-1e2f3a4b5c6d",
+      "name": "基础冲刺",
+      "originalName": "Default Dash",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-defaultdash-v1.0.0/defaultdash-1.0.0.bl",
+      "packageSha256": "9bf10fc73fc74578a4b64641fd7956709ecb34d962471a315fcc5a56bd140256",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "devtools",
+      "uid": "22b95101-7032-49ab-92a8-468f3030aa41",
+      "name": "开发者工具",
+      "originalName": "Dev Tools",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-devtools-v1.0.1/devtools-1.0.1.bl",
+      "packageSha256": "a42b55558ad2ceae7a6dba13c62429464b2b179d316d192cffcded3bb76c01ad",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [
+        "content/Localization/zh-Hans.json"
+      ],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "directionalswings",
+      "uid": "cece9409-844d-476a-8953-1a59de78db92",
+      "name": "定向挥砍",
+      "originalName": "Directional Swings",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-directionalswings-v1.1.1/directionalswings-1.1.1.bl",
+      "packageSha256": "c38525616daab42fe75799ec0d9428da7a5fb25e87d5a8570fc01b4e3569e87a",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "dobrodedano",
+      "uid": "95728a1c-1fb7-4ed7-af5b-d12bdec38e46",
+      "name": "双倍伤害",
+      "originalName": "Dobro de Dano",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-dobrodedano-v1.0.0/dobrodedano-1.0.0.bl",
+      "packageSha256": "1ce2d058efe8ca4b021baa5f5abc6f895d47c18d425eb764822024b05ef7b47c",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "dont-starve-inspired-npc-portraits",
+      "uid": "e2f97cd2-138a-5e31-bbab-f206bd5a9cfb",
+      "name": "饥荒风格 NPC 肖像",
+      "originalName": "Don't Starve inspired NPC portraits",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-dont-starve-inspired-npc-portraits-v1.0.0/dont-starve-inspired-npc-portraits-1.0.0.bl",
+      "packageSha256": "8fd0e46ba2c2013e6bf6d2c310fe208eb9a470e857c92e1f43b7a40d14189f39",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "flatseed",
+      "uid": "18be738c-3c45-4191-b666-e0801f602b2a",
+      "name": "平坦世界种子",
+      "originalName": "Flat Seed",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-flatseed-v1.0.0/flatseed-1.0.0.bl",
+      "packageSha256": "6d2520422f8a08da58359c89515c1e3050dadbc492bb93c3231a56dafdb8119a",
+      "descriptionSource": "发布包中的现成中文原文",
+      "reusedFiles": [
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
+      ],
+      "reusedSummary": true,
+      "publishedChineseFiles": [
+        "changelog_zh-Hans.md",
+        "content/Localization/zh-Hans.json",
+        "description_zh-Hans.md"
+      ],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "fonte-aclonica",
+      "uid": "72922151-b656-35dd-a8f9-a7a272f12b25",
+      "name": "Aclonica 字体",
+      "originalName": "Fonte Aclonica",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-fonte-aclonica-v1.0.0/fonte-aclonica-1.0.0.bl",
+      "packageSha256": "964f94136ee90d76c98bcc8954bf26fd6398b6d0ca6f653417529ff4a383052f",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "fonte-ale-and-wenches",
+      "uid": "2c4b5895-88ad-30f5-9c0a-ba1a4e0310c1",
+      "name": "Ale and Wenches 字体",
+      "originalName": "Fonte Ale and Wenches",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-fonte-ale-and-wenches-v1.0.0/fonte-ale-and-wenches-1.0.0.bl",
+      "packageSha256": "904078cb6ffe792be995986fa1893c1420614616da8e3b06042131b76736525f",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "fontecomicneue",
+      "uid": "19e3900c-83a2-4e9f-9724-1a38f82dcae9",
+      "name": "Comic Neue 字体",
+      "originalName": "Fonte Comic Neue",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-fontecomicneue-v1.0.0/fontecomicneue-1.0.0.bl",
+      "packageSha256": "57bc9123f5e2c2a4136d5c6a62e79e500e19362603364596c623a351d80746af",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "fonte-pescadero",
+      "uid": "ca37f1dd-ed7c-3db5-b46c-4c3c958fc54a",
+      "name": "Pescadero 字体",
+      "originalName": "Fonte Pescadero",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-fonte-pescadero-v1.0.0/fonte-pescadero-1.0.0.bl",
+      "packageSha256": "f33f5335fe6aea5127cdb17778f86e2ffd9513747200496304e045059c0bdf35",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "fonte-ringbearer",
+      "uid": "ad3d1b57-654e-33f3-a5b0-e09ea96484f0",
+      "name": "Ringbearer 字体",
+      "originalName": "Fonte Ringbearer",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-fonte-ringbearer-v1.0.0/fonte-ringbearer-1.0.0.bl",
+      "packageSha256": "d7c7655d4389d97104935d9e4e419aa9e72701b1f94d2da96dd86c42ca77f0c3",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "gnorpbuilder",
+      "uid": "064e2318-32a8-4c41-a625-bcc8388ced91",
+      "name": "Gnorp 建筑师",
+      "originalName": "Gnorp's Builder",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-gnorpbuilder-v1.3.8.5/gnorpbuilder-1.3.8.5.bl",
+      "packageSha256": "28f97ae3fb580dcaafc1da1810be806785b07ac73b9ed603a6709eac33f86580",
+      "descriptionSource": "发布包中的现成中文原文",
+      "reusedFiles": [
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
+      ],
+      "reusedSummary": true,
+      "publishedChineseFiles": [
+        "changelog_zh-Hans.md",
+        "content/Localization/zh-Hans.json",
+        "description_zh-Hans.md"
+      ],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "gorilla",
+      "uid": "4ef70487-0ffd-4b37-adbd-9e9a403d5307",
+      "name": "大猩猩 Boss",
+      "originalName": "Gorilla",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-gorilla-v1.0.0/gorilla-1.0.0.bl",
+      "packageSha256": "43ef50769cc11ee71d32d63ecd0859fddfb5669784b9a77eaa4e9687ee6fa3a1",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [
+        "content/Localization/zh-Hans.json"
+      ],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "gravity-dont-flip-screen",
+      "uid": "12754257-00fe-4c58-b21b-7af0c5faf7b3",
+      "name": "重力反转不翻转屏幕",
+      "originalName": "Gravitation Don't Flip the Screen",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-gravity-dont-flip-screen-v1.0.0/gravity-dont-flip-screen-1.0.0.bl",
+      "packageSha256": "218c21cb06cef9e82d0d09a379e889c02d230d7a56185f52e42c2a1997dbf730",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "improvedmovement",
+      "uid": "47f60fb6-0b46-453e-b19e-389867412da8",
+      "name": "灵动动作",
+      "originalName": "Improved Movement",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-improvedmovement-v1.2.0/improvedmovement-1.2.0.bl",
+      "packageSha256": "b62a317f89da3a30da35536c8dd690ad0b6150ac240b8905172947444d1f97a2",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [
+        "content/Localization/zh-Hans.json"
+      ],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "instantplatformfallthrough",
+      "uid": "469b0c4b-acfa-463b-90df-5db222a81351",
+      "name": "平台快速下落",
+      "originalName": "Instant Platform Fallthrough",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-instantplatformfallthrough-v1.0.0/instantplatformfallthrough-1.0.0.bl",
+      "packageSha256": "a4d576ea89b2d132ac19efc452736fd30d507505ebf8fc94429c7f4beeb87db6",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "displaybase",
+      "uid": "2d01296e-d4e9-4493-a107-6ee6835f349e",
+      "name": "物品展示基座",
+      "originalName": "Item Display Base",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-displaybase-v1.0.2/displaybase-1.0.2.bl",
+      "packageSha256": "a5acb72327b2e4cdac8fff4541706bfe8002eff4201890da0764f28ac11e9299",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [
+        "content/Localization/zh-Hans.json"
+      ],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "moddifficulty",
+      "uid": "adbf3a32-2952-41cc-8d97-7c3b1575785d",
+      "name": "传奇难度",
+      "originalName": "Legendary Difficulty",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-moddifficulty-v1.0.0/moddifficulty-1.0.0.bl",
+      "packageSha256": "417b4adf5610897c796c029cdfe96c13beaf7d3d697fb923bbd1f295a267d26d",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [
+        "content/Localization/zh-Hans.json"
+      ],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "lightsandshadows",
+      "uid": "cefdf353-c563-4845-b253-85a851e5d84c",
+      "name": "光与影",
+      "originalName": "Lights And Shadows",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-lightsandshadows-v1.0.0/lightsandshadows-1.0.0.bl",
+      "packageSha256": "f4633b5c3dbabbfdf4049c05c5f065d7c8f13ed6d5bf6693266eb49670b8d5eb",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [
+        "content/Localization/zh-Hans.json"
+      ],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "lootbeams",
+      "uid": "a9538fc3-d926-43dd-a893-6d49a83da1c9",
+      "name": "掉落物光柱",
+      "originalName": "Loot Beams",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-lootbeams-v1.1.2/lootbeams-1.1.2.bl",
+      "packageSha256": "fbb8891babe3ad4840d1ebb5b446a14720d8be06fa4374086188a94f226a162d",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [
+        "content/Localization/zh-Hans.json"
+      ],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "mc-paintings",
+      "uid": "024d3144-6342-4dbe-93b6-3eec25f7e23e",
+      "name": "我的世界画作",
+      "originalName": "Minecraft Paintings",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-mc-paintings-v1.0.0/mc-paintings-1.0.0.bl",
+      "packageSha256": "6a27c46e2d217b7053e56ba443bd80da36a18e7d13df6b677b7f1ac62bccf2c2",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "hellomod",
+      "uid": "fc731e9a-2844-433b-ade1-5a0ab23165c4",
+      "name": "迷你鲨强化",
+      "originalName": "Minishark Turbo",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-hellomod-v1.1.1/hellomod-1.1.1.bl",
+      "packageSha256": "362908d5d9d9823ba957e5fed1cfa7a7a6114ba5392a6378cf5c1fd9a06f3885",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "mitanpc",
+      "uid": "e651d97d-eb24-51b5-bdc2-57722a898f79",
+      "name": "米塔城镇 NPC",
+      "originalName": "Mita NPC",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-mitanpc-v1.0.2/mitanpc-1.0.2.bl",
+      "packageSha256": "0dd5831fab8820fa20a05e23029678ab8f09d8c8ef97b22311fd89c3e563a3cf",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "no-useless-pickups",
+      "uid": "005ff90e-02cd-4caa-ba96-953378fca597",
+      "name": "按需拾取",
+      "originalName": "No Useless Pickups",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-no-useless-pickups-v1.0.0/no-useless-pickups-1.0.0.bl",
+      "packageSha256": "10bb2f05ee53a90b52310da675d4b65980f55785796a2bb4202687f06903ff5a",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "npcfalldamage",
+      "uid": "96640ec6-506d-457f-a695-8e212bd07184",
+      "name": "NPC 摔落伤害",
+      "originalName": "NPC Fall Damage",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-npcfalldamage-v1.0.0/npcfalldamage-1.0.0.bl",
+      "packageSha256": "c14fe7e011617f4c9b67cee2fa0b4fc408e20fdc00faa8a6316108758ea2c4b6",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "npcunlockannouncer",
+      "uid": "421e4df1-c2d7-45ec-86ec-563ccc597273",
+      "name": "NPC 入住公告",
+      "originalName": "NPC Unlock Announcer",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-npcunlockannouncer-v1.0.0/npcunlockannouncer-1.0.0.bl",
+      "packageSha256": "e998181204d3318d26001e28924fc051fffe54584e7c084124aeb0beddd02292",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [
+        "content/Localization/zh-Hans.json"
+      ],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "overhealth",
+      "uid": "a26a4992-e895-4120-a903-0e23b376c8a1",
+      "name": "溢出生命值",
+      "originalName": "Overhealth",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-overhealth-v1.0.2/overhealth-1.0.2.bl",
+      "packageSha256": "bd5271afcc1e0d9e959dc241a84b03e6e111c354e232d460b7a4d63fcb823614",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "kineticgore",
+      "uid": "3cfaa0a0-6ddf-4484-900e-6c482ef4e1c7",
+      "name": "物理布娃娃（Physaria）",
+      "originalName": "Physaria (Kinetic Gore)",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-kineticgore-v2.8.2/kineticgore-2.8.2.bl",
+      "packageSha256": "ed5b8bd576825ae076f8cf668877a2fb9e91bf9e9b34dbdbbaa246b581c786ce",
+      "descriptionSource": "发布包中的现成中文原文",
+      "reusedFiles": [
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
+      ],
+      "reusedSummary": true,
+      "publishedChineseFiles": [
+        "changelog_zh-Hans.md",
+        "content/Localization/zh-Hans.json",
+        "description_zh-Hans.md"
+      ],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "pingmod",
+      "uid": "ae7c31e7-a0d5-4064-995d-acedf7fd5afc",
+      "name": "玩家延迟面板",
+      "originalName": "Player Ping UI",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-pingmod-v1.0.5/pingmod-1.0.5.bl",
+      "packageSha256": "0257d4a96426ad8a909fdbf3086fec2c1f65921da52056268e038624d4008404",
+      "descriptionSource": "发布包中的现成中文原文",
+      "reusedFiles": [
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
+      ],
+      "reusedSummary": true,
+      "publishedChineseFiles": [
+        "changelog_zh-Hans.md",
+        "content/Localization/zh-Hans.json",
+        "description_zh-Hans.md"
+      ],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "qualityofbunny",
+      "uid": "89bcf9c1-64d4-4f1a-8c59-464bbf1e14c8",
+      "name": "兔兔便利功能",
+      "originalName": "Quality of Bunny",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-qualityofbunny-v68/qualityofbunny-68.bl",
+      "packageSha256": "8a4dc316994530c3d0e084011c815fb09f0bc2390aa97bfb8cfedb693a2fab39",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "resized-frames",
+      "uid": "0dc6638d-65f8-415b-8b1f-818e818b3f6d",
+      "name": "物品框原尺寸显示",
+      "originalName": "Resized Frames",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-resized-frames-v1.0.0/resized-frames-1.0.0.bl",
+      "packageSha256": "5a88a35d992e35ac1d5fe863b5d0a2afaeef628471678a226ea7710a0a3fbd7f",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "semqueda",
+      "uid": "15b99fa4-580f-40c6-9a26-78e3928876d7",
+      "name": "免疫摔落伤害",
+      "originalName": "Sem Dano de Queda",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-semqueda-v1.0.0/semqueda-1.0.0.bl",
+      "packageSha256": "393e8bad02b17c7266a8f21f4c11086764150af554fbd1dcf15445239ab39fee",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "sharedinventory",
+      "uid": "8539e254-45e2-4519-8381-e38c7806f19a",
+      "name": "共享背包",
+      "originalName": "Shared Inventory",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-sharedinventory-v0.2.0/sharedinventory-0.2.0.bl",
+      "packageSha256": "30c808f4d862c82207d4c0de5eac15fe6d3e567b398fada61e1e86bc1da6facd",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "teleportkeeper",
+      "uid": "8de902a2-3816-4a6b-91f8-ab80a0ce0f57",
+      "name": "传送点管家",
+      "originalName": "Teleport Keeper",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-teleportkeeper-v1.2.0/teleportkeeper-1.2.0.bl",
+      "packageSha256": "27347befdf08d55a83be7b56b89ce0072a95a0c25889bcd6feb2d0ec7f7c3ad3",
+      "descriptionSource": "发布包中的现成中文原文",
+      "reusedFiles": [
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
+      ],
+      "reusedSummary": true,
+      "publishedChineseFiles": [
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md"
+      ],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "templopiramide",
+      "uid": "cd8c4f20-bc13-4b47-a508-305a6fc05ae2",
+      "name": "金字塔丛林神庙",
+      "originalName": "Templo Pirâmide",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-templopiramide-v1.1.1/templopiramide-1.1.1.bl",
+      "packageSha256": "113110e2a3d92af639eecb3c7993959b76e487be3877f04f73296b7a55788b0c",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "terrarchitect",
+      "uid": "30f21a81-4240-420b-a9ba-924e917fc571",
+      "name": "泰拉建筑师",
+      "originalName": "Terrarchitect",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-terrarchitect-v1.0.3/terrarchitect-1.0.3.bl",
+      "packageSha256": "864a18c6c300c014712378caa8859167186011ac8f6d2fa6bd8bf14b625e407b",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "ropemod",
+      "uid": "c344c0ce-136d-4e57-b58f-0a1239fbc302",
+      "name": "绳索连心",
+      "originalName": "Terraria Tethers",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-ropemod-v0.3.1/ropemod-0.3.1.bl",
+      "packageSha256": "b04fec8693e7d376f16b00133de6d9f03db8c040fd0d25f9e85d7f4dfece145a",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "tooltipicon",
+      "uid": "5f0b0d15-6ee8-4e03-aafb-825d9ba5ca19",
+      "name": "物品提示图标",
+      "originalName": "Tooltip Icon",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-tooltipicon-v1.0.1/tooltipicon-1.0.1.bl",
+      "packageSha256": "97b6e48773c5d1dadb0c8f4607f22bcc624385ddf2fa6424e98b5955d9315a35",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "topdownmode",
+      "uid": "7b1e9c52-3f4a-4d6e-9a18-5c2d8e0f41a7",
+      "name": "俯视角模式（测试版）",
+      "originalName": "Top-Down Mode (teste)",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-topdownmode-v0.31.0/topdownmode-0.31.0.bl",
+      "packageSha256": "877eb21f23319616f0bb08de1e7df2537712f212ec9834670ca1c4483f0d2314",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "touhoupets",
+      "uid": "2465f295-e293-4742-93fe-73d86b92c6e5",
+      "name": "东方宠物伙伴",
+      "originalName": "Touhou Pets",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-touhoupets-v1.0.4/touhoupets-1.0.4.bl",
+      "packageSha256": "bd59c93494638c74161ad48cf215932ff63cd184426a6ff1e4f4e0e715b285a4",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [
+        "content/Localization/zh-Hans.json"
+      ],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "townnpchome",
+      "uid": "77b38952-98d6-4e18-a301-638d54c4bfd0",
+      "name": "城镇 NPC 回家",
+      "originalName": "TownNPC Home",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-townnpchome-v1.0.0/townnpchome-1.0.0.bl",
+      "packageSha256": "7a85ddfac28b4c50b0ffd0e8cf37bd546c50e41751fb9fae6301dbb8ec74b9a6",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [
+        "content/Localization/zh-Hans.json"
+      ],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "universalmap",
+      "uid": "35117929-e61f-42bc-97c5-773228761b99",
+      "name": "通用地图",
+      "originalName": "Universal Map",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-universalmap-v1.1.2/universalmap-1.1.2.bl",
+      "packageSha256": "b83ec21c7a5b2e7609a99ee153c06d546491d47dc67e1c3412393535a70fea3a",
+      "descriptionSource": "发布包中的现成中文原文",
+      "reusedFiles": [
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
+      ],
+      "reusedSummary": true,
+      "publishedChineseFiles": [
+        "changelog_zh-Hans.md",
+        "content/Localization/zh-Hans.json",
+        "description_zh-Hans.md"
+      ],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "veinminer",
+      "uid": "ed06a60f-5b26-47ab-b684-e801ff88f2aa",
+      "name": "连锁挖矿",
+      "originalName": "Vein Miner",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-veinminer-v1.1.0/veinminer-1.1.0.bl",
+      "packageSha256": "a1f8564d9d70cefd98459ee1317c0c3db06f1b6c0ac80712b93cbea64ef6c46f",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [
+        "content/Localization/zh-Hans.json"
+      ],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "vidacheia",
+      "uid": "ddc6440e-bcaf-4bc9-9e21-9633b49bd1bf",
+      "name": "无限生命",
+      "originalName": "Vida Cheia",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-vidacheia-v1.0.2/vidacheia-1.0.2.bl",
+      "packageSha256": "eb1c681bfce26d8b58b04c578fea1989bb99b1267f3c0d0ed5d9fe84c9ed3e6d",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "weaponoutlite",
+      "uid": "f16fc5fd-5b01-42dc-bdbc-669bfda6c090",
+      "name": "武器外显精简版",
+      "originalName": "Weapon Out Lite",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-weaponoutlite-v1.1.1/weaponoutlite-1.1.1.bl",
+      "packageSha256": "f054626823eaa3daba2aeeee6493c35c5b2facf8133bde05ba878e8cfa80df63",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [
+        "content/Localization/zh-Hans.json"
+      ],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "wmitf",
+      "uid": "be81ae6a-ac8a-4d23-bcd1-2bb8d056d37d",
+      "name": "这来自哪个模组？",
+      "originalName": "Which Mod Is This From?",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-wmitf-v1.0.0/wmitf-1.0.0.bl",
+      "packageSha256": "ddd402b970bdae51ebc25dc3632c6778e6ec089b09151e4dc42a9e452589cd69",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "wikithis",
+      "uid": "821a0c6b-ff63-437b-b3e7-da92f9eae0f8",
+      "name": "游戏内 Wiki 查询",
+      "originalName": "Wikithis",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-wikithis-v1.0.0/wikithis-1.0.0.bl",
+      "packageSha256": "551e726dca4e0a44ff9178ad2c247bc263e636d35557419740dac39832cac3ae",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [
+        "content/Localization/zh-Hans.json"
+      ],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "wildandhorned",
+      "uid": "3183ab40-81f1-477a-aa50-0df1dde68c58",
+      "name": "东方伙伴：Wild and Horned",
+      "originalName": "Wild and Horned",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-wildandhorned-v1.5.2/wildandhorned-1.5.2.bl",
+      "packageSha256": "740b9fd54fef87ca5f583aeed6a0639d861442d5798dc919629a753681bbb065",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "worldgenpreviewer",
+      "uid": "55e1d4c5-3dc5-4c73-acaa-52a5bf0750f5",
+      "name": "世界生成预览",
+      "originalName": "WorldGen Previewer",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-worldgenpreviewer-v1.2.0/worldgenpreviewer-1.2.0.bl",
+      "packageSha256": "fdf9f657990f697a7d2cf0e7a1a435bc6beda6fcdc29627cffedb7374e139a96",
+      "descriptionSource": "发布包中的现成中文原文",
+      "reusedFiles": [
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
+      ],
+      "reusedSummary": true,
+      "publishedChineseFiles": [
+        "changelog_zh-Hans.md",
+        "content/Localization/zh-Hans.json",
+        "description_zh-Hans.md"
+      ],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "extendedzoom",
+      "uid": "67770d24-4d80-41b4-bde9-9a1840caf2c8",
+      "name": "缩放增强",
+      "originalName": "Zoom Tweaks",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-extendedzoom-v0.6.2/extendedzoom-0.6.2.bl",
+      "packageSha256": "6777076cccdffb2c125446c1249f6751251d89a5b526c680e81d43f186dcf9b8",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    },
+    {
+      "id": "voluntaryhook",
+      "uid": "fbb7eb80-3232-4079-998c-cb863e14f3dd",
+      "name": "愿者上钩",
+      "originalName": "愿者上钩 (VoluntaryHook)",
+      "upstreamPackage": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/download/mod-voluntaryhook-v1.1.0/voluntaryhook-1.1.0.bl",
+      "packageSha256": "9e2678ec0a19ce094c00301aa4dfeaa88cb7cb9f7c6c1b55b7241d7b6928ecdc",
+      "descriptionSource": "根据本版本说明和泰拉瑞亚语境翻译",
+      "reusedFiles": [],
+      "reusedSummary": false,
+      "publishedChineseFiles": [],
+      "note": "发布包中的中文由原作者或移植维护者提供；不标为 Re-Logic 官方翻译。未包含中文文件不等于互联网上没有其他译本。"
+    }
+  ]
+}

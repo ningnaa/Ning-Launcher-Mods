@@ -17,7 +17,9 @@
         "description.md",
         "changelog.md",
         "authors/animatak.png",
-        "authors/steam.png"
+        "authors/steam.png",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "31b7ee57-73c8-4a66-ab91-c44440430ee7",
@@ -30,21 +32,27 @@
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532",
-            "role": "Port"
+            "role": "移植"
           },
           {
             "name": "al",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "steam.png",
             "color": "#F0F0F0",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3796173238"
           }
         ],
-        "category": "Gameplay",
+        "category": "玩法",
         "summary": "Hit the Goblin Tinkerer with any weapon to lower his reforge prices.",
         "updated": "2026-10-08",
         "blVersion": 2,
-        "entry": "main.js"
+        "entry": "main.js",
+        "localizedNames": {
+          "zh-Hans": "哥布林砍价"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "用任意武器攻击哥布林工匠，降低他的重铸价格。"
+        }
       }
     },
     {
@@ -62,7 +70,8 @@
         "icon.png",
         "banner.gif",
         "description.md",
-        "authors/steam.png"
+        "authors/steam.png",
+        "description_zh-Hans.md"
       ],
       "manifest": {
         "uid": "0c2e1d93-1149-4942-adb2-860ad8a9b965",
@@ -73,13 +82,13 @@
         "authors": [
           {
             "name": "Orion",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "steam.png",
             "color": "#F0F0F0",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2817496179"
           }
         ],
-        "category": "Visual",
+        "category": "视觉效果",
         "updated": "2026-10-15",
         "blVersion": 2,
         "gameVersion": [
@@ -87,7 +96,13 @@
           301720
         ],
         "entry": "main.js",
-        "dependencies": []
+        "dependencies": [],
+        "localizedNames": {
+          "zh-Hans": "氛围火把"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "为普通火把和提基火把增添橙色光晕，并让放置后的火把及生物群系火把轻微闪烁。"
+        }
       }
     },
     {
@@ -106,7 +121,9 @@
         "description.md",
         "changelog.md",
         "authors/jopojelly.webp",
-        "authors/mantovani.webp"
+        "authors/mantovani.webp",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "6af3b741-65ee-4f5f-99b0-77018638d9fd",
@@ -116,29 +133,35 @@
         "authors": [
           {
             "name": "Mantovani",
-            "role": "Bunny Loader port, fixes & optimization",
+            "role": "Bunny Loader 移植、修复与优化",
             "avatar": "mantovani.webp",
             "color": "#FFD700"
           },
           {
             "name": "jopojelly",
-            "role": "Original mod creator",
+            "role": "原模组作者",
             "avatar": "jopojelly.webp",
             "color": "#FFFFFF",
             "link": "https://forums.terraria.org/index.php?threads/begone-evil-disable-corruption-spread.72285/"
           }
         ],
-        "category": "Utilidade",
+        "category": "实用工具",
         "summary": "Disables natural Corruption, Crimson and Hallow biome spread by default, with a per-world /spread toggle.",
         "updated": "2026-10-04",
         "blVersion": 2,
         "entry": "main.js",
         "links": [
           {
-            "title": "Original mod",
+            "title": "原模组",
             "url": "https://forums.terraria.org/index.php?threads/begone-evil-disable-corruption-spread.72285/"
           }
-        ]
+        ],
+        "localizedNames": {
+          "zh-Hans": "禁止邪恶蔓延"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "默认阻止腐化、猩红与神圣之地自然蔓延，可使用 /spread 为每个世界单独切换。"
+        }
       }
     },
     {
@@ -157,7 +180,9 @@
         "description.md",
         "changelog.md",
         "authors/animatak.png",
-        "authors/steam.png"
+        "authors/steam.png",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "c83a16d7-d5e8-459d-b5fa-d7ab63117102",
@@ -167,7 +192,7 @@
         "authors": [
           {
             "name": "JaquavionBennet",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "steam.png",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3760868784"
           },
@@ -176,14 +201,20 @@
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532",
-            "role": "Port"
+            "role": "移植"
           }
         ],
-        "category": "Decoration",
+        "category": "装饰",
         "summary": "Hologram Projectors that show any unlocked Bestiary creature as an animated, configurable hologram.",
         "updated": "2026-10-13",
         "blVersion": 2,
-        "entry": "main.js"
+        "entry": "main.js",
+        "localizedNames": {
+          "zh-Hans": "生物图鉴全息展示"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "用全息投影仪展示图鉴中已解锁的生物，支持动画和多种显示设置。"
+        }
       }
     },
     {
@@ -201,7 +232,8 @@
         "icon.png",
         "description.md",
         "authors/lemon.webp",
-        "assets/preview.png"
+        "assets/preview.png",
+        "description_zh-Hans.md"
       ],
       "manifest": {
         "uid": "9c6ebfc9-4520-490d-942a-348c41648a4d",
@@ -211,13 +243,13 @@
         "authors": [
           {
             "name": "GST378",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "lemon.webp",
             "color": "#FEFE00",
             "link": "https://youtube.com/@gst_378?si=-18HzRizRpiFJrEP"
           }
         ],
-        "category": "Utilities",
+        "category": "实用工具",
         "summary": "Replaces the traditional Goblin Tinkerer interface with a new system that allows you to browse and select item prefixes directly.",
         "updated": "2026-10-04",
         "blVersion": 2,
@@ -226,7 +258,13 @@
           301720
         ],
         "entry": "main.js",
-        "dependencies": []
+        "dependencies": [],
+        "localizedNames": {
+          "zh-Hans": "更好的重铸"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "替换哥布林工匠的传统重铸界面，让你直接浏览和选择物品修饰语。"
+        }
       }
     },
     {
@@ -246,7 +284,9 @@
         "description.md",
         "changelog.md",
         "authors/animatak.png",
-        "authors/steam.png"
+        "authors/steam.png",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "5bd9553e-8439-4ddb-a12c-805b34b855e8",
@@ -256,7 +296,7 @@
         "authors": [
           {
             "name": "jopojelly",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "steam.png",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2669644269"
           },
@@ -265,16 +305,16 @@
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532",
-            "role": "Port"
+            "role": "移植"
           }
         ],
         "links": [
           {
-            "title": "Original Mod",
+            "title": "原模组",
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2669644269"
           }
         ],
-        "category": "Interface",
+        "category": "界面",
         "summary": "A Boss Log book with every boss, mini-boss and event: progress checklist, spawn items and recipes, loot and collectibles, fight records, despawn messages and a boss radar.",
         "updated": "2026-10-27",
         "blVersion": 2,
@@ -288,6 +328,9 @@
           "ru-RU": "Boss Log со всеми боссами, мини-боссами и событиями: список прогресса, предметы призыва и рецепты, добыча и коллекция, рекорды боёв, сообщения об уходе и радар боссов.",
           "pl-PL": "Boss Log ze wszystkimi bossami, mini-bossami i wydarzeniami: lista postępu, przedmioty przywołujące i przepisy, łupy i kolekcja, rekordy walk, komunikaty o odejściu i radar bossów.",
           "zh-Hans": "一本包含所有Boss、小Boss和事件的 Boss Log：进度清单、召唤物品与配方、战利品与收藏品、战斗记录、Boss离开提示以及Boss雷达。"
+        },
+        "localizedNames": {
+          "zh-Hans": "Boss 清单"
         }
       }
     },
@@ -307,7 +350,9 @@
         "banner.png",
         "description.md",
         "changelog.md",
-        "authors/animatak.png"
+        "authors/animatak.png",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "dbe76e93-a141-4b42-9bbe-13e5b6984e19",
@@ -320,10 +365,10 @@
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532",
-            "role": "Author"
+            "role": "作者"
           }
         ],
-        "category": "Utility",
+        "category": "实用工具",
         "updated": "2026-10-04",
         "blVersion": 2,
         "gameVersion": [
@@ -331,7 +376,13 @@
           301720
         ],
         "entry": "main.js",
-        "dependencies": []
+        "dependencies": [],
+        "localizedNames": {
+          "zh-Hans": "Boss 光标"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "用箭头指示屏幕外或远处 Boss 的方向，方便战斗时追踪目标。"
+        }
       }
     },
     {
@@ -346,7 +397,8 @@
       },
       "files": [
         "manifest.json",
-        "icon.png"
+        "icon.png",
+        "description_zh-Hans.md"
       ],
       "manifest": {
         "uid": "e2f97cd2-138a-5e31-bbab-f276bd5a9cfb",
@@ -356,15 +408,21 @@
         "author": "The Wise Willow",
         "description": "Boss-Colored Relics(Remastered Edition)",
         "type": "texture",
-        "category": "Textures",
+        "category": "材质",
         "blVersion": 2,
         "links": [
           {
-            "title": "Original Terraria Resource Pack",
+            "title": "原版泰拉瑞亚资源包",
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3661349204"
           }
         ],
-        "notes": "Original resource pack by The Wise Willow"
+        "notes": "Original resource pack by The Wise Willow",
+        "localizedNames": {
+          "zh-Hans": "Boss 彩色圣物"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "为 Boss 圣物赋予对应的色彩，采用重制版资源。"
+        }
       }
     },
     {
@@ -380,7 +438,8 @@
       "files": [
         "manifest.json",
         "icon.png",
-        "banner.png"
+        "banner.png",
+        "description_zh-Hans.md"
       ],
       "manifest": {
         "uid": "bcb72e90-3716-4cd1-b8a4-866a963958e5",
@@ -388,11 +447,17 @@
         "name": "BunnySocial",
         "version": "1.0.0",
         "author": "VowTz",
-        "category": "Jogabilidade",
+        "category": "玩法",
         "summary": "Every vanity slot works like an accessory slot.",
         "description": "Items in the vanity (social) slots now apply their effects too, exactly as if they were in the matching equipment slot.",
         "blVersion": 2,
-        "entry": "main.js"
+        "entry": "main.js",
+        "localizedNames": {
+          "zh-Hans": "时装栏生效"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "让每个时装栏也能发挥对应装备栏的效果。"
+        }
       },
       "publishedAt": "2026-10-28T02:20:38Z"
     },
@@ -409,7 +474,8 @@
       "files": [
         "manifest.json",
         "icon.png",
-        "description.md"
+        "description.md",
+        "description_zh-Hans.md"
       ],
       "manifest": {
         "uid": "c7257a97-0552-4aa5-bc55-95f102b0e230",
@@ -419,10 +485,10 @@
         "authors": [
           {
             "name": "VowTz",
-            "role": "Inspiration"
+            "role": "灵感来源"
           }
         ],
-        "category": "Itens",
+        "category": "物品",
         "summary": "Point at any container (chest, piggy bank, safe, forge, void vault) to see what is inside.",
         "license": "GPL-3.0",
         "updated": "2026-10-18",
@@ -432,7 +498,13 @@
           301720
         ],
         "entry": "main.js",
-        "dependencies": []
+        "dependencies": [],
+        "localizedNames": {
+          "zh-Hans": "容器预览"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "指向箱子、猪猪存钱罐、保险箱、护卫熔炉或虚空保险库，即可预览其中的物品。"
+        }
       }
     },
     {
@@ -451,7 +523,9 @@
         "description.md",
         "changelog.md",
         "authors/animatak.png",
-        "authors/steam.png"
+        "authors/steam.png",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "e613a447-d93c-49ca-8c74-f88accbfa996",
@@ -461,23 +535,29 @@
         "authors": [
           {
             "name": "PvtFudgepants",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "steam.png",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2793782057"
           },
           {
             "name": "Animatak_",
-            "role": "Port",
+            "role": "移植",
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532"
           }
         ],
-        "category": "Visual",
+        "category": "视觉效果",
         "summary": "Damage numbers and tooltips in the color of the weapon's class: melee, ranged, magic, summon, sentry, throwing and modded classes.",
         "updated": "2026-10-12",
         "blVersion": 2,
-        "entry": "main.js"
+        "entry": "main.js",
+        "localizedNames": {
+          "zh-Hans": "伤害类型着色"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "按近战、远程、魔法、召唤、哨兵、投掷和模组职业，为伤害数字与物品提示着色。"
+        }
       }
     },
     {
@@ -507,7 +587,9 @@
         "thumbnails/6.jpeg",
         "thumbnails/7.jpeg",
         "thumbnails/8.jpeg",
-        "assets/bg.png"
+        "assets/bg.png",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "dae471c1-1177-4640-9cb7-68e29de58f6b",
@@ -517,13 +599,13 @@
         "authors": [
           {
             "name": "Consolaria Team",
-            "role": "Original Mod",
+            "role": "原模组",
             "avatar": "consolaria_team.png",
             "color": "#FFFFFF",
             "link": "https://github.com/has2r/Consolaria-2.0"
           }
         ],
-        "category": "Content",
+        "category": "内容扩展",
         "summary": "Tons of exclusive content from the legacy and old-gen versions, reworked and rebalanced for modern Terraria.",
         "license": "MIT",
         "updated": "2026-10-01",
@@ -536,15 +618,15 @@
         "dependencies": [],
         "links": [
           {
-            "title": "Official Wiki",
+            "title": "官方 Wiki",
             "url": "https://terrariamods.wiki.gg/wiki/Consolaria"
           },
           {
-            "title": "Discord Server",
+            "title": "Discord 社区",
             "url": "https://discord.gg/DTABXbd"
           },
           {
-            "title": "Github Page",
+            "title": "GitHub 页面",
             "url": "https://github.com/has2r/Consolaria-2.0"
           }
         ],
@@ -559,6 +641,12 @@
           "backgroundMode": "cover",
           "backgroundScale": 0.25,
           "backgroundDim": 0.3
+        },
+        "localizedNames": {
+          "zh-Hans": "Consolaria：旧版独占内容"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "让旧版移动端和主机版的独占内容回归，并针对现代泰拉瑞亚重新设计和平衡。"
         }
       }
     },
@@ -575,7 +663,8 @@
       "files": [
         "manifest.json",
         "icon.png",
-        "authors/castorzeira.png"
+        "authors/castorzeira.png",
+        "description_zh-Hans.md"
       ],
       "manifest": {
         "uid": "dc3f4de8-1c59-4d92-a986-3ea0e4b42e15",
@@ -585,20 +674,26 @@
         "authors": [
           {
             "name": "Log Spiral (Original Creator)",
-            "role": "Original mod and visual assets"
+            "role": "原模组与视觉资源"
           },
           {
             "name": "Castorzeira (port)",
             "avatar": "Castorzeira.png",
-            "role": "Bunny Loader port"
+            "role": "Bunny Loader 移植"
           }
         ],
-        "category": "Visual",
+        "category": "视觉效果",
         "summary": "Efeito Slash Maneiro",
         "description": "efeito slash totalmente exagerado e bonito",
         "updated": "2026-10-20",
         "blVersion": 2,
-        "entry": "main.js"
+        "entry": "main.js",
+        "localizedNames": {
+          "zh-Hans": "近战武器视觉特效（C.I.V.E.）"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "夸张而华丽的挥砍特效，Bunny Loader 移植版。"
+        }
       },
       "publishedAt": "2026-10-29T10:39:39Z"
     },
@@ -618,7 +713,8 @@
         "banner.png",
         "description.md",
         "license.md",
-        "authors/steam.png"
+        "authors/steam.png",
+        "description_zh-Hans.md"
       ],
       "manifest": {
         "uid": "a4f0d04b-f2f0-499b-b4b8-6d89e4bcbd6a",
@@ -630,13 +726,13 @@
         "authors": [
           {
             "name": "Gorffy, Ink of the Eternity, Litos the Litium",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "steam.png",
             "color": "#FFFFFF",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3331547573"
           }
         ],
-        "category": "Gameplay",
+        "category": "玩法",
         "updated": "2026-10-22",
         "blVersion": 2,
         "gameVersion": [
@@ -644,7 +740,13 @@
           301720
         ],
         "entry": "main.js",
-        "dependencies": []
+        "dependencies": [],
+        "localizedNames": {
+          "zh-Hans": "离地宽限跳跃"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "加入其他游戏中常见的离地宽限帧，让玩家离开平台边缘后仍有短暂的起跳机会。"
+        }
       }
     },
     {
@@ -659,7 +761,8 @@
       },
       "files": [
         "manifest.json",
-        "icon.png"
+        "icon.png",
+        "description_zh-Hans.md"
       ],
       "manifest": {
         "uid": "62f7b9da-e712-5f22-b943-dbf5474d5b4c",
@@ -669,8 +772,14 @@
         "author": "Santartica",
         "description": "Terraria Ovehaul for Health and Mana",
         "type": "texture",
-        "category": "Textures",
-        "blVersion": 2
+        "category": "材质",
+        "blVersion": 2,
+        "localizedNames": {
+          "zh-Hans": "暗黑奇幻生命与魔力界面"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "为生命值和魔力界面换上 Terraria Overhaul 风格的材质。"
+        }
       },
       "publishedAt": "2026-10-28T02:19:59Z"
     },
@@ -686,7 +795,8 @@
       },
       "files": [
         "manifest.json",
-        "icon.png"
+        "icon.png",
+        "description_zh-Hans.md"
       ],
       "manifest": {
         "uid": "9b4f2a1c-3d5e-4b6a-9c8d-1e2f3a4b5c6d",
@@ -699,7 +809,7 @@
             "name": "VowTz"
           }
         ],
-        "category": "Jogabilidade",
+        "category": "玩法",
         "summary": "Gives the player a basic dash without needing any dashing accessory.",
         "license": "no license",
         "updated": "2026-10-29",
@@ -709,7 +819,13 @@
           301720
         ],
         "entry": "DefaultDash.cs",
-        "dependencies": []
+        "dependencies": [],
+        "localizedNames": {
+          "zh-Hans": "基础冲刺"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "无需装备冲刺饰品，也能使用基础冲刺。"
+        }
       },
       "publishedAt": "2026-10-29T10:39:17Z"
     },
@@ -728,7 +844,8 @@
         "icon.png",
         "banner.jpg",
         "description.md",
-        "authors/0.png"
+        "authors/0.png",
+        "description_zh-Hans.md"
       ],
       "manifest": {
         "uid": "22b95101-7032-49ab-92a8-468f3030aa41",
@@ -738,13 +855,13 @@
         "authors": [
           {
             "name": "GST378",
-            "role": "author",
+            "role": "作者",
             "avatar": "0.png",
             "color": "#ffffff",
             "link": "https://youtube.com/@gst_378"
           }
         ],
-        "category": "Utilidade",
+        "category": "实用工具",
         "summary": "一个直观的工具界面：难度切换、实体清除、碰撞箱、天气与时间、相机与拍照模式、调试信息。",
         "license": "",
         "updated": "2026-10-15",
@@ -754,7 +871,13 @@
           301720
         ],
         "entry": "main.js",
-        "dependencies": []
+        "dependencies": [],
+        "localizedNames": {
+          "zh-Hans": "开发者工具"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "一个直观的工具界面：难度切换、实体清除、碰撞箱、天气与时间、相机与拍照模式、调试信息。"
+        }
       }
     },
     {
@@ -770,7 +893,8 @@
       "files": [
         "manifest.json",
         "icon.png",
-        "description.md"
+        "description.md",
+        "description_zh-Hans.md"
       ],
       "manifest": {
         "uid": "cece9409-844d-476a-8953-1a59de78db92",
@@ -780,10 +904,10 @@
         "authors": [
           {
             "name": "VowTz",
-            "role": "Author"
+            "role": "作者"
           }
         ],
-        "category": "Jogabilidade",
+        "category": "玩法",
         "summary": "Melee swords swing toward where you aim, and the hitbox follows the blade.",
         "license": "MIT",
         "updated": "2026-10-25",
@@ -793,7 +917,13 @@
           301720
         ],
         "entry": "main.js",
-        "dependencies": []
+        "dependencies": [],
+        "localizedNames": {
+          "zh-Hans": "定向挥砍"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "近战剑朝瞄准方向挥动，攻击判定跟随剑刃。"
+        }
       },
       "publishedAt": "2026-10-26T10:27:00Z"
     },
@@ -814,8 +944,41 @@
         "description.md",
         "changelog.md",
         "license.md",
-        "authors/bunny-loader.png"
-      ]
+        "authors/bunny-loader.png",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
+      ],
+      "manifest": {
+        "uid": "95728a1c-1fb7-4ed7-af5b-d12bdec38e46",
+        "id": "dobrodedano",
+        "name": "Dobro de Dano",
+        "version": "1.0.0",
+        "authors": [
+          {
+            "name": "Bunny Loader",
+            "role": "代码与美术",
+            "avatar": "bunny-loader.png",
+            "color": "#F9E141"
+          }
+        ],
+        "category": "武器",
+        "summary": "Toda arma nasce com o dobro do dano.",
+        "license": "MIT",
+        "updated": "2026-09-22",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": [],
+        "localizedNames": {
+          "zh-Hans": "双倍伤害"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "让所有武器获得双倍基础伤害。"
+        }
+      }
     },
     {
       "uid": "e2f97cd2-138a-5e31-bbab-f206bd5a9cfb",
@@ -829,7 +992,8 @@
       },
       "files": [
         "manifest.json",
-        "icon.png"
+        "icon.png",
+        "description_zh-Hans.md"
       ],
       "manifest": {
         "uid": "e2f97cd2-138a-5e31-bbab-f206bd5a9cfb",
@@ -839,19 +1003,25 @@
         "author": "Fanec",
         "description": "Don't Starve inspired NPC portraits — port Bunny Loader.",
         "type": "texture",
-        "category": "Textures",
+        "category": "材质",
         "blVersion": 2,
         "links": [
           {
-            "title": "Original Terraria Resource Pack",
+            "title": "原版泰拉瑞亚资源包",
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3679638344"
           },
           {
-            "title": "Bunny Loader texture pack guide",
+            "title": "Bunny Loader 材质包指南",
             "url": "https://github.com/JonataOliveiraa/Bunny-Loader/blob/main/docs/mods/14-pacotes-de-textura.md"
           }
         ],
-        "notes": "Original resource pack by Fanec. Texture assets retained with their original relative paths under content/Images."
+        "notes": "Original resource pack by Fanec. Texture assets retained with their original relative paths under content/Images.",
+        "localizedNames": {
+          "zh-Hans": "饥荒风格 NPC 肖像"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "饥荒风格的 NPC 肖像资源包，Bunny Loader 移植版。"
+        }
       },
       "publishedAt": "2026-10-26T10:26:37Z"
     },
@@ -870,7 +1040,9 @@
         "icon.png",
         "description.md",
         "changelog.md",
-        "authors/animatak.png"
+        "authors/animatak.png",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "18be738c-3c45-4191-b666-e0801f602b2a",
@@ -880,7 +1052,7 @@
         "authors": [
           {
             "name": "Animatak_",
-            "role": "Author",
+            "role": "作者",
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/mkPMd9shZH"
@@ -892,7 +1064,7 @@
             "url": "https://discord.gg/mkPMd9shZH"
           }
         ],
-        "category": "World",
+        "category": "世界",
         "summary": "A secret seed for a world so flat you can run without fear of tripping into a hole: type \"flat\" when creating a world. Caves, biomes, structures and the floating islands stay as usual.",
         "localizedSummaries": {
           "pt-BR": "Uma seed secreta para um mundo tão plano que dá para correr sem medo de cair num buraco: digite \"plano\" ou \"flat\" ao criar um mundo. Cavernas, biomas, estruturas e as ilhas flutuantes continuam normais.",
@@ -904,7 +1076,10 @@
         },
         "updated": "2026-10-26",
         "blVersion": 2,
-        "entry": "main.js"
+        "entry": "main.js",
+        "localizedNames": {
+          "zh-Hans": "平坦世界种子"
+        }
       }
     },
     {
@@ -924,7 +1099,9 @@
         "description.md",
         "changelog.md",
         "license.md",
-        "authors/potato.png"
+        "authors/potato.png",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "72922151-b656-35dd-a8f9-a7a272f12b25",
@@ -935,19 +1112,19 @@
         "authors": [
           {
             "name": "Astigmatic",
-            "role": "Fonte original",
+            "role": "原字体",
             "link": "https://fonts.google.com/specimen/Aclonica"
           },
           {
             "name": "Potato",
-            "role": "Port para o Bunny Loader",
+            "role": "Bunny Loader 移植",
             "avatar": "potato.png",
             "color": "#E8C170",
             "link": "https://github.com/JonataOliveiraa"
           }
         ],
         "type": "font",
-        "category": "Fontes",
+        "category": "字体",
         "summary": "Letras arredondadas e grossas, no estilo de cartaz de aventura",
         "license": "Apache-2.0",
         "blVersion": 2,
@@ -957,7 +1134,7 @@
         ],
         "links": [
           {
-            "title": "Fonte original",
+            "title": "原字体",
             "url": "https://fonts.google.com/specimen/Aclonica"
           }
         ],
@@ -965,6 +1142,12 @@
           "accent": "#FFB347",
           "panel": "#3A2A1C",
           "heading": "#FFE8C7"
+        },
+        "localizedNames": {
+          "zh-Hans": "Aclonica 字体"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "圆润粗厚的字形，具有冒险海报的风格。"
         }
       }
     },
@@ -985,7 +1168,9 @@
         "description.md",
         "changelog.md",
         "license.md",
-        "authors/potato.png"
+        "authors/potato.png",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "2c4b5895-88ad-30f5-9c0a-ba1a4e0310c1",
@@ -996,19 +1181,19 @@
         "authors": [
           {
             "name": "Nate Piekos (Blambot)",
-            "role": "Fonte original",
+            "role": "原字体",
             "link": "https://blambot.com"
           },
           {
             "name": "Potato",
-            "role": "Port para o Bunny Loader",
+            "role": "Bunny Loader 移植",
             "avatar": "potato.png",
             "color": "#E8C170",
             "link": "https://github.com/JonataOliveiraa"
           }
         ],
         "type": "font",
-        "category": "Fontes",
+        "category": "字体",
         "summary": "Letra de taverna medieval, desenhada à mão",
         "license": "Freeware não comercial (Blambot)",
         "blVersion": 2,
@@ -1018,7 +1203,7 @@
         ],
         "links": [
           {
-            "title": "Fonte original",
+            "title": "原字体",
             "url": "https://blambot.com"
           }
         ],
@@ -1026,6 +1211,12 @@
           "accent": "#D9A066",
           "panel": "#33221A",
           "heading": "#FBE6CF"
+        },
+        "localizedNames": {
+          "zh-Hans": "Ale and Wenches 字体"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "手绘风格的中世纪酒馆字体。"
         }
       }
     },
@@ -1046,7 +1237,9 @@
         "description.md",
         "changelog.md",
         "license.md",
-        "authors/bunny-loader.png"
+        "authors/bunny-loader.png",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "19e3900c-83a2-4e9f-9724-1a38f82dcae9",
@@ -1056,14 +1249,14 @@
         "authors": [
           {
             "name": "Bunny Loader",
-            "role": "Pacote",
+            "role": "资源包制作",
             "avatar": "bunny-loader.png",
             "color": "#F9E141"
           },
           "Comic Neue Project Authors"
         ],
         "type": "font",
-        "category": "Fontes",
+        "category": "字体",
         "summary": "Troca as fontes do jogo pela Comic Neue, nítida em qualquer tela",
         "license": "OFL-1.1",
         "updated": "2026-10-18",
@@ -1076,6 +1269,12 @@
           "accent": "#7FD3FF",
           "panel": "#1F2E44",
           "heading": "#E3F4FF"
+        },
+        "localizedNames": {
+          "zh-Hans": "Comic Neue 字体"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "将游戏字体替换为 Comic Neue，在不同屏幕上保持清晰。"
         }
       }
     },
@@ -1096,7 +1295,9 @@
         "description.md",
         "changelog.md",
         "license.md",
-        "authors/potato.png"
+        "authors/potato.png",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "ca37f1dd-ed7c-3db5-b46c-4c3c958fc54a",
@@ -1107,23 +1308,23 @@
         "authors": [
           {
             "name": "Microsoft",
-            "role": "Fonte original"
+            "role": "原字体"
           },
           {
             "name": "Mirasein",
-            "role": "Resource pack Custom Fonts (PC)",
+            "role": "电脑版 Custom Fonts 资源包",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2439864365"
           },
           {
             "name": "Potato",
-            "role": "Port para o Bunny Loader",
+            "role": "Bunny Loader 移植",
             "avatar": "potato.png",
             "color": "#E8C170",
             "link": "https://github.com/JonataOliveiraa"
           }
         ],
         "type": "font",
-        "category": "Fontes",
+        "category": "字体",
         "summary": "Serifada clássica, do resource pack Custom Fonts do PC",
         "license": "Fonte Pescadero da Microsoft",
         "blVersion": 2,
@@ -1133,7 +1334,7 @@
         ],
         "links": [
           {
-            "title": "Original no Steam Workshop",
+            "title": "Steam 创意工坊原作",
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2439864365"
           }
         ],
@@ -1141,6 +1342,12 @@
           "accent": "#9FC9E8",
           "panel": "#1E2A36",
           "heading": "#E6F3FF"
+        },
+        "localizedNames": {
+          "zh-Hans": "Pescadero 字体"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "来自电脑版 Custom Fonts 资源包的经典衬线字体。"
         }
       }
     },
@@ -1161,7 +1368,9 @@
         "description.md",
         "changelog.md",
         "license.md",
-        "authors/potato.png"
+        "authors/potato.png",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "ad3d1b57-654e-33f3-a5b0-e09ea96484f0",
@@ -1172,19 +1381,19 @@
         "authors": [
           {
             "name": "Pete Klassen",
-            "role": "Fonte original",
+            "role": "原字体",
             "link": "https://www.dafont.com/ringbearer.font"
           },
           {
             "name": "Potato",
-            "role": "Port para o Bunny Loader",
+            "role": "Bunny Loader 移植",
             "avatar": "potato.png",
             "color": "#E8C170",
             "link": "https://github.com/JonataOliveiraa"
           }
         ],
         "type": "font",
-        "category": "Fontes",
+        "category": "字体",
         "summary": "A letra do logotipo de O Senhor dos Anéis",
         "license": "Gratuita para uso pessoal",
         "blVersion": 2,
@@ -1194,7 +1403,7 @@
         ],
         "links": [
           {
-            "title": "Fonte original",
+            "title": "原字体",
             "url": "https://www.dafont.com/ringbearer.font"
           }
         ],
@@ -1202,6 +1411,12 @@
           "accent": "#E8C170",
           "panel": "#2B2418",
           "heading": "#FFF1CF"
+        },
+        "localizedNames": {
+          "zh-Hans": "Ringbearer 字体"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "采用《指环王》标志风格的字体。"
         }
       }
     },
@@ -1221,7 +1436,9 @@
         "description.md",
         "changelog.md",
         "authors/animatak.png",
-        "authors/steam.png"
+        "authors/steam.png",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "064e2318-32a8-4c41-a625-bcc8388ced91",
@@ -1231,18 +1448,18 @@
         "authors": [
           {
             "name": "Korlex",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "steam.png"
           },
           {
             "name": "Animatak_",
-            "role": "Port",
+            "role": "移植",
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/mkPMd9shZH"
           }
         ],
-        "category": "World",
+        "category": "世界",
         "summary": "Gnorp, an alien builder town NPC, sells globes that instantly build houses, castles, arenas, elevators, pylons, lakes and minecart tracks where you tap.",
         "localizedSummaries": {
           "pt-BR": "Gnorp, um NPC construtor alienígena, vende globos que constroem na hora casas, castelos, arenas, elevadores, pilares, lagos e trilhos onde você toca.",
@@ -1256,7 +1473,10 @@
         },
         "updated": "2026-10-27",
         "blVersion": 2,
-        "entry": "main.js"
+        "entry": "main.js",
+        "localizedNames": {
+          "zh-Hans": "Gnorp 建筑师"
+        }
       }
     },
     {
@@ -1271,8 +1491,33 @@
       },
       "files": [
         "manifest.json",
-        "icon.png"
-      ]
+        "icon.png",
+        "description_zh-Hans.md"
+      ],
+      "manifest": {
+        "uid": "4ef70487-0ffd-4b37-adbd-9e9a403d5307",
+        "id": "gorilla",
+        "name": "Gorilla",
+        "version": "1.0.0",
+        "author": "ported by Animatak",
+        "category": "趣味",
+        "summary": "Enfrente o Gorila. Talvez você precise de 100 homens para derrotar essa coisa... e não espere sair vivo.",
+        "description": "Enfrente o Gorila, um chefe ridiculamente poderoso e brutal. Talvez você precise de 100 homens para derrotar essa coisa... e mesmo assim, não espere sobreviver.\nMod original desenvolvido por GabeHasWon.",
+        "updated": "2026-09-30",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": [],
+        "localizedNames": {
+          "zh-Hans": "大猩猩 Boss"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "挑战强大而凶暴的大猩猩。也许需要一百个人才能打倒它……即便如此，也别指望能活下来。"
+        }
+      }
     },
     {
       "uid": "12754257-00fe-4c58-b21b-7af0c5faf7b3",
@@ -1288,7 +1533,8 @@
         "manifest.json",
         "icon.png",
         "authors/lemon.webp",
-        "authors/steam.png"
+        "authors/steam.png",
+        "description_zh-Hans.md"
       ],
       "manifest": {
         "uid": "12754257-00fe-4c58-b21b-7af0c5faf7b3",
@@ -1298,20 +1544,20 @@
         "authors": [
           {
             "name": "Cyrillya",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "steam.png",
             "color": "#F0F0F0",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2793971101"
           },
           {
             "name": "GST378",
-            "role": "Bunny Loader Port",
+            "role": "Bunny Loader 移植",
             "avatar": "lemon.webp",
             "color": "#FEFE00",
             "link": "https://youtube.com/@gst_378?si=-18HzRizRpiFJrEP"
           }
         ],
-        "category": "QoL",
+        "category": "便利功能",
         "summary": "This mod makes the gravity inversion effect not flip your screen, only the player flips.",
         "updated": "2026-10-04",
         "blVersion": 2,
@@ -1320,7 +1566,13 @@
           301720
         ],
         "entry": "main.js",
-        "dependencies": []
+        "dependencies": [],
+        "localizedNames": {
+          "zh-Hans": "重力反转不翻转屏幕"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "反转重力时只翻转角色，不翻转整个画面。"
+        }
       }
     },
     {
@@ -1338,7 +1590,9 @@
         "icon.png",
         "description.md",
         "changelog.md",
-        "authors/animatak.png"
+        "authors/animatak.png",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "47f60fb6-0b46-453e-b19e-389867412da8",
@@ -1351,14 +1605,20 @@
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532",
-            "role": "Author"
+            "role": "作者"
           }
         ],
-        "category": "Visual",
+        "category": "视觉效果",
         "summary": "Your head follows the cursor, your body leans as you move, and slimes, zombies and critters lean too.",
         "updated": "2026-10-08",
         "blVersion": 2,
-        "entry": "main.js"
+        "entry": "main.js",
+        "localizedNames": {
+          "zh-Hans": "灵动动作"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "角色头部跟随光标、身体随移动倾斜；史莱姆、僵尸和小动物也会随动作倾斜。"
+        }
       }
     },
     {
@@ -1378,8 +1638,47 @@
         "description.md",
         "license.md",
         "authors/lemon.webp",
-        "authors/steam.png"
-      ]
+        "authors/steam.png",
+        "description_zh-Hans.md"
+      ],
+      "manifest": {
+        "uid": "469b0c4b-acfa-463b-90df-5db222a81351",
+        "id": "instantplatformfallthrough",
+        "name": "Instant Platform Fallthrough",
+        "version": "1.0.0",
+        "authors": [
+          {
+            "name": "diniamo",
+            "role": "原作者",
+            "avatar": "steam.png",
+            "color": "#F0F0F0",
+            "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2992213994"
+          },
+          {
+            "name": "GST378",
+            "role": "Bunny Loader 移植",
+            "avatar": "lemon.webp",
+            "color": "#FEFE00",
+            "link": "https://youtube.com/@gst_378?si=-18HzRizRpiFJrEP"
+          }
+        ],
+        "category": "便利功能",
+        "summary": "Allows you to fall through platforms instantly while holding your down key instead of stopping for a moment.",
+        "updated": "2026-10-01",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": [],
+        "localizedNames": {
+          "zh-Hans": "平台快速下落"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "按住向下键时立即穿过平台下落，不再短暂停顿。"
+        }
+      }
     },
     {
       "uid": "2d01296e-d4e9-4493-a107-6ee6835f349e",
@@ -1401,7 +1700,10 @@
         "authors/steam.png",
         "docs/crafting.md",
         "content/Content/Items/DisplayBaseItem.png",
-        "content/Content/Items/DisplayBaseItemGranite.png"
+        "content/Content/Items/DisplayBaseItemGranite.png",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md",
+        "docs/crafting_zh-Hans.md"
       ],
       "manifest": {
         "uid": "2d01296e-d4e9-4493-a107-6ee6835f349e",
@@ -1411,7 +1713,7 @@
         "authors": [
           {
             "name": "Cleyera",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "steam.png",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2922358421"
           },
@@ -1420,25 +1722,31 @@
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532",
-            "role": "Port"
+            "role": "移植"
           },
           {
             "name": "Cavalier",
-            "role": "Chinese localization (original)",
+            "role": "原版中文本地化",
             "avatar": "steam.png"
           }
         ],
-        "category": "Decoration",
+        "category": "装饰",
         "summary": "A Display Base to show off any item, with glitter, outline and light effects. Made from marble or granite.",
         "updated": "2026-10-12",
         "blVersion": 2,
         "entry": "main.js",
         "pages": [
           {
-            "title": "Crafting",
-            "file": "docs/crafting.md"
+            "title": "合成配方",
+            "file": "docs/crafting_zh-Hans.md"
           }
-        ]
+        ],
+        "localizedNames": {
+          "zh-Hans": "物品展示基座"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "用大理石或花岗岩制作展示基座，展示任意物品，并添加闪烁、描边和照明效果。"
+        }
       }
     },
     {
@@ -1455,7 +1763,8 @@
         "manifest.json",
         "icon.png",
         "description.md",
-        "authors/0.jpg"
+        "authors/0.jpg",
+        "description_zh-Hans.md"
       ],
       "manifest": {
         "uid": "adbf3a32-2952-41cc-8d97-7c3b1575785d",
@@ -1465,13 +1774,13 @@
         "authors": [
           {
             "name": "GST378",
-            "role": "author",
+            "role": "作者",
             "avatar": "0.jpg",
             "color": "#ffffff",
             "link": "https://youtube.com/@gst_378"
           }
         ],
-        "category": "Gameplay",
+        "category": "玩法",
         "summary": "为游戏添加自定义世界难度（原版只有普通/专家/大师/旅行难度），并加入传奇难度。.",
         "license": "",
         "updated": "2026-10-16",
@@ -1481,7 +1790,13 @@
           301720
         ],
         "entry": "main.js",
-        "dependencies": []
+        "dependencies": [],
+        "localizedNames": {
+          "zh-Hans": "传奇难度"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "为游戏添加自定义世界难度，并在原版普通、专家、大师和旅行难度之外加入传奇难度。"
+        }
       }
     },
     {
@@ -1499,7 +1814,9 @@
         "icon.png",
         "description.md",
         "changelog.md",
-        "authors/potato.png"
+        "authors/potato.png",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "cefdf353-c563-4845-b253-85a851e5d84c",
@@ -1509,19 +1826,25 @@
         "authors": [
           {
             "name": "yiyang233",
-            "role": "Original mod and visual assets"
+            "role": "原模组与视觉资源"
           },
           {
             "name": "Potato",
             "avatar": "potato.png",
-            "role": "Bunny Loader port"
+            "role": "Bunny Loader 移植"
           }
         ],
-        "category": "Visual",
+        "category": "视觉效果",
         "summary": "Sunlight, moonlight, shadow rays and bloom over the world, ported from the tModLoader mod and rebuilt to run on phones.",
         "updated": "2026-10-19",
         "blVersion": 2,
-        "entry": "main.js"
+        "entry": "main.js",
+        "localizedNames": {
+          "zh-Hans": "光与影"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "为世界添加日光、月光、光影射线和外发光，将 tModLoader 模组移植并调整为适合手机运行。"
+        }
       }
     },
     {
@@ -1540,7 +1863,9 @@
         "description.md",
         "changelog.md",
         "authors/animatak.png",
-        "authors/steam.png"
+        "authors/steam.png",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "a9538fc3-d926-43dd-a893-6d49a83da1c9",
@@ -1550,7 +1875,7 @@
         "authors": [
           {
             "name": "ChemAtDark",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "steam.png",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2847872897"
           },
@@ -1559,14 +1884,20 @@
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532",
-            "role": "Port"
+            "role": "移植"
           }
         ],
-        "category": "Visual",
+        "category": "视觉效果",
         "summary": "Borderlands-style light beams and glows in each dropped item's rarity color, with beam styles, glow and configurable lists.",
         "updated": "2026-10-12",
         "blVersion": 2,
-        "entry": "main.js"
+        "entry": "main.js",
+        "localizedNames": {
+          "zh-Hans": "掉落物光柱"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "为掉落物添加《无主之地》风格的稀有度彩色光柱与光晕，支持样式和筛选列表设置。"
+        }
       }
     },
     {
@@ -1616,7 +1947,8 @@
         "doc/PlacedVisuals/Earth.png",
         "doc/PlacedVisuals/Fire.png",
         "doc/PlacedVisuals/Water.png",
-        "doc/PlacedVisuals/Wind.png"
+        "doc/PlacedVisuals/Wind.png",
+        "description_zh-Hans.md"
       ],
       "manifest": {
         "uid": "024d3144-6342-4dbe-93b6-3eec25f7e23e",
@@ -1627,13 +1959,13 @@
         "authors": [
           {
             "name": "Barometz",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "github.png",
             "color": "#FFFFFF",
             "link": "https://github.com/Barometz-Mod/MinecraftPaintings"
           }
         ],
-        "category": "Visual",
+        "category": "视觉效果",
         "updated": "2026-10-22",
         "blVersion": 2,
         "gameVersion": [
@@ -1641,7 +1973,13 @@
           301720
         ],
         "entry": "main.js",
-        "dependencies": []
+        "dependencies": [],
+        "localizedNames": {
+          "zh-Hans": "我的世界画作"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "添加《我的世界》的 30 幅画作，手工重绘以减少杂点，并适配泰拉瑞亚的画作尺寸。"
+        }
       }
     },
     {
@@ -1661,7 +1999,9 @@
         "description.md",
         "changelog.md",
         "license.md",
-        "authors/bunny-loader.png"
+        "authors/bunny-loader.png",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "fc731e9a-2844-433b-ade1-5a0ab23165c4",
@@ -1671,12 +2011,12 @@
         "authors": [
           {
             "name": "Bunny Loader",
-            "role": "Código e arte",
+            "role": "代码与美术",
             "avatar": "bunny-loader.png",
             "color": "#F9E141"
           }
         ],
-        "category": "Armas",
+        "category": "武器",
         "summary": "A Minishark vira uma metralhadora.",
         "license": "MIT",
         "updated": "2026-10-19",
@@ -1687,7 +2027,13 @@
           301720
         ],
         "entry": "main.js",
-        "dependencies": []
+        "dependencies": [],
+        "localizedNames": {
+          "zh-Hans": "迷你鲨强化"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "让迷你鲨化身高速机枪。"
+        }
       }
     },
     {
@@ -1706,7 +2052,9 @@
         "description.md",
         "changelog.md",
         "license.md",
-        "authors/potato.png"
+        "authors/potato.png",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "e651d97d-eb24-51b5-bdc2-57722a898f79",
@@ -1717,17 +2065,17 @@
         "authors": [
           {
             "name": "rzc0d3r",
-            "role": "Original mod, code and assets",
+            "role": "原模组、代码与资源",
             "link": "https://github.com/rzc00d3r/MitaNPC"
           },
           {
             "name": "Potato",
-            "role": "Bunny Loader port",
+            "role": "Bunny Loader 移植",
             "avatar": "potato.png",
             "color": "#E8C170"
           }
         ],
-        "category": "NPCs",
+        "category": "NPC",
         "summary": "Four MiSide town NPCs with voiced dialogue, shops, weapons, pets and permanent combat manuals.",
         "license": "MIT",
         "updated": "2026-10-19",
@@ -1735,11 +2083,11 @@
         "entry": "main.js",
         "links": [
           {
-            "title": "Original Workshop mod",
+            "title": "创意工坊原模组",
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3402763063"
           },
           {
-            "title": "Original source code",
+            "title": "原版源代码",
             "url": "https://github.com/rzc00d3r/MitaNPC"
           }
         ],
@@ -1747,6 +2095,12 @@
           "accent": "#B971F2",
           "panel": "#272038",
           "heading": "#F0E2FF"
+        },
+        "localizedNames": {
+          "zh-Hans": "米塔城镇 NPC"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "添加四位来自《米塔》（MiSide）的城镇 NPC，包含语音对话、商店、武器、宠物和永久战斗手册。"
         }
       }
     },
@@ -1765,7 +2119,8 @@
         "icon.png",
         "banner.png",
         "description.md",
-        "authors/steam.png"
+        "authors/steam.png",
+        "description_zh-Hans.md"
       ],
       "manifest": {
         "uid": "005ff90e-02cd-4caa-ba96-953378fca597",
@@ -1776,13 +2131,13 @@
         "authors": [
           {
             "name": "Lunaros",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "steam.png",
             "color": "#FFFFFF",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3288950444"
           }
         ],
-        "category": "QoL",
+        "category": "便利功能",
         "updated": "2026-10-22",
         "blVersion": 2,
         "gameVersion": [
@@ -1790,7 +2145,13 @@
           301720
         ],
         "entry": "main.js",
-        "dependencies": []
+        "dependencies": [],
+        "localizedNames": {
+          "zh-Hans": "按需拾取"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "不需要回复或增益时，不再拾取生命心、魔力星和星云强化焰等消耗性掉落物。"
+        }
       }
     },
     {
@@ -1809,7 +2170,9 @@
         "description.md",
         "changelog.md",
         "authors/animatak.png",
-        "authors/steam.png"
+        "authors/steam.png",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "96640ec6-506d-457f-a695-8e212bd07184",
@@ -1819,19 +2182,19 @@
         "authors": [
           {
             "name": "Ryan (RightoeusRyan)",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "steam.png",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2563610738"
           },
           {
             "name": "Animatak_",
-            "role": "Port",
+            "role": "移植",
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/KcRfNEMUxn"
           }
         ],
-        "category": "Gameplay",
+        "category": "玩法",
         "summary": "This mod allows NPCs to take fall damage. Pretty self explanatory. This bonus also applies to bosses.",
         "updated": "2026-10-24",
         "blVersion": 2,
@@ -1843,10 +2206,16 @@
         "dependencies": [],
         "links": [
           {
-            "title": "Original Mod",
+            "title": "原模组",
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2563610738"
           }
-        ]
+        ],
+        "localizedNames": {
+          "zh-Hans": "NPC 摔落伤害"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "让 NPC 也会受到摔落伤害，Boss 同样适用。"
+        }
       }
     },
     {
@@ -1865,7 +2234,9 @@
         "description.md",
         "changelog.md",
         "authors/animatak.png",
-        "authors/steam.png"
+        "authors/steam.png",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "421e4df1-c2d7-45ec-86ec-563ccc597273",
@@ -1875,7 +2246,7 @@
         "authors": [
           {
             "name": "EurusK",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "steam.png",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3631856806"
           },
@@ -1884,14 +2255,20 @@
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532",
-            "role": "Port"
+            "role": "移植"
           }
         ],
-        "category": "Interface",
+        "category": "界面",
         "summary": "An RPG-style banner announces every Town NPC and town pet that moves into your world.",
         "updated": "2026-10-13",
         "blVersion": 2,
-        "entry": "main.js"
+        "entry": "main.js",
+        "localizedNames": {
+          "zh-Hans": "NPC 入住公告"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "当城镇 NPC 或城镇宠物入住时，显示角色扮演游戏风格的公告横幅。"
+        }
       }
     },
     {
@@ -1907,7 +2284,8 @@
       "files": [
         "manifest.json",
         "icon.png",
-        "description.md"
+        "description.md",
+        "description_zh-Hans.md"
       ],
       "manifest": {
         "uid": "a26a4992-e895-4120-a903-0e23b376c8a1",
@@ -1917,19 +2295,25 @@
         "authors": [
           {
             "name": "JADen",
-            "role": "Original tModLoader mod"
+            "role": "原 tModLoader 模组"
           },
           {
             "name": "VowTz",
-            "role": "Port"
+            "role": "移植"
           }
         ],
-        "category": "Jogabilidade",
+        "category": "玩法",
         "summary": "Healing past full health becomes temporary Overhealth that absorbs damage and slowly decays.",
         "license": "AGPL-3.0",
         "updated": "2026-10-22",
         "blVersion": 2,
-        "entry": "main.js"
+        "entry": "main.js",
+        "localizedNames": {
+          "zh-Hans": "溢出生命值"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "超过生命上限的治疗量会转化为临时溢出生命值，用于吸收伤害，并随时间衰减。"
+        }
       },
       "publishedAt": "2026-10-26T10:27:19Z"
     },
@@ -1949,7 +2333,9 @@
         "description.md",
         "changelog.md",
         "authors/animatak.png",
-        "authors/steam.png"
+        "authors/steam.png",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "3cfaa0a0-6ddf-4484-900e-6c482ef4e1c7",
@@ -1959,13 +2345,13 @@
         "authors": [
           {
             "name": "LevitatingGT",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "steam.png",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3610770947"
           },
           {
             "name": "Animatak_",
-            "role": "Port",
+            "role": "移植",
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/mkPMd9shZH"
@@ -1973,11 +2359,11 @@
         ],
         "links": [
           {
-            "title": "Original Mod",
+            "title": "原模组",
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3610770947"
           }
         ],
-        "category": "Visual",
+        "category": "视觉效果",
         "summary": "A ragdoll and body physics engine for Terraria: enemies collapse into ragdolls, lose heads and limbs, bleed sticky blood, and humanoids and slimes wobble with physics. Purely cosmetic.",
         "localizedSummaries": {
           "pt-BR": "Um motor de ragdoll e física de corpos para o Terraria: inimigos caem como bonecos de pano, perdem a cabeça e as pernas, sangram sangue que gruda no chão, e humanoides e slimes balançam com física. Só visual.",
@@ -1991,7 +2377,10 @@
         },
         "updated": "2026-10-27",
         "blVersion": 2,
-        "entry": "main.js"
+        "entry": "main.js",
+        "localizedNames": {
+          "zh-Hans": "物理布娃娃（Physaria）"
+        }
       }
     },
     {
@@ -2010,7 +2399,9 @@
         "description.md",
         "changelog.md",
         "authors/animatak.png",
-        "authors/steam.png"
+        "authors/steam.png",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "ae7c31e7-a0d5-4064-995d-acedf7fd5afc",
@@ -2020,21 +2411,21 @@
         "authors": [
           {
             "name": "MooMoo",
-            "role": "Original Creator",
+            "role": "原作者",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3315564370",
             "avatar": "steam.png"
           },
           {
             "name": "crumb",
-            "role": "Ping icon sprites"
+            "role": "延迟图标像素图"
           },
           {
             "name": "otterly",
-            "role": "Mod icon border"
+            "role": "模组图标边框"
           },
           {
             "name": "Animatak_",
-            "role": "Port",
+            "role": "移植",
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/mkPMd9shZH"
@@ -2042,11 +2433,11 @@
         ],
         "links": [
           {
-            "title": "Original Mod",
+            "title": "原模组",
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3315564370"
           }
         ],
-        "category": "Utility",
+        "category": "实用工具",
         "summary": "See your ping in multiplayer, pick an icon style that everyone sees, and open a panel with the ping of every connected player.",
         "localizedSummaries": {
           "pt-BR": "Veja seu ping no multijogador, escolha um estilo de ícone que todos veem e abra um painel com o ping de cada jogador conectado.",
@@ -2060,7 +2451,10 @@
         },
         "updated": "2026-10-27",
         "blVersion": 2,
-        "entry": "main.js"
+        "entry": "main.js",
+        "localizedNames": {
+          "zh-Hans": "玩家延迟面板"
+        }
       }
     },
     {
@@ -2078,7 +2472,9 @@
         "icon.png",
         "description.md",
         "changelog.md",
-        "license.md"
+        "license.md",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "89bcf9c1-64d4-4f1a-8c59-464bbf1e14c8",
@@ -2090,12 +2486,18 @@
             "name": "VowTz"
           }
         ],
-        "category": "Utilidade",
+        "category": "实用工具",
         "summary": "Quality-of-life tweaks, every one a toggle in Mod Configuration.",
         "license": "MIT",
         "updated": "2026-10-25",
         "blVersion": 2,
-        "entry": "main.js"
+        "entry": "main.js",
+        "localizedNames": {
+          "zh-Hans": "兔兔便利功能"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "提供多项便利性改进，每项都可在模组配置中单独开关。"
+        }
       }
     },
     {
@@ -2112,7 +2514,8 @@
         "manifest.json",
         "icon.png",
         "banner.png",
-        "authors/lemon.webp"
+        "authors/lemon.webp",
+        "description_zh-Hans.md"
       ],
       "manifest": {
         "uid": "0dc6638d-65f8-415b-8b1f-818e818b3f6d",
@@ -2122,13 +2525,13 @@
         "authors": [
           {
             "name": "GST378",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "lemon.webp",
             "color": "#FEFE00",
             "link": "https://youtube.com/@gst_378?si=-18HzRizRpiFJrEP"
           }
         ],
-        "category": "Visual",
+        "category": "视觉效果",
         "summary": "Items placed in frames will be drawn at their actual size",
         "updated": "2026-10-04",
         "blVersion": 2,
@@ -2137,7 +2540,13 @@
           301720
         ],
         "entry": "main.js",
-        "dependencies": []
+        "dependencies": [],
+        "localizedNames": {
+          "zh-Hans": "物品框原尺寸显示"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "让物品框中的物品按实际尺寸显示。"
+        }
       }
     },
     {
@@ -2157,8 +2566,41 @@
         "description.md",
         "changelog.md",
         "license.md",
-        "authors/bunny-loader.png"
-      ]
+        "authors/bunny-loader.png",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
+      ],
+      "manifest": {
+        "uid": "15b99fa4-580f-40c6-9a26-78e3928876d7",
+        "id": "semqueda",
+        "name": "Sem Dano de Queda",
+        "version": "1.0.0",
+        "authors": [
+          {
+            "name": "Bunny Loader",
+            "role": "代码与美术",
+            "avatar": "bunny-loader.png",
+            "color": "#F9E141"
+          }
+        ],
+        "category": "玩法",
+        "summary": "Cair de qualquer altura deixou de doer.",
+        "license": "MIT",
+        "updated": "2026-09-22",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": [],
+        "localizedNames": {
+          "zh-Hans": "免疫摔落伤害"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "从任意高度跌落都不会受到摔落伤害。"
+        }
+      }
     },
     {
       "uid": "8539e254-45e2-4519-8381-e38c7806f19a",
@@ -2174,7 +2616,8 @@
         "manifest.json",
         "icon.png",
         "description.md",
-        "authors/potato.png"
+        "authors/potato.png",
+        "description_zh-Hans.md"
       ],
       "manifest": {
         "uid": "8539e254-45e2-4519-8381-e38c7806f19a",
@@ -2187,12 +2630,18 @@
             "avatar": "potato.png"
           }
         ],
-        "category": "Jogabilidade",
+        "category": "玩法",
         "summary": "On multiplayer, the host's inventory, armor, pets and life/mana are shared with everyone.",
         "license": "MIT",
         "updated": "2026-10-07",
         "blVersion": 2,
-        "entry": "main.js"
+        "entry": "main.js",
+        "localizedNames": {
+          "zh-Hans": "共享背包"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "多人游戏中，所有玩家共享房主的背包、装备、宠物、生命值和魔力值。"
+        }
       }
     },
     {
@@ -2210,7 +2659,9 @@
         "icon.png",
         "description.md",
         "changelog.md",
-        "authors/animatak.png"
+        "authors/animatak.png",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "8de902a2-3816-4a6b-91f8-ab80a0ce0f57",
@@ -2220,7 +2671,7 @@
         "authors": [
           {
             "name": "Animatak_",
-            "role": "Author",
+            "role": "作者",
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/mkPMd9shZH"
@@ -2232,7 +2683,7 @@
             "url": "https://discord.gg/mkPMd9shZH"
           }
         ],
-        "category": "Utility",
+        "category": "实用工具",
         "summary": "Create teleports with a name and a biome icon, organize them in a list with search, favorites and filters, and travel to them from the map. When you die, a way back that is only yours.",
         "localizedSummaries": {
           "pt-BR": "Crie teleportes com nome e ícone do bioma, organize-os numa lista com busca, favoritos e filtros, e viaje até eles pelo mapa. Ao morrer, um ponto de volta só seu.",
@@ -2244,7 +2695,10 @@
         },
         "updated": "2026-10-25",
         "blVersion": 2,
-        "entry": "main.js"
+        "entry": "main.js",
+        "localizedNames": {
+          "zh-Hans": "传送点管家"
+        }
       }
     },
     {
@@ -2261,7 +2715,9 @@
         "manifest.json",
         "icon.png",
         "description.md",
-        "changelog.md"
+        "changelog.md",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "cd8c4f20-bc13-4b47-a508-305a6fc05ae2",
@@ -2269,7 +2725,7 @@
         "name": "Templo Pirâmide",
         "version": "1.1.1",
         "author": "Cortex",
-        "category": "Jogabilidade",
+        "category": "玩法",
         "summary": "Uma pirâmide Lihzahrd com andares distantes, câmaras e um grande salão para o Golem.",
         "updated": "2026-10-19",
         "blVersion": 2,
@@ -2278,7 +2734,13 @@
           301720
         ],
         "entry": "main.js",
-        "dependencies": []
+        "dependencies": [],
+        "localizedNames": {
+          "zh-Hans": "金字塔丛林神庙"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "将丛林蜥蜴神庙改造成层间距宽阔、带有多个房间及石巨人大厅的金字塔。"
+        }
       }
     },
     {
@@ -2302,7 +2764,9 @@
         "authors/2.png",
         "authors/steam.png",
         "assets/logo.png",
-        "assets/items.png"
+        "assets/items.png",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "30f21a81-4240-420b-a9ba-924e917fc571",
@@ -2312,27 +2776,27 @@
         "authors": [
           {
             "name": "Gurgle_Nurgle",
-            "role": "Spritework",
+            "role": "像素美术",
             "avatar": "0.png",
             "color": "#F0F0F0",
             "link": "https://github.com/GurgleNurgle"
           },
           {
             "name": "silent_ptr",
-            "role": "Coding",
+            "role": "代码",
             "avatar": "1.jpeg",
             "color": "#F0F0F0",
             "link": "https://github.com/silentptr"
           },
           {
             "name": "Zandberg",
-            "role": "Coding",
+            "role": "代码",
             "avatar": "2.png",
             "color": "#F0F0F0",
             "link": "https://github.com/Zandberg-x"
           }
         ],
-        "category": "Building",
+        "category": "建筑",
         "summary": "Terrarchitect is a furniture / build mod that adds a wide variety of custom-made, high-quality decorational items and blocks to Terraria! It also aims to make some previously ubobtainable or unplacable vanilla items available.",
         "updated": "2026-10-09",
         "blVersion": 2,
@@ -2356,18 +2820,24 @@
         },
         "links": [
           {
-            "title": "Subreddit",
+            "title": "Reddit 社区",
             "url": "https://www.reddit.com/r/Terrarchitect/"
           },
           {
-            "title": "Forum",
+            "title": "论坛",
             "url": "https://forums.terraria.org/index.php?threads/terrarchitect.95959/"
           },
           {
             "title": "Steam",
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2799559538"
           }
-        ]
+        ],
+        "localizedNames": {
+          "zh-Hans": "泰拉建筑师"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "添加大量精细的家具、装饰物和方块，并让部分原本无法获取或放置的原版物品可以使用。"
+        }
       }
     },
     {
@@ -2385,7 +2855,8 @@
         "icon.png",
         "description.md",
         "authors/bloa.png",
-        "authors/steam.png"
+        "authors/steam.png",
+        "description_zh-Hans.md"
       ],
       "manifest": {
         "uid": "c344c0ce-136d-4e57-b58f-0a1239fbc302",
@@ -2395,27 +2866,33 @@
         "authors": [
           {
             "name": "CeleryMan",
-            "role": "Original mod",
+            "role": "原模组",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2956773024",
             "avatar": "steam.png"
           },
           {
             "name": "Bloa",
-            "role": "Port to Bunny Loader",
+            "role": "Bunny Loader 移植",
             "avatar": "bloa.png"
           }
         ],
-        "category": "Gameplay",
+        "category": "玩法",
         "summary": "Players are tied together by a rope and have to cooperate.",
         "updated": "2026-10-21",
         "blVersion": 2,
         "entry": "main.js",
         "links": [
           {
-            "title": "Original Steam Workshop mod",
+            "title": "Steam 创意工坊原模组",
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2956773024"
           }
-        ]
+        ],
+        "localizedNames": {
+          "zh-Hans": "绳索连心"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "用绳索把玩家连接起来，必须互相配合才能行动。"
+        }
       },
       "publishedAt": "2026-10-22T16:56:20Z"
     },
@@ -2435,7 +2912,9 @@
         "description.md",
         "changelog.md",
         "authors/animatak.png",
-        "authors/steam.png"
+        "authors/steam.png",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "5f0b0d15-6ee8-4e03-aafb-825d9ba5ca19",
@@ -2446,7 +2925,7 @@
           {
             "name": "Nil256",
             "avatar": "steam.png",
-            "role": "Original Creator",
+            "role": "原作者",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3582340033"
           },
           {
@@ -2454,14 +2933,20 @@
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532",
-            "role": "Port"
+            "role": "移植"
           }
         ],
-        "category": "Interface",
+        "category": "界面",
         "summary": "Adds a small icon to the left of each item tooltip line: damage, speed, defense, tool power, potions, prefixes and more.",
         "updated": "2026-10-11",
         "blVersion": 2,
-        "entry": "main.js"
+        "entry": "main.js",
+        "localizedNames": {
+          "zh-Hans": "物品提示图标"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "为伤害、速度、防御、工具能力、药水、修饰语等物品提示行添加小图标。"
+        }
       }
     },
     {
@@ -2479,7 +2964,8 @@
         "icon.png",
         "banner.png",
         "authors/castorzeira.png",
-        "docs/background.jpg"
+        "docs/background.jpg",
+        "description_zh-Hans.md"
       ],
       "manifest": {
         "uid": "7b1e9c52-3f4a-4d6e-9a18-5c2d8e0f41a7",
@@ -2492,7 +2978,7 @@
             "avatar": "castorzeira.png"
           }
         ],
-        "category": "Gameplay",
+        "category": "玩法",
         "summary": "Teste top-down: sem gravidade, 8 direções, golpe na direção do mouse e mundo top-down em ilha com os biomas do Terraria.",
         "description": "VERSÃO BETA: este mod ainda não está completo e pode ter erros, bugs e comportamentos inesperados. Use por sua conta e risco e, de preferência, em mundos de teste (faça backup dos seus saves). O Top-Down Mode transforma o Terraria em um jogo de visão de cima: sem gravidade, com movimento em 8 direções, golpe de espada na direção do mouse, mundos novos gerados como ilha com os biomas do Terraria (rios, lagos, árvores, cactos, pedras e mato), água em movimento com nado, ciclo de dia e noite, profundidade (y-sort) de árvores, móveis e NPCs, e cavernas com minérios acessadas por escada. Novidades ainda estão sendo adicionadas e alguns sistemas podem mudar nas próximas versões.",
         "updated": "2026-10-25",
@@ -2502,6 +2988,12 @@
           "background": "docs/background.jpg",
           "backgroundMode": "cover",
           "backgroundDim": 0.4
+        },
+        "localizedNames": {
+          "zh-Hans": "俯视角模式（测试版）"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "无重力、八方向移动、朝光标方向挥砍，并生成包含泰拉瑞亚生物群系的俯视角岛屿世界。"
         }
       },
       "publishedAt": "2026-10-26T17:28:54Z"
@@ -2522,7 +3014,8 @@
         "description.md",
         "license.md",
         "authors/potato.png",
-        "authors/steam.png"
+        "authors/steam.png",
+        "description_zh-Hans.md"
       ],
       "manifest": {
         "uid": "2465f295-e293-4742-93fe-73d86b92c6e5",
@@ -2532,19 +3025,19 @@
         "authors": [
           {
             "name": "中学生",
-            "role": "Original mod (tModLoader)",
+            "role": "原 tModLoader 模组",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2973922820",
             "avatar": "steam.png"
           },
           {
             "name": "Potato",
-            "role": "Port to Bunny Loader",
+            "role": "Bunny Loader 移植",
             "avatar": "potato.png",
             "color": "#E8C170",
             "link": "https://github.com/JonataOliveiraa"
           }
         ],
-        "category": "Pets",
+        "category": "宠物",
         "type": "mod",
         "summary": "Adventure with cute partners: 19 Touhou characters as pets, dropped by the bosses. They animate, react to the world and talk to you and to each other.",
         "license": "GPL-3.0",
@@ -2558,14 +3051,20 @@
         "dependencies": [],
         "links": [
           {
-            "title": "Original mod on the Steam Workshop",
+            "title": "Steam 创意工坊原模组",
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2973922820"
           },
           {
-            "title": "Source code (GitHub)",
+            "title": "源代码（GitHub）",
             "url": "https://github.com/MineGame223/TouhouLittleFriend"
           }
-        ]
+        ],
+        "localizedNames": {
+          "zh-Hans": "东方宠物伙伴"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "19 位东方角色化身宠物，由 Boss 掉落；她们拥有动画，会回应周围环境，并与玩家或其他伙伴交谈。"
+        }
       }
     },
     {
@@ -2582,8 +3081,40 @@
         "manifest.json",
         "icon.png",
         "description.md",
-        "authors/animatak.png"
-      ]
+        "authors/animatak.png",
+        "description_zh-Hans.md"
+      ],
+      "manifest": {
+        "uid": "77b38952-98d6-4e18-a301-638d54c4bfd0",
+        "id": "townnpchome",
+        "name": "TownNPC Home",
+        "version": "1.0.0",
+        "authors": [
+          {
+            "name": "Animatak_",
+            "avatar": "animatak.png",
+            "color": "#841FFF",
+            "link": "https://discord.com/invite/tl-pro-402880167737032705",
+            "role": "作者"
+          }
+        ],
+        "category": "实用工具",
+        "summary": "Teleporta NPCs de cidade para suas casas.",
+        "updated": "2026-09-27",
+        "blVersion": 2,
+        "gameVersion": [
+          301543,
+          301543
+        ],
+        "entry": "main.js",
+        "dependencies": [],
+        "localizedNames": {
+          "zh-Hans": "城镇 NPC 回家"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "将城镇 NPC 传送回各自的住所。"
+        }
+      }
     },
     {
       "uid": "35117929-e61f-42bc-97c5-773228761b99",
@@ -2601,7 +3132,9 @@
         "banner.png",
         "description.md",
         "changelog.md",
-        "authors/animatak.png"
+        "authors/animatak.png",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "35117929-e61f-42bc-97c5-773228761b99",
@@ -2611,13 +3144,13 @@
         "authors": [
           {
             "name": "Animatak_",
-            "role": "Creator",
+            "role": "作者",
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532"
           }
         ],
-        "category": "Utility",
+        "category": "实用工具",
         "summary": "In multiplayer, every player's explored map is shared with everyone every minute.",
         "updated": "2026-10-27",
         "blVersion": 2,
@@ -2631,6 +3164,9 @@
           "ru-RU": "В мультиплеере исследованная карта каждого игрока каждую минуту передаётся всем.",
           "pl-PL": "W trybie wieloosobowym odkryta mapa każdego gracza jest co minutę udostępniana wszystkim.",
           "zh-Hans": "在多人游戏中，每位玩家探索过的地图每分钟都会与所有人共享。"
+        },
+        "localizedNames": {
+          "zh-Hans": "通用地图"
         }
       }
     },
@@ -2649,7 +3185,9 @@
         "icon.png",
         "description.md",
         "changelog.md",
-        "authors/animatak.png"
+        "authors/animatak.png",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "ed06a60f-5b26-47ab-b684-e801ff88f2aa",
@@ -2662,14 +3200,20 @@
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532",
-            "role": "Author"
+            "role": "作者"
           }
         ],
-        "category": "Utility",
+        "category": "实用工具",
         "summary": "Break one ore with your pickaxe and the whole vein comes with it. Add any block with /vein add.",
         "updated": "2026-10-07",
         "blVersion": 2,
-        "entry": "main.js"
+        "entry": "main.js",
+        "localizedNames": {
+          "zh-Hans": "连锁挖矿"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "用镐敲掉一块矿石，即可连同整条矿脉一起挖掘；使用 /vein add 可添加其他方块。"
+        }
       }
     },
     {
@@ -2689,8 +3233,46 @@
         "description.md",
         "changelog.md",
         "license.md",
-        "authors/bunny-loader.png"
-      ]
+        "authors/bunny-loader.png",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
+      ],
+      "manifest": {
+        "uid": "ddc6440e-bcaf-4bc9-9e21-9633b49bd1bf",
+        "id": "vidacheia",
+        "name": "Vida Cheia",
+        "version": "1.0.2",
+        "authors": [
+          {
+            "name": "Bunny Loader",
+            "role": "代码与美术",
+            "avatar": "bunny-loader.png",
+            "color": "#F9E141"
+          }
+        ],
+        "category": "作弊",
+        "summary": "Você não morre",
+        "license": "MIT",
+        "updated": "2026-10-02",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": [],
+        "theme": {
+          "accent": "#FF6B7D",
+          "panel": "#3E2335",
+          "heading": "#FFE3E7"
+        },
+        "localizedNames": {
+          "zh-Hans": "无限生命"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "让角色不会死亡。"
+        }
+      }
     },
     {
       "uid": "f16fc5fd-5b01-42dc-bdbc-669bfda6c090",
@@ -2709,7 +3291,9 @@
         "changelog.md",
         "license.md",
         "authors/animatak.png",
-        "authors/steam.png"
+        "authors/steam.png",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "f16fc5fd-5b01-42dc-bdbc-669bfda6c090",
@@ -2719,23 +3303,29 @@
         "authors": [
           {
             "name": "Flashkirby",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "steam.png",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3455924006"
           },
           {
             "name": "Animatak_",
-            "role": "Port",
+            "role": "移植",
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532"
           }
         ],
-        "category": "Visual",
+        "category": "视觉效果",
         "summary": "Shows the held item on your character: swords at the waist, weapons on the back, bows, books and staves in their own poses, and combat poses after attacking.",
         "updated": "2026-10-12",
         "blVersion": 2,
-        "entry": "main.js"
+        "entry": "main.js",
+        "localizedNames": {
+          "zh-Hans": "武器外显精简版"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "在角色身上展示当前手持物品：腰间的剑、背负的武器，以及弓、书和法杖的专属姿势，并加入攻击后的战斗姿势。"
+        }
       }
     },
     {
@@ -2754,8 +3344,47 @@
         "description.md",
         "license.md",
         "authors/lemon.webp",
-        "authors/steam.png"
-      ]
+        "authors/steam.png",
+        "description_zh-Hans.md"
+      ],
+      "manifest": {
+        "uid": "be81ae6a-ac8a-4d23-bcd1-2bb8d056d37d",
+        "id": "wmitf",
+        "name": "Which Mod Is This From?",
+        "version": "1.0.0",
+        "authors": [
+          {
+            "name": "HilariousWalnut34",
+            "role": "原作者",
+            "avatar": "steam.png",
+            "color": "#F0F0F0",
+            "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2563851005"
+          },
+          {
+            "name": "GST378",
+            "role": "Bunny Loader 移植",
+            "avatar": "lemon.webp",
+            "color": "#FEFE00",
+            "link": "https://youtube.com/@gst_378?si=-18HzRizRpiFJrEP"
+          }
+        ],
+        "category": "实用工具",
+        "summary": "When you look at a modded item, block or NPC, WMITF will show you the name of the mod which it came from.",
+        "updated": "2026-10-02",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": [],
+        "localizedNames": {
+          "zh-Hans": "这来自哪个模组？"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "查看模组物品、方块或 NPC 时，显示它们所属的模组名称。"
+        }
+      }
     },
     {
       "uid": "821a0c6b-ff63-437b-b3e7-da92f9eae0f8",
@@ -2774,8 +3403,52 @@
         "description.md",
         "license.md",
         "authors/lemon.webp",
-        "authors/steam.png"
-      ]
+        "authors/steam.png",
+        "description_zh-Hans.md"
+      ],
+      "manifest": {
+        "uid": "821a0c6b-ff63-437b-b3e7-da92f9eae0f8",
+        "id": "wikithis",
+        "name": "Wikithis",
+        "version": "1.0.0",
+        "authors": [
+          {
+            "name": "BasicallyIAmFox",
+            "role": "原作者",
+            "avatar": "steam.png",
+            "color": "#F0F0F0",
+            "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2832487441"
+          },
+          {
+            "name": "GST378",
+            "role": "Bunny Loader 移植",
+            "avatar": "lemon.webp",
+            "color": "#FEFE00",
+            "link": "https://youtube.com/@gst_378?si=-18HzRizRpiFJrEP"
+          }
+        ],
+        "category": "便利功能",
+        "summary": "Allows you to check the item wiki from within the game.",
+        "theme": {
+          "accent": "F0F0F0",
+          "heading": "#F0FOF0"
+        },
+        "license": "Apache-2.0",
+        "updated": "2026-10-02",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": [],
+        "localizedNames": {
+          "zh-Hans": "游戏内 Wiki 查询"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "直接在游戏中查询物品的 Wiki 页面。"
+        }
+      }
     },
     {
       "uid": "3183ab40-81f1-477a-aa50-0df1dde68c58",
@@ -2794,7 +3467,9 @@
         "changelog.md",
         "license.md",
         "authors/potato.png",
-        "authors/steam.png"
+        "authors/steam.png",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "3183ab40-81f1-477a-aa50-0df1dde68c58",
@@ -2804,24 +3479,24 @@
         "authors": [
           {
             "name": "FuzzyGolf291773",
-            "role": "Original mod and pet animations",
+            "role": "原模组与宠物动画",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3810452158",
             "avatar": "steam.png"
           },
           {
             "name": "MineGame223 and Group For One",
-            "role": "Touhou Little Friend framework and sprite foundations",
+            "role": "Touhou Little Friend 框架与像素图基础",
             "link": "https://github.com/MineGame223/TouhouLittleFriend"
           },
           {
             "name": "Potato",
-            "role": "Port to Bunny Loader and Brazilian Portuguese localization",
+            "role": "Bunny Loader 移植与巴西葡萄牙语本地化",
             "avatar": "potato.png",
             "color": "#E8C170",
             "link": "https://github.com/JonataOliveiraa"
           }
         ],
-        "category": "Pets",
+        "category": "宠物",
         "summary": "Sixteen animated Touhou companions with conversations, seven light pets, crafting recipes and Kasen's oni transformations.",
         "license": "GPL-3.0",
         "updated": "2026-10-04",
@@ -2834,14 +3509,20 @@
         "dependencies": [],
         "links": [
           {
-            "title": "Original Steam Workshop mod",
+            "title": "Steam 创意工坊原模组",
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3810452158"
           },
           {
             "title": "Touhou Little Friend",
             "url": "https://github.com/MineGame223/TouhouLittleFriend"
           }
-        ]
+        ],
+        "localizedNames": {
+          "zh-Hans": "东方伙伴：Wild and Horned"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "添加 16 位带动画与对话的东方伙伴、7 位照明宠物、合成配方，以及茨木华扇的鬼形态变身。"
+        }
       }
     },
     {
@@ -2860,7 +3541,9 @@
         "description.md",
         "changelog.md",
         "authors/animatak.png",
-        "authors/steam.png"
+        "authors/steam.png",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "55e1d4c5-3dc5-4c73-acaa-52a5bf0750f5",
@@ -2870,7 +3553,7 @@
         "authors": [
           {
             "name": "jopojelly",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "steam.png",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2843258712"
           },
@@ -2879,10 +3562,10 @@
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/mkPMd9shZH",
-            "role": "Port"
+            "role": "移植"
           }
         ],
-        "category": "Utility",
+        "category": "实用工具",
         "summary": "Watch your world being generated: a live map filled column by column, pause, skip or repeat steps, or cancel the generation.",
         "localizedSummaries": {
           "pt-BR": "Veja o seu mundo sendo gerado: um mapa ao vivo preenchido coluna por coluna, pause, pule ou repita etapas, ou cancele a geração.",
@@ -2896,7 +3579,10 @@
         },
         "updated": "2026-10-26",
         "blVersion": 2,
-        "entry": "main.js"
+        "entry": "main.js",
+        "localizedNames": {
+          "zh-Hans": "世界生成预览"
+        }
       }
     },
     {
@@ -2912,7 +3598,8 @@
       "files": [
         "manifest.json",
         "icon.png",
-        "description.md"
+        "description.md",
+        "description_zh-Hans.md"
       ],
       "manifest": {
         "uid": "67770d24-4d80-41b4-bde9-9a1840caf2c8",
@@ -2922,10 +3609,10 @@
         "authors": [
           {
             "name": "VowTz",
-            "role": "Author"
+            "role": "作者"
           }
         ],
-        "category": "Itens",
+        "category": "物品",
         "summary": "Zoom enhancements",
         "license": "MIT",
         "updated": "2026-10-18",
@@ -2935,7 +3622,13 @@
           301720
         ],
         "entry": "main.js",
-        "dependencies": []
+        "dependencies": [],
+        "localizedNames": {
+          "zh-Hans": "缩放增强"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "增强游戏画面的缩放功能。"
+        }
       }
     },
     {
@@ -2952,7 +3645,8 @@
         "manifest.json",
         "icon.png",
         "description.md",
-        "license.md"
+        "license.md",
+        "description_zh-Hans.md"
       ],
       "manifest": {
         "uid": "fbb7eb80-3232-4079-998c-cb863e14f3dd",
@@ -2964,12 +3658,18 @@
             "name": "lzup333"
           }
         ],
-        "category": "Jogabilidade",
+        "category": "玩法",
         "summary": "抛出鱼钩后数量固定 5 倍，实现多倍鱼钩。",
         "license": "AGPL-3.0",
         "updated": "2026-10-22",
         "blVersion": 2,
-        "entry": "main.js"
+        "entry": "main.js",
+        "localizedNames": {
+          "zh-Hans": "愿者上钩"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "抛出鱼钩后，鱼钩数量固定为五倍。"
+        }
       },
       "publishedAt": "2026-10-22T16:57:49Z"
     }

@@ -6,12 +6,12 @@
   "authors": [
     {
       "name": "Bunny Loader",
-      "role": "Código e arte",
+      "role": "代码与美术",
       "avatar": "bunny-loader.png",
       "color": "#F9E141"
     }
   ],
-  "category": "Cheat",
+  "category": "作弊",
   "summary": "Você não morre",
   "license": "MIT",
   "updated": "2026-10-02",
@@ -26,5 +26,11 @@
     "accent": "#FF6B7D",
     "panel": "#3E2335",
     "heading": "#FFE3E7"
+  },
+  "localizedNames": {
+    "zh-Hans": "无限生命"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "让角色不会死亡。"
   }
 }

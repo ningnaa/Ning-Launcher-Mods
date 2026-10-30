@@ -7,13 +7,13 @@
   "authors": [
     {
       "name": "Orion",
-      "role": "Original Creator",
+      "role": "原作者",
       "avatar": "steam.png",
       "color": "#F0F0F0",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2817496179"
     }
   ],
-  "category": "Visual",
+  "category": "视觉效果",
   "updated": "2026-10-15",
   "blVersion": 2,
   "gameVersion": [
@@ -21,5 +21,11 @@
     301720
   ],
   "entry": "main.js",
-  "dependencies": []
+  "dependencies": [],
+  "localizedNames": {
+    "zh-Hans": "氛围火把"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "为普通火把和提基火把增添橙色光晕，并让放置后的火把及生物群系火把轻微闪烁。"
+  }
 }

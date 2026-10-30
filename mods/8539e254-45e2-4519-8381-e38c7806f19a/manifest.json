@@ -9,10 +9,16 @@
       "avatar": "potato.png"
     }
   ],
-  "category": "Jogabilidade",
+  "category": "玩法",
   "summary": "On multiplayer, the host's inventory, armor, pets and life/mana are shared with everyone.",
   "license": "MIT",
   "updated": "2026-10-07",
   "blVersion": 2,
-  "entry": "main.js"
+  "entry": "main.js",
+  "localizedNames": {
+    "zh-Hans": "共享背包"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "多人游戏中，所有玩家共享房主的背包、装备、宠物、生命值和魔力值。"
+  }
 }

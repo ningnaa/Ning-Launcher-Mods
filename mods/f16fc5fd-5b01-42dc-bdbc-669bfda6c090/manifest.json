@@ -6,21 +6,27 @@
   "authors": [
     {
       "name": "Flashkirby",
-      "role": "Original Creator",
+      "role": "原作者",
       "avatar": "steam.png",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3455924006"
     },
     {
       "name": "Animatak_",
-      "role": "Port",
+      "role": "移植",
       "avatar": "animatak.png",
       "color": "#841FFF",
       "link": "https://discord.gg/lemon-studio-1422278971227115532"
     }
   ],
-  "category": "Visual",
+  "category": "视觉效果",
   "summary": "Shows the held item on your character: swords at the waist, weapons on the back, bows, books and staves in their own poses, and combat poses after attacking.",
   "updated": "2026-10-12",
   "blVersion": 2,
-  "entry": "main.js"
+  "entry": "main.js",
+  "localizedNames": {
+    "zh-Hans": "武器外显精简版"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "在角色身上展示当前手持物品：腰间的剑、背负的武器，以及弓、书和法杖的专属姿势，并加入攻击后的战斗姿势。"
+  }
 }

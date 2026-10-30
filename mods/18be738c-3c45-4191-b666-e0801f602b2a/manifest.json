@@ -6,7 +6,7 @@
   "authors": [
     {
       "name": "Animatak_",
-      "role": "Author",
+      "role": "作者",
       "avatar": "animatak.png",
       "color": "#841FFF",
       "link": "https://discord.gg/mkPMd9shZH"
@@ -18,7 +18,7 @@
       "url": "https://discord.gg/mkPMd9shZH"
     }
   ],
-  "category": "World",
+  "category": "世界",
   "summary": "A secret seed for a world so flat you can run without fear of tripping into a hole: type \"flat\" when creating a world. Caves, biomes, structures and the floating islands stay as usual.",
   "localizedSummaries": {
     "pt-BR": "Uma seed secreta para um mundo tão plano que dá para correr sem medo de cair num buraco: digite \"plano\" ou \"flat\" ao criar um mundo. Cavernas, biomas, estruturas e as ilhas flutuantes continuam normais.",
@@ -30,5 +30,8 @@
   },
   "updated": "2026-10-26",
   "blVersion": 2,
-  "entry": "main.js"
+  "entry": "main.js",
+  "localizedNames": {
+    "zh-Hans": "平坦世界种子"
+  }
 }

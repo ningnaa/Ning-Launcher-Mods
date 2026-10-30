@@ -7,13 +7,13 @@
   "authors": [
     {
       "name": "Barometz",
-      "role": "Original Creator",
+      "role": "原作者",
       "avatar": "github.png",
       "color": "#FFFFFF",
       "link": "https://github.com/Barometz-Mod/MinecraftPaintings"
     }
   ],
-  "category": "Visual",
+  "category": "视觉效果",
   "updated": "2026-10-22",
   "blVersion": 2,
   "gameVersion": [
@@ -21,5 +21,11 @@
     301720
   ],
   "entry": "main.js",
-  "dependencies": []
+  "dependencies": [],
+  "localizedNames": {
+    "zh-Hans": "我的世界画作"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "添加《我的世界》的 30 幅画作，手工重绘以减少杂点，并适配泰拉瑞亚的画作尺寸。"
+  }
 }

@@ -9,12 +9,18 @@
       "avatar": "animatak.png",
       "color": "#841FFF",
       "link": "https://discord.gg/lemon-studio-1422278971227115532",
-      "role": "Author"
+      "role": "作者"
     }
   ],
-  "category": "Visual",
+  "category": "视觉效果",
   "summary": "Your head follows the cursor, your body leans as you move, and slimes, zombies and critters lean too.",
   "updated": "2026-10-08",
   "blVersion": 2,
-  "entry": "main.js"
+  "entry": "main.js",
+  "localizedNames": {
+    "zh-Hans": "灵动动作"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "角色头部跟随光标、身体随移动倾斜；史莱姆、僵尸和小动物也会随动作倾斜。"
+  }
 }

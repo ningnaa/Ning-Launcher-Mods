@@ -15,14 +15,21 @@ APK 不需要 GitHub 登录或令牌。这个仓库与上游独立维护，不�
 
 ## 目录结构
 
-- `index.json`: the list the app reads.
-- `mods/<uid>/`: each mod's page (manifest, icon, banner, description, authors).
-- Releases `mod-<id>-v<version>`: the `.bl` packages.
-- `ports/`: the sources of the ported texture packs.
+- `index.json`：启动器读取的目录索引。
+- `mods/<uid>/`：每个资源包的展示页面，包含清单、图标、封面、说明和作者信息。
+- Releases `mod-<id>-v<version>`：可下载安装的 `.bl` 包。
+- `ports/`：移植材质包和字体包的来源文件。
+- `localization-sources.json`：各条目中文译文的来源与核对记录。
 
-Each mod and texture pack belongs to its authors and keeps its own license (`license.md` and `authors/` inside the package). Bunny Loader's license does not apply to them.
+每个模组、材质包和字体包都归各自作者所有，并保留自身许可证及署名，详见包内的 `license.md` 和 `authors/`。Bunny Loader 的许可证不替代这些资源包自身的许可。
 
-If you made something listed here and want it removed or credited differently, open an issue.
+如果你是目录中某项内容的作者，希望移除内容或调整署名，请在本仓库提交 Issue。
+
+## 中文本地化
+
+66 个在线条目提供中文名称、简介、分类和详情；有更新日志的条目同时提供中文更新日志。启动器使用 `localizedNames["zh-Hans"]`、`localizedSummaries["zh-Hans"]`、`description_zh-Hans.md` 和 `changelog_zh-Hans.md` 读取中文，原始名称和原文文件保留。
+
+汉化遵循**作者发布的中文优先，缺少时采用泰拉瑞亚语境翻译**的原则。已复用 8 个发布包自带的中文说明与更新日志，并参照 28 个发布包中的中文资源核对术语。来源、适用范围和示例见 [汉化说明](LOCALIZATION.md)。
 
 ## 更新模组
 

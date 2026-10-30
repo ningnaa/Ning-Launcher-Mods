@@ -9,10 +9,10 @@
       "avatar": "animatak.png",
       "color": "#841FFF",
       "link": "https://discord.com/invite/tl-pro-402880167737032705",
-      "role": "Autor"
+      "role": "作者"
     }
   ],
-  "category": "Utilidade",
+  "category": "实用工具",
   "summary": "Teleporta NPCs de cidade para suas casas.",
   "updated": "2026-09-27",
   "blVersion": 2,
@@ -21,5 +21,11 @@
     301543
   ],
   "entry": "main.js",
-  "dependencies": []
+  "dependencies": [],
+  "localizedNames": {
+    "zh-Hans": "城镇 NPC 回家"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "将城镇 NPC 传送回各自的住所。"
+  }
 }

@@ -6,10 +6,10 @@
   "authors": [
     {
       "name": "VowTz",
-      "role": "Inspiration"
+      "role": "灵感来源"
     }
   ],
-  "category": "Itens",
+  "category": "物品",
   "summary": "Point at any container (chest, piggy bank, safe, forge, void vault) to see what is inside.",
   "license": "GPL-3.0",
   "updated": "2026-10-18",
@@ -19,5 +19,11 @@
     301720
   ],
   "entry": "main.js",
-  "dependencies": []
+  "dependencies": [],
+  "localizedNames": {
+    "zh-Hans": "容器预览"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "指向箱子、猪猪存钱罐、保险箱、护卫熔炉或虚空保险库，即可预览其中的物品。"
+  }
 }

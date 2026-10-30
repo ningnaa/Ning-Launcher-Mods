@@ -7,23 +7,23 @@
   "authors": [
     {
       "name": "Microsoft",
-      "role": "Fonte original"
+      "role": "原字体"
     },
     {
       "name": "Mirasein",
-      "role": "Resource pack Custom Fonts (PC)",
+      "role": "电脑版 Custom Fonts 资源包",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2439864365"
     },
     {
       "name": "Potato",
-      "role": "Port para o Bunny Loader",
+      "role": "Bunny Loader 移植",
       "avatar": "potato.png",
       "color": "#E8C170",
       "link": "https://github.com/JonataOliveiraa"
     }
   ],
   "type": "font",
-  "category": "Fontes",
+  "category": "字体",
   "summary": "Serifada clássica, do resource pack Custom Fonts do PC",
   "license": "Fonte Pescadero da Microsoft",
   "blVersion": 2,
@@ -33,7 +33,7 @@
   ],
   "links": [
     {
-      "title": "Original no Steam Workshop",
+      "title": "Steam 创意工坊原作",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2439864365"
     }
   ],
@@ -41,5 +41,11 @@
     "accent": "#9FC9E8",
     "panel": "#1E2A36",
     "heading": "#E6F3FF"
+  },
+  "localizedNames": {
+    "zh-Hans": "Pescadero 字体"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "来自电脑版 Custom Fonts 资源包的经典衬线字体。"
   }
 }

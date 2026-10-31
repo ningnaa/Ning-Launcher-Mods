@@ -1,0 +1,45 @@
+{
+  "uid": "6207de5c-2bf1-595d-8f44-c9a4795f8ebc",
+  "id": "maxstackextra",
+  "name": "Max Stack Plus Extra",
+  "version": "1.4.0.3-bunny.2",
+  "blVersion": 2,
+  "entry": "main.js",
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "category": "玩法",
+  "updated": "2026-11-01",
+  "authors": [
+    {
+      "name": "NuovaPrime",
+      "role": "原作者",
+      "link": "https://github.com/NuovaPrime/MaxStackExtra"
+    },
+    {
+      "name": "RighteousRyan",
+      "role": "tModLoader 1.4 移植",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2562915378"
+    },
+    {
+      "name": "柠娜",
+      "role": "Bunny Loader 移植者"
+    }
+  ],
+  "license": "",
+  "localizedNames": {
+    "zh-Hans": "堆叠上限增强"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "分五类设置物品堆叠上限；移动版安全范围 1–32767，硬币保持原版规则。"
+  },
+  "description": "Configurable item stacks, ported from Max Stack Plus Extra 1.4.0.3. Mobile safe range 1–32767.",
+  "portEdition": {
+    "baseVersion": "1.4.0.3",
+    "revision": 2,
+    "porter": "柠娜",
+    "sourceSha256": "c36bb45eae2e49aaa138e01c82b9d4952d52a9c894606ae10e3c6bc97c5036cc",
+    "workshopId": "2562915378"
+  }
+}

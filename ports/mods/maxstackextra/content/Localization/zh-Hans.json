@@ -1,0 +1,28 @@
+{
+  "Configs": {
+    "MaxStackExtraConfig": {
+      "DisplayName": "堆叠上限设置",
+      "RestartNote": {
+        "Label": "保存后完全重启游戏生效；安全范围 1–32767"
+      },
+      "ItemStackValue": {
+        "Label": "普通物品堆叠上限"
+      },
+      "TileStackValue": {
+        "Label": "方块堆叠上限"
+      },
+      "WeaponWarning": {
+        "Label": "武器和装备堆叠可能影响词缀与独立数据，默认保持 1"
+      },
+      "WeaponStackValue": {
+        "Label": "武器堆叠上限"
+      },
+      "EquipStackValue": {
+        "Label": "装备堆叠上限"
+      },
+      "SpecialStackValue": {
+        "Label": "特殊物品堆叠上限"
+      }
+    }
+  }
+}

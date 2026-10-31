@@ -1,0 +1,66 @@
+{
+  "id": "maxstackextra",
+  "uid": "6207de5c-2bf1-595d-8f44-c9a4795f8ebc",
+  "version": "1.4.0.3-bunny.2",
+  "file": "maxstackextra-1.4.0.3-bunny.2.bl",
+  "sha256": "ba34b1695a6fe45c695fd6eda5f4cd8ad7c998bb94a597901e38b44f9f9cc9a4",
+  "size": 10431,
+  "tag": "mod-maxstackextra-v1.4.0.3-bunny.2",
+  "porter": "柠娜",
+  "changedFiles": [
+    "changelog_zh-Hans.md",
+    "description_zh-Hans.md",
+    "manifest.json",
+    "source/port.json"
+  ],
+  "testedParentSha256": "e437d77c0140404bbed771be7fc8450945255040b03b4690ef58b23529d3272d",
+  "catalogBase": "f39cb2a13104e36a0d362d1ebe10e46a4d616b3a",
+  "anonymousDownloads": [
+    {
+      "host": "GitHub",
+      "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-maxstackextra-v1.4.0.3-bunny.2/maxstackextra-1.4.0.3-bunny.2.bl",
+      "sha256": "ba34b1695a6fe45c695fd6eda5f4cd8ad7c998bb94a597901e38b44f9f9cc9a4",
+      "size": 10431
+    },
+    {
+      "host": "Gitee",
+      "url": "https://gitee.com/nigngng/Ning-Launcher-Mods/releases/download/catalog-20261030/maxstackextra-1.4.0.3-bunny.2.bl",
+      "sha256": "ba34b1695a6fe45c695fd6eda5f4cd8ad7c998bb94a597901e38b44f9f9cc9a4",
+      "size": 10431
+    }
+  ],
+  "validation": {
+    "version": "1.4.0.3-bunny.1",
+    "sha256": "e437d77c0140404bbed771be7fc8450945255040b03b4690ef58b23529d3272d",
+    "hostRegressionGroups": 11,
+    "gameChecks": [
+      "default classifications",
+      "custom safe caps",
+      "inventory/chest/bank save/reload",
+      "legacy count/prefix retention",
+      "both JS content load orders",
+      "Chinese configuration rendering"
+    ],
+    "notTested": [
+      "two-device multiplayer",
+      "physical phone",
+      "all third-party and C# content mods"
+    ],
+    "restoration": {
+      "Players": {
+        "originalFiles": 4,
+        "unchanged": true
+      },
+      "Worlds": {
+        "originalFiles": 6,
+        "unchanged": true
+      },
+      "mods.xml": "restored byte-for-byte",
+      "mod_order.xml": "restored byte-for-byte",
+      "settings.xml": "restored byte-for-byte"
+    },
+    "skill": "port-bunny-mod",
+    "skillScriptTestGroups": 4,
+    "launcherVersionChanged": false
+  }
+}

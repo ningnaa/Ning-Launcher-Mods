@@ -1,0 +1,28 @@
+{
+  "Configs": {
+    "MaxStackExtraConfig": {
+      "DisplayName": "Max Stack Extra Config",
+      "RestartNote": {
+        "Label": "Restart the game after Apply; safe range 1–32767"
+      },
+      "ItemStackValue": {
+        "Label": "Maximum stack for items"
+      },
+      "TileStackValue": {
+        "Label": "Maximum stack for tiles"
+      },
+      "WeaponWarning": {
+        "Label": "Stacking gear may affect prefixes and instance data; default 1"
+      },
+      "WeaponStackValue": {
+        "Label": "Maximum stack for weapons"
+      },
+      "EquipStackValue": {
+        "Label": "Maximum stack for equippables"
+      },
+      "SpecialStackValue": {
+        "Label": "Maximum stack for special items"
+      }
+    }
+  }
+}

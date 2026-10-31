@@ -884,16 +884,20 @@
     {
       "uid": "821a0c6b-ff63-437b-b3e7-da92f9eae0f8",
       "id": "wikithis",
-      "tag": "mod-wikithis-v1.0.0-ningzh.1",
-      "file": "wikithis-1.0.0-ningzh.1.bl",
-      "version": "1.0.0-ningzh.1",
+      "tag": "mod-wikithis-v1.0.0-ningzh.1.fix.1",
+      "file": "wikithis-1.0.0-ningzh.1.fix.1.bl",
+      "version": "1.0.0-ningzh.1.fix.1",
       "baseVersion": "1.0.0",
       "originalSha256": "551e726dca4e0a44ff9178ad2c247bc263e636d35557419740dac39832cac3ae",
-      "sha256": "dbb52e389c7ff39a6a997711d5171d40012baa6b1f70f86a927dc96f8296c800",
-      "size": 1451916,
+      "sha256": "21fb4a9976b0275554f502606e373c2b87c5a9f706b7009cc6d01262250433a3",
+      "size": 1452406,
       "englishKeys": 3,
       "chineseKeys": 3,
-      "supplementalKeys": 0
+      "supplementalKeys": 0,
+      "repairRevision": 1,
+      "parentLocalizedVersion": "1.0.0-ningzh.1",
+      "parentLocalizedSha256": "dbb52e389c7ff39a6a997711d5171d40012baa6b1f70f86a927dc96f8296c800",
+      "repairNote": "修复 Wiki 面板初始化前绘制导致的 Panel.X 未定义错误；内容就绪后初始化，保留退出时归还物品。"
     },
     {
       "uid": "3183ab40-81f1-477a-aa50-0df1dde68c58",

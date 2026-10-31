@@ -1,0 +1,44 @@
+--- a/content/ModHooks.js
++++ b/content/ModHooks.js
+@@ -7,30 +7,27 @@
+     static Initialize() {
+         const Main = bl.classOf('Terraria', 'Main');
+         const WorldGen = bl.classOf('Terraria', 'WorldGen');
+-        
+-        Main['void Initialize_AlmostEverything()'
+-        ].hook((original, self) => {
+-            original(self);
++        let uiReady = false;
++
++        // Bunny may load this mod after Initialize_AlmostEverything has run.
++        // Initialize the slot and URLs together when game content is available.
++        bl.onContentReady(() => {
+             ModInterfaceLayer.SetupContent();
+             ModInterface.SetupContent();
++            WikiUI.InitializeItemUrl();
++            uiReady = true;
+         });
+-        
+-        Main['void Initialize_AlmostEverything()'
+-        ].hook((original, self) => {
+-            original(self);
+-            WikiUI.InitializeItemUrl();
+-        });
+-        
++
+         WorldGen['void SaveAndQuit()'
+         ].hook((original, self) => {
+-            ModInterface.Clear();
++            if (uiReady) ModInterface.Clear();
+             original(self);
+         });
+-        
++
+         GUIInventorySplitStack['void Draw()'
+         ].hook((original, self) => {
+             original(self);
+-            WikiUI.Instance.Draw();
++            if (uiReady && !Main.gameMenu) WikiUI.Instance.Draw();
+         });
+     }
+-}+}

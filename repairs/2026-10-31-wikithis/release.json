@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-31",
+  "catalogBase": "079157ec7f3a9058259d915a28796add2b9a279a",
+  "loaderSource": "cc2fea68d38b3874c3c185e4a82e2bbd68cc666a",
+  "upstreamLoaderObserved": "0d099ce83d9db9324a942f2f7a691893b8d88142",
+  "upstreamCatalogObserved": "e2bc77b57d6023aa9e135a8c9e2267ea594252e2",
+  "packages": [
+    {
+      "id": "wikithis",
+      "uid": "821a0c6b-ff63-437b-b3e7-da92f9eae0f8",
+      "version": "1.0.0-ningzh.1.fix.1",
+      "file": "wikithis-1.0.0-ningzh.1.fix.1.bl",
+      "parentSha256": "dbb52e389c7ff39a6a997711d5171d40012baa6b1f70f86a927dc96f8296c800",
+      "sha256": "21fb4a9976b0275554f502606e373c2b87c5a9f706b7009cc6d01262250433a3",
+      "size": 1452406,
+      "changedSources": [
+        "content/ModHooks.js"
+      ],
+      "removedGeneratedFiles": [],
+      "note": "修复 Wiki 面板初始化前绘制导致的 Panel.X 未定义错误；内容就绪后初始化，保留退出时归还物品。",
+      "tag": "mod-wikithis-v1.0.0-ningzh.1.fix.1"
+    }
+  ],
+  "anonymousDownloads": [
+    {
+      "host": "GitHub",
+      "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-wikithis-v1.0.0-ningzh.1.fix.1/wikithis-1.0.0-ningzh.1.fix.1.bl",
+      "sha256": "21fb4a9976b0275554f502606e373c2b87c5a9f706b7009cc6d01262250433a3",
+      "size": 1452406
+    },
+    {
+      "host": "Gitee",
+      "url": "https://gitee.com/nigngng/Ning-Launcher-Mods/releases/download/catalog-20261030/wikithis-1.0.0-ningzh.1.fix.1.bl",
+      "sha256": "21fb4a9976b0275554f502606e373c2b87c5a9f706b7009cc6d01262250433a3",
+      "size": 1452406
+    }
+  ],
+  "validation": {
+    "oldSourceReproducesPanelX": true,
+    "fixedSourceLifecycleRegression": "passed",
+    "packageValidation": "passed",
+    "unrelatedCatalogEntriesPreserved": 65,
+    "deviceRuntimeTest": "not performed; no emulator connected",
+    "apkRebuilt": false
+  }
+}

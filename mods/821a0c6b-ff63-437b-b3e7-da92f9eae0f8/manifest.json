@@ -2,7 +2,7 @@
   "uid": "821a0c6b-ff63-437b-b3e7-da92f9eae0f8",
   "id": "wikithis",
   "name": "Wikithis",
-  "version": "1.0.0-ningzh.1",
+  "version": "1.0.0-ningzh.1.fix.1",
   "authors": [
     {
       "name": "BasicallyIAmFox",
@@ -26,7 +26,7 @@
     "heading": "#F0FOF0"
   },
   "license": "Apache-2.0",
-  "updated": "2026-10-02",
+  "updated": "2026-10-31",
   "blVersion": 2,
   "gameVersion": [
     301720,
@@ -44,5 +44,10 @@
     "language": "zh-Hans",
     "revision": 1,
     "baseVersion": "1.0.0"
+  },
+  "repairEdition": {
+    "revision": 1,
+    "parentVersion": "1.0.0-ningzh.1",
+    "parentSha256": "dbb52e389c7ff39a6a997711d5171d40012baa6b1f70f86a927dc96f8296c800"
   }
 }

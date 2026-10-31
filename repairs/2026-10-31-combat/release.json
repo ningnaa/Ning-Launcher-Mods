@@ -1,0 +1,107 @@
+{
+  "date": "2026-10-31",
+  "catalogBase": "16a1820b48985eb53956dc1e972885ab89185e22",
+  "packages": [
+    {
+      "id": "consolaria",
+      "uid": "dae471c1-1177-4640-9cb7-68e29de58f6b",
+      "version": "1.0.2-ningzh.1.fix.1",
+      "file": "consolaria-1.0.2-ningzh.1.fix.1.bl",
+      "parentSha256": "f372fabd38b6e1c64e696cea9a11496e9518cbf5b5e4e6ca93ab847f3da86f1a",
+      "sha256": "3ff9b4eb1639c9b59c0894829105044675e339df8586e9dc68ba0ca109b1c2cf",
+      "size": 27397010,
+      "changedSources": [
+        "content/Common/Players/ConsolariaPlayer.js",
+        "content/Content/Items/Armor/Ranged/TitanHelmet.js"
+      ],
+      "removedGeneratedFiles": [],
+      "note": "修复死亡来源 NPC 变量错误与索引 0 漏判；修复泰坦套装客户端状态复制参数及模式同步字段。",
+      "tag": "mod-consolaria-v1.0.2-ningzh.1.fix.1",
+      "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-consolaria-v1.0.2-ningzh.1.fix.1/consolaria-1.0.2-ningzh.1.fix.1.bl",
+      "parentVersion": "1.0.2-ningzh.1"
+    },
+    {
+      "id": "cooleritemvisualeffect",
+      "uid": "dc3f4de8-1c59-4d92-a986-3ea0e4b42e15",
+      "version": "1.0.9-bunny.9.ningzh.2.fix.1",
+      "file": "cooleritemvisualeffect-1.0.9-bunny.9.ningzh.2.fix.1.bl",
+      "parentSha256": "16c7ec1d30ad57d33427ff944fc2fcd07aaf32b4ac66088fe26189362d80d7cc",
+      "sha256": "8439bfe9aed54c82447c6f32ecd25d45141de87918105191f067a9ed88bc2a08",
+      "size": 39912,
+      "changedSources": [
+        "content/Common/Players/CoolerItemPlayer.js"
+      ],
+      "removedGeneratedFiles": [],
+      "note": "商人镰刀保留原版挥动、割草及干草掉落，避免剑光自定义近战判定禁用收割；普通剑与战斗镰刀保持剑光。",
+      "tag": "mod-cooleritemvisualeffect-v1.0.9-bunny.9.ningzh.2.fix.1",
+      "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-cooleritemvisualeffect-v1.0.9-bunny.9.ningzh.2.fix.1/cooleritemvisualeffect-1.0.9-bunny.9.ningzh.2.fix.1.bl",
+      "parentVersion": "1.0.9-bunny.9.ningzh.2"
+    }
+  ],
+  "anonymousDownloads": [
+    {
+      "host": "GitHub",
+      "id": "consolaria",
+      "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-consolaria-v1.0.2-ningzh.1.fix.1/consolaria-1.0.2-ningzh.1.fix.1.bl",
+      "sha256": "3ff9b4eb1639c9b59c0894829105044675e339df8586e9dc68ba0ca109b1c2cf",
+      "size": 27397010
+    },
+    {
+      "host": "Gitee",
+      "id": "consolaria",
+      "url": "https://gitee.com/nigngng/Ning-Launcher-Mods/releases/download/catalog-20261030/consolaria-1.0.2-ningzh.1.fix.1.bl",
+      "sha256": "3ff9b4eb1639c9b59c0894829105044675e339df8586e9dc68ba0ca109b1c2cf",
+      "size": 27397010
+    },
+    {
+      "host": "GitHub",
+      "id": "cooleritemvisualeffect",
+      "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-cooleritemvisualeffect-v1.0.9-bunny.9.ningzh.2.fix.1/cooleritemvisualeffect-1.0.9-bunny.9.ningzh.2.fix.1.bl",
+      "sha256": "8439bfe9aed54c82447c6f32ecd25d45141de87918105191f067a9ed88bc2a08",
+      "size": 39912
+    },
+    {
+      "host": "Gitee",
+      "id": "cooleritemvisualeffect",
+      "url": "https://gitee.com/nigngng/Ning-Launcher-Mods/releases/download/catalog-20261030/cooleritemvisualeffect-1.0.9-bunny.9.ningzh.2.fix.1.bl",
+      "sha256": "8439bfe9aed54c82447c6f32ecd25d45141de87918105191f067a9ed88bc2a08",
+      "size": 39912
+    }
+  ],
+  "validation": {
+    "sourceRegression": "14 checks passed",
+    "deviceRuntime": "isolated saves: hay restored, sword effects retained, clientClone and NPC death passed",
+    "multiplayer": "not tested on two devices",
+    "unrelatedEntriesPreserved": 64
+  },
+  "previousSources": [
+    {
+      "uid": "dae471c1-1177-4640-9cb7-68e29de58f6b",
+      "id": "consolaria",
+      "tag": "mod-consolaria-v1.0.2-ningzh.1",
+      "file": "consolaria-1.0.2-ningzh.1.bl",
+      "version": "1.0.2-ningzh.1",
+      "baseVersion": "1.0.2",
+      "originalSha256": "819223975836014733808a23ef3c8da48b227106fa62c644ffa3fea7428950d2",
+      "sha256": "f372fabd38b6e1c64e696cea9a11496e9518cbf5b5e4e6ca93ab847f3da86f1a",
+      "size": 27396753,
+      "englishKeys": 535,
+      "chineseKeys": 537,
+      "supplementalKeys": 0
+    },
+    {
+      "uid": "dc3f4de8-1c59-4d92-a986-3ea0e4b42e15",
+      "id": "cooleritemvisualeffect",
+      "tag": "mod-cooleritemvisualeffect-v1.0.9-bunny.9.ningzh.2",
+      "file": "cooleritemvisualeffect-1.0.9-bunny.9.ningzh.2.bl",
+      "version": "1.0.9-bunny.9.ningzh.2",
+      "baseVersion": "1.0.9-bunny.9",
+      "originalSha256": "f0f9a9f328f4b7a6b1762a8ba68ea897b1857dcd7ecf2ace5c12035d7c245048",
+      "sha256": "16c7ec1d30ad57d33427ff944fc2fcd07aaf32b4ac66088fe26189362d80d7cc",
+      "size": 40449,
+      "englishKeys": 54,
+      "chineseKeys": 54,
+      "supplementalKeys": 54
+    }
+  ]
+}

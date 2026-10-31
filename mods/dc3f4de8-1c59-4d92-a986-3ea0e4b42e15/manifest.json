@@ -2,7 +2,7 @@
   "uid": "dc3f4de8-1c59-4d92-a986-3ea0e4b42e15",
   "id": "cooleritemvisualeffect",
   "name": "Cooler Item Visual Effect — Bunny Port",
-  "version": "1.0.9-bunny.9.ningzh.2",
+  "version": "1.0.9-bunny.9.ningzh.2.fix.1",
   "authors": [
     {
       "name": "Log Spiral (Original Creator)",
@@ -17,7 +17,7 @@
   "category": "视觉效果",
   "summary": "Efeito Slash Maneiro",
   "description": "efeito slash totalmente exagerado e bonito",
-  "updated": "2026-10-20",
+  "updated": "2026-10-31",
   "blVersion": 2,
   "entry": "main.js",
   "localizedNames": {
@@ -30,5 +30,10 @@
     "language": "zh-Hans",
     "revision": 2,
     "baseVersion": "1.0.9-bunny.9"
+  },
+  "repairEdition": {
+    "revision": 1,
+    "parentVersion": "1.0.9-bunny.9.ningzh.2",
+    "parentSha256": "16c7ec1d30ad57d33427ff944fc2fcd07aaf32b4ac66088fe26189362d80d7cc"
   }
 }

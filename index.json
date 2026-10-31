@@ -619,11 +619,11 @@
       "uid": "dae471c1-1177-4640-9cb7-68e29de58f6b",
       "id": "consolaria",
       "name": "Consolaria Mobile",
-      "version": "1.0.2-ningzh.1",
+      "version": "1.0.2-ningzh.1.fix.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-consolaria-v1.0.2-ningzh.1/consolaria-1.0.2-ningzh.1.bl",
-        "sha256": "f372fabd38b6e1c64e696cea9a11496e9518cbf5b5e4e6ca93ab847f3da86f1a",
-        "size": 27396753
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-consolaria-v1.0.2-ningzh.1.fix.1/consolaria-1.0.2-ningzh.1.fix.1.bl",
+        "sha256": "3ff9b4eb1639c9b59c0894829105044675e339df8586e9dc68ba0ca109b1c2cf",
+        "size": 27397010
       },
       "files": [
         "manifest.json",
@@ -650,7 +650,7 @@
         "uid": "dae471c1-1177-4640-9cb7-68e29de58f6b",
         "id": "consolaria",
         "name": "Consolaria Mobile",
-        "version": "1.0.2-ningzh.1",
+        "version": "1.0.2-ningzh.1.fix.1",
         "authors": [
           {
             "name": "Consolaria Team",
@@ -663,7 +663,7 @@
         "category": "内容扩展",
         "summary": "Tons of exclusive content from the legacy and old-gen versions, reworked and rebalanced for modern Terraria.",
         "license": "MIT",
-        "updated": "2026-10-01",
+        "updated": "2026-10-31",
         "blVersion": 2,
         "gameVersion": [
           301720,
@@ -707,6 +707,11 @@
           "language": "zh-Hans",
           "revision": 1,
           "baseVersion": "1.0.2"
+        },
+        "repairEdition": {
+          "revision": 1,
+          "parentVersion": "1.0.2-ningzh.1",
+          "parentSha256": "f372fabd38b6e1c64e696cea9a11496e9518cbf5b5e4e6ca93ab847f3da86f1a"
         }
       }
     },
@@ -714,23 +719,24 @@
       "uid": "dc3f4de8-1c59-4d92-a986-3ea0e4b42e15",
       "id": "cooleritemvisualeffect",
       "name": "Cooler Item Visual Effect — Bunny Port",
-      "version": "1.0.9-bunny.9.ningzh.2",
+      "version": "1.0.9-bunny.9.ningzh.2.fix.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-cooleritemvisualeffect-v1.0.9-bunny.9.ningzh.2/cooleritemvisualeffect-1.0.9-bunny.9.ningzh.2.bl",
-        "sha256": "16c7ec1d30ad57d33427ff944fc2fcd07aaf32b4ac66088fe26189362d80d7cc",
-        "size": 40449
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-cooleritemvisualeffect-v1.0.9-bunny.9.ningzh.2.fix.1/cooleritemvisualeffect-1.0.9-bunny.9.ningzh.2.fix.1.bl",
+        "sha256": "8439bfe9aed54c82447c6f32ecd25d45141de87918105191f067a9ed88bc2a08",
+        "size": 39912
       },
       "files": [
         "manifest.json",
         "icon.png",
         "authors/castorzeira.png",
-        "description_zh-Hans.md"
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "dc3f4de8-1c59-4d92-a986-3ea0e4b42e15",
         "id": "cooleritemvisualeffect",
         "name": "Cooler Item Visual Effect — Bunny Port",
-        "version": "1.0.9-bunny.9.ningzh.2",
+        "version": "1.0.9-bunny.9.ningzh.2.fix.1",
         "authors": [
           {
             "name": "Log Spiral (Original Creator)",
@@ -745,7 +751,7 @@
         "category": "视觉效果",
         "summary": "Efeito Slash Maneiro",
         "description": "efeito slash totalmente exagerado e bonito",
-        "updated": "2026-10-20",
+        "updated": "2026-10-31",
         "blVersion": 2,
         "entry": "main.js",
         "localizedNames": {
@@ -758,6 +764,11 @@
           "language": "zh-Hans",
           "revision": 2,
           "baseVersion": "1.0.9-bunny.9"
+        },
+        "repairEdition": {
+          "revision": 1,
+          "parentVersion": "1.0.9-bunny.9.ningzh.2",
+          "parentSha256": "16c7ec1d30ad57d33427ff944fc2fcd07aaf32b4ac66088fe26189362d80d7cc"
         }
       },
       "publishedAt": "2026-10-29T10:39:39Z"

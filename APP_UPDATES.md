@@ -7,6 +7,8 @@ Gitee 镜像优先，失败或内容无效时回退 GitHub。仅远端 `versionC
 
 发布后续应用版本时：
 
+启动器版本由维护者明确决定：普通修复不自动提升 `versionName` 或 `versionCode`，只有维护者要求升版才修改。模组、材质和字体包的独立版本修订不提升 APK 版本；仅询问在线更新状态不修改配置。发布已经确定的 APK 提醒时，也不再额外递增一次版本。
+
 1. 先在现有 QQ 频道提供正式安装包。
 2. 将 `versionCode`、`versionName` 更新为该包 `version.properties` 中的值。弹窗只显示版本对比，不展示更新内容。
 3. 推送 GitHub 并同步 Gitee，核验两边公开文件一致。不要改动模组 `index.json`。

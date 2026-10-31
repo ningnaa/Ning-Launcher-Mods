@@ -1,0 +1,46 @@
+--- a/content/Common/Players/ConsolariaPlayer.js
++++ b/content/Common/Players/ConsolariaPlayer.js
+@@ -2,12 +2,13 @@
+ 
+ export class ConsolariaPlayer extends ModPlayer {
+     PreKill(player, damageSource, damage, hitDirection, pvp) {
+-        const npcIndex = damageSource._sourceNPCIndex ?? 0;
++        const npcIndex = damageSource._sourceNPCIndex ?? -1;
+         const proj = damageSource._sourceProjectileType ?? 0;
+         
+         let killedByOcram = false;
+-        if (npcIndex > 0) {
+-            killedByOcram = Main.npc[npc].type === ModContent.NPCType('Ocram');
++        if (npcIndex >= 0 && npcIndex < Main.npc.length) {
++            const npc = Main.npc[npcIndex];
++            killedByOcram = npc != null && npc.type === ModContent.NPCType('Ocram');
+         }
+         else if (proj > 0) {
+             killedByOcram = (proj === ModContent.ProjectileType('OcramLaser1') || proj === ModContent.ProjectileType('OcramLaser2') || proj === ModContent.ProjectileType('OcramScythe') || proj === ModContent.ProjectileType('OcramSkull'))
+@@ -19,4 +20,4 @@
+         
+         return true;
+     }
+-}+}
+--- a/content/Content/Items/Armor/Ranged/TitanHelmet.js
++++ b/content/Content/Items/Armor/Ranged/TitanHelmet.js
+@@ -73,10 +73,10 @@
+     }
+     
+     ReceivePlayerSync(reader) {
+-        this.titanPower = reader.ReadBoolean();
+-    }
+-    
+-    CopyClientState(targetCopy) {
++        this.titanPower2 = reader.ReadBoolean();
++    }
++    
++    CopyClientState(player, targetCopy) {
+         targetCopy.titanPower2 = this.titanPower2;
+     }
+     
+@@ -197,4 +197,4 @@
+         }
+         return true;
+     }
+-}+}

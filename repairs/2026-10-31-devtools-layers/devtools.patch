@@ -1,0 +1,25 @@
+--- a/content/main.js
++++ b/content/main.js
+@@ -83,10 +83,21 @@
+             original();
+         });
+ 
++        // Insert layers before DrawInterface starts enumerating the native list.
++        // If the game rebuilds it this frame, restore our layers on the next one.
++        Main['void DrawInterface(GameTime gameTime)'
++        ].hook((original, self, gameTime) => {
++            if (self._needToSetupDrawInterfaceLayers) {
++                ModInterfaceLayer._needToSetupDrawInterfaceLayers = true;
++            } else if (uiReady) {
++                ModInterfaceLayer.SetupInterfaceLayers();
++            }
++            original(self, gameTime);
++        });
++
+         LegacyGameInterfaceLayer['bool DrawSelf()'
+         ].hook((original, self) => {
+             if (!uiReady) return original();
+-            ModInterfaceLayer.SetupInterfaceLayers();
+             if (CameraSystem.PhotoMode) {
+                 if (self.Name === 'PhotoModeLayer') {
+                     ModInterfaceLayer.DrawLayer(self.Name);

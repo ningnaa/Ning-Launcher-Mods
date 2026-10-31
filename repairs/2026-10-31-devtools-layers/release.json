@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-31",
+  "catalogBase": "8404db4fbf6c5f053687e4aa2559d55c375c33a3",
+  "packages": [
+    {
+      "id": "devtools",
+      "uid": "22b95101-7032-49ab-92a8-468f3030aa41",
+      "version": "1.0.1-ningzh.1.fix.2",
+      "file": "devtools-1.0.1-ningzh.1.fix.2.bl",
+      "parentSha256": "6f92822953c1183b31fd7dfcd62f6048006d1e07aca836155f9a3710f8aec169",
+      "sha256": "273926a05c6da4a1d98585eaa11fff34caccefbf5be47f2cf082db552a801133",
+      "size": 226429,
+      "changedSources": [
+        "content/main.js"
+      ],
+      "removedGeneratedFiles": [],
+      "note": "在界面遍历开始前插入工具层，修复 DrawInterface 集合遍历时被修改的异常；保留纹理初始化修复，界面重建后自动恢复工具层。",
+      "tag": "mod-devtools-v1.0.1-ningzh.1.fix.2"
+    }
+  ],
+  "validation": {
+    "oldPackageRegression": "fails with Collection was modified",
+    "fixedPackageRegression": "passed first frame, 100 frames, list rebuild",
+    "emulatorTest": "entered world with original mod combination and cloned saves, expanded toolbar, saved and exited; no matching errors",
+    "originalSaveFilesUnchanged": 11,
+    "settingsRestored": true,
+    "otherDevices": "not tested"
+  },
+  "anonymousDownloads": [
+    {
+      "host": "GitHub",
+      "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-devtools-v1.0.1-ningzh.1.fix.2/devtools-1.0.1-ningzh.1.fix.2.bl",
+      "sha256": "273926a05c6da4a1d98585eaa11fff34caccefbf5be47f2cf082db552a801133",
+      "size": 226429
+    },
+    {
+      "host": "Gitee",
+      "url": "https://gitee.com/nigngng/Ning-Launcher-Mods/releases/download/catalog-20261030/devtools-1.0.1-ningzh.1.fix.2.bl",
+      "sha256": "273926a05c6da4a1d98585eaa11fff34caccefbf5be47f2cf082db552a801133",
+      "size": 226429
+    }
+  ]
+}

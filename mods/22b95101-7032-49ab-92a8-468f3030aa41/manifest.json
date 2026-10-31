@@ -2,7 +2,7 @@
   "uid": "22b95101-7032-49ab-92a8-468f3030aa41",
   "id": "devtools",
   "name": "Dev Tools",
-  "version": "1.0.1-ningzh.1.fix.1",
+  "version": "1.0.1-ningzh.1.fix.2",
   "authors": [
     {
       "name": "GST378",
@@ -35,8 +35,8 @@
     "baseVersion": "1.0.1"
   },
   "repairEdition": {
-    "revision": 1,
-    "parentVersion": "1.0.1-ningzh.1",
-    "parentSha256": "3fe19967bfcb91035ef4d8752990a4a5975e92f33ef2e0cdece7284205f0d45d"
+    "revision": 2,
+    "parentVersion": "1.0.1-ningzh.1.fix.1",
+    "parentSha256": "6f92822953c1183b31fd7dfcd62f6048006d1e07aca836155f9a3710f8aec169"
   }
 }

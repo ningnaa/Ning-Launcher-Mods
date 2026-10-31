@@ -2,7 +2,7 @@
   "uid": "22b95101-7032-49ab-92a8-468f3030aa41",
   "id": "devtools",
   "name": "Dev Tools",
-  "version": "1.0.1-ningzh.1",
+  "version": "1.0.1-ningzh.1.fix.1",
   "authors": [
     {
       "name": "GST378",
@@ -15,7 +15,7 @@
   "category": "实用工具",
   "summary": "一个直观的工具界面：难度切换、实体清除、碰撞箱、天气与时间、相机与拍照模式、调试信息。",
   "license": "",
-  "updated": "2026-10-15",
+  "updated": "2026-10-31",
   "blVersion": 2,
   "gameVersion": [
     301720,
@@ -33,5 +33,10 @@
     "language": "zh-Hans",
     "revision": 1,
     "baseVersion": "1.0.1"
+  },
+  "repairEdition": {
+    "revision": 1,
+    "parentVersion": "1.0.1-ningzh.1",
+    "parentSha256": "3fe19967bfcb91035ef4d8752990a4a5975e92f33ef2e0cdece7284205f0d45d"
   }
 }

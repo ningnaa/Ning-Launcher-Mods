@@ -40,3 +40,7 @@ APK 不需要 GitHub 登录或令牌。这个仓库与上游独立维护，不�
 国内镜像：[nigngng/Ning-Launcher-Mods](https://gitee.com/nigngng/Ning-Launcher-Mods)。启动器优先从 Gitee 下载，失败后回退 GitHub，每个包仍校验 SHA-256。
 
 当前索引已升级为独立中文版本：保留作者已有中文，补齐模组内部缺失语言表，详见 [汉化说明](LOCALIZATION.md) 和 [来源记录](internal-localization-sources.json)。这是基于 Bunny Loader 的非官方分支目录，保留原作者及各包许可证声明。
+
+## 2026-10-31 兼容性修复
+
+开发者工具、基础冲刺、定向挥砍新增 `.fix.1` 修复版，包含必要的源码修复，已不属于仅翻译改动。保留原作者、UID、已有汉化及许可证，旧版本附件不覆盖。源码差异、包哈希、双源校验与实测范围见 [修复记录](repairs/2026-10-31/release.json)。在启动器中更新模组后重启游戏；只更新 APK 不会替换已安装的旧模组源码。

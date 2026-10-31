@@ -1,0 +1,103 @@
+--- a/content/main.js
++++ b/content/main.js
+@@ -31,6 +31,7 @@
+ 
+ export default class DevTool extends Mod {
+     Load() {
++        let uiReady = false;
+         RegisterAll();
+         bl.log('DevTool: 已加载（Bunny Loader）');
+ 
+@@ -38,13 +39,14 @@
+         // 里触发的，那时 bl.loadTexture 才放行。
+         bl.onContentReady(() => {
+             InitializeTextures();
++            ModInterfaceLayer.SetupContent();
++            ModInterface.SetupContent();
++            uiReady = true;
+         });
+ 
+         Main['void Initialize_AlmostEverything()'
+         ].hook((original, self) => {
+             original();
+-            ModInterfaceLayer.SetupContent();
+-            ModInterface.SetupContent();
+ 
+             let zoomIn, zoomOut, current = 1;
+             const XNAWorldCameraSettings = bl.classOf('', 'XNAWorldCameraSettings');
+@@ -72,7 +74,7 @@
+         Main['void UpdateUIStates(GameTime gameTime)'
+         ].hook((original, self, gameTime) => {
+             original();
+-            ModInterface.Update();
++            if (uiReady) ModInterface.Update();
+         });
+ 
+         WorldGen['void SaveAndQuit()'
+@@ -83,6 +85,7 @@
+ 
+         LegacyGameInterfaceLayer['bool DrawSelf()'
+         ].hook((original, self) => {
++            if (!uiReady) return original();
+             ModInterfaceLayer.SetupInterfaceLayers();
+             if (CameraSystem.PhotoMode) {
+                 if (self.Name === 'PhotoModeLayer') {
+@@ -151,7 +154,7 @@
+ 
+         Main['void DrawNPCs(bool behindTiles)'
+         ].hook((original, self, behindTiles) => {
+-            if (!behindTiles) {
++            if (!behindTiles && uiReady) {
+                 WorldIconUI.Draw();
+                 MagnetSystem.DrawMagnet();
+             }
+--- a/content/Textures/index.js
++++ b/content/Textures/index.js
+@@ -9,7 +9,7 @@
+ //   2. bl.loadTexture 只认游戏线程（Unity 的纹理在别的线程上创建会直接 abort
+ //      进程，不是抛异常）。mod 的 Load() 跑在加载线程上，所以加载时机改到
+ //      bl.onContentReady（在 Main.DoUpdate 里触发，那时游戏线程已经认过身份），
+-//      下面再用 Proxy 兜一层：万一有界面抢在前面访问，就地补一次加载。
++//      UI 初始化也必须在这个回调之后；读取纹理表不触发隐式加载。
+ 
+ const Table = {};
+ 
+@@ -20,28 +20,22 @@
+     return file.slice(file.lastIndexOf('/') + 1).replace(/\.png$/i, '');
+ }
+ 
++// Called explicitly from onContentReady. Property reads must never create GPU resources.
+ export function InitializeTextures() {
+     if (done) return;
+-    done = true;
++    const failures = [];
+     for (const file of bl.directory.listFiles(DIRECTORY)) {
+-        if (file.endsWith('.js')) continue;
++        if (!/\.png$/i.test(file)) continue;
+         try {
+-            Table[KeyOf(file)] = bl.loadTexture(file);
++            const texture = bl.loadTexture(file);
++            if (!texture) throw new Error('texture loader returned no texture');
++            Table[KeyOf(file)] = texture;
+         } catch (e) {
+-            bl.log('DevTool: 纹理 ' + file + ' 加载失败: ' + e);
++            failures.push(file + ': ' + e);
+         }
+     }
++    if (failures.length) throw new Error('DevTool: 纹理加载失败: ' + failures.join('; '));
++    done = true;
+ }
+ 
+-export const Textures = new Proxy(Table, {
+-    get(target, key, receiver) {
+-        if (!done && typeof key === 'string' && !(key in target)) {
+-            try {
+-                InitializeTextures();
+-            } catch (e) {
+-                bl.log('DevTool: 纹理表初始化失败: ' + e);
+-            }
+-        }
+-        return Reflect.get(target, key, receiver);
+-    },
+-});
++export const Textures = Table;

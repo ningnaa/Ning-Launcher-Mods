@@ -3,7 +3,7 @@
   "id": "defaultdash",
   "name": "Default Dash",
   "type": "mod",
-  "version": "1.0.0-ningzh.1",
+  "version": "1.0.0-ningzh.1.fix.1",
   "authors": [
     {
       "name": "VowTz"
@@ -12,7 +12,7 @@
   "category": "玩法",
   "summary": "Gives the player a basic dash without needing any dashing accessory.",
   "license": "no license",
-  "updated": "2026-10-29",
+  "updated": "2026-10-31",
   "blVersion": 2,
   "gameVersion": [
     301720,
@@ -30,5 +30,10 @@
     "language": "zh-Hans",
     "revision": 1,
     "baseVersion": "1.0.0"
+  },
+  "repairEdition": {
+    "revision": 1,
+    "parentVersion": "1.0.0-ningzh.1",
+    "parentSha256": "c5cf0fb83e0f7141705fb06b25d1ae1eedbe703229b03a1ffcab42f16e39bd3f"
   }
 }

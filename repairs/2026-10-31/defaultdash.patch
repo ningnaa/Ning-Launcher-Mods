@@ -1,0 +1,9 @@
+--- a/content/DefaultDash.cs
++++ b/content/DefaultDash.cs
+@@ -1,5 +1,6 @@
+ using Terraria;
+ using Terraria.ID;
++using Terraria.ModLoader;
+ using BunnyLoader;
+ using Microsoft.Xna.Framework;
+ 

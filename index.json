@@ -862,23 +862,24 @@
       "uid": "9b4f2a1c-3d5e-4b6a-9c8d-1e2f3a4b5c6d",
       "id": "defaultdash",
       "name": "Default Dash",
-      "version": "1.0.0-ningzh.1",
+      "version": "1.0.0-ningzh.1.fix.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-defaultdash-v1.0.0-ningzh.1/defaultdash-1.0.0-ningzh.1.bl",
-        "sha256": "c5cf0fb83e0f7141705fb06b25d1ae1eedbe703229b03a1ffcab42f16e39bd3f",
-        "size": 87990
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-defaultdash-v1.0.0-ningzh.1.fix.1/defaultdash-1.0.0-ningzh.1.fix.1.bl",
+        "sha256": "27402978a0f033cafdae6715cd4f74ba276c3216672643353fdacb3431b772b5",
+        "size": 82373
       },
       "files": [
         "manifest.json",
         "icon.png",
-        "description_zh-Hans.md"
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "9b4f2a1c-3d5e-4b6a-9c8d-1e2f3a4b5c6d",
         "id": "defaultdash",
         "name": "Default Dash",
         "type": "mod",
-        "version": "1.0.0-ningzh.1",
+        "version": "1.0.0-ningzh.1.fix.1",
         "authors": [
           {
             "name": "VowTz"
@@ -887,7 +888,7 @@
         "category": "玩法",
         "summary": "Gives the player a basic dash without needing any dashing accessory.",
         "license": "no license",
-        "updated": "2026-10-29",
+        "updated": "2026-10-31",
         "blVersion": 2,
         "gameVersion": [
           301720,
@@ -905,6 +906,11 @@
           "language": "zh-Hans",
           "revision": 1,
           "baseVersion": "1.0.0"
+        },
+        "repairEdition": {
+          "revision": 1,
+          "parentVersion": "1.0.0-ningzh.1",
+          "parentSha256": "c5cf0fb83e0f7141705fb06b25d1ae1eedbe703229b03a1ffcab42f16e39bd3f"
         }
       },
       "publishedAt": "2026-10-29T10:39:17Z"
@@ -913,11 +919,11 @@
       "uid": "22b95101-7032-49ab-92a8-468f3030aa41",
       "id": "devtools",
       "name": "Dev Tools",
-      "version": "1.0.1-ningzh.1",
+      "version": "1.0.1-ningzh.1.fix.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-devtools-v1.0.1-ningzh.1/devtools-1.0.1-ningzh.1.bl",
-        "sha256": "3fe19967bfcb91035ef4d8752990a4a5975e92f33ef2e0cdece7284205f0d45d",
-        "size": 225754
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-devtools-v1.0.1-ningzh.1.fix.1/devtools-1.0.1-ningzh.1.fix.1.bl",
+        "sha256": "6f92822953c1183b31fd7dfcd62f6048006d1e07aca836155f9a3710f8aec169",
+        "size": 226154
       },
       "files": [
         "manifest.json",
@@ -925,13 +931,14 @@
         "banner.jpg",
         "description.md",
         "authors/0.png",
-        "description_zh-Hans.md"
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "22b95101-7032-49ab-92a8-468f3030aa41",
         "id": "devtools",
         "name": "Dev Tools",
-        "version": "1.0.1-ningzh.1",
+        "version": "1.0.1-ningzh.1.fix.1",
         "authors": [
           {
             "name": "GST378",
@@ -944,7 +951,7 @@
         "category": "实用工具",
         "summary": "一个直观的工具界面：难度切换、实体清除、碰撞箱、天气与时间、相机与拍照模式、调试信息。",
         "license": "",
-        "updated": "2026-10-15",
+        "updated": "2026-10-31",
         "blVersion": 2,
         "gameVersion": [
           301720,
@@ -962,6 +969,11 @@
           "language": "zh-Hans",
           "revision": 1,
           "baseVersion": "1.0.1"
+        },
+        "repairEdition": {
+          "revision": 1,
+          "parentVersion": "1.0.1-ningzh.1",
+          "parentSha256": "3fe19967bfcb91035ef4d8752990a4a5975e92f33ef2e0cdece7284205f0d45d"
         }
       }
     },
@@ -969,23 +981,24 @@
       "uid": "cece9409-844d-476a-8953-1a59de78db92",
       "id": "directionalswings",
       "name": "Directional Swings",
-      "version": "1.1.1-ningzh.1",
+      "version": "1.1.1-ningzh.1.fix.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-directionalswings-v1.1.1-ningzh.1/directionalswings-1.1.1-ningzh.1.bl",
-        "sha256": "a750f2b11a824d3d9493d69fb3fef2d4556d0324b8589962c41a6883fe304b94",
-        "size": 1390351
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-directionalswings-v1.1.1-ningzh.1.fix.1/directionalswings-1.1.1-ningzh.1.fix.1.bl",
+        "sha256": "b948c5c8fc1783a94a6e74d132ada5989c58e79462b1a8428ad01982d9844d46",
+        "size": 1389966
       },
       "files": [
         "manifest.json",
         "icon.png",
         "description.md",
-        "description_zh-Hans.md"
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "cece9409-844d-476a-8953-1a59de78db92",
         "id": "directionalswings",
         "name": "Directional Swings",
-        "version": "1.1.1-ningzh.1",
+        "version": "1.1.1-ningzh.1.fix.1",
         "authors": [
           {
             "name": "VowTz",
@@ -995,7 +1008,7 @@
         "category": "玩法",
         "summary": "Melee swords swing toward where you aim, and the hitbox follows the blade.",
         "license": "MIT",
-        "updated": "2026-10-25",
+        "updated": "2026-10-31",
         "blVersion": 2,
         "gameVersion": [
           301720,
@@ -1013,6 +1026,11 @@
           "language": "zh-Hans",
           "revision": 1,
           "baseVersion": "1.1.1"
+        },
+        "repairEdition": {
+          "revision": 1,
+          "parentVersion": "1.1.1-ningzh.1",
+          "parentSha256": "a750f2b11a824d3d9493d69fb3fef2d4556d0324b8589962c41a6883fe304b94"
         }
       },
       "publishedAt": "2026-10-26T10:27:00Z"

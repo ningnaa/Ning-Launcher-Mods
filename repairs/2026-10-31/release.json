@@ -1,0 +1,109 @@
+{
+  "date": "2026-10-31",
+  "catalogBase": "468df4f3102e21fbb84dba39a7d8c54385450047",
+  "packages": [
+    {
+      "id": "devtools",
+      "uid": "22b95101-7032-49ab-92a8-468f3030aa41",
+      "version": "1.0.1-ningzh.1.fix.1",
+      "file": "devtools-1.0.1-ningzh.1.fix.1.bl",
+      "parentSha256": "3fe19967bfcb91035ef4d8752990a4a5975e92f33ef2e0cdece7284205f0d45d",
+      "sha256": "6f92822953c1183b31fd7dfcd62f6048006d1e07aca836155f9a3710f8aec169",
+      "size": 226154,
+      "changedSources": [
+        "content/main.js",
+        "content/Textures/index.js"
+      ],
+      "removedGeneratedFiles": [],
+      "note": "修复工具栏在纹理尚未就绪时初始化导致的 Width 未定义错误。",
+      "tag": "mod-devtools-v1.0.1-ningzh.1.fix.1"
+    },
+    {
+      "id": "defaultdash",
+      "uid": "9b4f2a1c-3d5e-4b6a-9c8d-1e2f3a4b5c6d",
+      "version": "1.0.0-ningzh.1.fix.1",
+      "file": "defaultdash-1.0.0-ningzh.1.fix.1.bl",
+      "parentSha256": "c5cf0fb83e0f7141705fb06b25d1ae1eedbe703229b03a1ffcab42f16e39bd3f",
+      "sha256": "27402978a0f033cafdae6715cd4f74ba276c3216672643353fdacb3431b772b5",
+      "size": 82373,
+      "changedSources": [
+        "content/DefaultDash.cs"
+      ],
+      "removedGeneratedFiles": [
+        "content/bin/DefaultDash.build.json",
+        "content/bin/DefaultDash.dll",
+        "content/bin/DestructiblePhysics.build.json",
+        "content/bin/DestructiblePhysics.dll"
+      ],
+      "note": "补齐 Mod 基类命名空间，移除旧编译缓存，修复 CS0246。",
+      "tag": "mod-defaultdash-v1.0.0-ningzh.1.fix.1"
+    },
+    {
+      "id": "directionalswings",
+      "uid": "cece9409-844d-476a-8953-1a59de78db92",
+      "version": "1.1.1-ningzh.1.fix.1",
+      "file": "directionalswings-1.1.1-ningzh.1.fix.1.bl",
+      "parentSha256": "a750f2b11a824d3d9493d69fb3fef2d4556d0324b8589962c41a6883fe304b94",
+      "sha256": "b948c5c8fc1783a94a6e74d132ada5989c58e79462b1a8428ad01982d9844d46",
+      "size": 1389966,
+      "changedSources": [
+        "content/Common/Globals/DirectionalSwingsItem.js"
+      ],
+      "removedGeneratedFiles": [],
+      "note": "读取实际手持物品分类，召唤武器保持原版行为；角度计算避免无限循环，保留近战挥砍和攻击判定。",
+      "tag": "mod-directionalswings-v1.1.1-ningzh.1.fix.1"
+    }
+  ],
+  "anonymousDownloadChecks": [
+    {
+      "host": "GitHub",
+      "id": "devtools",
+      "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-devtools-v1.0.1-ningzh.1.fix.1/devtools-1.0.1-ningzh.1.fix.1.bl",
+      "sha256": "6f92822953c1183b31fd7dfcd62f6048006d1e07aca836155f9a3710f8aec169",
+      "size": 226154
+    },
+    {
+      "host": "Gitee",
+      "id": "devtools",
+      "url": "https://gitee.com/nigngng/Ning-Launcher-Mods/releases/download/catalog-20261030/devtools-1.0.1-ningzh.1.fix.1.bl",
+      "sha256": "6f92822953c1183b31fd7dfcd62f6048006d1e07aca836155f9a3710f8aec169",
+      "size": 226154
+    },
+    {
+      "host": "GitHub",
+      "id": "defaultdash",
+      "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-defaultdash-v1.0.0-ningzh.1.fix.1/defaultdash-1.0.0-ningzh.1.fix.1.bl",
+      "sha256": "27402978a0f033cafdae6715cd4f74ba276c3216672643353fdacb3431b772b5",
+      "size": 82373
+    },
+    {
+      "host": "Gitee",
+      "id": "defaultdash",
+      "url": "https://gitee.com/nigngng/Ning-Launcher-Mods/releases/download/catalog-20261030/defaultdash-1.0.0-ningzh.1.fix.1.bl",
+      "sha256": "27402978a0f033cafdae6715cd4f74ba276c3216672643353fdacb3431b772b5",
+      "size": 82373
+    },
+    {
+      "host": "GitHub",
+      "id": "directionalswings",
+      "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-directionalswings-v1.1.1-ningzh.1.fix.1/directionalswings-1.1.1-ningzh.1.fix.1.bl",
+      "sha256": "b948c5c8fc1783a94a6e74d132ada5989c58e79462b1a8428ad01982d9844d46",
+      "size": 1389966
+    },
+    {
+      "host": "Gitee",
+      "id": "directionalswings",
+      "url": "https://gitee.com/nigngng/Ning-Launcher-Mods/releases/download/catalog-20261030/directionalswings-1.1.1-ningzh.1.fix.1.bl",
+      "sha256": "b948c5c8fc1783a94a6e74d132ada5989c58e79462b1a8428ad01982d9844d46",
+      "size": 1389966
+    }
+  ],
+  "runtimeValidation": {
+    "apk": "0.4.7",
+    "device": "Android 9 emulator-5560",
+    "devtools": "启动、工具栏、背包物品、原生箱子交互物品显示、原生全屏地图按钮已验证；使用存档副本和临时测试探针定位箱子。",
+    "defaultdash": "原 CS0246 复现，修复后手机编译加载成功，C# 注入双击输入触发冲刺。",
+    "directionalswings": "原版史莱姆法杖卡死复现；修复单独及搭配 C.I.V.E. 各通过 13 种武器测试。"
+  },
+  "licenseNote": "保留各包原作者和现有许可证字段，本记录不构成新的授权。"
+}

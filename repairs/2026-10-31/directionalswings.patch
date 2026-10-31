@@ -1,0 +1,47 @@
+--- a/content/Common/Globals/DirectionalSwingsItem.js
++++ b/content/Common/Globals/DirectionalSwingsItem.js
+@@ -12,6 +12,12 @@
+ // So armas de golpe (useStyle 1) com dano corpo a corpo; ferramentas so se a opcao estiver ligada.
+ function applies(item, player, c) {
+     if (!c.Enabled) return false;
++    // Mobile UseStyle receives a drawing copy with incomplete damage flags.
++    // Classify the actual held item, but never substitute a different item type.
++    const held = player.inventory[player.selectedItem];
++    if (held && held.type === item.type) item = held;
++    // Only real melee swings. Summon staves, sentries and whips keep vanilla behavior.
++    if (!item.melee || item.summon || item.sentry) return false;
+     if (player.whoAmI !== Main.myPlayer) return false;          // o dono calcula o golpe; os outros veem o normal
+     if (item.useStyle !== 1 || item.noMelee || !(item.damage > 0)) return false;
+     if (player.gravDir !== 1) return false;
+@@ -21,7 +27,11 @@
+ 
+ // Angulo da ponta da lamina com itemRotation = 0: o sprite aponta pro canto de cima do lado da frente.
+ const baseAngle = (dir) => (dir === 1 ? -HALF_PI_FRAC : -3 * HALF_PI_FRAC);
+-const wrap = (a) => { while (a > Math.PI) a -= 2 * Math.PI; while (a < -Math.PI) a += 2 * Math.PI; return a; };
++const wrap = (a) => {
++    if (!Number.isFinite(a)) return null;
++    const tau = 2 * Math.PI;
++    return ((a + Math.PI) % tau + tau) % tau - Math.PI;
++};
+ 
+ let lastAnim = 0;
+ let lockedAim = 0;
+@@ -52,7 +62,9 @@
+             const dir = player.direction;
+             // o arco normal e centrado em rotacao -dir*0.3: leva esse centro para a mira (e estreita se pedido)
+             const k = c.Arc / 100;
+-            player.itemRotation = wrap(lockedAim - baseAngle(dir) + k * (player.itemRotation + dir * 0.3));
++            const rotation = wrap(lockedAim - baseAngle(dir) + k * (player.itemRotation + dir * 0.3));
++            if (rotation === null) return;
++            player.itemRotation = rotation;
+ 
+             // O braco e a mao acompanham a lamina: a mao fica no ombro, na direcao em que a lamina aponta.
+             const alpha = baseAngle(dir) + player.itemRotation;
+@@ -70,6 +82,7 @@
+             if (!applies(item, player, c) || noHitbox.value) return;
+             const dir = player.direction;
+             const alpha = baseAngle(dir) + player.itemRotation;
++            if (!Number.isFinite(alpha)) return;
+             let scale = item.scale;
+             try { scale = player.GetAdjustedItemScale(item); } catch (e) { /* usa item.scale */ }
+             const length = Math.hypot(item.width, item.height) * scale * REACH;

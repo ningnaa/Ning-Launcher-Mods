@@ -1,0 +1,67 @@
+{
+  "sourceSha256": "997b2ea3f55de7724d4c8afa9d2826ad2387337e95efff1a032f69782f6f621d",
+  "sourceFile": "灾厄boss替换材质包.zip",
+  "author": "令狐e",
+  "uid": "9921213c-03a8-34b4-914c-ba26bcc23ebd",
+  "id": "texture-9921213c-03a8-34b4-914c-ba26bcc23ebd",
+  "version": "1.2.0-fix.1",
+  "parentVersion": "1.2.0",
+  "changedImages": [
+    {
+      "source": "Content/Images/Projectile_102.png",
+      "target": "content/Images/Projectile_102.png",
+      "size": [
+        22,
+        48
+      ],
+      "beforeSha256": "d15caa86b6ae587dac7ff4c855561ce05a86825fe63f1f172141a23bf0385361",
+      "afterSha256": "6a1278b8ed713e64a846614e4c40d1de4da8ff5f1a0e06917fe1e55eecb81ca6",
+      "decodedPixelsUnchanged": true
+    },
+    {
+      "source": "Content/Images/Projectile_83.png",
+      "target": "content/Images/Projectile_83.png",
+      "size": [
+        2,
+        60
+      ],
+      "beforeSha256": "c139476dfd6596cdd6db2d211c9495b6911047c88e281329b6ef945c1441e6b8",
+      "afterSha256": "81fe76450cf305cf91d7df7b105598f7f53315daa30db5c17b862132e2860c2c",
+      "decodedPixelsUnchanged": true
+    }
+  ],
+  "renamedFiles": {
+    "Content/Images/Arm_Bone_2 - 副本.png": "content/Images/Arm_Bone_2 - copy.png",
+    "Content/Images/三王.zip": "source/three-bosses.zip"
+  },
+  "contentDirectoryNormalized": "Content/ -> content/",
+  "iconSource": "Content/Images/NPC_Head_Boss_15.png",
+  "originalFileCount": 69,
+  "file": "texture-9921213c-03a8-34b4-914c-ba26bcc23ebd-1.2.0-fix.1.bl",
+  "sha256": "a6ee5b4714ae40ecdfd2c76933e234fa21f988eba7003d01c290408531d11425",
+  "size": 1893198,
+  "validation": {
+    "unchangedOriginalFiles": 67,
+    "losslessConversions": 2,
+    "originalUnityErrorsReproduced": true,
+    "fixedUnityTexturesLoaded": true,
+    "enteredCopiedWorld": true,
+    "bossFight": "not exhaustively tested"
+  },
+  "catalogBase": "407708a40b8a2bc24781db0c12cd11b7e525bfec",
+  "anonymousDownloads": [
+    {
+      "host": "GitHub",
+      "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-texture-9921213c-03a8-34b4-914c-ba26bcc23ebd-v1.2.0-fix.1/texture-9921213c-03a8-34b4-914c-ba26bcc23ebd-1.2.0-fix.1.bl",
+      "sha256": "a6ee5b4714ae40ecdfd2c76933e234fa21f988eba7003d01c290408531d11425",
+      "size": 1893198
+    },
+    {
+      "host": "Gitee",
+      "url": "https://gitee.com/nigngng/Ning-Launcher-Mods/releases/download/catalog-20261030/texture-9921213c-03a8-34b4-914c-ba26bcc23ebd-1.2.0-fix.1.bl",
+      "sha256": "a6ee5b4714ae40ecdfd2c76933e234fa21f988eba7003d01c290408531d11425",
+      "size": 1893198
+    }
+  ],
+  "tag": "mod-texture-9921213c-03a8-34b4-914c-ba26bcc23ebd-v1.2.0-fix.1"
+}

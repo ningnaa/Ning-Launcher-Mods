@@ -4037,6 +4037,55 @@
         }
       },
       "publishedAt": "2026-10-22T16:57:49Z"
+    },
+    {
+      "uid": "9921213c-03a8-34b4-914c-ba26bcc23ebd",
+      "id": "texture-9921213c-03a8-34b4-914c-ba26bcc23ebd",
+      "name": "灾厄Boss外观",
+      "version": "1.2.0-fix.1",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-texture-9921213c-03a8-34b4-914c-ba26bcc23ebd-v1.2.0-fix.1/texture-9921213c-03a8-34b4-914c-ba26bcc23ebd-1.2.0-fix.1.bl",
+        "size": 1893198,
+        "sha256": "a6ee5b4714ae40ecdfd2c76933e234fa21f988eba7003d01c290408531d11425"
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md"
+      ],
+      "manifest": {
+        "uid": "9921213c-03a8-34b4-914c-ba26bcc23ebd",
+        "id": "texture-9921213c-03a8-34b4-914c-ba26bcc23ebd",
+        "name": "灾厄Boss外观",
+        "version": "1.2.0-fix.1",
+        "author": "令狐e",
+        "type": "texture",
+        "category": "材质",
+        "blVersion": 2,
+        "description": "将毁灭者-神明吞噬者，双子魔眼-XS-01阿尔忒弥斯和XS-03阿波罗,机械骷髅王-XF-09阿瑞斯",
+        "license": "",
+        "updated": "2026-11-01",
+        "localizedNames": {
+          "zh-Hans": "灾厄Boss外观"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "将机械三王替换为灾厄风格外观；修复两张弹幕图片编码错误。原作者：令狐e。"
+        },
+        "links": [
+          {
+            "title": "原包记录的 Steam Workshop 页面",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3747656042"
+          }
+        ],
+        "repairEdition": {
+          "revision": 1,
+          "parentVersion": "1.2.0",
+          "parentSha256": "997b2ea3f55de7724d4c8afa9d2826ad2387337e95efff1a032f69782f6f621d",
+          "sourceFormat": "Terraria PC resource-pack ZIP"
+        }
+      },
+      "publishedAt": "2026-10-31T16:30:38Z"
     }
   ],
   "featured": [

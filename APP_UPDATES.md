@@ -8,7 +8,7 @@ Gitee 镜像优先，失败或内容无效时回退 GitHub。仅远端 `versionC
 发布后续应用版本时：
 
 1. 先在现有 QQ 频道提供正式安装包。
-2. 将 `versionCode`、`versionName` 更新为该包 `version.properties` 中的值，填写简短的 `notes`。
+2. 将 `versionCode`、`versionName` 更新为该包 `version.properties` 中的值。弹窗只显示版本对比，不展示更新内容。
 3. 推送 GitHub 并同步 Gitee，核验两边公开文件一致。不要改动模组 `index.json`。
 4. 如需撤回提示，将 `enabled` 改为 `false` 后同步双源。
 

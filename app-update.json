@@ -3,6 +3,5 @@
   "applicationId": "com.bunnyloader.mods",
   "versionCode": 399,
   "versionName": "0.4.10",
-  "notes": "新增启动器更新提示，可前往 QQ 频道获取新版。保留首次启动的非官方分支说明。",
   "enabled": true
 }

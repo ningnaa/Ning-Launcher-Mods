@@ -1,0 +1,42 @@
+{
+  "uid": "7c5ee232-0456-3147-a347-e31852f566b9",
+  "id": "texture-7c5ee232-0456-3147-a347-e31852f566b9",
+  "name": "Ghastling as Abigail",
+  "version": "1.0.0-port.1",
+  "type": "texture",
+  "category": "材质",
+  "blVersion": 2,
+  "updated": "2026-11-01",
+  "author": "Pixivic",
+  "authors": [
+    {
+      "name": "Pixivic",
+      "role": "原作者",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3631710750"
+    },
+    {
+      "name": "流脌",
+      "role": "移植者"
+    }
+  ],
+  "description": "将阿比盖尔替换为萌萌恶魂外观，并替换召唤物品、增益图标和花朵贴图。当前版本仅应用图片，PC 音效和名称替换暂不生效。",
+  "localizedNames": {
+    "zh-Hans": "萌萌恶魂"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "阿比盖尔与相关物品的萌萌恶魂外观；原作者 Pixivic，移植者流脌。仅图片替换。"
+  },
+  "license": "",
+  "links": [
+    {
+      "title": "原包记录的 Steam Workshop 页面",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3631710750"
+    }
+  ],
+  "portEdition": {
+    "revision": 1,
+    "baseVersion": "1.0.0",
+    "sourceSha256": "59878dc840c704e80e8354bf9a1f814b6acc8add9580426a589a430b48899b9a",
+    "porter": "流脌"
+  }
+}

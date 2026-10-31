@@ -1,0 +1,51 @@
+{
+  "sourceFile": "萌萌恶魂.zip",
+  "sourceSha256": "59878dc840c704e80e8354bf9a1f814b6acc8add9580426a589a430b48899b9a",
+  "originalName": "Ghastling as Abigail",
+  "author": "Pixivic",
+  "porter": "流脌",
+  "uid": "7c5ee232-0456-3147-a347-e31852f566b9",
+  "id": "texture-7c5ee232-0456-3147-a347-e31852f566b9",
+  "version": "1.0.0-port.1",
+  "originalFileCount": 26,
+  "modifiedOriginalFiles": [],
+  "runtimeImages": [
+    "Buff_335.png",
+    "Item_5114.png",
+    "Projectile_963.png",
+    "Tiles_624.png"
+  ],
+  "unsupportedPreserved": [
+    "PC XNB sounds",
+    "PC vanilla localization replacements"
+  ],
+  "file": "texture-7c5ee232-0456-3147-a347-e31852f566b9-1.0.0-port.1.bl",
+  "size": 966930,
+  "sha256": "1e9c7cb48421eee1e9f73f29caa8c977f4f6ea24dd7110a907c0fb67fda36f84",
+  "validation": {
+    "package": "passed",
+    "unchangedOriginalFiles": 26,
+    "runtimeTextures": 4,
+    "summon": "native item use spawned projectile 963",
+    "animation": "frames observed in runtime log",
+    "flowerPlacement": true,
+    "runtimeErrors": 0,
+    "audioAndLocalization": "preserved but not supported by texture loader"
+  },
+  "catalogBase": "f04425cdca8fcd432b673c753f368e47008d28b6",
+  "anonymousDownloads": [
+    {
+      "host": "GitHub",
+      "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-texture-7c5ee232-0456-3147-a347-e31852f566b9-v1.0.0-port.1/texture-7c5ee232-0456-3147-a347-e31852f566b9-1.0.0-port.1.bl",
+      "sha256": "1e9c7cb48421eee1e9f73f29caa8c977f4f6ea24dd7110a907c0fb67fda36f84",
+      "size": 966930
+    },
+    {
+      "host": "Gitee",
+      "url": "https://gitee.com/nigngng/Ning-Launcher-Mods/releases/download/catalog-20261030/texture-7c5ee232-0456-3147-a347-e31852f566b9-1.0.0-port.1.bl",
+      "sha256": "1e9c7cb48421eee1e9f73f29caa8c977f4f6ea24dd7110a907c0fb67fda36f84",
+      "size": 966930
+    }
+  ],
+  "tag": "mod-texture-7c5ee232-0456-3147-a347-e31852f566b9-v1.0.0-port.1"
+}

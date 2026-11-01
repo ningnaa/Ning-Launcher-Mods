@@ -1,0 +1,19 @@
+{
+  "uid": "7e6a6f0a-2479-3e54-b905-1e2f9f1b759c",
+  "id": "texture-7e6a6f0a-2479-3e54-b905-1e2f9f1b759c",
+  "name": "铸造与炼金",
+  "version": "1.10.0-port.2",
+  "file": "texture-7e6a6f0a-2479-3e54-b905-1e2f9f1b759c-1.10.0-port.2.bl",
+  "size": 5440736,
+  "sha256": "3c1389a03ac4848de61b8ba2fecf4bb84c73e372e4a648a2743886b5543fd5af",
+  "previousSha256": "e86bb9294d4259ab10c4802de80d9db908d4eb30de443f49e18b15b5001403c6",
+  "changedFiles": [
+    "changelog_zh-Hans.md",
+    "description_zh-Hans.md",
+    "manifest.json"
+  ],
+  "gameResourcesIdentical": true,
+  "tag": "mod-texture-7e6a6f0a-2479-3e54-b905-1e2f9f1b759c-v1.10.0-port.2",
+  "githubVerified": true,
+  "giteeVerified": true
+}

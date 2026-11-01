@@ -5,7 +5,7 @@
   "localizedNames": {
     "zh-Hans": "铸造与炼金"
   },
-  "version": "1.10.0-port.1",
+  "version": "1.10.0-port.2",
   "type": "texture",
   "category": "材质包",
   "summary": "铸炼工匠协会联合制作的重绘材质，覆盖物品、生物、方块与界面，并保留作者的中文名称和说明替换。",
@@ -16,6 +16,10 @@
     {
       "name": "铸炼工匠协会",
       "role": "原作者"
+    },
+    {
+      "name": "柠娜",
+      "role": "移植者"
     }
   ],
   "blVersion": 2,

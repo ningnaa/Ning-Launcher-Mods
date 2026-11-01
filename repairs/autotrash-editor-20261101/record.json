@@ -1,0 +1,19 @@
+{
+  "uid": "52ed2234-aaf3-5d86-822c-70bc86225629",
+  "id": "autotrash",
+  "name": "智能垃圾桶",
+  "version": "0.8.1.1-bunny.3",
+  "baseVersion": "0.8.1.1-bunny.2",
+  "file": "autotrash-0.8.1.1-bunny.3.bl",
+  "sha256": "ed547692a6b063eb9579138cfb52c5449469f295ae9df18a6fd9379b49f95f6b",
+  "size": 23548,
+  "originalSha256": "c5647ba16c8f48c4d08a33699c8dd13b105a13fe6b75646ea83a7fd8548ff818",
+  "changedFiles": [
+    "changelog_zh-Hans.md",
+    "content/Common/AutoTrashContent.js",
+    "content/TrashUI.js",
+    "description_zh-Hans.md",
+    "manifest.json"
+  ],
+  "tag": "mod-autotrash-v0.8.1.1-bunny.3"
+}

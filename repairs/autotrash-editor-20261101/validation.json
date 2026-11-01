@@ -1,0 +1,8 @@
+{
+  "hostLogicTests": 20,
+  "hostUiRegression": "pass",
+  "gameplayAssertions": 12,
+  "nativeEditorMode": 3,
+  "actualEditorScreenshotChecked": true,
+  "result": "pass"
+}

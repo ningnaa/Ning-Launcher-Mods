@@ -4216,6 +4216,73 @@
         }
       },
       "publishedAt": "2026-10-31T17:44:28Z"
+    },
+    {
+      "uid": "52ed2234-aaf3-5d86-822c-70bc86225629",
+      "id": "autotrash",
+      "name": "智能垃圾桶",
+      "version": "0.8.1.1-bunny.2",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-autotrash-v0.8.1.1-bunny.2/autotrash-0.8.1.1-bunny.2.bl",
+        "sha256": "c5647ba16c8f48c4d08a33699c8dd13b105a13fe6b75646ea83a7fd8548ff818",
+        "size": 23209
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md"
+      ],
+      "manifest": {
+        "uid": "52ed2234-aaf3-5d86-822c-70bc86225629",
+        "id": "autotrash",
+        "name": "智能垃圾桶",
+        "version": "0.8.1.1-bunny.2",
+        "blVersion": 2,
+        "entry": "main.js",
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "category": "玩法",
+        "updated": "2026-11-01",
+        "author": "jopojelly",
+        "authors": [
+          {
+            "name": "jopojelly",
+            "role": "原作者",
+            "link": "https://github.com/JavidPack/AutoTrash"
+          },
+          {
+            "name": "柠娜",
+            "role": "Bunny Loader 移植者"
+          }
+        ],
+        "license": "",
+        "description": "按人物保存过滤名单，支持无价值过滤、自动售卖和最近 5 组物品分别取回。打开背包后，可从垃圾桶旁的小按钮进入图标设置面板。默认关闭自动处理；移植者柠娜。",
+        "localizedNames": {
+          "zh-Hans": "智能垃圾桶"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "背包旁的图标过滤面板、自动售卖和最近 5 组物品取回。移植者柠娜。"
+        },
+        "links": [
+          {
+            "title": "Steam 原版",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2565540604"
+          }
+        ],
+        "portEdition": {
+          "originalName": "Auto Trash",
+          "sourceVersion": "0.8.1.1",
+          "sourceSha256": "a8009619adc866e8f58f45ee9bac0741a3a5d42a45488055375e5f80fb068c97",
+          "upstreamCommit": "55741cdabe08e58798e594ffc9341762840fa187",
+          "porter": "柠娜",
+          "revision": 2
+        }
+      },
+      "publishedAt": "2026-11-01T06:10:08Z"
     }
   ],
   "featured": [

@@ -1,0 +1,22 @@
+{
+  "Configs": {
+    "AutoTrashClientConfig": {
+      "DisplayName": "智能垃圾桶基础设置",
+      "SellInstead": {
+        "Label": "自动售卖",
+        "Tooltip": "将过滤到的物品换成钱币；默认关闭。钱币存放空间不足时保留原物品。"
+      },
+      "PreventSpawn": {
+        "Label": "阻止过滤物品掉落",
+        "Tooltip": "仅单人有效：阻止敌人和挖掘产生名单中的掉落物。此模式不支付售卖钱币。"
+      }
+    },
+    "AutoTrashServerConfig": {
+      "DisplayName": "智能垃圾桶房主设置",
+      "SellValue": {
+        "Label": "自动售卖比例",
+        "Tooltip": "按物品基础价值计算，默认 15%，范围 1–100%。进入世界前设置；联机采用房主比例。"
+      }
+    }
+  }
+}

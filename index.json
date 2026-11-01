@@ -468,24 +468,25 @@
     {
       "uid": "bcb72e90-3716-4cd1-b8a4-866a963958e5",
       "id": "bunnysocial",
-      "name": "BunnySocial",
-      "version": "1.0.0-ningzh.1",
+      "name": "双倍饰品栏",
+      "version": "1.0.0-ningzh.2",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-bunnysocial-v1.0.0-ningzh.1/bunnysocial-1.0.0-ningzh.1.bl",
-        "sha256": "f4195b5c7e66c4e5af3461581c09ba71ea011dcc332744fc541ac6532820d67a",
-        "size": 1704549
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-bunnysocial-v1.0.0-ningzh.2/bunnysocial-1.0.0-ningzh.2.bl",
+        "sha256": "61c00d1695b143040d3363e4e6c0cf577a638f5c7980dd9ee0a6876f43728afb",
+        "size": 1704316
       },
       "files": [
         "manifest.json",
         "icon.png",
         "banner.png",
-        "description_zh-Hans.md"
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "bcb72e90-3716-4cd1-b8a4-866a963958e5",
         "id": "bunnysocial",
-        "name": "BunnySocial",
-        "version": "1.0.0-ningzh.1",
+        "name": "双倍饰品栏",
+        "version": "1.0.0-ningzh.2",
         "author": "VowTz",
         "category": "玩法",
         "summary": "Every vanity slot works like an accessory slot.",
@@ -493,14 +494,14 @@
         "blVersion": 2,
         "entry": "main.js",
         "localizedNames": {
-          "zh-Hans": "时装栏生效"
+          "zh-Hans": "双倍饰品栏"
         },
         "localizedSummaries": {
           "zh-Hans": "让每个时装栏也能发挥对应装备栏的效果。"
         },
         "localizationEdition": {
           "language": "zh-Hans",
-          "revision": 1,
+          "revision": 2,
           "baseVersion": "1.0.0"
         }
       },
@@ -4941,6 +4942,74 @@
       },
       "publishedAt": "2026-11-01T14:47:55Z",
       "updatedAt": "2026-11-01T14:47:55Z"
+    },
+    {
+      "uid": "b1241e97-de9b-479f-a5cc-41fddc33aa83",
+      "id": "a1",
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
+      ],
+      "manifest": {
+        "uid": "b1241e97-de9b-479f-a5cc-41fddc33aa83",
+        "id": "a1",
+        "name": "成长型武器",
+        "version": "1.0.0-ningzh.1",
+        "author": "阮汐月",
+        "authors": [
+          {
+            "name": "阮汐月",
+            "role": "作者",
+            "color": "#8FB8FF"
+          }
+        ],
+        "category": "武器",
+        "type": "mod",
+        "summary": "手持后自动召唤飞剑，伤害、数量上限和速度随当前世界Boss进度成长。",
+        "description": "# 成长型武器\n\n作者：阮汐月。当前包含一件成长型召唤武器：成长型泰拉棱镜。保留原包MIT许可声明。\n\n## 制作与使用\n\n在工作台使用10个铁锭或铅锭、3颗坠落之星、5个金锭或铂金锭制作。\n\n手持武器后自动补充飞剑，初始基础伤害12、飞剑上限1。切换到其他武器时，已经召唤的飞剑继续存在；将本武器移出背包或角色死亡后，飞剑消失。重新手持可再次召唤。\n\n## 成长\n\n读取当前世界的Boss进度，各阶段奖励只计一次，重复击败同一个Boss不会重复叠加。伤害倍率相乘，最终向上取整；飞剑数量奖励相加。\n\n| 达成条件 | 伤害倍率 | 飞剑上限增加 |\n|---|---|---|\n| 克苏鲁之眼 | ×1.20 | +1 |\n| 骷髅王 | ×1.20 | — |\n| 蜂王 | ×1.20 | +2 |\n| 进入困难模式 | ×1.25 | +1 |\n| 任意机械Boss | ×1.30 | +1 |\n| 世纪之花 | ×1.30 | +1 |\n| 石巨人 | ×1.20 | — |\n| 拜月教邪教徒 | ×1.25 | +2 |\n| 月亮领主 | ×1.50 | +4 |\n\n进度全部完成时，武器基础伤害为99，飞剑数量上限为13。实际战斗伤害还受游戏属性、敌人防御等影响。飞剑速度也随进度提高；说明栏显示当前伤害、数量上限和下一阶段提示。\n\n已召唤飞剑保留召唤时的伤害。进度提升后，可先将武器移出背包取消飞剑，再放回背包并重新手持，让所有飞剑使用当前伤害。\n\n飞剑会在附近搜寻敌人，无目标时环绕玩家；每把飞剑使用独立的命中冷却。成长依据世界状态，切换世界后按新世界的进度重新计算。\n\n安装或更新后重启游戏。联机兼容性尚未充分验证。\n",
+        "license": "MIT",
+        "links": [],
+        "pages": [],
+        "theme": {
+          "accent": "#8FB8FF",
+          "panel": "",
+          "text": "",
+          "heading": "",
+          "button": "",
+          "buttonText": "",
+          "background": "",
+          "backgroundMode": "",
+          "backgroundScale": null,
+          "backgroundDim": null
+        },
+        "updated": "2026-11-01",
+        "featured": false,
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": [],
+        "localizedNames": {
+          "zh-Hans": "成长型武器",
+          "en-US": "Growth-oriented weapon"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "手持后自动召唤飞剑，伤害、数量上限和速度随当前世界Boss进度成长。",
+          "en-US": "A summon weapon that grows with you throughout your Terraria journey. From a faint starlight to a sword array that tears through the Moon Lord. More growth equipment coming soon."
+        }
+      },
+      "name": "成长型武器",
+      "version": "1.0.0-ningzh.1",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-a1-v1.0.0-ningzh.1/a1-1.0.0-ningzh.1.bl",
+        "sha256": "bea16c95a367ea20478ebe880f27faa17091e0deb8eaeea94b81dfaac4f6b620",
+        "size": 19120
+      },
+      "publishedAt": "2026-11-01T16:33:20.721224Z"
     }
   ],
   "featured": [

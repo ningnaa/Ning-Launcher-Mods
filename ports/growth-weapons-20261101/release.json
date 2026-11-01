@@ -1,0 +1,134 @@
+{
+  "catalogBase": "e4068f2d57ac10c9c12ce5c2dba5bd37f0634d20",
+  "packages": [
+    {
+      "uid": "b1241e97-de9b-479f-a5cc-41fddc33aa83",
+      "id": "a1",
+      "name": "成长型武器",
+      "version": "1.0.0-ningzh.1",
+      "file": "a1-1.0.0-ningzh.1.bl",
+      "sha256": "bea16c95a367ea20478ebe880f27faa17091e0deb8eaeea94b81dfaac4f6b620",
+      "size": 19120,
+      "originalSha256": "37137cc6768b576bff962d05ecfe9e689504f45f341d59df256c27771721c25f",
+      "tag": "mod-a1-v1.0.0-ningzh.1",
+      "changedFiles": [
+        "manifest.json",
+        "content/Localization/zh-Hans.json",
+        "content/Localization/en-US.json",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md",
+        "source/original-manifest.json"
+      ]
+    },
+    {
+      "uid": "bcb72e90-3716-4cd1-b8a4-866a963958e5",
+      "id": "bunnysocial",
+      "name": "双倍饰品栏",
+      "version": "1.0.0-ningzh.2",
+      "file": "bunnysocial-1.0.0-ningzh.2.bl",
+      "sha256": "61c00d1695b143040d3363e4e6c0cf577a638f5c7980dd9ee0a6876f43728afb",
+      "size": 1704316,
+      "originalSha256": "f4195b5c7e66c4e5af3461581c09ba71ea011dcc332744fc541ac6532820d67a",
+      "tag": "mod-bunnysocial-v1.0.0-ningzh.2",
+      "changedFiles": [
+        "manifest.json",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
+      ]
+    }
+  ],
+  "previousEntries": [
+    {
+      "uid": "bcb72e90-3716-4cd1-b8a4-866a963958e5",
+      "id": "bunnysocial",
+      "name": "BunnySocial",
+      "version": "1.0.0-ningzh.1",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-bunnysocial-v1.0.0-ningzh.1/bunnysocial-1.0.0-ningzh.1.bl",
+        "sha256": "f4195b5c7e66c4e5af3461581c09ba71ea011dcc332744fc541ac6532820d67a",
+        "size": 1704549
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.png",
+        "description_zh-Hans.md"
+      ],
+      "manifest": {
+        "uid": "bcb72e90-3716-4cd1-b8a4-866a963958e5",
+        "id": "bunnysocial",
+        "name": "BunnySocial",
+        "version": "1.0.0-ningzh.1",
+        "author": "VowTz",
+        "category": "玩法",
+        "summary": "Every vanity slot works like an accessory slot.",
+        "description": "Items in the vanity (social) slots now apply their effects too, exactly as if they were in the matching equipment slot.",
+        "blVersion": 2,
+        "entry": "main.js",
+        "localizedNames": {
+          "zh-Hans": "时装栏生效"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "让每个时装栏也能发挥对应装备栏的效果。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.0"
+        }
+      },
+      "publishedAt": "2026-10-28T02:20:38Z"
+    }
+  ],
+  "downloads": [
+    {
+      "source": "github",
+      "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-a1-v1.0.0-ningzh.1/a1-1.0.0-ningzh.1.bl",
+      "sha256": "bea16c95a367ea20478ebe880f27faa17091e0deb8eaeea94b81dfaac4f6b620",
+      "size": 19120
+    },
+    {
+      "source": "gitee",
+      "url": "https://gitee.com/nigngng/Ning-Launcher-Mods/releases/download/catalog-20261030/a1-1.0.0-ningzh.1.bl",
+      "sha256": "bea16c95a367ea20478ebe880f27faa17091e0deb8eaeea94b81dfaac4f6b620",
+      "size": 19120
+    },
+    {
+      "source": "github",
+      "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-bunnysocial-v1.0.0-ningzh.2/bunnysocial-1.0.0-ningzh.2.bl",
+      "sha256": "61c00d1695b143040d3363e4e6c0cf577a638f5c7980dd9ee0a6876f43728afb",
+      "size": 1704316
+    },
+    {
+      "source": "gitee",
+      "url": "https://gitee.com/nigngng/Ning-Launcher-Mods/releases/download/catalog-20261030/bunnysocial-1.0.0-ningzh.2.bl",
+      "sha256": "61c00d1695b143040d3363e4e6c0cf577a638f5c7980dd9ee0a6876f43728afb",
+      "size": 1704316
+    }
+  ],
+  "validation": {
+    "runtime": 301720,
+    "launcher": "0.4.17 (406)",
+    "packageAndJavaScriptChecks": "passed",
+    "singlePlayerGameplay": {
+      "growth": [
+        "Chinese item name",
+        "Iron/Gold and Lead/Platinum crafting and consumption",
+        "initial/Eye/full world progression",
+        "actual minion spawn, movement and hostile NPC damage",
+        "switching and removing weapon",
+        "fresh summons take current base damage",
+        "player/world save and reload"
+      ],
+      "bunnysocial": [
+        "renamed manifest loads",
+        "vanity accessory defense",
+        "removal restores defense"
+      ]
+    },
+    "multiplayer": "not tested",
+    "fullBossPlaythrough": "not tested",
+    "originalDeviceFilesUnchanged": 552
+  },
+  "behaviorNote": "Existing projectiles retain their spawn-time damage. Description explains cancelling and resummoning. Gameplay code is byte-identical to source."
+}

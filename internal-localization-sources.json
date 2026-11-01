@@ -102,16 +102,32 @@
     {
       "uid": "bcb72e90-3716-4cd1-b8a4-866a963958e5",
       "id": "bunnysocial",
-      "tag": "mod-bunnysocial-v1.0.0-ningzh.1",
-      "file": "bunnysocial-1.0.0-ningzh.1.bl",
-      "version": "1.0.0-ningzh.1",
+      "tag": "mod-bunnysocial-v1.0.0-ningzh.2",
+      "file": "bunnysocial-1.0.0-ningzh.2.bl",
+      "version": "1.0.0-ningzh.2",
       "baseVersion": "1.0.0",
       "originalSha256": "d81318260ccc552d2cc385d198d1751d1100a23fb88bd73c49840acf8aad014b",
-      "sha256": "f4195b5c7e66c4e5af3461581c09ba71ea011dcc332744fc541ac6532820d67a",
-      "size": 1704549,
+      "sha256": "61c00d1695b143040d3363e4e6c0cf577a638f5c7980dd9ee0a6876f43728afb",
+      "size": 1704316,
       "englishKeys": 0,
       "chineseKeys": 0,
-      "supplementalKeys": 0
+      "supplementalKeys": 0,
+      "revisionHistory": [
+        {
+          "uid": "bcb72e90-3716-4cd1-b8a4-866a963958e5",
+          "id": "bunnysocial",
+          "tag": "mod-bunnysocial-v1.0.0-ningzh.1",
+          "file": "bunnysocial-1.0.0-ningzh.1.bl",
+          "version": "1.0.0-ningzh.1",
+          "baseVersion": "1.0.0",
+          "originalSha256": "d81318260ccc552d2cc385d198d1751d1100a23fb88bd73c49840acf8aad014b",
+          "sha256": "f4195b5c7e66c4e5af3461581c09ba71ea011dcc332744fc541ac6532820d67a",
+          "size": 1704549,
+          "englishKeys": 0,
+          "chineseKeys": 0,
+          "supplementalKeys": 0
+        }
+      ]
     },
     {
       "uid": "c7257a97-0552-4aa5-bc55-95f102b0e230",
@@ -1048,6 +1064,31 @@
       "tag": "mod-AlchemistNPCLite-v1.03-ningzh.1",
       "sourceKind": "user-supplied-package",
       "translationSource": "Preserved bundled author Chinese; supplemented missing Chinese and display strings against supplied package."
+    },
+    {
+      "uid": "b1241e97-de9b-479f-a5cc-41fddc33aa83",
+      "id": "a1",
+      "name": "成长型武器",
+      "version": "1.0.0-ningzh.1",
+      "file": "a1-1.0.0-ningzh.1.bl",
+      "sha256": "bea16c95a367ea20478ebe880f27faa17091e0deb8eaeea94b81dfaac4f6b620",
+      "size": 19120,
+      "originalSha256": "37137cc6768b576bff962d05ecfe9e689504f45f341d59df256c27771721c25f",
+      "tag": "mod-a1-v1.0.0-ningzh.1",
+      "changedFiles": [
+        "manifest.json",
+        "content/Localization/zh-Hans.json",
+        "content/Localization/en-US.json",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md",
+        "source/original-manifest.json"
+      ],
+      "baseVersion": "1.0.0",
+      "englishKeys": 3,
+      "chineseKeys": 3,
+      "supplementalKeys": 2,
+      "source": "Author-provided archive",
+      "author": "阮汐月"
     }
   ],
   "authorChineseSources": {

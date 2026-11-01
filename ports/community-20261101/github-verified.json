@@ -1,0 +1,44 @@
+[
+  {
+    "id": "autofish_bunny_community",
+    "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-autofish_bunny_community-v0.1.0-test1.ningzh.1.fix.1/autofish_bunny_community-0.1.0-test1.ningzh.1.fix.1.bl",
+    "sha256": "8feea6357077cce9991fdaf54322ac31602638332e46f672357073ab97bba18e",
+    "size": 30842,
+    "result": "pass"
+  },
+  {
+    "id": "improvelite",
+    "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-improvelite-v1.0.2-ningzh.1.fix.1/improvelite-1.0.2-ningzh.1.fix.1.bl",
+    "sha256": "9efc6d92c02e11f6a73767dc2e89a9ea38a0a2d5a994d97f5d97779dadf29d71",
+    "size": 284712,
+    "result": "pass"
+  },
+  {
+    "id": "texture-4d51aa3f-0391-3972-a56a-756c88709b32",
+    "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-texture-4d51aa3f-0391-3972-a56a-756c88709b32-v1.3.0-port.1/texture-4d51aa3f-0391-3972-a56a-756c88709b32-1.3.0-port.1.bl",
+    "sha256": "9ce13cc2113b6b013700bfdda846517fc889fc5e32bfc5e89798aaf491294716",
+    "size": 4830665,
+    "result": "pass"
+  },
+  {
+    "id": "texture-5a58615a-631b-34bf-8f86-84a4f64e6c96",
+    "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-texture-5a58615a-631b-34bf-8f86-84a4f64e6c96-v1.2.0-port.1/texture-5a58615a-631b-34bf-8f86-84a4f64e6c96-1.2.0-port.1.bl",
+    "sha256": "08596358f4484ca77b09773840b914d6c4b54cad0487988576ade095d110af50",
+    "size": 102619,
+    "result": "pass"
+  },
+  {
+    "id": "texture-7e6a6f0a-2479-3e54-b905-1e2f9f1b759c",
+    "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-texture-7e6a6f0a-2479-3e54-b905-1e2f9f1b759c-v1.10.0-port.1/texture-7e6a6f0a-2479-3e54-b905-1e2f9f1b759c-1.10.0-port.1.bl",
+    "sha256": "e86bb9294d4259ab10c4802de80d9db908d4eb30de443f49e18b15b5001403c6",
+    "size": 5440705,
+    "result": "pass"
+  },
+  {
+    "id": "texture-962caacd-14a8-3437-b74e-a6b71192ba45",
+    "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-texture-962caacd-14a8-3437-b74e-a6b71192ba45-v1.0.0-port.1/texture-962caacd-14a8-3437-b74e-a6b71192ba45-1.0.0-port.1.bl",
+    "sha256": "43e51cae2f940a80197c2353756d1f82f587234be8e6b5297fb605870586937a",
+    "size": 10456836,
+    "result": "pass"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "file": "更透明的玻璃.zip",
+    "sha256": "45d92d7df5846a15aef055abb849ba21721158f14fb4ce9911da89cf0183ab41",
+    "workshop": "3455411572"
+  },
+  {
+    "file": "狱火.zip",
+    "sha256": "8c1b690a1ab54a22d81ea433c55ba7df2066e36131a91b3a5d4721880e8ae324",
+    "workshop": "2516696309"
+  },
+  {
+    "file": "我的世界材质包_.zip",
+    "sha256": "ad6c56d0f6b165a3bfe1beb0d6e4f49b6a96b0bcaa998b581a7fe358857fbecd",
+    "workshop": "2439772075"
+  },
+  {
+    "workshop": "2440505684",
+    "source": "Local Steam subscription; pack version 1.10",
+    "manifestSha256": "22c5f4549bf7e8e7dafc36d762c28861f80c13f5a9c093ad78b46f9bdb9500f4"
+  }
+]

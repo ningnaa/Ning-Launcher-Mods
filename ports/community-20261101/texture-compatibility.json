@@ -1,0 +1,1516 @@
+{
+  "runtime": 301720,
+  "packs": {
+    "962caacd-14a8-3437-b74e-a6b71192ba45": [
+      {
+        "path": "NPC_230.png",
+        "sourceSize": [
+          26,
+          180
+        ],
+        "runtimeSize": [
+          25,
+          180
+        ]
+      },
+      {
+        "path": "NPC_35.png",
+        "sourceSize": [
+          80,
+          102
+        ],
+        "runtimeSize": [
+          114,
+          264
+        ]
+      },
+      {
+        "path": "NPC_36.png",
+        "sourceSize": [
+          56,
+          76
+        ],
+        "runtimeSize": [
+          58,
+          156
+        ]
+      },
+      {
+        "path": "NPC_48.png",
+        "sourceSize": [
+          50,
+          258
+        ],
+        "runtimeSize": [
+          100,
+          516
+        ]
+      },
+      {
+        "path": "NPC_593.png",
+        "sourceSize": [
+          26,
+          180
+        ],
+        "runtimeSize": [
+          25,
+          180
+        ]
+      },
+      {
+        "path": "Projectile_266.png",
+        "sourceSize": [
+          44,
+          180
+        ],
+        "runtimeSize": [
+          50,
+          312
+        ]
+      },
+      {
+        "path": "Projectile_51.png",
+        "sourceSize": [
+          4,
+          4
+        ],
+        "runtimeSize": [
+          8,
+          8
+        ]
+      },
+      {
+        "path": "Projectile_9.png",
+        "sourceSize": [
+          32,
+          32
+        ],
+        "runtimeSize": [
+          22,
+          24
+        ]
+      },
+      {
+        "path": "Tiles_100.png",
+        "sourceSize": [
+          70,
+          1548
+        ],
+        "runtimeSize": [
+          142,
+          2016
+        ]
+      },
+      {
+        "path": "Tiles_104.png",
+        "sourceSize": [
+          2000,
+          88
+        ],
+        "runtimeSize": [
+          2016,
+          180
+        ]
+      },
+      {
+        "path": "Tiles_15.png",
+        "sourceSize": [
+          36,
+          1918
+        ],
+        "runtimeSize": [
+          72,
+          2038
+        ]
+      },
+      {
+        "path": "Tiles_170.png",
+        "sourceSize": [
+          234,
+          90
+        ],
+        "runtimeSize": [
+          288,
+          270
+        ]
+      },
+      {
+        "path": "Tiles_172.png",
+        "sourceSize": [
+          36,
+          1672
+        ],
+        "runtimeSize": [
+          72,
+          2014
+        ]
+      },
+      {
+        "path": "Tiles_18.png",
+        "sourceSize": [
+          1584,
+          20
+        ],
+        "runtimeSize": [
+          2048,
+          40
+        ]
+      },
+      {
+        "path": "Tiles_19.png",
+        "sourceSize": [
+          486,
+          1086
+        ],
+        "runtimeSize": [
+          486,
+          1260
+        ]
+      },
+      {
+        "path": "Tiles_20.png",
+        "sourceSize": [
+          540,
+          38
+        ],
+        "runtimeSize": [
+          594,
+          38
+        ]
+      },
+      {
+        "path": "Tiles_216.png",
+        "sourceSize": [
+          18,
+          154
+        ],
+        "runtimeSize": [
+          18,
+          156
+        ]
+      },
+      {
+        "path": "Tiles_27.png",
+        "sourceSize": [
+          106,
+          72
+        ],
+        "runtimeSize": [
+          108,
+          148
+        ]
+      },
+      {
+        "path": "Tiles_31.png",
+        "sourceSize": [
+          70,
+          70
+        ],
+        "runtimeSize": [
+          70,
+          144
+        ]
+      },
+      {
+        "path": "Tiles_33.png",
+        "sourceSize": [
+          36,
+          924
+        ],
+        "runtimeSize": [
+          36,
+          1412
+        ]
+      },
+      {
+        "path": "Tiles_42.png",
+        "sourceSize": [
+          34,
+          1764
+        ],
+        "runtimeSize": [
+          70,
+          2016
+        ]
+      },
+      {
+        "path": "Tiles_467.png",
+        "sourceSize": [
+          612,
+          114
+        ],
+        "runtimeSize": [
+          1368,
+          114
+        ]
+      },
+      {
+        "path": "Tiles_468.png",
+        "sourceSize": [
+          612,
+          114
+        ],
+        "runtimeSize": [
+          1368,
+          114
+        ]
+      },
+      {
+        "path": "Tiles_469.png",
+        "sourceSize": [
+          646,
+          38
+        ],
+        "runtimeSize": [
+          1728,
+          38
+        ]
+      },
+      {
+        "path": "Tiles_49.png",
+        "sourceSize": [
+          18,
+          22
+        ],
+        "runtimeSize": [
+          36,
+          22
+        ]
+      },
+      {
+        "path": "Tiles_497.png",
+        "sourceSize": [
+          36,
+          1718
+        ],
+        "runtimeSize": [
+          72,
+          2038
+        ]
+      },
+      {
+        "path": "Tiles_79.png",
+        "sourceSize": [
+          144,
+          1550
+        ],
+        "runtimeSize": [
+          288,
+          2016
+        ]
+      },
+      {
+        "path": "Tiles_87.png",
+        "sourceSize": [
+          1996,
+          70
+        ],
+        "runtimeSize": [
+          1998,
+          72
+        ]
+      },
+      {
+        "path": "Tiles_88.png",
+        "sourceSize": [
+          1996,
+          70
+        ],
+        "runtimeSize": [
+          1996,
+          72
+        ]
+      },
+      {
+        "path": "Tiles_89.png",
+        "sourceSize": [
+          1996,
+          70
+        ],
+        "runtimeSize": [
+          1996,
+          72
+        ]
+      },
+      {
+        "path": "Tiles_90.png",
+        "sourceSize": [
+          142,
+          1548
+        ],
+        "runtimeSize": [
+          286,
+          2048
+        ]
+      },
+      {
+        "path": "Tiles_91.png",
+        "sourceSize": [
+          2000,
+          162
+        ],
+        "runtimeSize": [
+          1998,
+          162
+        ]
+      },
+      {
+        "path": "Map_0.png",
+        "sourceSize": [
+          32,
+          30
+        ],
+        "runtimeSize": [
+          1,
+          1
+        ]
+      },
+      {
+        "path": "Map_1.png",
+        "sourceSize": [
+          32,
+          30
+        ],
+        "runtimeSize": [
+          1,
+          1
+        ]
+      },
+      {
+        "path": "Map_2.png",
+        "sourceSize": [
+          32,
+          30
+        ],
+        "runtimeSize": [
+          1,
+          1
+        ]
+      },
+      {
+        "path": "Map_3.png",
+        "sourceSize": [
+          32,
+          30
+        ],
+        "runtimeSize": [
+          1,
+          1
+        ]
+      },
+      {
+        "path": "Map_4.png",
+        "sourceSize": [
+          32,
+          30
+        ],
+        "runtimeSize": [
+          1,
+          1
+        ]
+      },
+      {
+        "path": "Map_5.png",
+        "sourceSize": [
+          32,
+          30
+        ],
+        "runtimeSize": [
+          1,
+          1
+        ]
+      },
+      {
+        "path": "Map_6.png",
+        "sourceSize": [
+          32,
+          30
+        ],
+        "runtimeSize": [
+          1,
+          1
+        ]
+      },
+      {
+        "path": "Map_7.png",
+        "sourceSize": [
+          32,
+          30
+        ],
+        "runtimeSize": [
+          1,
+          1
+        ]
+      },
+      {
+        "path": "Flame_1.png",
+        "sourceSize": [
+          36,
+          894
+        ],
+        "runtimeSize": [
+          36,
+          1412
+        ]
+      },
+      {
+        "path": "Flame_2.png",
+        "sourceSize": [
+          70,
+          1404
+        ],
+        "runtimeSize": [
+          142,
+          2016
+        ]
+      },
+      {
+        "path": "Flame_13.png",
+        "sourceSize": [
+          34,
+          1620
+        ],
+        "runtimeSize": [
+          70,
+          2014
+        ]
+      },
+      {
+        "path": "item_483.png",
+        "sourceSize": [
+          48,
+          48
+        ],
+        "runtimeSize": [
+          56,
+          58
+        ]
+      },
+      {
+        "path": "Glow_110.png",
+        "sourceSize": [
+          64,
+          252
+        ],
+        "runtimeSize": [
+          50,
+          252
+        ]
+      },
+      {
+        "path": "Extra_54.png",
+        "sourceSize": [
+          102,
+          204
+        ],
+        "runtimeSize": [
+          102,
+          238
+        ]
+      },
+      {
+        "path": "Misc/TileOutlines/Tiles_15.png",
+        "sourceSize": [
+          36,
+          1918
+        ],
+        "runtimeSize": [
+          72,
+          2038
+        ]
+      },
+      {
+        "path": "Misc/TileOutlines/Tiles_79.png",
+        "sourceSize": [
+          144,
+          1550
+        ],
+        "runtimeSize": [
+          288,
+          2016
+        ]
+      },
+      {
+        "path": "Misc/TileOutlines/Tiles_88.png",
+        "sourceSize": [
+          1996,
+          70
+        ],
+        "runtimeSize": [
+          1996,
+          72
+        ]
+      },
+      {
+        "path": "Misc/TileOutlines/Tiles_89.png",
+        "sourceSize": [
+          1996,
+          70
+        ],
+        "runtimeSize": [
+          1996,
+          72
+        ]
+      },
+      {
+        "path": "Misc/TileOutlines/Tiles_104.png",
+        "sourceSize": [
+          2000,
+          88
+        ],
+        "runtimeSize": [
+          2016,
+          180
+        ]
+      },
+      {
+        "path": "Misc/TileOutlines/Tiles_215.png",
+        "sourceSize": [
+          756,
+          324
+        ],
+        "runtimeSize": [
+          864,
+          324
+        ]
+      },
+      {
+        "path": "Misc/TileOutlines/Tiles_467.png",
+        "sourceSize": [
+          612,
+          114
+        ],
+        "runtimeSize": [
+          1368,
+          114
+        ]
+      },
+      {
+        "path": "Misc/TileOutlines/Tiles_468.png",
+        "sourceSize": [
+          612,
+          114
+        ],
+        "runtimeSize": [
+          1368,
+          114
+        ]
+      },
+      {
+        "path": "Misc/TileOutlines/Tiles_497.png",
+        "sourceSize": [
+          36,
+          1718
+        ],
+        "runtimeSize": [
+          72,
+          2038
+        ]
+      },
+      {
+        "path": "HairStyleBack.png",
+        "sourceSize": [
+          534,
+          198
+        ],
+        "runtimeSize": [
+          32,
+          32
+        ]
+      },
+      {
+        "path": "ClothesStyleBack.png",
+        "sourceSize": [
+          472,
+          132
+        ],
+        "runtimeSize": [
+          32,
+          32
+        ]
+      },
+      {
+        "path": "Chat_Back.png",
+        "sourceSize": [
+          500,
+          500
+        ],
+        "runtimeSize": [
+          32,
+          32
+        ]
+      },
+      {
+        "path": "UI/Sunflower_Loading.png",
+        "sourceSize": [
+          52,
+          1007
+        ],
+        "runtimeSize": [
+          52,
+          1028
+        ]
+      },
+      {
+        "path": "UI/SpawnPoint.png",
+        "sourceSize": [
+          22,
+          24
+        ],
+        "runtimeSize": [
+          22,
+          26
+        ]
+      },
+      {
+        "path": "UI/Minimap/Default/MinimapFrame.png",
+        "sourceSize": [
+          256,
+          264
+        ],
+        "runtimeSize": [
+          272,
+          180
+        ]
+      },
+      {
+        "path": "UI/Minimap/Default/MinimapButton_Reset.png",
+        "sourceSize": [
+          18,
+          18
+        ],
+        "runtimeSize": [
+          1,
+          1
+        ]
+      },
+      {
+        "path": "UI/Minimap/Default/MinimapButton_ZoomOut.png",
+        "sourceSize": [
+          18,
+          18
+        ],
+        "runtimeSize": [
+          1,
+          1
+        ]
+      },
+      {
+        "path": "UI/Minimap/Default/MinimapButton_ZoomIn.png",
+        "sourceSize": [
+          18,
+          18
+        ],
+        "runtimeSize": [
+          1,
+          1
+        ]
+      },
+      {
+        "path": "UI/Minimap/Golden/MinimapFrame.png",
+        "sourceSize": [
+          252,
+          268
+        ],
+        "runtimeSize": [
+          272,
+          180
+        ]
+      },
+      {
+        "path": "UI/Minimap/Golden/MinimapButton_Reset.png",
+        "sourceSize": [
+          22,
+          16
+        ],
+        "runtimeSize": [
+          1,
+          1
+        ]
+      },
+      {
+        "path": "UI/Minimap/Golden/MinimapButton_ZoomOut.png",
+        "sourceSize": [
+          22,
+          16
+        ],
+        "runtimeSize": [
+          1,
+          1
+        ]
+      },
+      {
+        "path": "UI/Minimap/Golden/MinimapButton_ZoomIn.png",
+        "sourceSize": [
+          22,
+          16
+        ],
+        "runtimeSize": [
+          1,
+          1
+        ]
+      },
+      {
+        "path": "UI/Minimap/Remix/MinimapFrame.png",
+        "sourceSize": [
+          252,
+          256
+        ],
+        "runtimeSize": [
+          272,
+          180
+        ]
+      },
+      {
+        "path": "UI/Minimap/Remix/MinimapButton_Reset.png",
+        "sourceSize": [
+          22,
+          22
+        ],
+        "runtimeSize": [
+          1,
+          1
+        ]
+      },
+      {
+        "path": "UI/Minimap/Remix/MinimapButton_ZoomOut.png",
+        "sourceSize": [
+          22,
+          22
+        ],
+        "runtimeSize": [
+          1,
+          1
+        ]
+      },
+      {
+        "path": "UI/Minimap/Remix/MinimapButton_ZoomIn.png",
+        "sourceSize": [
+          22,
+          22
+        ],
+        "runtimeSize": [
+          1,
+          1
+        ]
+      },
+      {
+        "path": "UI/Minimap/Sticks/MinimapFrame.png",
+        "sourceSize": [
+          252,
+          256
+        ],
+        "runtimeSize": [
+          272,
+          180
+        ]
+      },
+      {
+        "path": "UI/Minimap/Sticks/MinimapButton_Reset.png",
+        "sourceSize": [
+          22,
+          22
+        ],
+        "runtimeSize": [
+          1,
+          1
+        ]
+      },
+      {
+        "path": "UI/Minimap/Sticks/MinimapButton_ZoomOut.png",
+        "sourceSize": [
+          22,
+          22
+        ],
+        "runtimeSize": [
+          1,
+          1
+        ]
+      },
+      {
+        "path": "UI/Minimap/Sticks/MinimapButton_ZoomIn.png",
+        "sourceSize": [
+          22,
+          22
+        ],
+        "runtimeSize": [
+          1,
+          1
+        ]
+      },
+      {
+        "path": "UI/Minimap/StoneGold/MinimapFrame.png",
+        "sourceSize": [
+          270,
+          272
+        ],
+        "runtimeSize": [
+          272,
+          180
+        ]
+      },
+      {
+        "path": "UI/Minimap/StoneGold/MinimapButton_Reset.png",
+        "sourceSize": [
+          26,
+          28
+        ],
+        "runtimeSize": [
+          1,
+          1
+        ]
+      },
+      {
+        "path": "UI/Minimap/StoneGold/MinimapButton_ZoomOut.png",
+        "sourceSize": [
+          26,
+          28
+        ],
+        "runtimeSize": [
+          1,
+          1
+        ]
+      },
+      {
+        "path": "UI/Minimap/StoneGold/MinimapButton_ZoomIn.png",
+        "sourceSize": [
+          26,
+          28
+        ],
+        "runtimeSize": [
+          1,
+          1
+        ]
+      },
+      {
+        "path": "UI/Minimap/TwigLeaf/MinimapFrame.png",
+        "sourceSize": [
+          272,
+          270
+        ],
+        "runtimeSize": [
+          272,
+          180
+        ]
+      },
+      {
+        "path": "UI/Minimap/TwigLeaf/MinimapButton_Reset.png",
+        "sourceSize": [
+          20,
+          22
+        ],
+        "runtimeSize": [
+          1,
+          1
+        ]
+      },
+      {
+        "path": "UI/Minimap/TwigLeaf/MinimapButton_ZoomOut.png",
+        "sourceSize": [
+          20,
+          22
+        ],
+        "runtimeSize": [
+          1,
+          1
+        ]
+      },
+      {
+        "path": "UI/Minimap/TwigLeaf/MinimapButton_ZoomIn.png",
+        "sourceSize": [
+          20,
+          22
+        ],
+        "runtimeSize": [
+          1,
+          1
+        ]
+      },
+      {
+        "path": "UI/Minimap/Leaf/MinimapFrame.png",
+        "sourceSize": [
+          270,
+          270
+        ],
+        "runtimeSize": [
+          272,
+          180
+        ]
+      },
+      {
+        "path": "UI/Minimap/Leaf/MinimapButton_Reset.png",
+        "sourceSize": [
+          26,
+          24
+        ],
+        "runtimeSize": [
+          1,
+          1
+        ]
+      },
+      {
+        "path": "UI/Minimap/Leaf/MinimapButton_ZoomOut.png",
+        "sourceSize": [
+          22,
+          24
+        ],
+        "runtimeSize": [
+          1,
+          1
+        ]
+      },
+      {
+        "path": "UI/Minimap/Leaf/MinimapButton_ZoomIn.png",
+        "sourceSize": [
+          20,
+          22
+        ],
+        "runtimeSize": [
+          1,
+          1
+        ]
+      },
+      {
+        "path": "UI/Minimap/Retro/MinimapFrame.png",
+        "sourceSize": [
+          252,
+          256
+        ],
+        "runtimeSize": [
+          272,
+          180
+        ]
+      },
+      {
+        "path": "UI/Minimap/Retro/MinimapButton_Reset.png",
+        "sourceSize": [
+          18,
+          18
+        ],
+        "runtimeSize": [
+          1,
+          1
+        ]
+      },
+      {
+        "path": "UI/Minimap/Retro/MinimapButton_ZoomOut.png",
+        "sourceSize": [
+          18,
+          18
+        ],
+        "runtimeSize": [
+          1,
+          1
+        ]
+      },
+      {
+        "path": "UI/Minimap/Retro/MinimapButton_ZoomIn.png",
+        "sourceSize": [
+          18,
+          18
+        ],
+        "runtimeSize": [
+          1,
+          1
+        ]
+      },
+      {
+        "path": "UI/Minimap/Valkyrie/MinimapFrame.png",
+        "sourceSize": [
+          252,
+          256
+        ],
+        "runtimeSize": [
+          272,
+          180
+        ]
+      },
+      {
+        "path": "UI/Minimap/Valkyrie/MinimapButton_Reset.png",
+        "sourceSize": [
+          12,
+          8
+        ],
+        "runtimeSize": [
+          1,
+          1
+        ]
+      },
+      {
+        "path": "UI/Minimap/Valkyrie/MinimapButton_ZoomOut.png",
+        "sourceSize": [
+          12,
+          4
+        ],
+        "runtimeSize": [
+          1,
+          1
+        ]
+      },
+      {
+        "path": "UI/Minimap/Valkyrie/MinimapButton_ZoomIn.png",
+        "sourceSize": [
+          12,
+          10
+        ],
+        "runtimeSize": [
+          1,
+          1
+        ]
+      },
+      {
+        "path": "Item_752.png",
+        "sourceSize": [
+          24,
+          24
+        ],
+        "runtimeSize": [
+          32,
+          32
+        ]
+      }
+    ],
+    "7e6a6f0a-2479-3e54-b905-1e2f9f1b759c": [
+      {
+        "path": "Gore_252.png",
+        "sourceSize": [
+          18,
+          22
+        ],
+        "runtimeSize": [
+          20,
+          22
+        ]
+      },
+      {
+        "path": "Gore_403.png",
+        "sourceSize": [
+          40,
+          60
+        ],
+        "runtimeSize": [
+          42,
+          60
+        ]
+      },
+      {
+        "path": "Gore_404.png",
+        "sourceSize": [
+          40,
+          38
+        ],
+        "runtimeSize": [
+          42,
+          38
+        ]
+      },
+      {
+        "path": "Gore_450.png",
+        "sourceSize": [
+          28,
+          16
+        ],
+        "runtimeSize": [
+          28,
+          14
+        ]
+      },
+      {
+        "path": "Gore_516.png",
+        "sourceSize": [
+          46,
+          60
+        ],
+        "runtimeSize": [
+          46,
+          62
+        ]
+      },
+      {
+        "path": "Item_111.png",
+        "sourceSize": [
+          30,
+          32
+        ],
+        "runtimeSize": [
+          28,
+          20
+        ]
+      },
+      {
+        "path": "Item_208.png",
+        "sourceSize": [
+          28,
+          28
+        ],
+        "runtimeSize": [
+          24,
+          24
+        ]
+      },
+      {
+        "path": "Item_218.png",
+        "sourceSize": [
+          26,
+          26
+        ],
+        "runtimeSize": [
+          28,
+          28
+        ]
+      },
+      {
+        "path": "Item_223.png",
+        "sourceSize": [
+          28,
+          28
+        ],
+        "runtimeSize": [
+          24,
+          24
+        ]
+      },
+      {
+        "path": "Item_2272.png",
+        "sourceSize": [
+          44,
+          30
+        ],
+        "runtimeSize": [
+          44,
+          32
+        ]
+      },
+      {
+        "path": "Item_2611.png",
+        "sourceSize": [
+          28,
+          32
+        ],
+        "runtimeSize": [
+          32,
+          32
+        ]
+      },
+      {
+        "path": "Item_289.png",
+        "sourceSize": [
+          16,
+          30
+        ],
+        "runtimeSize": [
+          12,
+          30
+        ]
+      },
+      {
+        "path": "Item_290.png",
+        "sourceSize": [
+          16,
+          30
+        ],
+        "runtimeSize": [
+          12,
+          30
+        ]
+      },
+      {
+        "path": "Item_291.png",
+        "sourceSize": [
+          16,
+          30
+        ],
+        "runtimeSize": [
+          12,
+          30
+        ]
+      },
+      {
+        "path": "Item_292.png",
+        "sourceSize": [
+          16,
+          30
+        ],
+        "runtimeSize": [
+          12,
+          30
+        ]
+      },
+      {
+        "path": "Item_3223.png",
+        "sourceSize": [
+          34,
+          36
+        ],
+        "runtimeSize": [
+          26,
+          28
+        ]
+      },
+      {
+        "path": "Item_3224.png",
+        "sourceSize": [
+          32,
+          36
+        ],
+        "runtimeSize": [
+          28,
+          28
+        ]
+      },
+      {
+        "path": "Item_49.png",
+        "sourceSize": [
+          30,
+          32
+        ],
+        "runtimeSize": [
+          28,
+          20
+        ]
+      },
+      {
+        "path": "Item_4979.png",
+        "sourceSize": [
+          30,
+          32
+        ],
+        "runtimeSize": [
+          32,
+          32
+        ]
+      },
+      {
+        "path": "Item_8.png",
+        "sourceSize": [
+          16,
+          26
+        ],
+        "runtimeSize": [
+          14,
+          16
+        ]
+      },
+      {
+        "path": "Item_860.png",
+        "sourceSize": [
+          30,
+          34
+        ],
+        "runtimeSize": [
+          30,
+          20
+        ]
+      },
+      {
+        "path": "Item_982.png",
+        "sourceSize": [
+          30,
+          32
+        ],
+        "runtimeSize": [
+          28,
+          20
+        ]
+      },
+      {
+        "path": "NPC_253.png",
+        "sourceSize": [
+          110,
+          232
+        ],
+        "runtimeSize": [
+          34,
+          234
+        ]
+      },
+      {
+        "path": "NPC_32.png",
+        "sourceSize": [
+          40,
+          168
+        ],
+        "runtimeSize": [
+          40,
+          336
+        ]
+      },
+      {
+        "path": "NPC_35.png",
+        "sourceSize": [
+          80,
+          102
+        ],
+        "runtimeSize": [
+          114,
+          264
+        ]
+      },
+      {
+        "path": "NPC_36.png",
+        "sourceSize": [
+          56,
+          76
+        ],
+        "runtimeSize": [
+          58,
+          156
+        ]
+      },
+      {
+        "path": "Projectile_203.png",
+        "sourceSize": [
+          34,
+          34
+        ],
+        "runtimeSize": [
+          32,
+          32
+        ]
+      },
+      {
+        "path": "Projectile_204.png",
+        "sourceSize": [
+          34,
+          34
+        ],
+        "runtimeSize": [
+          32,
+          32
+        ]
+      },
+      {
+        "path": "Projectile_344.png",
+        "sourceSize": [
+          22,
+          70
+        ],
+        "runtimeSize": [
+          26,
+          78
+        ]
+      },
+      {
+        "path": "Projectile_9.png",
+        "sourceSize": [
+          32,
+          32
+        ],
+        "runtimeSize": [
+          22,
+          24
+        ]
+      },
+      {
+        "path": "Tiles_467.png",
+        "sourceSize": [
+          612,
+          114
+        ],
+        "runtimeSize": [
+          1368,
+          114
+        ]
+      },
+      {
+        "path": "Tiles_468.png",
+        "sourceSize": [
+          612,
+          114
+        ],
+        "runtimeSize": [
+          1368,
+          114
+        ]
+      },
+      {
+        "path": "Tiles_552.png",
+        "sourceSize": [
+          208,
+          36
+        ],
+        "runtimeSize": [
+          214,
+          36
+        ]
+      },
+      {
+        "path": "Tiles_91.png",
+        "sourceSize": [
+          2000,
+          162
+        ],
+        "runtimeSize": [
+          1998,
+          162
+        ]
+      },
+      {
+        "path": "UI/Bestiary.png",
+        "sourceSize": [
+          64,
+          30
+        ],
+        "runtimeSize": [
+          1,
+          1
+        ]
+      },
+      {
+        "path": "ItemFlame_8.png",
+        "sourceSize": [
+          16,
+          26
+        ],
+        "runtimeSize": [
+          14,
+          16
+        ]
+      },
+      {
+        "path": "HairStyleBack.png",
+        "sourceSize": [
+          534,
+          198
+        ],
+        "runtimeSize": [
+          32,
+          32
+        ]
+      },
+      {
+        "path": "ClothesStyleBack.png",
+        "sourceSize": [
+          474,
+          134
+        ],
+        "runtimeSize": [
+          32,
+          32
+        ]
+      },
+      {
+        "path": "Chat_Back.png",
+        "sourceSize": [
+          500,
+          500
+        ],
+        "runtimeSize": [
+          32,
+          32
+        ]
+      },
+      {
+        "path": "Reaper_Eyes.png",
+        "sourceSize": [
+          110,
+          232
+        ],
+        "runtimeSize": [
+          34,
+          232
+        ]
+      }
+    ]
+  }
+}

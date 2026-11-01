@@ -1054,5 +1054,35 @@
     "bosschecklist": "https://github.com/JavidPack/BossChecklist/blob/1.4.4/Localization/zh-Hans.hjson",
     "cooleritemvisualeffect": "https://github.com/LogSpiral/CoolerItemVisualEffect/tree/main/Localization"
   },
-  "policy": "Preserve existing author Chinese. Fill missing keys. Keep code, DLLs, assets, identifiers and attribution unchanged."
+  "policy": "Preserve existing author Chinese. Fill missing keys. Keep code, DLLs, assets, identifiers and attribution unchanged.",
+  "gameplayRevisions": [
+    {
+      "uid": "e9fcf815-a05d-4e36-9303-e30a1d9a02fd",
+      "id": "autofish_bunny_community",
+      "name": "自动钓鱼",
+      "version": "0.1.0-test1.ningzh.1.fix.1",
+      "file": "autofish_bunny_community-0.1.0-test1.ningzh.1.fix.1.bl",
+      "size": 30842,
+      "sha256": "8feea6357077cce9991fdaf54322ac31602638332e46f672357073ab97bba18e",
+      "tag": "mod-autofish_bunny_community-v0.1.0-test1.ningzh.1.fix.1",
+      "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-autofish_bunny_community-v0.1.0-test1.ningzh.1.fix.1/autofish_bunny_community-0.1.0-test1.ningzh.1.fix.1.bl",
+      "kind": "gameplay-repair",
+      "baseVersion": "0.1.0-test1.ningzh.1",
+      "originalSha256": "d56f01c6fdb5d407da9e7233fac477dd73c106a2e567f0f2e995945bf84c0b20"
+    },
+    {
+      "uid": "e3c3804b-ea9a-406f-a65e-f8f01220b5f5",
+      "id": "improvelite",
+      "name": "更好的体验·轻量版",
+      "version": "1.0.2-ningzh.1.fix.1",
+      "file": "improvelite-1.0.2-ningzh.1.fix.1.bl",
+      "size": 284712,
+      "sha256": "9efc6d92c02e11f6a73767dc2e89a9ea38a0a2d5a994d97f5d97779dadf29d71",
+      "tag": "mod-improvelite-v1.0.2-ningzh.1.fix.1",
+      "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-improvelite-v1.0.2-ningzh.1.fix.1/improvelite-1.0.2-ningzh.1.fix.1.bl",
+      "kind": "gameplay-repair",
+      "baseVersion": "1.0.2-ningzh.1",
+      "originalSha256": "88e90150eb72c7bdbdeac208183a47c8651f0163eb4c06722881428714a5f2be"
+    }
+  ]
 }

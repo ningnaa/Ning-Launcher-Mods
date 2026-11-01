@@ -1,0 +1,65 @@
+[
+  {
+    "case": "storage-write",
+    "assertions": 10,
+    "result": "pass",
+    "textureWarnings": 0,
+    "logSha256": "c56434c839ebac3eb7659d1ca0f547b6daa3e60d1e2c8ae5a0a1b93e7937b802"
+  },
+  {
+    "case": "storage-read",
+    "assertions": 7,
+    "result": "pass",
+    "textureWarnings": 0,
+    "logSha256": "9dc7645d38ca9d873cd1d66ea2281674be6802d6071adb1a2e5ab41f224adb6f"
+  },
+  {
+    "case": "improve",
+    "assertions": 11,
+    "result": "pass",
+    "textureWarnings": 0,
+    "logSha256": "8202181fc64f27aab6332ed2040ec2aa164041e63424b1f0b75a2ba89f3e8de7"
+  },
+  {
+    "case": "alchemy",
+    "assertions": 30,
+    "result": "pass",
+    "textureWarnings": 0,
+    "logSha256": "63822b4ff484a12b9424db58cc6e214b8a43495d1e9a9c1e76b965c46700a80b"
+  },
+  {
+    "case": "fishing",
+    "assertions": 5,
+    "result": "pass",
+    "textureWarnings": 0,
+    "logSha256": "6e6b6c600766edb2b93c76f613b4c55c3c1bafcef74a368e9f8113309daf02a2"
+  },
+  {
+    "case": "baseline-restored",
+    "assertions": 4,
+    "result": "pass",
+    "textureWarnings": 0,
+    "logSha256": "5335877d71952065746c43f3e068b782dcd89e6a076dfd32f53920fc7165cdec"
+  },
+  {
+    "case": "minecraft-final",
+    "assertions": 4,
+    "result": "pass",
+    "textureWarnings": 0,
+    "logSha256": "21d1dd92011f6042b5a4fd716150566f4beca630e5a32b627c840be1ab196511"
+  },
+  {
+    "case": "glass-inferno-reenabled",
+    "assertions": 4,
+    "result": "pass",
+    "textureWarnings": 0,
+    "logSha256": "982b0e49ae84ac6733cdf3ad78b705e362bc568949a74c96a690d4b6ae7977a5"
+  },
+  {
+    "case": "forge-reenabled",
+    "assertions": 4,
+    "result": "pass",
+    "textureWarnings": 0,
+    "logSha256": "419f1997db3c1e186b3eb5238aa4d34ec1936445d5d268b1cf5bd1006cb8081d"
+  }
+]

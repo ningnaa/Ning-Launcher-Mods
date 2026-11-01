@@ -1,0 +1,37 @@
+{
+  "uid": "5a58615a-631b-34bf-8f86-84a4f64e6c96",
+  "id": "texture-5a58615a-631b-34bf-8f86-84a4f64e6c96",
+  "name": "更透明的玻璃",
+  "localizedNames": {
+    "zh-Hans": "更透明的玻璃"
+  },
+  "version": "1.2.0-port.1",
+  "type": "texture",
+  "category": "材质包",
+  "summary": "移除玻璃上的部分纹理，并将彩色玻璃墙改为纯色透明玻璃。",
+  "localizedSummaries": {
+    "zh-Hans": "移除玻璃上的部分纹理，并将彩色玻璃墙改为纯色透明玻璃。"
+  },
+  "authors": [
+    {
+      "name": "Petillon",
+      "role": "原作者"
+    },
+    {
+      "name": "m",
+      "role": "移植者"
+    }
+  ],
+  "blVersion": 2,
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "updated": "2026-11-01",
+  "links": [
+    {
+      "title": "原作 Steam 创意工坊",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3455411572"
+    }
+  ]
+}

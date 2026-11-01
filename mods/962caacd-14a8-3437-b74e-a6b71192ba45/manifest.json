@@ -1,0 +1,41 @@
+{
+  "uid": "962caacd-14a8-3437-b74e-a6b71192ba45",
+  "id": "texture-962caacd-14a8-3437-b74e-a6b71192ba45",
+  "name": "我的世界材质包",
+  "localizedNames": {
+    "zh-Hans": "我的世界材质包"
+  },
+  "version": "1.0.0-port.1",
+  "type": "texture",
+  "category": "材质包",
+  "summary": "用像素方块风格重绘方块、墙、背景、物品和界面等贴图。",
+  "localizedSummaries": {
+    "zh-Hans": "用像素方块风格重绘方块、墙、背景、物品和界面等贴图。"
+  },
+  "authors": [
+    {
+      "name": "Melstar",
+      "role": "原作者"
+    },
+    {
+      "name": "The Lamb",
+      "role": "原作者"
+    },
+    {
+      "name": "m",
+      "role": "移植者"
+    }
+  ],
+  "blVersion": 2,
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "updated": "2026-11-01",
+  "links": [
+    {
+      "title": "原作 Steam 创意工坊",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2439772075"
+    }
+  ]
+}

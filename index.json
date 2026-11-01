@@ -4091,11 +4091,11 @@
       "uid": "7c5ee232-0456-3147-a347-e31852f566b9",
       "id": "texture-7c5ee232-0456-3147-a347-e31852f566b9",
       "name": "萌萌恶魂",
-      "version": "1.0.0-port.2",
+      "version": "1.0.0-port.3",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-texture-7c5ee232-0456-3147-a347-e31852f566b9-v1.0.0-port.2/texture-7c5ee232-0456-3147-a347-e31852f566b9-1.0.0-port.2.bl",
-        "size": 967817,
-        "sha256": "4ee4606d46781ce3d1ad3b7cdec711615ef8d2026e85d79fd8e269f522079d5b"
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-texture-7c5ee232-0456-3147-a347-e31852f566b9-v1.0.0-port.3/texture-7c5ee232-0456-3147-a347-e31852f566b9-1.0.0-port.3.bl",
+        "size": 967931,
+        "sha256": "7b51414c80ece1110e1eb462146eb1ac530eb0c26a653044df85832dbe62874b"
       },
       "files": [
         "manifest.json",
@@ -4107,7 +4107,11 @@
         "uid": "7c5ee232-0456-3147-a347-e31852f566b9",
         "id": "texture-7c5ee232-0456-3147-a347-e31852f566b9",
         "name": "萌萌恶魂",
-        "version": "1.0.0-port.2",
+        "version": "1.0.0-port.3",
+        "resourceOverrides": {
+          "sounds": true,
+          "localization": true
+        },
         "type": "texture",
         "category": "材质",
         "blVersion": 2,
@@ -4139,14 +4143,14 @@
           }
         ],
         "portEdition": {
-          "revision": 2,
+          "revision": 3,
           "baseVersion": "1.0.0",
           "originalName": "Ghastling as Abigail",
           "sourceSha256": "59878dc840c704e80e8354bf9a1f814b6acc8add9580426a589a430b48899b9a",
           "porter": "流脌"
         }
       },
-      "publishedAt": "2026-10-31T18:51:16.111901Z"
+      "publishedAt": "2026-11-01T02:30:23.450349Z"
     },
     {
       "uid": "6207de5c-2bf1-595d-8f44-c9a4795f8ebc",

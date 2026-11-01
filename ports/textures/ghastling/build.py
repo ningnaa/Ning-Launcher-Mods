@@ -31,14 +31,15 @@ def build(source, out):
     uid=str(uuid.UUID(bytes=hashlib.md5(b'steam-workshop:3631710750').digest(),version=3))
     url='https://steamcommunity.com/sharedfiles/filedetails/?id=3631710750'
     manifest={
-        'uid':uid,'id':'texture-'+uid,'name':'萌萌恶魂','version':'1.0.0-port.2',
+        'uid':uid,'id':'texture-'+uid,'name':'萌萌恶魂','version':'1.0.0-port.3',
+        'resourceOverrides':{'sounds':True,'localization':True},
         'type':'texture','category':'材质','blVersion':2,'updated':'2026-11-01',
         'author':'Pixivic','authors':[{'name':'Pixivic','role':'原作者','link':url},{'name':'流脌','role':'移植者'}],
         'description':'将阿比盖尔替换为萌萌恶魂外观，并替换召唤物品、增益图标和花朵贴图。附带原版音效替换与中文名称、说明。正式版 0.4.14 仅应用贴图；音效及文字需要启动器支持资源包音效与语言替换。',
         'localizedNames':{'zh-Hans':'萌萌恶魂'},
         'localizedSummaries':{'zh-Hans':'阿比盖尔与相关物品的萌萌恶魂外观；原作者 Pixivic，移植者流脌。附带音效与中文名称资源。'},
         'license':'','links':[{'title':'原包记录的 Steam Workshop 页面','url':url}],
-        'portEdition':{'revision':2,'baseVersion':'1.0.0','originalName':pc['Name'],'sourceSha256':SOURCE_SHA256,'porter':'流脌'},
+        'portEdition':{'revision':3,'baseVersion':'1.0.0','originalName':pc['Name'],'sourceSha256':SOURCE_SHA256,'porter':'流脌'},
     }
     files={('content/'+n[8:] if n.startswith('Content/') else n):data for n,data in original.items()}
     original_zh='content/Localization/zh-Hans.json'
@@ -69,13 +70,17 @@ def build(source, out):
 
 包内保留 pack.json、workshop.json、原作者署名及全部原始资源。新增简体中文译文；原中文语言表保存在 source/original/ 中。原包没有附带独立许可证，标记为未声明，不推定其他许可。
 '''.encode()
-    files['changelog_zh-Hans.md']='''## 1.0.0-port.2（2026-11-01）
+    files['changelog_zh-Hans.md']='''## 1.0.0-port.3（2026-11-01）
+
+适配新的资源包兼容声明，支持独立音效播放与中文名称替换。保留原作者 Pixivic、移植者流脌及全部原始资源。正式版 0.4.14 仍仅应用贴图。
+
+## 1.0.0-port.2（2026-11-01）
 
 统一中文包名，补充召唤物品、增益和提示的简体中文，保留原始音效及语言资源。音效与游戏内文字需要启动器支持资源包音效与语言替换；正式版 0.4.14 仍仅显示贴图。
 
 ## 1.0.0-port.1（2026-11-01）
 
-加入 Bunny Loader 在线材质目录，保留原作者 Pixivic，移植者标注为流脌。应用 4 张图片，保留原 PC 音效及语言资源，明确当前附带音效与中文名称资源。
+加入 Bunny Loader 在线材质目录，保留原作者 Pixivic，移植者标注为流脌。应用 4 张图片，保留原 PC 音效及语言资源，当时仅应用图片，保留 PC 音效及语言文件。
 '''.encode()
     record={'sourceFile':source.name,'sourceSha256':SOURCE_SHA256,'originalName':pc['Name'],
             'author':'Pixivic','porter':'流脌','uid':uid,'id':manifest['id'],'version':manifest['version'],

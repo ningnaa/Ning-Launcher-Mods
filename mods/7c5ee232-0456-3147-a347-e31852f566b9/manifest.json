@@ -2,7 +2,11 @@
   "uid": "7c5ee232-0456-3147-a347-e31852f566b9",
   "id": "texture-7c5ee232-0456-3147-a347-e31852f566b9",
   "name": "萌萌恶魂",
-  "version": "1.0.0-port.2",
+  "version": "1.0.0-port.3",
+  "resourceOverrides": {
+    "sounds": true,
+    "localization": true
+  },
   "type": "texture",
   "category": "材质",
   "blVersion": 2,
@@ -34,7 +38,7 @@
     }
   ],
   "portEdition": {
-    "revision": 2,
+    "revision": 3,
     "baseVersion": "1.0.0",
     "originalName": "Ghastling as Abigail",
     "sourceSha256": "59878dc840c704e80e8354bf9a1f814b6acc8add9580426a589a430b48899b9a",

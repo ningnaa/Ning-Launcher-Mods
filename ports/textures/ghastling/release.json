@@ -6,7 +6,7 @@
   "porter": "流脌",
   "uid": "7c5ee232-0456-3147-a347-e31852f566b9",
   "id": "texture-7c5ee232-0456-3147-a347-e31852f566b9",
-  "version": "1.0.0-port.2",
+  "version": "1.0.0-port.3",
   "originalFileCount": 26,
   "modifiedOriginalFiles": [
     {
@@ -28,23 +28,23 @@
     "resource-pack-localization-json"
   ],
   "released014Support": "images-only",
-  "file": "texture-7c5ee232-0456-3147-a347-e31852f566b9-1.0.0-port.2.bl",
-  "size": 967817,
-  "sha256": "4ee4606d46781ce3d1ad3b7cdec711615ef8d2026e85d79fd8e269f522079d5b",
-  "tag": "mod-texture-7c5ee232-0456-3147-a347-e31852f566b9-v1.0.0-port.2",
-  "catalogBase": "b0de19624ede946a10cbce4a383efec11fe0cbcc",
+  "file": "texture-7c5ee232-0456-3147-a347-e31852f566b9-1.0.0-port.3.bl",
+  "size": 967931,
+  "sha256": "7b51414c80ece1110e1eb462146eb1ac530eb0c26a653044df85832dbe62874b",
+  "catalogBase": "a83d7fbc24dc824a705d3f2adc56b5e162c6e680",
+  "tag": "mod-texture-7c5ee232-0456-3147-a347-e31852f566b9-v1.0.0-port.3",
   "anonymousDownloads": [
     {
       "host": "GitHub",
-      "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-texture-7c5ee232-0456-3147-a347-e31852f566b9-v1.0.0-port.2/texture-7c5ee232-0456-3147-a347-e31852f566b9-1.0.0-port.2.bl",
-      "size": 967817,
-      "sha256": "4ee4606d46781ce3d1ad3b7cdec711615ef8d2026e85d79fd8e269f522079d5b"
+      "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-texture-7c5ee232-0456-3147-a347-e31852f566b9-v1.0.0-port.3/texture-7c5ee232-0456-3147-a347-e31852f566b9-1.0.0-port.3.bl",
+      "size": 967931,
+      "sha256": "7b51414c80ece1110e1eb462146eb1ac530eb0c26a653044df85832dbe62874b"
     },
     {
       "host": "Gitee",
-      "url": "https://gitee.com/nigngng/Ning-Launcher-Mods/releases/download/catalog-20261030/texture-7c5ee232-0456-3147-a347-e31852f566b9-1.0.0-port.2.bl",
-      "size": 967817,
-      "sha256": "4ee4606d46781ce3d1ad3b7cdec711615ef8d2026e85d79fd8e269f522079d5b"
+      "url": "https://gitee.com/nigngng/Ning-Launcher-Mods/releases/download/catalog-20261030/texture-7c5ee232-0456-3147-a347-e31852f566b9-1.0.0-port.3.bl",
+      "size": 967931,
+      "sha256": "7b51414c80ece1110e1eb462146eb1ac530eb0c26a653044df85832dbe62874b"
     }
   ]
 }

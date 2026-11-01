@@ -1,0 +1,53 @@
+{
+  "uid": "2e119783-b8aa-4ab4-9b89-8cd946c3d969",
+  "id": "AlchemistNPCLite",
+  "name": "炼金术师 NPC 轻量版",
+  "localizedNames": {
+    "zh-Hans": "炼金术师 NPC 轻量版"
+  },
+  "localizedSummaries": {
+    "en-US": "This mod adds 7 NPCs (Alchemist, Brewer, Jeweler, Young Brewer, Operator, Architect and Musician), who sell potions, materials and some other stuff. New combinations of potions are sold by the Young Brewer.",
+    "zh-Hans": "添加炼金师、药剂师、珠宝师、年轻药剂师、操作员、建筑师、音乐家和工匠，提供药水、材料、组合药剂及便利道具。"
+  },
+  "version": "1.03-ningzh.1",
+  "authors": [
+    {
+      "name": "VVV101",
+      "role": "原版 tModLoader 模组作者",
+      "color": "#7FE07A",
+      "link": "https://github.com/VVV101/AlchemistNPCLite"
+    },
+    {
+      "name": "榴莲只吃皮",
+      "role": "移植",
+      "avatar": "durian.png",
+      "color": "#E8C170"
+    }
+  ],
+  "category": "玩法扩展",
+  "summary": "添加炼金师、药剂师、珠宝师、年轻药剂师、操作员、建筑师、音乐家和工匠，提供药水、材料、组合药剂及便利道具。",
+  "license": "All rights reserved",
+  "updated": "2026-11-01",
+  "blVersion": 2,
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "entry": "main.js",
+  "dependencies": [],
+  "links": [
+    {
+      "title": "Original (GitHub)",
+      "url": "https://github.com/VVV101/AlchemistNPCLite"
+    },
+    {
+      "title": "Discord",
+      "url": "https://discord.gg/WGKyKun"
+    }
+  ],
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.03"
+  }
+}

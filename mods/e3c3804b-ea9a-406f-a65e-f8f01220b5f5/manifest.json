@@ -1,0 +1,47 @@
+{
+  "uid": "e3c3804b-ea9a-406f-a65e-f8f01220b5f5",
+  "id": "improvelite",
+  "name": "更好的体验·轻量版",
+  "localizedNames": {
+    "zh-Hans": "更好的体验·轻量版",
+    "en-US": "Improve Lite"
+  },
+  "version": "1.0.2-ningzh.1",
+  "authors": [
+    {
+      "name": "顾楠骨",
+      "role": "Bunny Loader 移植"
+    },
+    {
+      "name": "487666123",
+      "role": "ImproveGame 原作者",
+      "link": "https://github.com/487666123/ImproveGame"
+    }
+  ],
+  "category": "实用工具",
+  "summary": "ImproveGame 的轻量功能集：物品消耗、拾取范围、复活、便携制作站、敌人刷新、晶塔与钓鱼等，可在模组配置中逐项调整。",
+  "localizedSummaries": {
+    "zh-Hans": "ImproveGame 的轻量功能集：物品消耗、拾取范围、复活、便携制作站、敌人刷新、晶塔与钓鱼等，可在模组配置中逐项调整。",
+    "en-US": "A light port of ImproveGame's toggle-style features, driven by Bunny Loader's built-in Mod Configuration screen."
+  },
+  "license": "MIT",
+  "blVersion": 2,
+  "gameVersion": [
+    298000,
+    399999
+  ],
+  "entry": "main.js",
+  "dependencies": [],
+  "links": [
+    {
+      "title": "ImproveGame (original)",
+      "url": "https://github.com/487666123/ImproveGame"
+    }
+  ],
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.0.2"
+  },
+  "updated": "2026-11-01"
+}

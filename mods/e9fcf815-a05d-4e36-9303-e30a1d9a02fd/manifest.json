@@ -1,0 +1,38 @@
+{
+  "uid": "e9fcf815-a05d-4e36-9303-e30a1d9a02fd",
+  "id": "autofish_bunny_community",
+  "name": "自动钓鱼",
+  "version": "0.1.0-test1.ningzh.1",
+  "authors": [
+    {
+      "name": "-Cyril-",
+      "role": "原版 Autofish 作者（MIT）"
+    },
+    {
+      "name": "顾楠骨",
+      "role": "基于Bunny Loader移植"
+    }
+  ],
+  "links": [
+    {
+      "title": "Original Autofish",
+      "url": "https://github.com/Cyrillya/Autofish"
+    }
+  ],
+  "category": "实用工具",
+  "summary": "自动收线、锁定抛竿目标、声呐渔获筛选与药水续喝，支持黑名单和其他渔获名单。测试版适配，部分功能会按运行时诊断结果停用。",
+  "blVersion": 2,
+  "entry": "main.js",
+  "localizedNames": {
+    "zh-Hans": "自动钓鱼"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "自动收线、锁定抛竿目标、声呐渔获筛选与药水续喝，支持黑名单和其他渔获名单。测试版适配，部分功能会按运行时诊断结果停用。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "0.1.0-test1"
+  },
+  "updated": "2026-11-01"
+}

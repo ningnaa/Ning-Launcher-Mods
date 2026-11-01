@@ -1,0 +1,34 @@
+[
+  {
+    "id": "unifiedstorage",
+    "source": "gitee",
+    "url": "https://gitee.com/nigngng/Ning-Launcher-Mods/releases/download/catalog-20261030/unifiedstorage-1.0.0-ningzh.1.bl",
+    "sha256": "cc65e30d47e0ee12b6d6644f419d4b90f57b7e82f9562f3a645255f202721e05",
+    "size": 436036,
+    "status": "pass"
+  },
+  {
+    "id": "improvelite",
+    "source": "gitee",
+    "url": "https://gitee.com/nigngng/Ning-Launcher-Mods/releases/download/catalog-20261030/improvelite-1.0.2-ningzh.1.bl",
+    "sha256": "88e90150eb72c7bdbdeac208183a47c8651f0163eb4c06722881428714a5f2be",
+    "size": 284461,
+    "status": "pass"
+  },
+  {
+    "id": "autofish_bunny_community",
+    "source": "gitee",
+    "url": "https://gitee.com/nigngng/Ning-Launcher-Mods/releases/download/catalog-20261030/autofish_bunny_community-0.1.0-test1.ningzh.1.bl",
+    "sha256": "d56f01c6fdb5d407da9e7233fac477dd73c106a2e567f0f2e995945bf84c0b20",
+    "size": 30745,
+    "status": "pass"
+  },
+  {
+    "id": "AlchemistNPCLite",
+    "source": "gitee",
+    "url": "https://gitee.com/nigngng/Ning-Launcher-Mods/releases/download/catalog-20261030/AlchemistNPCLite-1.03-ningzh.1.bl",
+    "sha256": "fc18bdbeda4a9c8d289195adb8555d0ff0a72c52369ec1e65ee0290973045a88",
+    "size": 386665,
+    "status": "pass"
+  }
+]

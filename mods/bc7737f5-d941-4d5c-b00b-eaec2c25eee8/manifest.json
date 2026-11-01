@@ -1,0 +1,53 @@
+{
+  "uid": "bc7737f5-d941-4d5c-b00b-eaec2c25eee8",
+  "id": "unifiedstorage",
+  "name": "魔法存储",
+  "version": "1.0.0-ningzh.1",
+  "authors": [
+    {
+      "name": "Bloa",
+      "role": "原包移动端移植与适配",
+      "color": "#7FC8FF",
+      "avatar": "bloa.png"
+    },
+    {
+      "name": "Absoluteaquarian",
+      "role": "材质与设计",
+      "color": "#F2C14E",
+      "avatar": "absoluteaquarian.png"
+    },
+    {
+      "name": "Titan camera",
+      "role": "移植者"
+    }
+  ],
+  "category": "实用工具",
+  "summary": "将存储单元连接到核心，集中搜索、分类、取放物品，并使用网络内的材料制作；支持容量升级和远程访问。当前移植版仅支持单人模式。",
+  "license": "MIT",
+  "featured": false,
+  "updated": "2026-11-01",
+  "blVersion": 2,
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "entry": "main.js",
+  "dependencies": [],
+  "links": [
+    {
+      "title": "Bunny Loader",
+      "url": "https://github.com/JonataOliveiraa/Bunny-Loader"
+    }
+  ],
+  "localizedNames": {
+    "zh-Hans": "魔法存储"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "将存储单元连接到核心，集中搜索、分类、取放物品，并使用网络内的材料制作；支持容量升级和远程访问。当前移植版仅支持单人模式。"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.0.0"
+  }
+}

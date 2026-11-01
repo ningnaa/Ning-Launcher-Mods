@@ -1,0 +1,161 @@
+# Alchemist NPC Lite
+
+This mod adds 7 NPCs (Alchemist, Brewer, Jeweler, Young Brewer, Operator, Architect and Musician), who sell potions, materials and some other stuff. \
+New combinations of potions are sold by the Young Brewer.
+
+The spawn condition for the Alchemist, the Jeweler & the Brewer is to kill the Eye of Ctulhu. \
+The Young Brewer spawns while both the Alchemist & the Brewer are in the world in Hardmode. \
+The spawn condition for the Operator is to beat EoW/BoC. \
+The Architect will come if you have at least 3 NPC. \
+The Musician will come if you defeat Skeletron.
+
+Mod has support for Thorium, Calamity, Mod of Redemption, Census and imkSushi's mod.
+
+Mod's Discord: https://discord.gg/WGKyKun
+
+## Changelog
+
+### v1.9.8
+
+- Added Shards of Atheria support by Rockman Zeta.
+- Added German localization by Cracky.
+- Updated Chinese localization by 虞悖.
+- Now Pumpkin blocks cost 2 silver 50 copper.
+
+### v1.9.7
+
+- Chinese Localization Fix by 虞悖.
+- Russian localization fix.
+
+### v1.9.6
+
+- Updated for latest December 2024 tModloader build.
+- Updated Russian localization, thanks to Alino4kaHvoshch and xenofite.
+- Updated small icon, thanks to Alino4kaHvoshch.
+- Added config option for disabling all new content from mod.
+- Added Cactus to Architect's 2nd shop.
+- Reworked some of the multiplayer config code.
+- Changed conditions for some potions availability.
+- Now mech bosses treasure bags are available after beating respective boss, not only after all 3 being defeated.
+- Removed obsolete code for Census mod.
+- Some prices rebalancing (mostly Architect), thanks to .Nihilus.
+- Fixed Battle, Vanilla Tank and Modded Tank combinations recipes.
+
+### v1.9.5
+
+- Added Brazilian Portuguese by BrenoS93.
+- Added back imkSushi's potions support (base summoning, angler amnesia, meteorite and resurrection).
+- Increased Moon Lord Bag price to 9 platinum and 50 gold by default.
+- Fishing potions are now available by default.
+- Temporarely fixed Luck potions money exploit by setting their default prices in shop.
+
+Calamity changes:
+
+- Depth materials (lumenyl and depth cells) to be available after beating Leviathan.
+- Living Shards are now available after beating Plantera.
+- Blood Orbs are now available for after beating Skeletron.
+- Lowered prices for Yharon, EXO mechs and Supreme Calamitas treasure bags.
+
+### v1.9.4
+
+- Wood is now sold in filler shop of Architect, added Bamboo and Ash Wood.
+- Changed selling conditions for Life Crystals and Life Fruits,
+- Fixed Calamity mod interaction with combinations defense bonuses.
+- Updated chinese localization by mochen5530
+- Resprites for Bewitching, Blurring, Ninja, Perfect Discord, Summoner and Fishing combinations by GoldYosh
+
+### v1.9.3
+
+- Summoner, Universal combinations and Ultima Cake now contains War Table buff for sentries count (non-cumulative).
+- Calamity combination is now available at the start of hardmode.
+- Heart and Star statues are now available in Jeweler's arena shop at the start of hardmode.
+- World Warpers no longer have buggy interaction with pylons.
+- World Warper code optimization.
+
+### v1.9.2
+
+- Added War Table to Jeweler's arena shop. Available after beating T1 of Old One's Army.
+- Added resprites for Horrying Skull, Dopamine, Beach, Temple, Jungle, Dungeon Teleporter, Greater Dangersense, Sunshine, Titan Skin, Invincibility, Traps, Underworld Teleporter, Fortitude and Excavation potions by GoldYosh and thyreo.
+- Spooky Wood/light sources are now available in Architect's shops only after beating Pumpking.
+- With Calamity mod, combinations with Ironskin potion now giving bonus defense according to progression.
+- Fixed an issue with overusing buff potions from piggy bank using Alchemist Charm t2+ upon reaching over 22 buffs.
+- Fixed Fishing Combination recipe.
+- Fixed Spirit Combination being sold.
+
+### v1.9.1
+
+- Added more Thorium, Mod of Redemption support to shops (thanks to Rockman Zeta).
+- Added support for Shards of Atheria mod in code, currently commented due to incompatibility.
+- Added Excavation potion. Gives better mining capabilities.
+  Drops from Undead Miners, can be crafted, available in Brewer's 2nd shop after beating EoC/BoC.
+- Completed Musician's shops. Supports Calamity and Thorium mods.
+- Now Greater Dangersense potion ignores Moon Lord's projectiles.
+  Still could be wise not to use it against bosses with clearly visible projectiles.
+- Fixed a few typos related to selling Souls of Fright and Might, Modified World Warper, dupes of some treasure bags, other problems with shops.
+- Fixed GlobalNPC code related to shops (discounts and price modifiers/config conditions should work correctly now).
+- Fixed normal World Warper working from Void Bag.
+- Fixed some weapons getting Legendary prefix when they shouldn't.
+- Various code optimizations.
+- Resprites for Jungle, Temple Teleporter potions, Discord potion, Nature Blessing, Calamity and Thorium combinations, Lifeform Analyzer locator (configurable).
+  Made by thyreo and GoldYosh.
+
+### v1.9
+
+- Ported to 1.4.4 tModLoader.
+- Currently, supports Calamity mod.
+- Added Biome Sight potion to Brewer's shop.
+  TODO: Implement proper Thorium and MoR support to all shops.
+
+### v1.8.20
+
+- Added config options for removing non-vanilla potions and items from mod (thanks to NoLongerLucky) (currently not working).
+- Now Red's Potion can be bought from Alchemist if world seed is "for the worthy" and world state is hardmode.
+- Readded World Warper/Modified World Warper. Available in Operator's shop upon entering hardmode/after beating Moon Lord.
+- Readded Simulation Control Unit. Available in Operator's shop upon entering hardmode.
+- Fixed Alchemist Charms not giving bonus duration to potions in piggy bank (thanks to benl9).
+
+### v1.8.19
+
+- Removed even more "removed" potions.
+- Returned some more stuff from Thorium to shops.
+- Fixed Thorium Combination breaking access to others.
+- Fixed Thorium mod references from breaking some stuff.
+- Now Life Crystals and Life Fruits can be bought from Jeweler while Skeletron/Golem is defeated (were available in MP only before).
+- Moved Flask of Crumbling to Flasks shop.
+
+### v1.8.18
+
+- Fixed excessive damage reduction bonus of Battle Combination (thanks to Inactive).
+
+### v1.8.17
+
+- Added Mod of Redemption support (thanks to Rockman Zeta).
+- Reimplemented Thorium mod support (thanks to b2mauler).
+- Removed "removed" potions from Calamity Combination.
+- Removed Boom Box as now Music Boxes can work even from vanity accessory slots.
+- Removed additional tooltips on Treasure Bags as now they are properly named.
+- Fixed some buffs and combinations which were not working (f.e. Lifeforce, modded crit bonuses, Ninja pot).
+
+### v1.8.16
+
+- Fixed flasks breaking piggy bank potions using if placed before buff potions.
+- Fixed Explorer's combination recipe.
+- Added Mod Configuration options for Silt, Slush and Desert Fossil blocks prices.
+
+### v1.8.15
+
+- Fixed an issue with Alchemist Charm of 2+ tier was not using potions from piggy bank
+- Fixed shops having empty spaces if mod item doesn't exist
+- Increased some of the shop prices for balance
+- Added a new buff item, Ultima Cake. Can be bought from the Jeweler after entering hardmode in Arena Shop.
+- Added Pocket Mirror to Tinkerer's 1st shop (available in hardmode).
+
+### v1.8.14
+
+- Add Deerclop's bag to Operator
+- Reimplement Calamity for 1.4
+- Adjust Calamity boss bag prices
+- Added Diving Helmet to Tinkerer.
+- Update recipe creation
+
+Earlier changes can be found in mod's discord.

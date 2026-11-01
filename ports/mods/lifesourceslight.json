@@ -1,0 +1,34 @@
+{
+  "uid": "3f4a2442-23f6-58be-ae18-3aa1ac0e405f",
+  "id": "lifesourceslight",
+  "workshopId": "2853619836",
+  "source": {
+    "originalName": "Heart Crystal & Life Fruit Glow",
+    "sourceVersion": "1.3.0",
+    "sourceSha256": "81bfff7f998cd79729d6bd248ef9160c60408eaf27688d5aa2cba00bc9f71edb",
+    "upstreamCommit": "d7c40e835b57d69fab55d7fd33b31da494dc2e4a",
+    "porter": "柠娜",
+    "revision": 1
+  },
+  "version": "1.3.0-bunny.1",
+  "sha256": "65ded6404b185123f3d89b22c50a2ebfac83c4f0a20f16c3269f58e82425ae28",
+  "size": 21807,
+  "license": "GPL-3.0",
+  "originalAuthor": "Chev",
+  "porter": "柠娜",
+  "localization": "Supplemental Simplified Chinese; original English retained",
+  "downloads": {
+    "github": {
+      "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-lifesourceslight-v1.3.0-bunny.1/lifesourceslight-1.3.0-bunny.1.bl",
+      "size": 21807,
+      "sha256": "65ded6404b185123f3d89b22c50a2ebfac83c4f0a20f16c3269f58e82425ae28",
+      "anonymousVerified": true
+    },
+    "gitee": {
+      "url": "https://gitee.com/nigngng/Ning-Launcher-Mods/releases/download/catalog-20261030/lifesourceslight-1.3.0-bunny.1.bl",
+      "size": 21807,
+      "sha256": "65ded6404b185123f3d89b22c50a2ebfac83c4f0a20f16c3269f58e82425ae28",
+      "anonymousVerified": true
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "uid": "3f4a2442-23f6-58be-ae18-3aa1ac0e405f",
+  "id": "lifesourceslight",
+  "name": "生命水晶与生命果发光",
+  "version": "1.3.0-bunny.1",
+  "blVersion": 2,
+  "entry": "main.js",
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "category": "视觉",
+  "updated": "2026-11-01",
+  "author": "Chev",
+  "authors": [
+    {
+      "name": "Chev",
+      "role": "原作者",
+      "link": "https://github.com/chev2/terraria-mods"
+    },
+    {
+      "name": "柠娜",
+      "role": "Bunny Loader 移植者"
+    }
+  ],
+  "license": "GPL-3.0",
+  "description": "让生命水晶发出粉红色光芒、生命果发出黄色光芒。两个效果可独立开关，默认开启。原作者 Chev；移植者柠娜。",
+  "localizedNames": {
+    "zh-Hans": "生命水晶与生命果发光"
+  },
+  "links": [
+    {
+      "title": "Steam 原版",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2853619836"
+    }
+  ],
+  "portEdition": {
+    "originalName": "Heart Crystal & Life Fruit Glow",
+    "sourceVersion": "1.3.0",
+    "sourceSha256": "81bfff7f998cd79729d6bd248ef9160c60408eaf27688d5aa2cba00bc9f71edb",
+    "upstreamCommit": "d7c40e835b57d69fab55d7fd33b31da494dc2e4a",
+    "porter": "柠娜",
+    "revision": 1
+  }
+}

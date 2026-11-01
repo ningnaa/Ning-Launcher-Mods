@@ -929,12 +929,12 @@
     {
       "uid": "22b95101-7032-49ab-92a8-468f3030aa41",
       "id": "devtools",
-      "name": "Dev Tools",
-      "version": "1.0.1-ningzh.1.fix.2",
+      "name": "开发者工具",
+      "version": "1.0.1-ningzh.1.fix.3",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-devtools-v1.0.1-ningzh.1.fix.2/devtools-1.0.1-ningzh.1.fix.2.bl",
-        "sha256": "273926a05c6da4a1d98585eaa11fff34caccefbf5be47f2cf082db552a801133",
-        "size": 226429
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-devtools-v1.0.1-ningzh.1.fix.3/devtools-1.0.1-ningzh.1.fix.3.bl",
+        "sha256": "c30c0cf4677dc07c9c18a10e94f984f6a5b782b751f5951627b4eab890d7b96e",
+        "size": 227705
       },
       "files": [
         "manifest.json",
@@ -943,13 +943,14 @@
         "description.md",
         "authors/0.png",
         "description_zh-Hans.md",
-        "changelog_zh-Hans.md"
+        "changelog_zh-Hans.md",
+        "changelog.md"
       ],
       "manifest": {
         "uid": "22b95101-7032-49ab-92a8-468f3030aa41",
         "id": "devtools",
-        "name": "Dev Tools",
-        "version": "1.0.1-ningzh.1.fix.2",
+        "name": "开发者工具",
+        "version": "1.0.1-ningzh.1.fix.3",
         "authors": [
           {
             "name": "GST378",
@@ -962,7 +963,7 @@
         "category": "实用工具",
         "summary": "一个直观的工具界面：难度切换、实体清除、碰撞箱、天气与时间、相机与拍照模式、调试信息。",
         "license": "",
-        "updated": "2026-10-31",
+        "updated": "2026-11-01",
         "blVersion": 2,
         "gameVersion": [
           301720,
@@ -982,11 +983,12 @@
           "baseVersion": "1.0.1"
         },
         "repairEdition": {
-          "revision": 2,
-          "parentVersion": "1.0.1-ningzh.1.fix.1",
-          "parentSha256": "6f92822953c1183b31fd7dfcd62f6048006d1e07aca836155f9a3710f8aec169"
+          "revision": 3,
+          "parentVersion": "1.0.1-ningzh.1.fix.2",
+          "parentSha256": "273926a05c6da4a1d98585eaa11fff34caccefbf5be47f2cf082db552a801133"
         }
-      }
+      },
+      "updatedAt": "2026-11-01T09:57:19Z"
     },
     {
       "uid": "cece9409-844d-476a-8953-1a59de78db92",

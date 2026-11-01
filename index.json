@@ -4858,6 +4858,89 @@
         "changelog_zh-Hans.md"
       ],
       "publishedAt": "2026-11-01T08:57:11Z"
+    },
+    {
+      "uid": "5f1f085d-59f4-4e66-9360-e43595fa56fc",
+      "id": "murasamastandalone",
+      "name": "鬼妖村正 (移动优化版)",
+      "version": "1.7.0",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-murasamastandalone-v1.7.0/murasamastandalone-1.7.0.bl",
+        "sha256": "13dc94ab36e83051395d0b564a3e8284642f395ccdd9244c87ad2af126643c19",
+        "size": 18291878
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.png",
+        "description.md",
+        "changelog.md",
+        "license.md",
+        "changelog_en-US.md",
+        "changelog_es-ES.md",
+        "changelog_ja-JP.md",
+        "changelog_ko-KR.md",
+        "changelog_pt-BR.md",
+        "changelog_ru-RU.md",
+        "changelog_zh-Hans.md",
+        "description_en-US.md",
+        "description_es-ES.md",
+        "description_ja-JP.md",
+        "description_ko-KR.md",
+        "description_pt-BR.md",
+        "description_ru-RU.md",
+        "description_zh-Hans.md",
+        "authors/Infinity_Slime.png",
+        "authors/white_light_fairy.png"
+      ],
+      "manifest": {
+        "uid": "5f1f085d-59f4-4e66-9360-e43595fa56fc",
+        "id": "murasamastandalone",
+        "name": "鬼妖村正 (移动优化版)",
+        "version": "1.7.0",
+        "authors": [
+          {
+            "name": "白色灯泡小精灵",
+            "role": "移动端操作优化与汉化",
+            "avatar": "white_light_fairy.png",
+            "color": "#88B8E6"
+          },
+          {
+            "name": "Infinity_Slime",
+            "role": "模组更新",
+            "avatar": "Infinity_Slime.png",
+            "color": "#00FFFF"
+          },
+          {
+            "name": "Raion Light",
+            "role": "原作者（Murasama Standalone）",
+            "color": "#F41A31"
+          }
+        ],
+        "category": "物品",
+        "summary": "成长性鬼妖：随 Boss 进度成长的鬼妖村正，23 款涂装、移动端招式按键与中文配置。",
+        "license": "All rights reserved",
+        "featured": false,
+        "updated": "2026-11-01",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": [],
+        "links": [],
+        "pages": [],
+        "notes": "本模组为 Raion Light 原版 Murasama Standalone 的移动端优化分支版本，由 白色灯泡小精灵&Infinity_Slime重构。",
+        "localizedNames": {
+          "zh-Hans": "鬼妖村正 (移动优化版)"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "成长性鬼妖：随 Boss 进度成长的鬼妖村正，23 款涂装、移动端招式按键与中文配置。"
+        }
+      },
+      "publishedAt": "2026-11-01T14:47:55Z",
+      "updatedAt": "2026-11-01T14:47:55Z"
     }
   ],
   "featured": [

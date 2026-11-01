@@ -1,0 +1,10 @@
+{
+  "uid": "5f1f085d-59f4-4e66-9360-e43595fa56fc",
+  "version": "1.7.0",
+  "sha256": "13dc94ab36e83051395d0b564a3e8284642f395ccdd9244c87ad2af126643c19",
+  "size": 18291878,
+  "sourceBytesPreserved": true,
+  "authorsPreserved": true,
+  "javascriptSyntaxFiles": 42,
+  "validation": "模拟器加载、物品注册、中文名称、手持弹幕及基础挥刀；完整招式、Boss 战与联机未全面验证。"
+}

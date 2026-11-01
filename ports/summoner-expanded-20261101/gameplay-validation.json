@@ -1,0 +1,12 @@
+[
+  {
+    "case": "summoner-write",
+    "assertions": 37,
+    "result": "pass"
+  },
+  {
+    "case": "summoner-read",
+    "assertions": 7,
+    "result": "pass"
+  }
+]

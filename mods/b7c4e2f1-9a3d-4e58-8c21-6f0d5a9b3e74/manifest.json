@@ -1,0 +1,54 @@
+{
+  "uid": "b7c4e2f1-9a3d-4e58-8c21-6f0d5a9b3e74",
+  "id": "starblessing",
+  "name": "召唤师扩展",
+  "version": "1.4.0-ningzh.1",
+  "author": "YG",
+  "authors": [
+    {
+      "name": "YG",
+      "role": "作者",
+      "color": "#8FB8FF"
+    },
+    {
+      "name": "逐邺",
+      "role": "移植者"
+    }
+  ],
+  "category": "玩法扩展",
+  "type": "mod",
+  "summary": "一件随 BOSS 进度成长的召唤师饰品、史莱姆法杖的前期合成路径，以及补全小雪怪皮毛套装的兜帽与靴子。",
+  "description": "# 召唤师扩展\n\n为召唤师补充3件新装备，并为原版史莱姆法杖增加前期配方。原作者：YG；移植者：逐邺。保留源包的MIT许可声明。\n\n## 星之庇佑\n\n在工作台用1颗坠落之星制作。装备后基础增加1个召唤栏位、1个哨兵栏位、10%召唤伤害及30%移动速度。\n\n饰品读取当前世界的Boss击败进度，分为以下9组；每组任意一名Boss被击败即获得该组奖励，同组不会重复叠加：\n\n1. 史莱姆王 / 克苏鲁之眼\n2. 世界吞噬怪 / 克苏鲁之脑\n3. 蜂王 / 骷髅王 / 独眼巨鹿\n4. 血肉墙（进入困难模式）\n5. 史莱姆皇后 / 任意机械Boss / 猪龙鱼公爵\n6. 世纪之花\n7. 石巨人 / 光之女皇\n8. 拜月教邪教徒\n9. 月亮领主\n\n全部9组完成时，饰品合计增加5个召唤栏位、5个哨兵栏位、100%召唤伤害、80点最大生命及16点防御。移动速度加成在进入困难模式后为50%，击败月亮领主后为100%。说明栏显示当前加成、完成组数和下一组的谜语提示。\n\n成长取决于当前世界已有进度，换世界后按新世界计算；无需重复制作饰品。\n\n## 史莱姆法杖配方\n\n在工作台用15个凝胶制作原版史莱姆法杖。只增加配方，保留原版掉落。\n\n## 小雪怪兜帽与靴子\n\n| 装备 | 织布机配方 | 单件效果 |\n|---|---|---|\n| 小雪怪兜帽 | 6个小雪怪皮毛＋4个丝绸 | 1防御、5%召唤伤害 |\n| 小雪怪靴子 | 8个小雪怪皮毛＋5个丝绸 | 1防御、5%召唤伤害、5%移动速度 |\n\n两件新装备与原版小雪怪皮毛外套同时穿戴时，额外增加10%召唤伤害。套装额外奖励不再增加召唤栏位，原版外套自身的效果保留。\n\n安装或更新后重启游戏。适用于本包声明的Terraria运行版本；联机兼容性尚未充分验证。\n",
+  "license": "MIT",
+  "links": [],
+  "pages": [],
+  "theme": {
+    "accent": "#8FB8FF",
+    "panel": "",
+    "text": "",
+    "heading": "",
+    "button": "",
+    "buttonText": "",
+    "background": "",
+    "backgroundMode": "",
+    "backgroundScale": null,
+    "backgroundDim": null
+  },
+  "updated": "2026-11-01",
+  "featured": false,
+  "blVersion": 2,
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "entry": "main.js",
+  "dependencies": [],
+  "localizedNames": {
+    "zh-Hans": "召唤师扩展",
+    "en-US": "Summoner Expanded"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "一件随 BOSS 进度成长的召唤师饰品、史莱姆法杖的前期合成路径，以及补全小雪怪皮毛套装的兜帽与靴子。",
+    "en-US": "A summoner accessory that grows with boss progression, an early crafting path for the Slime Staff, and the boots that complete the Flinx Fur set."
+  }
+}

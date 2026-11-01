@@ -1,0 +1,12 @@
+{
+  "uid": "b7c4e2f1-9a3d-4e58-8c21-6f0d5a9b3e74",
+  "id": "starblessing",
+  "name": "召唤师扩展",
+  "version": "1.4.0-ningzh.1",
+  "baseVersion": "1.4.0",
+  "file": "starblessing-1.4.0-ningzh.1.bl",
+  "sha256": "489188a12c2965f012f18ec1c41dd4da6c9437424b038b96b78e579c2253b3d4",
+  "size": 40875,
+  "originalSha256": "6472e5cecb3f9216a2cb55f46eb27abf1549454f5dbbba0e82682603de33ff5d",
+  "tag": "mod-starblessing-v1.4.0-ningzh.1"
+}

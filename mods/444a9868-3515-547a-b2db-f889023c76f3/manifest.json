@@ -2,7 +2,7 @@
   "uid": "444a9868-3515-547a-b2db-f889023c76f3",
   "id": "census",
   "name": "人口普查：城镇居民清单",
-  "version": "0.5.2.8-bunny.1",
+  "version": "0.5.2.8-ningzh.3",
   "blVersion": 2,
   "entry": "main.js",
   "gameVersion": [
@@ -32,12 +32,16 @@
     "sourceVersion": "0.5.2.8",
     "sourceSha256": "9a1a8c891ea1557b446001fcf352c1d3469af5f2ca5b9f9c216a84146a6a39a9",
     "porter": "柠娜",
-    "revision": 1
+    "revision": 3
   },
   "links": [
     {
       "title": "Steam 原作",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2687866031"
     }
-  ]
+  ],
+  "summary": "在背包居住界面查看居民入住条件和状态，并定位已入住居民。",
+  "localizedSummaries": {
+    "zh-Hans": "在背包居住界面查看居民入住条件和状态，并定位已入住居民。"
+  }
 }

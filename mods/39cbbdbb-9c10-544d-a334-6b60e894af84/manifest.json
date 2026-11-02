@@ -2,7 +2,7 @@
   "uid": "39cbbdbb-9c10-544d-a334-6b60e894af84",
   "id": "hpaware",
   "name": "生命感知",
-  "version": "1.0.6.1-bunny.1",
+  "version": "1.0.6.1-ningzh.3",
   "blVersion": 2,
   "entry": "main.js",
   "gameVersion": [
@@ -29,12 +29,16 @@
     "sourceVersion": "1.0.6.1",
     "sourceSha256": "9c82735ae5b479f0e1db2031e145ba036c9f31634e37294fcd4077660cec6999",
     "porter": "柠娜",
-    "revision": 1
+    "revision": 3
   },
   "links": [
     {
       "title": "Steam 原作",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2564503881"
     }
-  ]
+  ],
+  "summary": "显示受伤、低血量、药水冷却和减益状态提醒。",
+  "localizedSummaries": {
+    "zh-Hans": "显示受伤、低血量、药水冷却和减益状态提醒。"
+  }
 }

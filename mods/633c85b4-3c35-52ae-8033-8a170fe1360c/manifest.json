@@ -2,7 +2,7 @@
   "uid": "633c85b4-3c35-52ae-8033-8a170fe1360c",
   "id": "shorterrespawn",
   "name": "更短复活时间",
-  "version": "1.2.1.1-bunny.1",
+  "version": "1.2.1.1-ningzh.3",
   "blVersion": 2,
   "entry": "main.js",
   "gameVersion": [
@@ -38,6 +38,10 @@
     "sourceVersion": "1.2.1.1",
     "sourceSha256": "4756cd6ae2125584920b5b6bc9be893705b820062bd2e0730bab11857b36e88a",
     "porter": "柠娜",
-    "revision": 1
+    "revision": 3
+  },
+  "summary": "调整普通、专家及 Boss 战的复活时间，联机采用房主设置。",
+  "localizedSummaries": {
+    "zh-Hans": "调整普通、专家及 Boss 战的复活时间，联机采用房主设置。"
   }
 }

@@ -2,7 +2,7 @@
   "uid": "cd65cef1-9f13-55f7-b871-4030eb64f770",
   "id": "shopexpander",
   "name": "商店翻页",
-  "version": "1.8.1-bunny.1",
+  "version": "1.8.1-ningzh.3",
   "blVersion": 2,
   "entry": "main.js",
   "gameVersion": [
@@ -29,12 +29,16 @@
     "sourceVersion": "1.8.1",
     "sourceSha256": "cf56d7d69b2228303823ce45311a0fc63e186143e9f0e11d91bd9dbd41603b1b",
     "porter": "柠娜",
-    "revision": 1
+    "revision": 3
   },
   "links": [
     {
       "title": "Steam 原作",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2828370879"
     }
-  ]
+  ],
+  "summary": "为商品较多的商店添加翻页按钮，支持购买、出售和回购。",
+  "localizedSummaries": {
+    "zh-Hans": "为商品较多的商店添加翻页按钮，支持购买、出售和回购。"
+  }
 }

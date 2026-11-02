@@ -1269,6 +1269,23 @@
           "localization": "随 Bunny 移植代码与配置汉化"
         }
       ]
+    },
+    {
+      "uid": "008a4524-a7c4-54ec-b814-ec7924905407",
+      "id": "recipebrowser",
+      "name": "合成表",
+      "version": "0.12.0.3-ningzh.1",
+      "file": "recipebrowser-0.12.0.3-ningzh.1.bl",
+      "size": 353054,
+      "sha256": "a0b2d7d1c32d08d5f62d7f3ce85a9d24fbc885a443a57317127bcf1395f5d2f5",
+      "tag": "mod-recipebrowser-v0.12.0.3-ningzh.1",
+      "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-recipebrowser-v0.12.0.3-ningzh.1/recipebrowser-0.12.0.3-ningzh.1.bl",
+      "kind": "bunny-port",
+      "baseVersion": "0.12.0.3",
+      "originalSha256": "efc90e330ae365244ca8f024904351e6a97668ffd4fac7cd5d936d857eb6958b",
+      "sourceName": "Recipe Browser",
+      "porter": "柠娜",
+      "localization": "保留原作者中文并补充移动端操作说明"
     }
   ],
   "authorChineseSources": {

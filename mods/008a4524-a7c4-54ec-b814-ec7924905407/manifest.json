@@ -1,0 +1,40 @@
+{
+  "uid": "008a4524-a7c4-54ec-b814-ec7924905407",
+  "id": "recipebrowser",
+  "name": "合成表",
+  "version": "0.12.0.3-ningzh.1",
+  "blVersion": 2,
+  "entry": "main.js",
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "category": "实用",
+  "author": "jopojelly",
+  "authors": [
+    {
+      "name": "jopojelly",
+      "role": "原作者"
+    },
+    {
+      "name": "柠娜",
+      "role": "Bunny Loader 移植者"
+    }
+  ],
+  "license": "",
+  "description": "查询配方、材料用途、物品来源与制作路径，并收藏需要的配方。",
+  "portEdition": {
+    "originalName": "Recipe Browser",
+    "sourceVersion": "0.12.0.3",
+    "sourceSha256": "efc90e330ae365244ca8f024904351e6a97668ffd4fac7cd5d936d857eb6958b",
+    "porter": "柠娜",
+    "revision": 1
+  },
+  "summary": "查询原版和模组配方、材料用途与制作路径，并浏览物品和怪物图鉴。",
+  "localizedNames": {
+    "zh-Hans": "合成表"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "查询原版和模组配方、材料用途与制作路径，并浏览物品和怪物图鉴。"
+  }
+}

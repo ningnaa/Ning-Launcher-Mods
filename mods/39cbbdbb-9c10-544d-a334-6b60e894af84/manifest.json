@@ -1,0 +1,40 @@
+{
+  "uid": "39cbbdbb-9c10-544d-a334-6b60e894af84",
+  "id": "hpaware",
+  "name": "生命感知",
+  "version": "1.0.6.1-bunny.1",
+  "blVersion": 2,
+  "entry": "main.js",
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "category": "辅助",
+  "updated": "2026-11-01",
+  "author": "Core",
+  "authors": [
+    {
+      "name": "Core",
+      "role": "原作者"
+    },
+    {
+      "name": "柠娜",
+      "role": "Bunny Loader 移植者"
+    }
+  ],
+  "license": "",
+  "description": "受伤与低血量画面提醒、角色血条、药水就绪提示和减益提示，支持灰度、音效、音乐衰减与排除名单。",
+  "portEdition": {
+    "originalName": "HP Awareness",
+    "sourceVersion": "1.0.6.1",
+    "sourceSha256": "9c82735ae5b479f0e1db2031e145ba036c9f31634e37294fcd4077660cec6999",
+    "porter": "柠娜",
+    "revision": 1
+  },
+  "links": [
+    {
+      "title": "Steam 原作",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2564503881"
+    }
+  ]
+}

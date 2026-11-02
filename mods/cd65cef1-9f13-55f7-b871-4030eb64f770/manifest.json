@@ -1,0 +1,40 @@
+{
+  "uid": "cd65cef1-9f13-55f7-b871-4030eb64f770",
+  "id": "shopexpander",
+  "name": "商店翻页",
+  "version": "1.8.1-bunny.1",
+  "blVersion": 2,
+  "entry": "main.js",
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "category": "界面",
+  "updated": "2026-11-02",
+  "author": "DRKV、Exterminator",
+  "authors": [
+    {
+      "name": "DRKV、Exterminator",
+      "role": "原作者与维护者"
+    },
+    {
+      "name": "柠娜",
+      "role": "Bunny Loader 移植者"
+    }
+  ],
+  "license": "MIT",
+  "description": "在原生商店中翻阅完整商品列表，提供独立回购页及模组商店兼容接口。原作者与维护者 DRKV、Exterminator；移植者柠娜。",
+  "portEdition": {
+    "originalName": "Shop Expander",
+    "sourceVersion": "1.8.1",
+    "sourceSha256": "cf56d7d69b2228303823ce45311a0fc63e186143e9f0e11d91bd9dbd41603b1b",
+    "porter": "柠娜",
+    "revision": 1
+  },
+  "links": [
+    {
+      "title": "Steam 原作",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2828370879"
+    }
+  ]
+}

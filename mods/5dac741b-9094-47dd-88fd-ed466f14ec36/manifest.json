@@ -1,0 +1,54 @@
+{
+  "uid": "5dac741b-9094-47dd-88fd-ed466f14ec36",
+  "id": "ImproveGame",
+  "name": "更好的体验",
+  "localizedNames": {
+    "zh-Hans": "更好的体验"
+  },
+  "localizedSummaries": {
+    "en-US": "These features will bring you better gameplay experience",
+    "zh-Hans": "更好的体验：便携增益、背包与容器、建造魔杖和日常便利设置。移植者：LL。部分功能限单人模式；请勿与轻量版同时启用。"
+  },
+  "version": "1.0.3-ning.1",
+  "authors": [
+    {
+      "name": "局长, Cyril and the ImproveGame team",
+      "role": "Original tModLoader mod",
+      "color": "#7FD4FF",
+      "link": "https://github.com/487666123/ImproveGame"
+    },
+    {
+      "name": "榴莲只吃皮",
+      "role": "移动端移植",
+      "avatar": "durian.png",
+      "color": "#E8C170"
+    },
+    {
+      "name": "LL",
+      "role": "移植者"
+    }
+  ],
+  "category": "实用工具",
+  "summary": "更好的体验：便携增益、背包与容器、建造魔杖和日常便利设置。移植者：LL。部分功能限单人模式；请勿与轻量版同时启用。",
+  "license": "MIT",
+  "updated": "2026-11-02",
+  "blVersion": 2,
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "entry": "main.js",
+  "dependencies": [],
+  "links": [
+    {
+      "title": "Original (GitHub)",
+      "url": "https://github.com/487666123/ImproveGame"
+    }
+  ],
+  "pages": [],
+  "repairEdition": {
+    "parentVersion": "1.0.3",
+    "parentSha256": "9768c21acec3e22bb65057252ce65c82df6e157682eb5fd7e7e15641c79e02ec",
+    "revision": 1
+  }
+}

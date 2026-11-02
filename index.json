@@ -719,25 +719,25 @@
     {
       "uid": "dc3f4de8-1c59-4d92-a986-3ea0e4b42e15",
       "id": "cooleritemvisualeffect",
-      "name": "Cooler Item Visual Effect — Bunny Port",
-      "version": "1.0.9-bunny.9.ningzh.2.fix.1",
+      "name": "近战武器视觉特效（C.I.V.E.）",
+      "version": "1.0.9-bunny.9.ningzh.2.fix.2",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-cooleritemvisualeffect-v1.0.9-bunny.9.ningzh.2.fix.1/cooleritemvisualeffect-1.0.9-bunny.9.ningzh.2.fix.1.bl",
-        "sha256": "8439bfe9aed54c82447c6f32ecd25d45141de87918105191f067a9ed88bc2a08",
-        "size": 39912
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-cooleritemvisualeffect-v1.0.9-bunny.9.ningzh.2.fix.2/cooleritemvisualeffect-1.0.9-bunny.9.ningzh.2.fix.2.bl",
+        "sha256": "cbfd16fdcacab363af6a71f7fcc4a1f4c4f2dd6ce23f4b75ed8c73baa9e865d3",
+        "size": 40412
       },
       "files": [
-        "manifest.json",
-        "icon.png",
         "authors/castorzeira.png",
+        "changelog_zh-Hans.md",
         "description_zh-Hans.md",
-        "changelog_zh-Hans.md"
+        "icon.png",
+        "manifest.json"
       ],
       "manifest": {
         "uid": "dc3f4de8-1c59-4d92-a986-3ea0e4b42e15",
         "id": "cooleritemvisualeffect",
-        "name": "Cooler Item Visual Effect — Bunny Port",
-        "version": "1.0.9-bunny.9.ningzh.2.fix.1",
+        "name": "近战武器视觉特效（C.I.V.E.）",
+        "version": "1.0.9-bunny.9.ningzh.2.fix.2",
         "authors": [
           {
             "name": "Log Spiral (Original Creator)",
@@ -750,16 +750,17 @@
           }
         ],
         "category": "视觉效果",
-        "summary": "Efeito Slash Maneiro",
+        "summary": "挥砍剑光与攻击动画；联机使用原版近战伤害判定和同步。",
         "description": "efeito slash totalmente exagerado e bonito",
-        "updated": "2026-10-31",
+        "updated": "2026-11-02",
         "blVersion": 2,
         "entry": "main.js",
         "localizedNames": {
-          "zh-Hans": "近战武器视觉特效（C.I.V.E.）"
+          "zh-Hans": "近战武器视觉特效（C.I.V.E.）",
+          "en-US": "Cooler Item Visual Effect — Bunny Port"
         },
         "localizedSummaries": {
-          "zh-Hans": "夸张而华丽的挥砍特效，Bunny Loader 移植版。"
+          "zh-Hans": "挥砍剑光与攻击动画；联机使用原版近战伤害判定和同步。"
         },
         "localizationEdition": {
           "language": "zh-Hans",
@@ -767,12 +768,13 @@
           "baseVersion": "1.0.9-bunny.9"
         },
         "repairEdition": {
-          "revision": 1,
-          "parentVersion": "1.0.9-bunny.9.ningzh.2",
-          "parentSha256": "16c7ec1d30ad57d33427ff944fc2fcd07aaf32b4ac66088fe26189362d80d7cc"
+          "parentVersion": "1.0.9-bunny.9.ningzh.2.fix.1",
+          "parentSha256": "8439bfe9aed54c82447c6f32ecd25d45141de87918105191f067a9ed88bc2a08",
+          "revision": 2
         }
       },
-      "publishedAt": "2026-10-29T10:39:39Z"
+      "publishedAt": "2026-10-29T10:39:39Z",
+      "updatedAt": "2026-11-02T01:53:52Z"
     },
     {
       "uid": "a4f0d04b-f2f0-499b-b4b8-6d89e4bcbd6a",
@@ -5010,6 +5012,83 @@
         "size": 19120
       },
       "publishedAt": "2026-11-01T16:33:20.721224Z"
+    },
+    {
+      "uid": "5dac741b-9094-47dd-88fd-ed466f14ec36",
+      "id": "ImproveGame",
+      "name": "更好的体验",
+      "version": "1.0.3-ning.1",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-ImproveGame-v1.0.3-ning.1/ImproveGame-1.0.3-ning.1.bl",
+        "sha256": "819e8dacbea1ba57b02143054fb478ae6aa237ff45a3323954234821509529b3",
+        "size": 380487
+      },
+      "files": [
+        "authors/durian.png",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description.md",
+        "description_zh-Hans.md",
+        "icon.png",
+        "license.md",
+        "manifest.json"
+      ],
+      "manifest": {
+        "uid": "5dac741b-9094-47dd-88fd-ed466f14ec36",
+        "id": "ImproveGame",
+        "name": "更好的体验",
+        "localizedNames": {
+          "zh-Hans": "更好的体验"
+        },
+        "localizedSummaries": {
+          "en-US": "These features will bring you better gameplay experience",
+          "zh-Hans": "更好的体验：便携增益、背包与容器、建造魔杖和日常便利设置。移植者：LL。部分功能限单人模式；请勿与轻量版同时启用。"
+        },
+        "version": "1.0.3-ning.1",
+        "authors": [
+          {
+            "name": "局长, Cyril and the ImproveGame team",
+            "role": "Original tModLoader mod",
+            "color": "#7FD4FF",
+            "link": "https://github.com/487666123/ImproveGame"
+          },
+          {
+            "name": "榴莲只吃皮",
+            "role": "移动端移植",
+            "avatar": "durian.png",
+            "color": "#E8C170"
+          },
+          {
+            "name": "LL",
+            "role": "移植者"
+          }
+        ],
+        "category": "实用工具",
+        "summary": "更好的体验：便携增益、背包与容器、建造魔杖和日常便利设置。移植者：LL。部分功能限单人模式；请勿与轻量版同时启用。",
+        "license": "MIT",
+        "updated": "2026-11-02",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": [],
+        "links": [
+          {
+            "title": "Original (GitHub)",
+            "url": "https://github.com/487666123/ImproveGame"
+          }
+        ],
+        "pages": [],
+        "repairEdition": {
+          "parentVersion": "1.0.3",
+          "parentSha256": "9768c21acec3e22bb65057252ce65c82df6e157682eb5fd7e7e15641c79e02ec",
+          "revision": 1
+        }
+      },
+      "updatedAt": "2026-11-02T01:53:52Z",
+      "publishedAt": "2026-11-02T01:53:52Z"
     }
   ],
   "featured": [

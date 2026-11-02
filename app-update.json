@@ -1,7 +1,8 @@
 {
   "format": 1,
-  "applicationId": "com.bunnyloader.mods",
-  "versionCode": 406,
-  "versionName": "0.4.17",
-  "enabled": true
+  "applicationId": "com.ningloader.mods",
+  "versionCode": 408,
+  "versionName": "0.4.19",
+  "enabled": true,
+  "description": "0.4.19 更新内容：\n1. 设置新增“游戏资源 → 初始化游戏资源”，可从兼容的游戏本体或本体 APK 重建资源，处理资源损坏导致的启动异常。\n2. 初始化保留人物、世界、模组和设置；失败或取消时保留原资源。请先保存并退出游戏再操作。\n3. 更新提示支持显示云端更新说明。\n\n可前往 QQ 频道获取新版安装包。"
 }

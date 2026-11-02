@@ -1,0 +1,8 @@
+{
+  "format": 1,
+  "applicationId": "com.bunnyloader.mods",
+  "versionCode": 408,
+  "versionName": "0.4.19\n请先导出人物和世界存档，再安装新版并导入。\n导出前请勿卸载旧版。",
+  "enabled": true,
+  "description": "新版包名为 com.ningloader.mods。请先在旧版的设置中导出人物和世界存档，并将导出的文件保存到应用目录之外，再安装 0.4.19，在新版中导入存档。确认迁移成功前请保留旧版。可前往 QQ 频道获取新版安装包。"
+}

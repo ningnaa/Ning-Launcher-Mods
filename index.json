@@ -1587,12 +1587,12 @@
     {
       "uid": "064e2318-32a8-4c41-a625-bcc8388ced91",
       "id": "gnorpbuilder",
-      "name": "Gnorp's Builder",
-      "version": "1.3.8.5-ningzh.1",
+      "name": "Gnorp 建筑师",
+      "version": "1.3.8.5-ningzh.1.fix.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-gnorpbuilder-v1.3.8.5-ningzh.1/gnorpbuilder-1.3.8.5-ningzh.1.bl",
-        "sha256": "e1b440d1e63da7b48286ab73bf8b78b9b92860e3bbfebf96a7230dcc1fd3dc60",
-        "size": 4932716
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-gnorpbuilder-v1.3.8.5-ningzh.1.fix.1/gnorpbuilder-1.3.8.5-ningzh.1.fix.1.bl",
+        "sha256": "6934964c6d29fc59575903d743fec3fafcc1d365234b76f17e8b6d61069b8d24",
+        "size": 4902359
       },
       "files": [
         "manifest.json",
@@ -1602,13 +1602,27 @@
         "authors/animatak.png",
         "authors/steam.png",
         "description_zh-Hans.md",
-        "changelog_zh-Hans.md"
+        "changelog_zh-Hans.md",
+        "changelog_de-DE.md",
+        "changelog_es-ES.md",
+        "changelog_fr-FR.md",
+        "changelog_it-IT.md",
+        "changelog_pl-PL.md",
+        "changelog_pt-BR.md",
+        "changelog_ru-RU.md",
+        "description_de-DE.md",
+        "description_es-ES.md",
+        "description_fr-FR.md",
+        "description_it-IT.md",
+        "description_pl-PL.md",
+        "description_pt-BR.md",
+        "description_ru-RU.md"
       ],
       "manifest": {
         "uid": "064e2318-32a8-4c41-a625-bcc8388ced91",
         "id": "gnorpbuilder",
-        "name": "Gnorp's Builder",
-        "version": "1.3.8.5-ningzh.1",
+        "name": "Gnorp 建筑师",
+        "version": "1.3.8.5-ningzh.1.fix.1",
         "authors": [
           {
             "name": "Korlex",
@@ -1617,14 +1631,14 @@
           },
           {
             "name": "Animatak_",
-            "role": "移植",
+            "role": "Bunny Loader 移植",
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/mkPMd9shZH"
           }
         ],
-        "category": "世界",
-        "summary": "Gnorp, an alien builder town NPC, sells globes that instantly build houses, castles, arenas, elevators, pylons, lakes and minecart tracks where you tap.",
+        "category": "World",
+        "summary": "外星建筑师城镇NPC Gnorp 出售建筑球，可以在你点击的位置立即建造房屋、城堡、竞技场、电梯、晶塔、湖泊和矿车轨道。",
         "localizedSummaries": {
           "pt-BR": "Gnorp, um NPC construtor alienígena, vende globos que constroem na hora casas, castelos, arenas, elevadores, pilares, lagos e trilhos onde você toca.",
           "es-ES": "Gnorp, un constructor alienígena que vive en tu pueblo, vende globos que construyen al instante casas, castillos, arenas, ascensores, pilares, lagos y raíles de vagoneta donde tocas.",
@@ -1635,7 +1649,7 @@
           "pl-PL": "Gnorp, kosmiczny NPC budowniczy, sprzedaje kule, które natychmiast budują domy, zamki, areny, windy, pylony, jeziora i tory wagonika tam, gdzie dotkniesz.",
           "zh-Hans": "外星建筑师城镇NPC Gnorp 出售建筑球，可以在你点击的位置立即建造房屋、城堡、竞技场、电梯、晶塔、湖泊和矿车轨道。"
         },
-        "updated": "2026-10-27",
+        "updated": "2026-11-02",
         "blVersion": 2,
         "entry": "main.js",
         "localizedNames": {
@@ -1645,8 +1659,15 @@
           "language": "zh-Hans",
           "revision": 1,
           "baseVersion": "1.3.8.5"
-        }
-      }
+        },
+        "repairEdition": {
+          "revision": 1,
+          "parentVersion": "1.3.8.5-ningzh.1",
+          "parentSha256": "e1b440d1e63da7b48286ab73bf8b78b9b92860e3bbfebf96a7230dcc1fd3dc60"
+        },
+        "description": "# Gnorp's Builder\n\n来认识一下 **Gnorp**，一位外星建筑师，他会在第一天就搬进你的世界。和他交谈，从他的五家商店中选择一家购买**建筑球**：使用一个，建筑就会出现在你点击的位置。\n\n## 可以建造什么\n\n- 每个生物群系（森林、苔原、沙漠、丛林、海洋、蘑菇、神圣之地）的路灯和小型、中型、大型房屋，以及会根据你所在生物群系选择风格的\"生物群系\"建筑球。\n- 四种尺寸的城堡和树屋基地。\n- 地下室模块：房间、走廊、楼梯、拐角、监狱、军械库、图书馆等，可以在地下拼接在一起。\n- Boss 竞技场（简易和高级，三种尺寸）。\n- 水、熔岩、蜂蜜和微光湖（微光湖在击败月亮领主之后）。\n- 一直挖到地狱的电梯，每个生物群系一种。\n- 每个生物群系的晶塔房屋。\n- 矿车轨道，包括一条贯穿整个世界的轨道。\n- 节日房屋（情人节、爱心房屋）和几座搞笑的房屋。\n\n神圣之地的建筑在困难模式解锁。如果 Gnorp 死了，他会掉落 **Gnorpy遥控器**，可以把他带回来（也可以用虫网抓住他）。\n\n## 手机版\n\n- 建筑会在它将出现的位置显示半透明预览。\n- 默认情况下，建筑的底部中心会放在你点击的方块上：它从地面向上生长，你能看到它会延伸到哪里。\n- 点击**锚点**按钮（手持建筑球时显示）可切换到原版的四个角之一。设置中也有此选项。\n- 可选\"双击放置\"，避免误触浪费建筑球。\n- 支持多人游戏：服务器负责建造并同步区域。\n\n## 设置\n\n图片预览、粒子预览、预览不透明度、双击放置以及默认锚点。\n\n原版模组由 **Korlex** 制作，由 Animatak_ 移植。建筑来自原版文件（已内置 StructureHelper，无需其他模组）。\n\n\n## 修复说明\n\n修复出生或读档初期建筑师显示为一整串重复贴图的问题，保留原有外观、商店和建筑工具。安装更新后请完全退出并重启游戏。\n"
+      },
+      "updatedAt": "2026-11-02T08:28:36.253217Z"
     },
     {
       "uid": "4ef70487-0ffd-4b37-adbd-9e9a403d5307",
@@ -4293,11 +4314,11 @@
       "uid": "bc7737f5-d941-4d5c-b00b-eaec2c25eee8",
       "id": "unifiedstorage",
       "name": "魔法存储",
-      "version": "1.0.0-ningzh.1",
+      "version": "1.0.0-ningzh.1.fix.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-unifiedstorage-v1.0.0-ningzh.1/unifiedstorage-1.0.0-ningzh.1.bl",
-        "sha256": "cc65e30d47e0ee12b6d6644f419d4b90f57b7e82f9562f3a645255f202721e05",
-        "size": 436036
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-unifiedstorage-v1.0.0-ningzh.1.fix.1/unifiedstorage-1.0.0-ningzh.1.fix.1.bl",
+        "sha256": "1456e53a4a69c3478fd904a8375c1dbe0c862313f83c5013d1aecda7c0414fa3",
+        "size": 437449
       },
       "files": [
         "authors/absoluteaquarian.png",
@@ -4315,7 +4336,7 @@
         "uid": "bc7737f5-d941-4d5c-b00b-eaec2c25eee8",
         "id": "unifiedstorage",
         "name": "魔法存储",
-        "version": "1.0.0-ningzh.1",
+        "version": "1.0.0-ningzh.1.fix.1",
         "authors": [
           {
             "name": "Bloa",
@@ -4338,7 +4359,7 @@
         "summary": "将存储单元连接到核心，集中搜索、分类、取放物品，并使用网络内的材料制作；支持容量升级和远程访问。当前移植版仅支持单人模式。",
         "license": "MIT",
         "featured": false,
-        "updated": "2026-11-01",
+        "updated": "2026-11-02",
         "blVersion": 2,
         "gameVersion": [
           301720,
@@ -4362,9 +4383,16 @@
           "language": "zh-Hans",
           "revision": 1,
           "baseVersion": "1.0.0"
-        }
+        },
+        "repairEdition": {
+          "revision": 1,
+          "parentVersion": "1.0.0-ningzh.1",
+          "parentSha256": "cc65e30d47e0ee12b6d6644f419d4b90f57b7e82f9562f3a645255f202721e05"
+        },
+        "description": "# 魔法存储\n\n将存储单元连接到核心，集中搜索、分类、取放物品，并使用网络内的材料制作；支持容量升级和远程访问。当前移植版仅支持单人模式。\n\n将存储单元与存储核心相连，点击核心或访问器打开界面。连接存储制作界面后，可直接用存储材料制作。制作站和墓碑可安装到核心。手持远程访问器点击核心完成绑定。\n\n基础容量40栏，依次升级为80、120、160、240、320和640栏。拆除单元前须清空物品。支持名称搜索、@模组和#英文分类；分类按钮已汉化。\n\n此移植版的存储界面仅支持单人模式，多人模式下无法打开。\n\n署名：Titan camera（移植者）；Bloa（原包移动端适配）；Absoluteaquarian（材质与设计）；Magic Storage 原作者 Kaylee Minsuh Kim、absoluteAquarian 及贡献者。保留 MIT 许可。\n\n\n## 修复说明\n\n存储与制作界面打开时拦截背景触摸、攻击、交互和移动，以及原版地图和背包入口；关闭后恢复游戏操作。面板上方留白避开手机版顶部按钮。安装更新后请完全退出并重启游戏。\n"
       },
-      "publishedAt": "2026-11-01T07:38:36Z"
+      "publishedAt": "2026-11-01T07:38:36Z",
+      "updatedAt": "2026-11-02T08:28:36.316278Z"
     },
     {
       "uid": "e3c3804b-ea9a-406f-a65e-f8f01220b5f5",
@@ -4958,7 +4986,7 @@
         "uid": "b1241e97-de9b-479f-a5cc-41fddc33aa83",
         "id": "a1",
         "name": "成长型武器",
-        "version": "1.0.0-ningzh.1.fix.1",
+        "version": "1.0.1-ningzh.1",
         "author": "阮汐月",
         "authors": [
           {
@@ -4969,8 +4997,8 @@
         ],
         "category": "武器",
         "type": "mod",
-        "summary": "手持后自动召唤飞剑，伤害、数量上限和速度随当前世界Boss进度成长。",
-        "description": "# 成长型武器\n\n作者：阮汐月。当前包含一件成长型召唤武器：成长型泰拉棱镜。保留原包MIT许可声明。\n\n## 制作与使用\n\n在工作台使用10个铁锭或铅锭、3颗坠落之星、5个金锭或铂金锭制作。\n\n手持武器后自动补充飞剑，初始基础伤害12、飞剑上限1。切换到其他武器时，已经召唤的飞剑继续存在；将本武器移出背包或角色死亡后，飞剑消失。重新手持可再次召唤。\n\n## 成长\n\n读取当前世界的Boss进度，各阶段奖励只计一次，重复击败同一个Boss不会重复叠加。伤害倍率相乘，最终向上取整；飞剑数量奖励相加。\n\n| 达成条件 | 伤害倍率 | 飞剑上限增加 |\n|---|---|---|\n| 克苏鲁之眼 | ×1.20 | +1 |\n| 骷髅王 | ×1.20 | — |\n| 蜂王 | ×1.20 | +2 |\n| 进入困难模式 | ×1.25 | +1 |\n| 任意机械Boss | ×1.30 | +1 |\n| 世纪之花 | ×1.30 | +1 |\n| 石巨人 | ×1.20 | — |\n| 拜月教邪教徒 | ×1.25 | +2 |\n| 月亮领主 | ×1.50 | +4 |\n\n进度全部完成时，武器基础伤害为99，飞剑数量上限为13。实际战斗伤害还受游戏属性、敌人防御等影响。飞剑速度也随进度提高；说明栏显示当前伤害、数量上限和下一阶段提示。\n\n已召唤飞剑保留召唤时的伤害。进度提升后，可先将武器移出背包取消飞剑，再放回背包并重新手持，让所有飞剑使用当前伤害。\n\n飞剑会在附近搜寻敌人，无目标时环绕玩家；每把飞剑使用独立的命中冷却。成长依据世界状态，切换世界后按新世界的进度重新计算。\n\n安装或更新后重启游戏。联机兼容性尚未充分验证。\n\n\n## 小动物保护\n\n修复飞剑追踪小动物的问题，并防止飞向敌人途中碰撞误伤小动物。普通敌人及腐化兔等敌对怪物仍可正常攻击；伤害、成长倍率、飞剑数量与速度保持原有设置。更新后请完全退出并重启游戏。\n",
+        "summary": "手持后自动补充翼形飞剑，伤害和数量上限随世界 Boss 进度成长；飞剑突刺并旋转连击敌人。",
+        "description": "# 成长型武器\n\n作者：阮汐月。更新至作者提供的 1.0.1。\n\n在工作台用10个铁锭或铅锭、3颗坠落之星、5个金锭或铂金锭制作成长型泰拉棱镜。手持后自动补充飞剑，切换武器后继续存在，移出背包或角色死亡后消失。\n\n基础成长仍按世界已击败的 Boss 计算，从12点基础伤害、1把飞剑成长至99点基础伤害、13把飞剑。同一进度不会因重复击杀而重复累计。召唤时计算当前召唤伤害加成；已存在飞剑保留召唤时的伤害。\n\n新版采用翼形排列以及突刺、旋转连击、返回的动作，不追击城镇 NPC 和生命上限不超过5的小动物。\n\n安装或更新后完全退出并重启游戏。联机兼容性尚未充分验证。\n",
         "license": "MIT",
         "links": [],
         "pages": [],
@@ -5000,24 +5028,23 @@
           "en-US": "Growth-oriented weapon"
         },
         "localizedSummaries": {
-          "zh-Hans": "手持后自动召唤飞剑，伤害、数量上限和速度随当前世界Boss进度成长。",
+          "zh-Hans": "手持后自动补充翼形飞剑，伤害和数量上限随世界 Boss 进度成长；飞剑突刺并旋转连击敌人。",
           "en-US": "A summon weapon that grows with you throughout your Terraria journey. From a faint starlight to a sword array that tears through the Moon Lord. More growth equipment coming soon."
         },
-        "repairEdition": {
-          "parentVersion": "1.0.0-ningzh.1",
-          "parentSha256": "bea16c95a367ea20478ebe880f27faa17091e0deb8eaeea94b81dfaac4f6b620",
-          "revision": 1
+        "sourceEdition": {
+          "baseVersion": "1.0.1",
+          "sourceManifestSha256": "345394d6defc585e38b68754088e2d9a51b6d13a802628b67d86fe544a5a1871"
         }
       },
       "name": "成长型武器",
-      "version": "1.0.0-ningzh.1.fix.1",
+      "version": "1.0.1-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-a1-v1.0.0-ningzh.1.fix.1/a1-1.0.0-ningzh.1.fix.1.bl",
-        "size": 19871,
-        "sha256": "50d36a9d1bd31c55581afd068b68b95b836d685cf8aafdb07ee6a6ca0da82114"
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-a1-v1.0.1-ningzh.1/a1-1.0.1-ningzh.1.bl",
+        "sha256": "63694ec8d977a52ca09302fb6ec0858f4fd57eea204a3bbbe455542d8ed08360",
+        "size": 16749
       },
       "publishedAt": "2026-11-01T16:33:20.721224Z",
-      "updatedAt": "2026-11-02T03:54:24.748549Z"
+      "updatedAt": "2026-11-02T08:28:36.178054Z"
     },
     {
       "uid": "5dac741b-9094-47dd-88fd-ed466f14ec36",
@@ -5095,6 +5122,190 @@
       },
       "updatedAt": "2026-11-02T01:53:52Z",
       "publishedAt": "2026-11-02T01:53:52Z"
+    },
+    {
+      "uid": "024331b6-3e6a-33d2-9baa-5708933fd1e0",
+      "id": "texture-024331b6-3e6a-33d2-9baa-5708933fd1e0",
+      "name": "全NPC可爱",
+      "version": "1.0.0-port.1",
+      "manifest": {
+        "uid": "024331b6-3e6a-33d2-9baa-5708933fd1e0",
+        "id": "texture-024331b6-3e6a-33d2-9baa-5708933fd1e0",
+        "name": "全NPC可爱",
+        "version": "1.0.0-port.1",
+        "type": "texture",
+        "category": "材质包",
+        "summary": "以可爱角色造型重绘 NPC、头像和相关碎块动画。",
+        "localizedNames": {
+          "zh-Hans": "全NPC可爱",
+          "en-US": "全NPC可爱"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "以可爱角色造型重绘 NPC、头像和相关碎块动画。"
+        },
+        "authors": [
+          {
+            "name": "那位伟大的向导大人",
+            "role": "原作者"
+          },
+          {
+            "name": "wan",
+            "role": "部分角色原设计"
+          },
+          {
+            "name": "月光不止于疾风",
+            "role": "移植者"
+          }
+        ],
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "updated": "2026-11-02",
+        "links": [
+          {
+            "title": "原作 Steam 创意工坊",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3307646858"
+          }
+        ],
+        "description": "# 全NPC可爱\n\n以可爱角色造型重绘 NPC、头像和相关碎块动画。\n\n原作者：那位伟大的向导大人。移植者：月光不止于疾风。动画由原作者绘制，28名NPC中11名角色的原设计来自wan。\n\n包含187张活动贴图。源包未附独立许可证声明，保留原作署名与资料。\n\n启用后重启生效，关闭后重启恢复原版；同名贴图覆盖按加载优先级。\n"
+      },
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-texture-024331b6-3e6a-33d2-9baa-5708933fd1e0-v1.0.0-port.1/texture-024331b6-3e6a-33d2-9baa-5708933fd1e0-1.0.0-port.1.bl",
+        "sha256": "8d01cce4441d322cf2de2af3c8ea16c6484bcd1741ce33eb143d027a8c5b7c64",
+        "size": 730933
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md"
+      ],
+      "updatedAt": "2026-11-02T08:28:36.280395Z",
+      "publishedAt": "2026-11-02T08:28:36.280395Z"
+    },
+    {
+      "uid": "729873fc-a00b-33e7-a02a-6b6cd589aed6",
+      "id": "texture-729873fc-a00b-33e7-a02a-6b6cd589aed6",
+      "name": "JoJo的泰拉冒险",
+      "version": "2.0.0-port.1",
+      "manifest": {
+        "uid": "729873fc-a00b-33e7-a02a-6b6cd589aed6",
+        "id": "texture-729873fc-a00b-33e7-a02a-6b6cd589aed6",
+        "name": "JoJo的泰拉冒险",
+        "version": "2.0.0-port.1",
+        "type": "texture",
+        "category": "材质包",
+        "summary": "以 JoJo 角色和替身主题替换盔甲、武器、召唤物及部分界面与家具外观。",
+        "localizedNames": {
+          "zh-Hans": "JoJo的泰拉冒险",
+          "en-US": "JoJo's Terraria Adventure"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "以 JoJo 角色和替身主题替换盔甲、武器、召唤物及部分界面与家具外观。"
+        },
+        "authors": [
+          {
+            "name": "Giobun",
+            "role": "原作者"
+          },
+          {
+            "name": "1",
+            "role": "移植者"
+          }
+        ],
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "updated": "2026-11-02",
+        "links": [
+          {
+            "title": "原作 Steam 创意工坊",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2440909212"
+          }
+        ],
+        "description": "# JoJo的泰拉冒险\n\n以 JoJo 角色和替身主题替换盔甲、武器、召唤物及部分界面与家具外观。\n\n原作者：Giobun。移植者：1。原名：JoJo's Terraria Adventure。\n\n包含257张活动贴图。4张旧版动画/图集与手机版布局不一致，保留原版显示，原图附于 source/incompatible。源包未附独立许可证声明，保留原作署名与资料。\n\n启用后重启生效，关闭后重启恢复原版；同名贴图覆盖按加载优先级。\n"
+      },
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-texture-729873fc-a00b-33e7-a02a-6b6cd589aed6-v2.0.0-port.1/texture-729873fc-a00b-33e7-a02a-6b6cd589aed6-2.0.0-port.1.bl",
+        "sha256": "830bc1d31fdbda2499be2560b2381686499d7f39bb02641b8b7b5b4597426276",
+        "size": 635930
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md"
+      ],
+      "updatedAt": "2026-11-02T08:28:36.304065Z",
+      "publishedAt": "2026-11-02T08:28:36.304065Z"
+    },
+    {
+      "uid": "9b5487f0-f568-4956-a81d-9619be344a2c",
+      "id": "vortex_weapons",
+      "name": "天界四柱·武器扩展与重置",
+      "version": "1.17.1-ning.1",
+      "manifest": {
+        "uid": "9b5487f0-f568-4956-a81d-9619be344a2c",
+        "id": "vortex_weapons",
+        "name": "天界四柱·武器扩展与重置",
+        "version": "1.17.1-ning.1",
+        "authors": [
+          {
+            "name": "白色灯泡小精灵",
+            "role": "原作者",
+            "avatar": "avatar.png",
+            "color": "#7B9E89"
+          },
+          {
+            "name": "北妓春奈",
+            "role": "移植者"
+          }
+        ],
+        "category": "武器",
+        "summary": "新增星旋湍流、日珥、星云天秤，重做日耀喷发剑、星旋机枪、星云奥秘、幻影弓、星云烈焰、破晓之光。",
+        "license": "CC-BY-NC-4.0",
+        "updated": "2026-11-02",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": [],
+        "notes": "喵？",
+        "sourceEdition": {
+          "baseVersion": "1.17.1",
+          "sourceManifestSha256": "6eff51be10641b27c268de4dd1e719b0e5160ff21a6089730506676bfde00581"
+        },
+        "localizedNames": {
+          "zh-Hans": "天界四柱·武器扩展与重置"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "新增星旋湍流、日珥、星云天秤，重做日耀喷发剑、星旋机枪、星云奥秘、幻影弓、星云烈焰、破晓之光。"
+        },
+        "description": "# ★ 四柱武器扩展 & 重制\n\n## ✦ 新增武器\n\n- **星旋湍流**（星旋）\n- **日珥**（日耀）\n- **星云天秤**（星云）\n\n## ✦ 重做的原版武器\n\n- **日耀喷发**\n- **星旋机枪**\n- **星云奥秘**\n- **幻影弓**\n- **星云烈焰**\n- **破晓之光**\n- （星尘柱没问）\n\n## ✦ 其他内容\n\n- 不会调数值，所以没做平衡哦\n- 但是你可以在mod设置里调整是否在月后才启用原版武器重置\n\n原作者：白色灯泡小精灵。移植者：北妓春奈。代码及原创内容按 CC BY-NC 4.0 发布，其他素材归各自权利人，详见包内许可证。安装并启用后重启游戏；联机兼容性尚未充分验证。\n\n手机版绘制接口限制：日珥部分星芒保留原版颜色与位置；其他视觉效果按当前运行库能力显示。\n"
+      },
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-vortex_weapons-v1.17.1-ning.1/vortex_weapons-1.17.1-ning.1.bl",
+        "sha256": "7373a284afe76879eabd100ac2fce94e8d6c37af1eae952799659f909c7dd3b7",
+        "size": 401297
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "license.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "authors/avatar.png"
+      ],
+      "updatedAt": "2026-11-02T08:28:36.336930Z",
+      "publishedAt": "2026-11-02T08:28:36.336930Z"
     }
   ],
   "featured": [

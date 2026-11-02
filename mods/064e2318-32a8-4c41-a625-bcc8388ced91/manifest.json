@@ -1,8 +1,8 @@
 {
   "uid": "064e2318-32a8-4c41-a625-bcc8388ced91",
   "id": "gnorpbuilder",
-  "name": "Gnorp's Builder",
-  "version": "1.3.8.5-ningzh.1",
+  "name": "Gnorp 建筑师",
+  "version": "1.3.8.5-ningzh.1.fix.1",
   "authors": [
     {
       "name": "Korlex",
@@ -11,14 +11,14 @@
     },
     {
       "name": "Animatak_",
-      "role": "移植",
+      "role": "Bunny Loader 移植",
       "avatar": "animatak.png",
       "color": "#841FFF",
       "link": "https://discord.gg/mkPMd9shZH"
     }
   ],
-  "category": "世界",
-  "summary": "Gnorp, an alien builder town NPC, sells globes that instantly build houses, castles, arenas, elevators, pylons, lakes and minecart tracks where you tap.",
+  "category": "World",
+  "summary": "外星建筑师城镇NPC Gnorp 出售建筑球，可以在你点击的位置立即建造房屋、城堡、竞技场、电梯、晶塔、湖泊和矿车轨道。",
   "localizedSummaries": {
     "pt-BR": "Gnorp, um NPC construtor alienígena, vende globos que constroem na hora casas, castelos, arenas, elevadores, pilares, lagos e trilhos onde você toca.",
     "es-ES": "Gnorp, un constructor alienígena que vive en tu pueblo, vende globos que construyen al instante casas, castillos, arenas, ascensores, pilares, lagos y raíles de vagoneta donde tocas.",
@@ -29,7 +29,7 @@
     "pl-PL": "Gnorp, kosmiczny NPC budowniczy, sprzedaje kule, które natychmiast budują domy, zamki, areny, windy, pylony, jeziora i tory wagonika tam, gdzie dotkniesz.",
     "zh-Hans": "外星建筑师城镇NPC Gnorp 出售建筑球，可以在你点击的位置立即建造房屋、城堡、竞技场、电梯、晶塔、湖泊和矿车轨道。"
   },
-  "updated": "2026-10-27",
+  "updated": "2026-11-02",
   "blVersion": 2,
   "entry": "main.js",
   "localizedNames": {
@@ -39,5 +39,11 @@
     "language": "zh-Hans",
     "revision": 1,
     "baseVersion": "1.3.8.5"
-  }
+  },
+  "repairEdition": {
+    "revision": 1,
+    "parentVersion": "1.3.8.5-ningzh.1",
+    "parentSha256": "e1b440d1e63da7b48286ab73bf8b78b9b92860e3bbfebf96a7230dcc1fd3dc60"
+  },
+  "description": "# Gnorp's Builder\n\n来认识一下 **Gnorp**，一位外星建筑师，他会在第一天就搬进你的世界。和他交谈，从他的五家商店中选择一家购买**建筑球**：使用一个，建筑就会出现在你点击的位置。\n\n## 可以建造什么\n\n- 每个生物群系（森林、苔原、沙漠、丛林、海洋、蘑菇、神圣之地）的路灯和小型、中型、大型房屋，以及会根据你所在生物群系选择风格的\"生物群系\"建筑球。\n- 四种尺寸的城堡和树屋基地。\n- 地下室模块：房间、走廊、楼梯、拐角、监狱、军械库、图书馆等，可以在地下拼接在一起。\n- Boss 竞技场（简易和高级，三种尺寸）。\n- 水、熔岩、蜂蜜和微光湖（微光湖在击败月亮领主之后）。\n- 一直挖到地狱的电梯，每个生物群系一种。\n- 每个生物群系的晶塔房屋。\n- 矿车轨道，包括一条贯穿整个世界的轨道。\n- 节日房屋（情人节、爱心房屋）和几座搞笑的房屋。\n\n神圣之地的建筑在困难模式解锁。如果 Gnorp 死了，他会掉落 **Gnorpy遥控器**，可以把他带回来（也可以用虫网抓住他）。\n\n## 手机版\n\n- 建筑会在它将出现的位置显示半透明预览。\n- 默认情况下，建筑的底部中心会放在你点击的方块上：它从地面向上生长，你能看到它会延伸到哪里。\n- 点击**锚点**按钮（手持建筑球时显示）可切换到原版的四个角之一。设置中也有此选项。\n- 可选\"双击放置\"，避免误触浪费建筑球。\n- 支持多人游戏：服务器负责建造并同步区域。\n\n## 设置\n\n图片预览、粒子预览、预览不透明度、双击放置以及默认锚点。\n\n原版模组由 **Korlex** 制作，由 Animatak_ 移植。建筑来自原版文件（已内置 StructureHelper，无需其他模组）。\n\n\n## 修复说明\n\n修复出生或读档初期建筑师显示为一整串重复贴图的问题，保留原有外观、商店和建筑工具。安装更新后请完全退出并重启游戏。\n"
 }

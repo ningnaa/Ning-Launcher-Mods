@@ -2,7 +2,7 @@
   "uid": "bc7737f5-d941-4d5c-b00b-eaec2c25eee8",
   "id": "unifiedstorage",
   "name": "魔法存储",
-  "version": "1.0.0-ningzh.1",
+  "version": "1.0.0-ningzh.1.fix.1",
   "authors": [
     {
       "name": "Bloa",
@@ -25,7 +25,7 @@
   "summary": "将存储单元连接到核心，集中搜索、分类、取放物品，并使用网络内的材料制作；支持容量升级和远程访问。当前移植版仅支持单人模式。",
   "license": "MIT",
   "featured": false,
-  "updated": "2026-11-01",
+  "updated": "2026-11-02",
   "blVersion": 2,
   "gameVersion": [
     301720,
@@ -49,5 +49,11 @@
     "language": "zh-Hans",
     "revision": 1,
     "baseVersion": "1.0.0"
-  }
+  },
+  "repairEdition": {
+    "revision": 1,
+    "parentVersion": "1.0.0-ningzh.1",
+    "parentSha256": "cc65e30d47e0ee12b6d6644f419d4b90f57b7e82f9562f3a645255f202721e05"
+  },
+  "description": "# 魔法存储\n\n将存储单元连接到核心，集中搜索、分类、取放物品，并使用网络内的材料制作；支持容量升级和远程访问。当前移植版仅支持单人模式。\n\n将存储单元与存储核心相连，点击核心或访问器打开界面。连接存储制作界面后，可直接用存储材料制作。制作站和墓碑可安装到核心。手持远程访问器点击核心完成绑定。\n\n基础容量40栏，依次升级为80、120、160、240、320和640栏。拆除单元前须清空物品。支持名称搜索、@模组和#英文分类；分类按钮已汉化。\n\n此移植版的存储界面仅支持单人模式，多人模式下无法打开。\n\n署名：Titan camera（移植者）；Bloa（原包移动端适配）；Absoluteaquarian（材质与设计）；Magic Storage 原作者 Kaylee Minsuh Kim、absoluteAquarian 及贡献者。保留 MIT 许可。\n\n\n## 修复说明\n\n存储与制作界面打开时拦截背景触摸、攻击、交互和移动，以及原版地图和背包入口；关闭后恢复游戏操作。面板上方留白避开手机版顶部按钮。安装更新后请完全退出并重启游戏。\n"
 }

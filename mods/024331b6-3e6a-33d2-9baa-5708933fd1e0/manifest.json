@@ -1,0 +1,43 @@
+{
+  "uid": "024331b6-3e6a-33d2-9baa-5708933fd1e0",
+  "id": "texture-024331b6-3e6a-33d2-9baa-5708933fd1e0",
+  "name": "全NPC可爱",
+  "version": "1.0.0-port.1",
+  "type": "texture",
+  "category": "材质包",
+  "summary": "以可爱角色造型重绘 NPC、头像和相关碎块动画。",
+  "localizedNames": {
+    "zh-Hans": "全NPC可爱",
+    "en-US": "全NPC可爱"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "以可爱角色造型重绘 NPC、头像和相关碎块动画。"
+  },
+  "authors": [
+    {
+      "name": "那位伟大的向导大人",
+      "role": "原作者"
+    },
+    {
+      "name": "wan",
+      "role": "部分角色原设计"
+    },
+    {
+      "name": "月光不止于疾风",
+      "role": "移植者"
+    }
+  ],
+  "blVersion": 2,
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "updated": "2026-11-02",
+  "links": [
+    {
+      "title": "原作 Steam 创意工坊",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3307646858"
+    }
+  ],
+  "description": "# 全NPC可爱\n\n以可爱角色造型重绘 NPC、头像和相关碎块动画。\n\n原作者：那位伟大的向导大人。移植者：月光不止于疾风。动画由原作者绘制，28名NPC中11名角色的原设计来自wan。\n\n包含187张活动贴图。源包未附独立许可证声明，保留原作署名与资料。\n\n启用后重启生效，关闭后重启恢复原版；同名贴图覆盖按加载优先级。\n"
+}

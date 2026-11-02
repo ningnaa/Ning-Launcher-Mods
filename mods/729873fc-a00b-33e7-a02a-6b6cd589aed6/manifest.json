@@ -1,0 +1,39 @@
+{
+  "uid": "729873fc-a00b-33e7-a02a-6b6cd589aed6",
+  "id": "texture-729873fc-a00b-33e7-a02a-6b6cd589aed6",
+  "name": "JoJo的泰拉冒险",
+  "version": "2.0.0-port.1",
+  "type": "texture",
+  "category": "材质包",
+  "summary": "以 JoJo 角色和替身主题替换盔甲、武器、召唤物及部分界面与家具外观。",
+  "localizedNames": {
+    "zh-Hans": "JoJo的泰拉冒险",
+    "en-US": "JoJo's Terraria Adventure"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "以 JoJo 角色和替身主题替换盔甲、武器、召唤物及部分界面与家具外观。"
+  },
+  "authors": [
+    {
+      "name": "Giobun",
+      "role": "原作者"
+    },
+    {
+      "name": "1",
+      "role": "移植者"
+    }
+  ],
+  "blVersion": 2,
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "updated": "2026-11-02",
+  "links": [
+    {
+      "title": "原作 Steam 创意工坊",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2440909212"
+    }
+  ],
+  "description": "# JoJo的泰拉冒险\n\n以 JoJo 角色和替身主题替换盔甲、武器、召唤物及部分界面与家具外观。\n\n原作者：Giobun。移植者：1。原名：JoJo's Terraria Adventure。\n\n包含257张活动贴图。4张旧版动画/图集与手机版布局不一致，保留原版显示，原图附于 source/incompatible。源包未附独立许可证声明，保留原作署名与资料。\n\n启用后重启生效，关闭后重启恢复原版；同名贴图覆盖按加载优先级。\n"
+}

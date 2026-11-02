@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-02",
+  "sources": [
+    {
+      "file": "成长型武器 (1).zip",
+      "sha256": "26503da9f01047f71211ca02e43b6ce4852898b492a3c5faca2e10909e7b3c77",
+      "size": 16384
+    },
+    {
+      "file": "全npc可爱.zip",
+      "sha256": "20e75cb88ab0fb48b720c3af9f7ff43996d23f8f93246b5fa4be27fceb8dd0b3",
+      "size": 729568
+    },
+    {
+      "file": "[JSMod]四柱武器扩展&重置.zip",
+      "sha256": "a49e1ebb55efe0ab08eded6864255254e4c2eeabcc8604f83245e63b47354b72",
+      "size": 402984
+    },
+    {
+      "file": "jojo材质包.zip",
+      "sha256": "3a1b12a46adb4630b32632db58c54576023b0085910a7a61adfd7001bf08f566",
+      "size": 644535
+    }
+  ],
+  "runtime": 301720
+}

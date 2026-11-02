@@ -9,3 +9,8 @@
 此移植版的存储界面仅支持单人模式，多人模式下无法打开。
 
 署名：Titan camera（移植者）；Bloa（原包移动端适配）；Absoluteaquarian（材质与设计）；Magic Storage 原作者 Kaylee Minsuh Kim、absoluteAquarian 及贡献者。保留 MIT 许可。
+
+
+## 修复说明
+
+存储与制作界面打开时拦截背景触摸、攻击、交互和移动，以及原版地图和背包入口；关闭后恢复游戏操作。面板上方留白避开手机版顶部按钮。安装更新后请完全退出并重启游戏。

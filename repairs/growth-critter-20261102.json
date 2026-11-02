@@ -1,0 +1,16 @@
+{
+  "uid": "b1241e97-de9b-479f-a5cc-41fddc33aa83",
+  "id": "a1",
+  "version": "1.0.0-ningzh.1.fix.1",
+  "file": "a1-1.0.0-ningzh.1.fix.1.bl",
+  "sha256": "50d36a9d1bd31c55581afd068b68b95b836d685cf8aafdb07ee6a6ca0da82114",
+  "size": 19871,
+  "parentSha256": "bea16c95a367ea20478ebe880f27faa17091e0deb8eaeea94b81dfaac4f6b620",
+  "changedFiles": [
+    "changelog_zh-Hans.md",
+    "content/Content/Projectiles/GrowthPrismaMinion.js",
+    "description_zh-Hans.md",
+    "manifest.json"
+  ],
+  "note": "修复飞剑追踪小动物的问题，并防止飞向敌人途中碰撞误伤小动物。普通敌人及腐化兔等敌对怪物仍可正常攻击；伤害、成长倍率、飞剑数量与速度保持原有设置。更新后请完全退出并重启游戏。"
+}

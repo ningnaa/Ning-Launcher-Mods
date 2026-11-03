@@ -1,5 +1,18 @@
 # Changelog
 
+## v1.7.1
+
+Added
+- Added time stop throughout Dimensional Slash.
+- All 23 Murasama variants can now receive the Legendary prefix when reforged by the Goblin Tinkerer.
+- Non-final Dimensional Slash rifts now appear at random screen positions and angles; the final central cross slash is unchanged.
+- Progression additions: Deerclops grants +5 percentage points of attack range; Empress of Light and Duke Fishron each grant +8 damage; defeating all mechanical bosses grants an additional +10 percentage points of attack range; Lunatic Cultist grants +5 percentage points of attack range.
+- Base progression is now damage 15 → 157, item crit 4% → 62%, and attack range 60% → 191%, excluding prefixes, equipment and buffs.
+
+Fixed
+- Murasama now correctly receives size bonuses from weapon prefixes and glove accessories.
+- by Infinity_Slime
+
 ## v1.7.0
 Added
 - Getsuga is now its own button

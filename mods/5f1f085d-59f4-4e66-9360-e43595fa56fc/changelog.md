@@ -1,63 +1,121 @@
 # Changelog
 
+## v1.7.1
+
+Added
+- Added time stop throughout Dimensional Slash.
+- All 23 Murasama variants can now receive the Legendary prefix when reforged by the Goblin Tinkerer.
+- Non-final Dimensional Slash rifts now appear at random screen positions and angles; the final central cross slash is unchanged.
+- Progression additions: Deerclops grants +5 percentage points of attack range; Empress of Light and Duke Fishron each grant +8 damage; defeating all mechanical bosses grants an additional +10 percentage points of attack range; Lunatic Cultist grants +5 percentage points of attack range.
+- Base progression is now damage 15 → 157, item crit 4% → 62%, and attack range 60% → 191%, excluding prefixes, equipment and buffs.
+
+Fixed
+- Murasama now correctly receives size bonuses from weapon prefixes and glove accessories.
+- by Infinity_Slime
+
+## v1.7.0
+Added
+- Getsuga is now its own button
+- Cyclone Slash is now its own button
+- Attack range added as a growth stat
+- Third slash becomes a Sweeping Edge
+- Item tooltips follow the blade colour; Rainbow is per-letter
+- Prefix size bonus now multiplies reach and hitbox
+
+Changed
+- Skill multipliers: Ground Smash 75%, Kuuenzan 80%, Cyclone 60%, Getsuga 500%, Dimensional Slash 1024%
+- Knockback unified to 3.25
+- Boss progress table reworked: damage cap 126, crit cap 58%, range cap 111%
+
+- | Condition | Damage | Crit | Range |
+  |---|---|---|---|
+  | Goblin Army | 2 | — | 10% |
+  | King Slime | 2 | 3% | 5% |
+  | Eye of Cthulhu | 2 | — | 5% |
+  | Evil Boss | 3 | — | — |
+  | Deerclops | 9 | 4% | — |
+  | Queen Bee | — | — | 5% |
+  | Skeletron | 3 | 2% | — |
+  | Wall of Flesh | 5 | 5% | 10% |
+  | Pirate Invasion | 4 | 2% | — |
+  | Queen Slime | 4 | — | 5% |
+  | Each Mech Boss | 3 | 2% | 5% |
+  | All Mech Bosses | 5 | 5% | — |
+  | Plantera | 4 | — | 5% |
+  | Empress of Light | — | — | 15% |
+  | Duke Fishron | — | 10% | — |
+  | Golem | 8 | 5% | 15% |
+  | Lunatic Cultist | 5 | 5% | — |
+  | Stardust Pillar | 5 | — | — |
+  | Nebula Pillar | — | — | 5% |
+  | Vortex Pillar | — | 5% | — |
+  | Solar Pillar | 6 | 6% | 6% |
+  | Moon Lord | 50 | — | 10% |
+
+- | Skill | Unlock |
+  |---|---|
+  | Throw & Dash | Goblin Army |
+  | Cyclone Slash | Evil Boss |
+  | Kuuenzan | Queen Bee |
+  | Ground Smash | Skeletron |
+  | Getsuga | Wall of Flesh |
+  | Dimensional Slash | All three Mech Bosses |
+
+Removed
+- Removed the Ground Smash / Getsuga ModConfig switch
+- Removed the Kuuenzan / Cyclone ModConfig switch
+- Removed Cyclone's projectile reflection
+
 ## v1.6.1
 Added
-- Cyclone: unlocks with Skeletron. Spends 2 charge per frame, falls more slowly and moves faster horizontally while active
-- Ground Smash / Getsuga Tensho: 1.25 s cooldown
-- Aerial Slash now deals 2 hits (8-frame hit cooldown)
-- All dust particles follow the blade's primary/secondary colour
-- Rainbow skin particles use a random hue each time
-- Ground Smash i-frames reduced to descend (12) and impact (15)
-- by Infinity_Slime
+- Cyclone Slash unlocks after Skeletron; 2 charge per frame, slower fall and faster horizontal movement while active
+- Ground Smash and Getsuga gain a 1.25 s cooldown
+- Kuuenzan now deals two hits (8-frame interval)
+- All dust colours follow the blade main/secondary colour
+- Rainbow skin uses a random hue per burst
+- Ground Smash i-frames reduced to descend (12f) and impact (15f)
 
 ## v1.6.0
 Added
-- Getsuga Tensho: the smash key can be switched to it
-- Two new skins, Rainbow and Amurasama (23 in total)
-- Each blade has its own charge / combo bar textures with a decoration layer
-- Item names are tinted per skin; Rainbow uses a per-character rainbow
-- Getsuga Tensho combo cost is configurable (default 3)
-
-- I-frames: smash 6/12/15/20, Dimension Slash 15/120, dash 6, aerial slash 12, breaker 15
-- Releasing smash / Getsuga / aerial slash / Dimension Slash puts the smash on a 1.5 s cooldown
+- Getsuga: the Ground Smash key could be switched to it
+- Rainbow and Amurasama skins, 23 in total
+- Each blade has its own charge / combo bars with a decoration layer
+- Item names tinted per skin; Rainbow is a per-letter rainbow
+- Getsuga combo cost configurable in ModConfig (default 3)
+- I-frames: Ground Smash 6/12/15/20, Dimensional Slash 15/120, Dash 6, Kuuenzan 12, Breaker 15
+- Ground Smash / Getsuga / Kuuenzan / Dimensional Slash put Ground Smash on a 1.5 s cooldown
 
 Fixed
-- Player clipping through blocks upward during the smash charge
-- Reforge price being 0
+- Ground Smash charging let the player pass upward through blocks
+- Reforge price was 0
 - Removed Him
-
-- by Infinity_Slime
 
 ## v1.5.1
-- All Murasama recipes unified to Copper Shortsword + 48 iron/lead bars + 16 fallen stars at an anvil
-- by Infinity_Slime
+- The Murasama recipe is unified: Copper Shortsword + 48 Iron/Lead Bars + 16 Fallen Stars at an Iron Anvil
 
 ## v1.5.0
-- Panel damage / crit scale with boss progress (damage 15 → 70, crit 4% → 34%)
-- Skills unlock by progress: throw (Goblin Invasion), dash (evil boss), smash and aerial slash (Skeletron), Dimension Slash (Wall of Flesh)
-- Progression can be disabled in ModConfig
-- Added the "Dimension Slash plays the fullscreen rift effect" toggle
-- With "Dimension Slash requires a hit" off, it triggers when the dash reaches the blade
-- The 21 free-craft recipes were merged into a RecipeGroup (64 recipes → 22)
-- Damage tuning: smash 1.5x, dash 1.25x, Dimension Slash 3x panel damage
-- by Infinity_slime
+- Panel damage / crit grow with boss progress (damage 15 → 70, crit 4% → 34%)
+- Skills unlock by progress: Throw (Goblin Invasion), Dash (Evil Boss), Ground Smash & Kuuenzan (Skeletron), Dimensional Slash (Wall of Flesh)
+- Growth can be disabled in ModConfig
+- New toggle: Dimensional Slash plays the full-screen rift effect
+- With "Dimensional Slash requires a hit" off, it triggers on reaching the blade
+- The 21 free-skin recipes were merged into a RecipeGroup (64 → 22 recipes)
+- Damage tuning: Ground Smash 1.5×, Dash 1.25×, Dimensional Slash 3× panel damage
 
 ## v1.4.0
-- Allows customisation in ModConfig
-- Allows every skill's combo / charge cost to be set in ModConfig
-- Allows the Dimension Slash shader rift count to be set between [5,50]
+- Everything can be customised in ModConfig
+- All skills let you configure their combo / charge cost in ModConfig
+- Dimensional Slash shader slash count configurable in [5,50]
 - Removed Him
-- by Infinity_Slime
 
 ## v1.3.0
-- The original 4 skill keys were merged into 2 smart keys (art key, finisher key)
-- The art key charges, throws the blade at full charge, and chains into the dash; the finisher key handles aerial slash and ground smash
-- Longer blade lifetime; a dash hit refunds 80 charge and grants i-frames
-- Reflecting projectiles with the aerial slash grants combo points; several values tuned for playability
-- Complete Chinese localisation
+- The original 4 skill keys were merged into 2 smart keys (Combat Art, Finisher)
+- Combat Art charges, throws at full, and chains into a dash; Finisher covers Kuuenzan and Ground Smash
+- Longer blade field time; Dash hits restore 80 charge and grant i-frames
+- Kuuenzan can reflect projectiles for combo points; numbers tuned
+- Improved Chinese localisation
 - Removed Him
-- by 白色灯泡小精灵
 
 ## 1.0.4
-- Original initial release
-- by Raion Light
+- Original release
+

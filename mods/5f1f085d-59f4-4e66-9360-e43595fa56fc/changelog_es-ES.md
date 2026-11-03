@@ -1,5 +1,18 @@
 # Registro de cambios
 
+## v1.7.1
+
+Añadido
+- Se añade detención del tiempo durante todo el Corte Dimensional.
+- Las 23 variantes de Murasama pueden obtener el prefijo Legendario al reforjarlas con el Chapucero Goblin.
+- Las grietas no finales del Corte Dimensional aparecen en posiciones y ángulos aleatorios de la pantalla; se conserva el corte en cruz central del final.
+- Progresión: Deerclops otorga +5 puntos porcentuales de alcance; la Emperatriz de la Luz y el Duque Fishron otorgan +8 de daño cada uno; derrotar a todos los jefes mecánicos otorga +10 puntos porcentuales adicionales de alcance; el Cultista Lunático otorga +5 puntos porcentuales de alcance.
+- Progresión base actual: daño 15 → 157, crítico del objeto 4% → 62% y alcance 60% → 191%, sin contar prefijos, equipo ni mejoras.
+
+Corregido
+- Murasama recibe correctamente los bonos de tamaño de los prefijos de armas y los accesorios de guante.
+- by Infinity_Slime
+
 ## v1.7.0
 Añadido
 - Getsuga ahora tiene su propio botón

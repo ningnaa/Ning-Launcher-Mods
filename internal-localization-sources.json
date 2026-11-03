@@ -1366,6 +1366,52 @@
       "source": "Author-provided archive",
       "author": "阮汐月",
       "note": "首次发布后修正公开说明中的主包标识文本；1.0.0-ningzh.1 保留为历史 Release。"
+    },
+    {
+      "file": "starblessing-1.4.0-ningzh.2.bl",
+      "size": 263357,
+      "sha256": "19d0f37b310a892fed5452ef3f88496f6483b176b05e1dd98c80c6d60b8626f7",
+      "uid": "b7c4e2f1-9a3d-4e58-8c21-6f0d5a9b3e74",
+      "id": "starblessing",
+      "name": "召唤师扩展",
+      "version": "1.4.0-ningzh.2",
+      "sourceVersion": "0.2.0",
+      "sourceSha256": "1420e4837148c14f6de8fe5f737108a81d954d1cf706e8d9fe3d8eb6ee063b8d",
+      "previousVersion": "1.4.0-ningzh.1",
+      "changedFiles": [
+        "manifest.json",
+        "description.md",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md",
+        "license.md"
+      ],
+      "creditChange": "原作者：力力丝；移除移植者署名",
+      "tag": "mod-starblessing-v1.4.0-ningzh.2",
+      "baseVersion": "0.2.0",
+      "originalSha256": "1420e4837148c14f6de8fe5f737108a81d954d1cf706e8d9fe3d8eb6ee063b8d",
+      "sourceKind": "user-supplied-package",
+      "previousPublishedVersion": "1.4.0-ningzh.1"
+    },
+    {
+      "file": "murasamastandalone-1.7.1.bl",
+      "size": 18350496,
+      "sha256": "ad981e12ba3d3066a0d20355eca4d434a02fd617aa4019d1517f3568d2bbc598",
+      "uid": "5f1f085d-59f4-4e66-9360-e43595fa56fc",
+      "id": "murasamastandalone",
+      "name": "鬼妖村正 (移动优化版)",
+      "version": "1.7.1",
+      "sourceVersion": "1.7.1",
+      "sourceSha256": "c563c40aebe2e117f33f7ed9b8b32622444698fe880890c7108d4166c8164bbe",
+      "changedFiles": [
+        "manifest.json",
+        "description_zh-Hans.md"
+      ],
+      "creditChange": "保留原作者、移动端优化与模组更新作者，保留目录维护者",
+      "tag": "mod-murasamastandalone-v1.7.1",
+      "baseVersion": "1.7.1",
+      "originalSha256": "c563c40aebe2e117f33f7ed9b8b32622444698fe880890c7108d4166c8164bbe",
+      "sourceKind": "user-supplied-package",
+      "previousPublishedVersion": "1.7.0"
     }
   ],
   "authorChineseSources": {

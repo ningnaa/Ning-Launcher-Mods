@@ -1,5 +1,18 @@
 # Registro de alterações
 
+## v1.7.1
+
+Adicionado
+- Parada do tempo durante toda a duração do Corte Dimensional.
+- As 23 variantes de Murasama podem receber o prefixo Lendário ao serem reforjadas pelo Goblin Inventor.
+- As fendas não finais do Corte Dimensional surgem em posições e ângulos aleatórios da tela; o corte cruzado central do final foi mantido.
+- Progressão: Deerclops concede +5 pontos percentuais de alcance; a Imperatriz da Luz e o Duque Fishron concedem +8 de dano cada; derrotar todos os chefes mecânicos concede mais +10 pontos percentuais de alcance; o Cultista Lunático concede +5 pontos percentuais de alcance.
+- Progressão base atual: dano 15 → 157, crítico do item 4% → 62% e alcance 60% → 191%, sem incluir prefixos, equipamentos e buffs.
+
+Corrigido
+- Murasama agora recebe corretamente os bônus de tamanho dos prefixos de armas e dos acessórios de luva.
+- by Infinity_Slime
+
 ## v1.7.0
 Adicionado
 - Getsuga agora tem botão próprio

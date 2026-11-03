@@ -1,0 +1,47 @@
+{
+  "uid": "8a8e7a80-b608-4280-a137-57469459f0b4",
+  "id": "infinitypotionbuff",
+  "name": "无限药水增益",
+  "version": "1.0.0-ningzh.1",
+  "authors": [
+    {
+      "name": "Zayah",
+      "role": "Author",
+      "color": "#FFAF00"
+    },
+    {
+      "name": "柠娜",
+      "role": "维护者"
+    }
+  ],
+  "category": "实用工具",
+  "summary": "将存钱罐中的药水和环境物品转化为持续增益：药水需达到 30 个以上，篝火、向日葵、风筝等也可生效。",
+  "localizedSummaries": {
+    "en-US": "Store items in your Piggy Bank to get permanent buffs: potions (stack of 30+), campfire, sunflower, kites and more.",
+    "zh-Hans": "将存钱罐中的药水和环境物品转化为持续增益：药水需达到 30 个以上，篝火、向日葵、风筝等也可生效。"
+  },
+  "license": "MIT",
+  "featured": false,
+  "updated": "2026-11-03",
+  "blVersion": 2,
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "entry": "main.js",
+  "dependencies": [],
+  "links": [],
+  "description": "# 无限药水增益\n\n作者：Zayah。维护者：柠娜。\n\n将药水和可提供增益的物品放入存钱罐，即可在角色身上持续获得对应效果。药水需要至少 30 个才会生效；篝火、向日葵、心灯、弹药箱、魔法球、和平蜡烛、影焰蜡烛、水蜡烛、风筝等物品也支持对应增益。\n\n包内许可证：MIT。安装或更新后请重启游戏。联机兼容性尚未充分验证。",
+  "localizedNames": {
+    "zh-Hans": "无限药水增益"
+  },
+  "sourceEdition": {
+    "baseVersion": "1.0.0",
+    "sourceManifestSha256": "7052f1969ee3e9812a584774bccb229c2e9299b3682ddaf5b76eff7fbf56be40"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.0.0"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "uid": "56ae3a13-ac51-4bc7-8c8f-a03f8f5d26b4",
+  "id": "lanternslot",
+  "name": "灯笼栏",
+  "version": "1.0.2-ningzh.1",
+  "authors": [
+    {
+      "name": "Nyacro",
+      "role": "Criador do Lantern Slot original (PC)",
+      "color": "#E8B86C",
+      "link": "https://discord.gg/NfmBrA2Re",
+      "avatar": "nyacro.jpg"
+    },
+    {
+      "name": "Mantovani",
+      "role": "Adaptação para Bunny Loader / Android",
+      "color": "#8EE3C4",
+      "link": "https://discord.gg/CvnHYUXMB",
+      "avatar": "mantovani.jpg"
+    },
+    {
+      "name": "柠娜",
+      "role": "维护者"
+    }
+  ],
+  "category": "饰品",
+  "summary": "新增独立灯笼栏：支持腰间或手持显示、时装与染料、动画和可调照明。",
+  "license": "Direitos reservados",
+  "updated": "2026-11-03",
+  "blVersion": 2,
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "entry": "main.js",
+  "dependencies": [],
+  "links": [
+    {
+      "title": "Discord do port",
+      "url": "https://discord.gg/CvnHYUXMB"
+    },
+    {
+      "title": "Discord do Nyacro",
+      "url": "https://discord.gg/NfmBrA2Re"
+    },
+    {
+      "title": "Mod original (PC)",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3814375974"
+    }
+  ],
+  "theme": {
+    "accent": "#F4C46A",
+    "panel": "#30213B",
+    "text": "#F1E5F1",
+    "heading": "#FFF4D4"
+  },
+  "description": "# 灯笼栏\n\n原作者：Nyacro；Bunny Loader / Android 适配：Mantovani；维护者：柠娜。\n\n新增独立灯笼栏，让铁灯笼和灵质灯笼可以作为专用装备使用。灯笼支持腰间或手持显示、时装与染料、摆动动画、空手持灯，以及装备灯光和快捷栏灯光。模组配置可以分别调整腰间、手持尺寸、摆动强度、持灯方式和灯光效果。\n\n原作者 PC 模组与 Android 适配分别保留其链接和署名。包内许可标注为“版权所有”；安装或更新后请重启游戏。联机兼容性尚未充分验证。",
+  "localizedNames": {
+    "zh-Hans": "灯笼栏"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "新增独立灯笼栏：支持腰间或手持显示、时装与染料、动画和可调照明。"
+  },
+  "sourceEdition": {
+    "baseVersion": "1.0.2",
+    "sourceManifestSha256": "df240cd2579917224171e880ef35b9364e43d51489c804b3676382ea24047f2b"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.0.2"
+  }
+}

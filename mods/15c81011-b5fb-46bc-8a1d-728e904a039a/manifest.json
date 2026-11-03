@@ -1,0 +1,39 @@
+{
+  "uid": "15c81011-b5fb-46bc-8a1d-728e904a039a",
+  "id": "isekaid",
+  "name": "异世界 RPG 系统",
+  "version": "1.0.1-ningzh.1",
+  "authors": [
+    {
+      "name": "Zayah",
+      "role": "Mod",
+      "color": "#7FD4FF"
+    },
+    {
+      "name": "柠娜",
+      "role": "维护者"
+    }
+  ],
+  "category": "玩法",
+  "summary": "为泰拉瑞亚加入等级、8 项属性、6 种职业、状态菜单，以及按 Boss 进度成长的敌人强度。",
+  "license": "Personal-use",
+  "updated": "2026-11-03",
+  "blVersion": 2,
+  "entry": "main.js",
+  "description": "# 异世界 RPG 系统\n\n作者：Zayah。维护者：柠娜。\n\n为泰拉瑞亚加入 RPG 成长路线：击败敌人获取经验并升级，分配生命、耐力、力量、智力、敏捷、魅力、灵巧和信仰等属性；从战士、射手、法师、召唤师及两种混合职业中选择战斗方向。触控按钮可打开角色菜单，配置中可以调整经验条的位置和大小。\n\n敌人会随世界 Boss 进度逐步强化；首次击败 Boss 会触发额外经验奖励。可以使用 `/exp` 命令进行测试、重置等级或重新选择职业。\n\n安装或更新后请重启游戏；命令、配置和角色菜单已提供中文。联机兼容性尚未充分验证。包内许可证：Personal-use。",
+  "localizedNames": {
+    "zh-Hans": "异世界 RPG 系统"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "为泰拉瑞亚加入等级、8 项属性、6 种职业、状态菜单，以及按 Boss 进度成长的敌人强度。"
+  },
+  "sourceEdition": {
+    "baseVersion": "1.0.1",
+    "sourceManifestSha256": "b3c46cc0ef6b61fdc7d5adef09660154f1d472346e01cd42d612d750a20056f8"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.0.1"
+  }
+}

@@ -2588,6 +2588,64 @@
       }
     },
     {
+      "uid": "b22b17d1-185c-481d-9033-eb1ebaf3b397",
+      "id": "orycto",
+      "name": "Orycto（Alpha）",
+      "version": "1-ningzh.1",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-orycto-v1-ningzh.1/orycto-1-ningzh.1.bl",
+        "sha256": "c2517ba2d397d72e6004f2c68613f647eda8a61660af01a00eb2178d4193d4c1",
+        "size": 80629
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.png",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md"
+      ],
+      "manifest": {
+        "uid": "b22b17d1-185c-481d-9033-eb1ebaf3b397",
+        "id": "orycto",
+        "name": "Orycto（Alpha）",
+        "version": "1-ningzh.1",
+        "author": "vowtz",
+        "category": "性能优化",
+        "summary": "移动版 Terraria 的性能优化：解锁帧率、减少重复光照计算、限制粒子并降低远处实体更新开销。",
+        "description": "# Orycto（Alpha）\n\n作者：vowtz。维护者：柠娜。\n\nOrycto 是移动版 Terraria 的性能优化模组，提供帧率解锁、帧间跳过部分光照计算、实体和粒子限制、远处实体节流、雨和特效开关，以及性能分析覆盖层。所有选项都在模组配置中调整；Alpha 版本可能存在兼容性和稳定性问题。\n\n安装或更新后请重启游戏。建议逐项调整性能设置并观察设备温度与帧率；联机兼容性尚未充分验证。",
+        "blVersion": 2,
+        "entry": "main.js",
+        "updated": "2026-11-03",
+        "authors": [
+          {
+            "name": "vowtz",
+            "role": "原作者"
+          },
+          {
+            "name": "柠娜",
+            "role": "维护者"
+          }
+        ],
+        "localizedNames": {
+          "zh-Hans": "Orycto（Alpha）"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "移动版 Terraria 的性能优化：解锁帧率、减少重复光照计算、限制粒子并降低远处实体更新开销。"
+        },
+        "sourceEdition": {
+          "baseVersion": "1",
+          "sourceManifestSha256": "c075bb77ac07006285459e172a16c8f1e2634f775edf5074c9a63ce1a87bc009"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1"
+        }
+      },
+      "updatedAt": "2026-11-03T16:17:57Z",
+      "publishedAt": "2026-11-03T16:17:57Z"
+    },
+    {
       "uid": "a26a4992-e895-4120-a903-0e23b376c8a1",
       "id": "overhealth",
       "name": "Overhealth",
@@ -4780,6 +4838,69 @@
       "updatedAt": "2026-11-01T09:57:19Z"
     },
     {
+      "uid": "15c81011-b5fb-46bc-8a1d-728e904a039a",
+      "id": "isekaid",
+      "name": "异世界 RPG 系统",
+      "version": "1.0.1-ningzh.1",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-isekaid-v1.0.1-ningzh.1/isekaid-1.0.1-ningzh.1.bl",
+        "sha256": "c8162647f3fbafbe3432488c5afa65d6715076515ad8291ff712f6f513bb6b79",
+        "size": 57902
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.png",
+        "description.md",
+        "changelog.md",
+        "license.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "authors/Zayah.png"
+      ],
+      "manifest": {
+        "uid": "15c81011-b5fb-46bc-8a1d-728e904a039a",
+        "id": "isekaid",
+        "name": "异世界 RPG 系统",
+        "version": "1.0.1-ningzh.1",
+        "authors": [
+          {
+            "name": "Zayah",
+            "role": "Mod",
+            "color": "#7FD4FF"
+          },
+          {
+            "name": "柠娜",
+            "role": "维护者"
+          }
+        ],
+        "category": "玩法",
+        "summary": "为泰拉瑞亚加入等级、8 项属性、6 种职业、状态菜单，以及按 Boss 进度成长的敌人强度。",
+        "license": "Personal-use",
+        "updated": "2026-11-03",
+        "blVersion": 2,
+        "entry": "main.js",
+        "description": "# 异世界 RPG 系统\n\n作者：Zayah。维护者：柠娜。\n\n为泰拉瑞亚加入 RPG 成长路线：击败敌人获取经验并升级，分配生命、耐力、力量、智力、敏捷、魅力、灵巧和信仰等属性；从战士、射手、法师、召唤师及两种混合职业中选择战斗方向。触控按钮可打开角色菜单，配置中可以调整经验条的位置和大小。\n\n敌人会随世界 Boss 进度逐步强化；首次击败 Boss 会触发额外经验奖励。可以使用 `/exp` 命令进行测试、重置等级或重新选择职业。\n\n安装或更新后请重启游戏；命令、配置和角色菜单已提供中文。联机兼容性尚未充分验证。包内许可证：Personal-use。",
+        "localizedNames": {
+          "zh-Hans": "异世界 RPG 系统"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "为泰拉瑞亚加入等级、8 项属性、6 种职业、状态菜单，以及按 Boss 进度成长的敌人强度。"
+        },
+        "sourceEdition": {
+          "baseVersion": "1.0.1",
+          "sourceManifestSha256": "b3c46cc0ef6b61fdc7d5adef09660154f1d472346e01cd42d612d750a20056f8"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.1"
+        }
+      },
+      "updatedAt": "2026-11-03T16:17:48Z",
+      "publishedAt": "2026-11-03T16:17:48Z"
+    },
+    {
       "uid": "fbb7eb80-3232-4079-998c-cb863e14f3dd",
       "id": "voluntaryhook",
       "name": "愿者上钩 (VoluntaryHook)",
@@ -5052,6 +5173,74 @@
         "manifest.json"
       ],
       "publishedAt": "2026-11-01T08:16:33Z"
+    },
+    {
+      "uid": "8a8e7a80-b608-4280-a137-57469459f0b4",
+      "id": "infinitypotionbuff",
+      "name": "无限药水增益",
+      "version": "1.0.0-ningzh.1",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-infinitypotionbuff-v1.0.0-ningzh.1/infinitypotionbuff-1.0.0-ningzh.1.bl",
+        "sha256": "509b1abfd45a9a3a959dff44579e1f68fd853da12f9772e41dc72b3cd2fec98f",
+        "size": 7665
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "authors/Zayah.png"
+      ],
+      "manifest": {
+        "uid": "8a8e7a80-b608-4280-a137-57469459f0b4",
+        "id": "infinitypotionbuff",
+        "name": "无限药水增益",
+        "version": "1.0.0-ningzh.1",
+        "authors": [
+          {
+            "name": "Zayah",
+            "role": "Author",
+            "color": "#FFAF00"
+          },
+          {
+            "name": "柠娜",
+            "role": "维护者"
+          }
+        ],
+        "category": "实用工具",
+        "summary": "将存钱罐中的药水和环境物品转化为持续增益：药水需达到 30 个以上，篝火、向日葵、风筝等也可生效。",
+        "localizedSummaries": {
+          "en-US": "Store items in your Piggy Bank to get permanent buffs: potions (stack of 30+), campfire, sunflower, kites and more.",
+          "zh-Hans": "将存钱罐中的药水和环境物品转化为持续增益：药水需达到 30 个以上，篝火、向日葵、风筝等也可生效。"
+        },
+        "license": "MIT",
+        "featured": false,
+        "updated": "2026-11-03",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": [],
+        "links": [],
+        "description": "# 无限药水增益\n\n作者：Zayah。维护者：柠娜。\n\n将药水和可提供增益的物品放入存钱罐，即可在角色身上持续获得对应效果。药水需要至少 30 个才会生效；篝火、向日葵、心灯、弹药箱、魔法球、和平蜡烛、影焰蜡烛、水蜡烛、风筝等物品也支持对应增益。\n\n包内许可证：MIT。安装或更新后请重启游戏。联机兼容性尚未充分验证。",
+        "localizedNames": {
+          "zh-Hans": "无限药水增益"
+        },
+        "sourceEdition": {
+          "baseVersion": "1.0.0",
+          "sourceManifestSha256": "7052f1969ee3e9812a584774bccb229c2e9299b3682ddaf5b76eff7fbf56be40"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.0"
+        }
+      },
+      "updatedAt": "2026-11-03T16:17:44Z",
+      "publishedAt": "2026-11-03T16:17:44Z"
     },
     {
       "uid": "52ed2234-aaf3-5d86-822c-70bc86225629",
@@ -5406,6 +5595,104 @@
         "manifest.json"
       ],
       "publishedAt": "2026-11-01T08:16:33Z"
+    },
+    {
+      "uid": "56ae3a13-ac51-4bc7-8c8f-a03f8f5d26b4",
+      "id": "lanternslot",
+      "name": "灯笼栏",
+      "version": "1.0.2-ningzh.1",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-lanternslot-v1.0.2-ningzh.1/lanternslot-1.0.2-ningzh.1.bl",
+        "sha256": "f4283412f36606c5a87922888f87df4fd2d14ab47902003730d1a6f646dfb973",
+        "size": 416053
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.png",
+        "description.md",
+        "changelog.md",
+        "license.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "authors/mantovani.jpg",
+        "authors/nyacro.jpg"
+      ],
+      "manifest": {
+        "uid": "56ae3a13-ac51-4bc7-8c8f-a03f8f5d26b4",
+        "id": "lanternslot",
+        "name": "灯笼栏",
+        "version": "1.0.2-ningzh.1",
+        "authors": [
+          {
+            "name": "Nyacro",
+            "role": "Criador do Lantern Slot original (PC)",
+            "color": "#E8B86C",
+            "link": "https://discord.gg/NfmBrA2Re",
+            "avatar": "nyacro.jpg"
+          },
+          {
+            "name": "Mantovani",
+            "role": "Adaptação para Bunny Loader / Android",
+            "color": "#8EE3C4",
+            "link": "https://discord.gg/CvnHYUXMB",
+            "avatar": "mantovani.jpg"
+          },
+          {
+            "name": "柠娜",
+            "role": "维护者"
+          }
+        ],
+        "category": "饰品",
+        "summary": "新增独立灯笼栏：支持腰间或手持显示、时装与染料、动画和可调照明。",
+        "license": "Direitos reservados",
+        "updated": "2026-11-03",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": [],
+        "links": [
+          {
+            "title": "Discord do port",
+            "url": "https://discord.gg/CvnHYUXMB"
+          },
+          {
+            "title": "Discord do Nyacro",
+            "url": "https://discord.gg/NfmBrA2Re"
+          },
+          {
+            "title": "Mod original (PC)",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3814375974"
+          }
+        ],
+        "theme": {
+          "accent": "#F4C46A",
+          "panel": "#30213B",
+          "text": "#F1E5F1",
+          "heading": "#FFF4D4"
+        },
+        "description": "# 灯笼栏\n\n原作者：Nyacro；Bunny Loader / Android 适配：Mantovani；维护者：柠娜。\n\n新增独立灯笼栏，让铁灯笼和灵质灯笼可以作为专用装备使用。灯笼支持腰间或手持显示、时装与染料、摆动动画、空手持灯，以及装备灯光和快捷栏灯光。模组配置可以分别调整腰间、手持尺寸、摆动强度、持灯方式和灯光效果。\n\n原作者 PC 模组与 Android 适配分别保留其链接和署名。包内许可标注为“版权所有”；安装或更新后请重启游戏。联机兼容性尚未充分验证。",
+        "localizedNames": {
+          "zh-Hans": "灯笼栏"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "新增独立灯笼栏：支持腰间或手持显示、时装与染料、动画和可调照明。"
+        },
+        "sourceEdition": {
+          "baseVersion": "1.0.2",
+          "sourceManifestSha256": "df240cd2579917224171e880ef35b9364e43d51489c804b3676382ea24047f2b"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.2"
+        }
+      },
+      "updatedAt": "2026-11-03T16:17:51Z",
+      "publishedAt": "2026-11-03T16:17:51Z"
     },
     {
       "uid": "9921213c-03a8-34b4-914c-ba26bcc23ebd",
@@ -5869,6 +6156,79 @@
       "publishedAt": "2026-11-01T07:38:36Z"
     },
     {
+      "uid": "7c1e9b52-3f0a-4d8e-9a64-5b2d8c6e1f47",
+      "id": "menumedia",
+      "name": "菜单媒体",
+      "version": "1.6.0-ningzh.1",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-menumedia-v1.6.0-ningzh.1/menumedia-1.6.0-ningzh.1.bl",
+        "sha256": "813bd4f789ee32437696805ba73cd4ce239979344841725fe4b3fd4a185210ea",
+        "size": 142108
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.png",
+        "description.md",
+        "changelog.md",
+        "license.md",
+        "changelog_vi.md",
+        "changelog_zh-Hans.md",
+        "description_vi.md",
+        "description_zh-Hans.md",
+        "authors/amogus.png"
+      ],
+      "manifest": {
+        "uid": "7c1e9b52-3f0a-4d8e-9a64-5b2d8c6e1f47",
+        "id": "menumedia",
+        "name": "菜单媒体",
+        "version": "1.6.0-ningzh.1",
+        "authors": [
+          {
+            "name": "amogus",
+            "role": "Dev",
+            "avatar": "amogus.png",
+            "color": "#7FC8FF"
+          },
+          {
+            "name": "柠娜",
+            "role": "维护者"
+          }
+        ],
+        "category": "实用工具",
+        "summary": "将 Assets/MenuThemes 中的 GIF/图片作为主菜单主题，并使用同名音频作为主题音乐。",
+        "license": "MIT",
+        "updated": "2026-11-03",
+        "featured": false,
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": [],
+        "localizedNames": {
+          "vi": "Menu Media",
+          "zh-Hans": "菜单媒体"
+        },
+        "description": "# 菜单媒体\n\n作者：amogus。维护者：柠娜。\n\n把 GIF、PNG 或 JPG 放入 `Assets/MenuThemes`，即可将其注册为主菜单主题；若存在同名音频文件，则使用该音频作为主题音乐。配置可以调整背景尺寸、X/Y 位置、图标大小和 GIF 播放速度。视频文件不会直接加载，需要先转换为 GIF + MP3。\n\n安装或更新后请重启游戏。大尺寸媒体、音频解码和设备性能可能影响加载时间；联机兼容性不适用。包内许可证：MIT。",
+        "localizedSummaries": {
+          "zh-Hans": "将 Assets/MenuThemes 中的 GIF/图片作为主菜单主题，并使用同名音频作为主题音乐。"
+        },
+        "sourceEdition": {
+          "baseVersion": "1.6.0",
+          "sourceManifestSha256": "3f78f9ce365f4966e5797058cdfaf952f8ac1764d6cff622c0e0060a65c95819"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.6.0"
+        }
+      },
+      "updatedAt": "2026-11-03T16:17:54Z",
+      "publishedAt": "2026-11-03T16:17:54Z"
+    },
+    {
       "uid": "7c5ee232-0456-3147-a347-e31852f566b9",
       "id": "texture-7c5ee232-0456-3147-a347-e31852f566b9",
       "name": "萌萌恶魂",
@@ -5938,6 +6298,83 @@
       "publishedAt": "2026-11-01T02:30:23.450349Z"
     },
     {
+      "uid": "628fa4c5-8211-4b39-a7d6-ac827426a3fd",
+      "id": "umamusumevanities",
+      "name": "赛马娘时装（Bunny 移植版）",
+      "version": "1.0-ningzh.1",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-umamusumevanities-v1.0-ningzh.1/umamusumevanities-1.0-ningzh.1.bl",
+        "sha256": "8b4152113deb826011245ce601a50379aba45fbc7101c254fee83fa428613a67",
+        "size": 249862
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "authors/mantovani.jpg",
+        "authors/nyacro.jpg"
+      ],
+      "manifest": {
+        "uid": "628fa4c5-8211-4b39-a7d6-ac827426a3fd",
+        "id": "umamusumevanities",
+        "name": "赛马娘时装（Bunny 移植版）",
+        "version": "1.0-ningzh.1",
+        "authors": [
+          {
+            "name": "Nyacro",
+            "role": "Mod original para PC",
+            "avatar": "nyacro.jpg"
+          },
+          {
+            "name": "Mantovani",
+            "role": "Port para Bunny Loader",
+            "avatar": "mantovani.jpg"
+          },
+          {
+            "name": "柠娜",
+            "role": "维护者"
+          }
+        ],
+        "category": "物品",
+        "summary": "免费非商业的赛马娘主题时装移植：43 件时装、角色发型与耳朵尾巴、Mambo 宠物、跑步特效、原声音效和可调视觉质量。",
+        "updated": "2026-11-03",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": [],
+        "links": [
+          {
+            "title": "Comunidade do mod original",
+            "url": "https://discord.gg/NfmBrA2Re"
+          }
+        ],
+        "description": "# 赛马娘时装（Bunny 移植版）\n\n原 PC 模组：Nyacro；角色与知识产权：Cygames；Bunny Loader / Android 移植：Mantovani；维护者：柠娜。感谢 Nyacro 授权移植。\n\n包含 43 件时装、角色服装与发型、马耳和马尾、Mambo 宠物、角色跑步轨迹和特殊效果，以及动画脸部、尾巴和头发。配置可以选择轻量、平衡、高和电影级视觉质量，调整特效数量 0–200% 并开启额外发光。\n\n本包为免费、非商业粉丝移植；请保留 Nyacro、Cygames 和 Mantovani 的署名。安装或更新后请重启游戏；视觉特效和音频可能受设备性能影响，联机兼容性尚未充分验证。",
+        "localizedNames": {
+          "zh-Hans": "赛马娘时装（Bunny 移植版）"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "免费非商业的赛马娘主题时装移植：43 件时装、角色发型与耳朵尾巴、Mambo 宠物、跑步特效、原声音效和可调视觉质量。"
+        },
+        "sourceEdition": {
+          "baseVersion": "1.0",
+          "sourceManifestSha256": "6f3470e5beb7ba03bc27ea0494fc13b03edae7c281070483f03261ac5295b05c"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0"
+        }
+      },
+      "updatedAt": "2026-11-03T16:18:05Z",
+      "publishedAt": "2026-11-03T16:18:05Z"
+    },
+    {
       "uid": "dc3f4de8-1c59-4d92-a986-3ea0e4b42e15",
       "id": "cooleritemvisualeffect",
       "name": "近战武器视觉特效（C.I.V.E.）",
@@ -6000,6 +6437,245 @@
       },
       "publishedAt": "2026-10-29T10:39:39Z",
       "updatedAt": "2026-11-02T01:53:52Z"
+    },
+    {
+      "uid": "888cc431-b9d8-4016-a87f-6fcbaa32223b",
+      "id": "tetovanitysets",
+      "name": "重音 Teto 时装套组",
+      "version": "1.40-ningzh.1",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-tetovanitysets-v1.40-ningzh.1/tetovanitysets-1.40-ningzh.1.bl",
+        "sha256": "051763942bf1781ab912541473c0e8586c49785f6e2cf599ee4722d245e0a335",
+        "size": 497257
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.png",
+        "description.md",
+        "changelog.md",
+        "license.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "authors/bloa.png",
+        "docs/shop.md",
+        "content/Content/Items/Placeable/Furniture/TetoPlush.png",
+        "content/Content/Items/Armor/Teto1/Teto1Head.png",
+        "content/Content/Items/Armor/Teto1/Teto1Body.png",
+        "content/Content/Items/Armor/Teto1/Teto1Legs.png",
+        "content/Content/Items/Armor/Teto2/Teto2Head.png",
+        "content/Content/Items/Armor/Teto2/Teto2Body.png",
+        "content/Content/Items/Armor/Teto2/Teto2Legs.png",
+        "content/Content/Items/Armor/Teto3/Teto3Head.png",
+        "content/Content/Items/Armor/Teto3/Teto3Body.png",
+        "content/Content/Items/Armor/Teto3/Teto3Legs.png",
+        "content/Content/Items/Armor/Teto4/Teto4Mask.png",
+        "content/Content/Items/Armor/Teto4/Teto4Breastplate.png",
+        "content/Content/Items/Armor/Teto4/Teto4Leggings.png",
+        "content/Content/Items/Armor/Teto5/Teto5Mask.png",
+        "content/Content/Items/Armor/Teto5/Teto5Breastplate.png",
+        "content/Content/Items/Armor/Teto5/Teto5Legs.png",
+        "content/Content/Items/Armor/Teto6/Teto6Head.png",
+        "content/Content/Items/Armor/Teto6/Teto6Body.png",
+        "content/Content/Items/Armor/Teto6/Teto6Legs.png",
+        "content/Content/Items/Armor/Teto7/Teto7Head.png",
+        "content/Content/Items/Armor/Teto7/Teto7Body.png",
+        "content/Content/Items/Armor/Teto8/Teto8Head.png",
+        "content/Content/Items/Armor/Teto8/Teto8Body.png",
+        "content/Content/Items/Armor/Teto8/Teto8Legs.png",
+        "content/Content/Items/Armor/Teto9/Teto9Head.png",
+        "content/Content/Items/Armor/Teto9/Teto9Body.png",
+        "content/Content/Items/Armor/Teto9/Teto9Legs.png",
+        "content/Content/Items/Armor/Teto10/Teto10Head.png",
+        "content/Content/Items/Armor/Teto10/Teto10Body.png",
+        "content/Content/Items/Armor/Teto10/Teto10Legs.png",
+        "content/Content/Items/Armor/Teto11/Teto11Head.png",
+        "content/Content/Items/Armor/Teto11/Teto11Body.png",
+        "content/Content/Items/Armor/Teto12/Teto12Head.png",
+        "content/Content/Items/Armor/Teto12/Teto12Body.png",
+        "content/Content/Items/Armor/Teto12/Teto12Legs.png",
+        "content/Content/Items/Armor/Teto13/Teto13Head.png",
+        "content/Content/Items/Armor/Teto13/Teto13Body.png",
+        "content/Content/Items/Armor/Teto13/Teto13Legs.png",
+        "content/Content/Items/Armor/Teto14/Teto14Head.png",
+        "content/Content/Items/Armor/Teto14/Teto14Body.png",
+        "content/Content/Items/Armor/Teto14/Teto14Legs.png",
+        "content/Content/Items/Armor/Teto15/Teto15Head.png",
+        "content/Content/Items/Armor/Teto15/Teto15Body.png",
+        "content/Content/Items/Armor/Teto15/Teto15Legs.png",
+        "content/Content/Items/Armor/Teto16/Teto16Head.png",
+        "content/Content/Items/Armor/Teto16/Teto16Body.png",
+        "content/Content/Items/Armor/Teto16/Teto16Legs.png",
+        "content/Content/Items/Armor/Teto17/Teto17Head.png",
+        "content/Content/Items/Armor/Teto17/Teto17Body.png",
+        "content/Content/Items/Armor/Teto17/Teto17Legs.png",
+        "content/Content/Items/Armor/Teto18/Teto18Head.png",
+        "content/Content/Items/Armor/Teto18/Teto18Body.png",
+        "content/Content/Items/Armor/Teto18/Teto18Legs.png",
+        "content/Content/Items/Armor/Teto19/Teto19Head.png",
+        "content/Content/Items/Armor/Teto19/Teto19Body.png",
+        "content/Content/Items/Armor/Teto20/Teto20Head.png",
+        "content/Content/Items/Armor/Teto20/Teto20Body.png",
+        "content/Content/Items/Armor/Teto20/Teto20Legs.png",
+        "content/Content/Items/Armor/Teto21/Teto21Head.png",
+        "content/Content/Items/Armor/Teto21/Teto21Body.png",
+        "content/Content/Items/Armor/Teto21/Teto21Legs.png",
+        "content/Content/Items/Armor/Teto22/Teto22Head.png",
+        "content/Content/Items/Armor/Teto22/Teto22Body.png",
+        "content/Content/Items/Armor/Teto22/Teto22Legs.png",
+        "content/Content/Items/Armor/Teto23/Teto23Head.png",
+        "content/Content/Items/Armor/Teto23/Teto23Body.png",
+        "content/Content/Items/Armor/Teto23/Teto23Legs.png",
+        "content/Content/Items/Armor/Teto24/Teto24Head.png",
+        "content/Content/Items/Armor/Teto24/Teto24Body.png",
+        "content/Content/Items/Armor/Teto24/Teto24Legs.png",
+        "content/Content/Items/Armor/Teto25/Teto25Body.png",
+        "content/Content/Items/Armor/Teto25/Teto25Legs.png",
+        "content/Content/Items/Armor/Teto26/Teto26Body.png",
+        "content/Content/Items/Armor/Teto26/Teto26Legs.png",
+        "content/Content/Items/Armor/Teto27/Teto27Head.png",
+        "content/Content/Items/Armor/Teto27/Teto27Body.png",
+        "content/Content/Items/Armor/Teto27/Teto27Legs.png",
+        "content/Content/Items/Armor/Teto28/Teto28Head.png",
+        "content/Content/Items/Armor/Teto28/Teto28Body.png",
+        "content/Content/Items/Armor/Teto28/Teto28Legs.png",
+        "content/Content/Items/Armor/Teto29/Teto29Head.png",
+        "content/Content/Items/Armor/Teto29/Teto29Body.png",
+        "content/Content/Items/Armor/Teto29/Teto29Legs.png",
+        "content/Content/Items/Armor/Teto30/Teto30Head.png",
+        "content/Content/Items/Armor/Teto30/Teto30Body.png",
+        "content/Content/Items/Armor/Teto30/Teto30Legs.png",
+        "content/Content/Items/Armor/Teto31/Teto31Head.png",
+        "content/Content/Items/Armor/Teto31/Teto31Body.png",
+        "content/Content/Items/Armor/Teto31/Teto31Legs.png",
+        "content/Content/Items/Armor/Teto32/Teto32Head.png",
+        "content/Content/Items/Armor/Teto32/Teto32Body.png",
+        "content/Content/Items/Armor/Teto32/Teto32Legs.png",
+        "content/Content/Items/Armor/Teto33/Teto33Head.png",
+        "content/Content/Items/Armor/Teto33/Teto33Body.png",
+        "content/Content/Items/Armor/Teto33/Teto33Legs.png",
+        "content/Content/Items/Armor/Teto34/Teto34Head.png",
+        "content/Content/Items/Armor/Teto34/Teto34Body.png",
+        "content/Content/Items/Armor/Teto34/Teto34Legs.png",
+        "content/Content/Items/Armor/Teto35/Teto35Head.png",
+        "content/Content/Items/Armor/Teto35/Teto35Body.png",
+        "content/Content/Items/Armor/Teto35/Teto35Legs.png",
+        "content/Content/Items/Armor/Teto36/Teto36Head.png",
+        "content/Content/Items/Armor/Teto36/Teto36Body.png",
+        "content/Content/Items/Armor/Teto36/Teto36Legs.png",
+        "content/Content/Items/Armor/Teto37/Teto37Head.png",
+        "content/Content/Items/Armor/Teto37/Teto37Body.png",
+        "content/Content/Items/Armor/Teto37/Teto37Legs.png",
+        "content/Content/Items/Armor/Teto38/Teto38Head.png",
+        "content/Content/Items/Armor/Teto38/Teto38Body.png",
+        "content/Content/Items/Armor/Teto38/Teto38Legs.png",
+        "content/Content/Items/Armor/Teto39/Teto39Head.png",
+        "content/Content/Items/Armor/Teto39/Teto39Body.png",
+        "content/Content/Items/Armor/Teto39/Teto39Legs.png",
+        "content/Content/Items/Armor/Teto40/Teto40Head.png",
+        "content/Content/Items/Armor/Teto40/Teto40Body.png",
+        "content/Content/Items/Armor/Teto40/Teto40Legs.png",
+        "content/Content/Items/Armor/Teto41/Teto41Head.png",
+        "content/Content/Items/Armor/Teto41/Teto41Body.png",
+        "content/Content/Items/Armor/Teto41/Teto41Legs.png",
+        "content/Content/Items/Armor/Teto42/Teto42Head.png",
+        "content/Content/Items/Armor/Teto42/Teto42Body.png",
+        "content/Content/Items/Armor/Teto42/Teto42Legs.png",
+        "content/Content/Items/Armor/Teto43/Teto43Head.png",
+        "content/Content/Items/Armor/Teto43/Teto43Body.png",
+        "content/Content/Items/Armor/Teto43/Teto43Legs.png",
+        "content/Content/Items/Armor/Teto44/Teto44Head.png",
+        "content/Content/Items/Armor/Teto44/Teto44Head_Alt.png",
+        "content/Content/Items/Armor/Teto44/Teto44Body.png",
+        "content/Content/Items/Armor/Teto44/Teto44Legs.png",
+        "content/Content/Items/Wings/IWasHereWings/IWasHereWings.png",
+        "content/Content/Items/Wings/WingsTeto/WingsTeto.png",
+        "content/Content/Items/Wings/BloodSuckerWings/BloodSuckerWings.png",
+        "content/Content/Items/Wings/WingsBig/WingsBig.png",
+        "content/Content/Items/Accessories/TetoBackpack1/TetoBackpack1.png",
+        "content/Content/Items/Accessories/TetoBackpack2/TetoBackpack2.png",
+        "content/Content/Items/Armor/TetoHeadphones/TetoHeadphones.png",
+        "content/Content/Items/Armor/NoBitchesHat/NoBitchesHat.png",
+        "content/Content/Items/Weapons/Melee/TetoBaguette.png",
+        "content/Content/Hairs/TetoHairstyle.png",
+        "content/Content/Pets/Pearto/PeartoItem.png",
+        "content/Content/Pets/Dragon/DragonItem.png",
+        "content/Content/NPCs/TetoNPC/TetoNPC_Head.png"
+      ],
+      "manifest": {
+        "uid": "888cc431-b9d8-4016-a87f-6fcbaa32223b",
+        "id": "tetovanitysets",
+        "name": "重音 Teto 时装套组",
+        "version": "1.40-ningzh.1",
+        "authors": [
+          {
+            "name": "Makeight",
+            "role": "Original mod",
+            "color": "#E8446D",
+            "link": "https://discord.gg/f5ZYcYTXTE"
+          },
+          {
+            "name": "Ink of the Eternity",
+            "role": "Coding help",
+            "color": "#7FC8FF"
+          },
+          {
+            "name": "Bloa",
+            "role": "Port to Bunny Loader",
+            "avatar": "bloa.png"
+          },
+          {
+            "name": "柠娜",
+            "role": "维护者"
+          }
+        ],
+        "category": "物品",
+        "summary": "加入 44 套重音 Teto 时装、翅膀、背包、发型、法棍、玩偶、两种宠物和出售全部内容的重音 Teto NPC。",
+        "license": "All rights reserved",
+        "featured": false,
+        "updated": "2026-11-03",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": [],
+        "links": [
+          {
+            "title": "Original Steam Workshop mod",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3309069289"
+          },
+          {
+            "title": "Teto Discord",
+            "url": "https://discord.gg/f5ZYcYTXTE"
+          }
+        ],
+        "pages": [
+          {
+            "title": "Shop",
+            "file": "docs/shop.md"
+          }
+        ],
+        "description": "# 重音 Teto 时装套组\n\n原作者：Makeight；代码协助：Ink of the Eternity；Bunny Loader 移植：Bloa；维护者：柠娜。\n\n制作并将 Teto 玩偶放在背包中，重音 Teto NPC 就会入住并出售全部内容。模组包含 44 套头部、身体和腿部时装，以及翅膀、背包、发型、Teto 法棍、Teto 玩偶、Pearto 和 Sukina Souzai Happyou Dragon 两种宠物。部分时装会根据移动方向翻转，翅膀适合前期使用并可免疫摔落伤害。\n\nTeto NPC 的商店分为 4 页时装、其他装饰、宠物和翅膀；使用“切换商店”按钮翻页。1.40 起，Teto NPC 需要玩家背包中有 Teto 玩偶才会入住。包内原作者未声明开放许可证，继续保留原作者所有权声明；分发前请遵守原作者要求。",
+        "localizedNames": {
+          "zh-Hans": "重音 Teto 时装套组"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "加入 44 套重音 Teto 时装、翅膀、背包、发型、法棍、玩偶、两种宠物和出售全部内容的重音 Teto NPC。"
+        },
+        "sourceEdition": {
+          "baseVersion": "1.40",
+          "sourceManifestSha256": "cedc39798bb1819b0d41e9a09ec59c185a103026849a3cbb7e832567d4bb1840"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.40"
+        }
+      },
+      "updatedAt": "2026-11-03T16:18:00Z",
+      "publishedAt": "2026-11-03T16:18:00Z"
     },
     {
       "uid": "7e6a6f0a-2479-3e54-b905-1e2f9f1b759c",

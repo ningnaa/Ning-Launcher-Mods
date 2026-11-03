@@ -1,0 +1,47 @@
+{
+  "uid": "7c1e9b52-3f0a-4d8e-9a64-5b2d8c6e1f47",
+  "id": "menumedia",
+  "name": "菜单媒体",
+  "version": "1.6.0-ningzh.1",
+  "authors": [
+    {
+      "name": "amogus",
+      "role": "Dev",
+      "avatar": "amogus.png",
+      "color": "#7FC8FF"
+    },
+    {
+      "name": "柠娜",
+      "role": "维护者"
+    }
+  ],
+  "category": "实用工具",
+  "summary": "将 Assets/MenuThemes 中的 GIF/图片作为主菜单主题，并使用同名音频作为主题音乐。",
+  "license": "MIT",
+  "updated": "2026-11-03",
+  "featured": false,
+  "blVersion": 2,
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "entry": "main.js",
+  "dependencies": [],
+  "localizedNames": {
+    "vi": "Menu Media",
+    "zh-Hans": "菜单媒体"
+  },
+  "description": "# 菜单媒体\n\n作者：amogus。维护者：柠娜。\n\n把 GIF、PNG 或 JPG 放入 `Assets/MenuThemes`，即可将其注册为主菜单主题；若存在同名音频文件，则使用该音频作为主题音乐。配置可以调整背景尺寸、X/Y 位置、图标大小和 GIF 播放速度。视频文件不会直接加载，需要先转换为 GIF + MP3。\n\n安装或更新后请重启游戏。大尺寸媒体、音频解码和设备性能可能影响加载时间；联机兼容性不适用。包内许可证：MIT。",
+  "localizedSummaries": {
+    "zh-Hans": "将 Assets/MenuThemes 中的 GIF/图片作为主菜单主题，并使用同名音频作为主题音乐。"
+  },
+  "sourceEdition": {
+    "baseVersion": "1.6.0",
+    "sourceManifestSha256": "3f78f9ce365f4966e5797058cdfaf952f8ac1764d6cff622c0e0060a65c95819"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.6.0"
+  }
+}

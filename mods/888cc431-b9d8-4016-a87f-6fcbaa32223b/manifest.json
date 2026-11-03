@@ -1,0 +1,72 @@
+{
+  "uid": "888cc431-b9d8-4016-a87f-6fcbaa32223b",
+  "id": "tetovanitysets",
+  "name": "重音 Teto 时装套组",
+  "version": "1.40-ningzh.1",
+  "authors": [
+    {
+      "name": "Makeight",
+      "role": "Original mod",
+      "color": "#E8446D",
+      "link": "https://discord.gg/f5ZYcYTXTE"
+    },
+    {
+      "name": "Ink of the Eternity",
+      "role": "Coding help",
+      "color": "#7FC8FF"
+    },
+    {
+      "name": "Bloa",
+      "role": "Port to Bunny Loader",
+      "avatar": "bloa.png"
+    },
+    {
+      "name": "柠娜",
+      "role": "维护者"
+    }
+  ],
+  "category": "物品",
+  "summary": "加入 44 套重音 Teto 时装、翅膀、背包、发型、法棍、玩偶、两种宠物和出售全部内容的重音 Teto NPC。",
+  "license": "All rights reserved",
+  "featured": false,
+  "updated": "2026-11-03",
+  "blVersion": 2,
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "entry": "main.js",
+  "dependencies": [],
+  "links": [
+    {
+      "title": "Original Steam Workshop mod",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3309069289"
+    },
+    {
+      "title": "Teto Discord",
+      "url": "https://discord.gg/f5ZYcYTXTE"
+    }
+  ],
+  "pages": [
+    {
+      "title": "Shop",
+      "file": "docs/shop.md"
+    }
+  ],
+  "description": "# 重音 Teto 时装套组\n\n原作者：Makeight；代码协助：Ink of the Eternity；Bunny Loader 移植：Bloa；维护者：柠娜。\n\n制作并将 Teto 玩偶放在背包中，重音 Teto NPC 就会入住并出售全部内容。模组包含 44 套头部、身体和腿部时装，以及翅膀、背包、发型、Teto 法棍、Teto 玩偶、Pearto 和 Sukina Souzai Happyou Dragon 两种宠物。部分时装会根据移动方向翻转，翅膀适合前期使用并可免疫摔落伤害。\n\nTeto NPC 的商店分为 4 页时装、其他装饰、宠物和翅膀；使用“切换商店”按钮翻页。1.40 起，Teto NPC 需要玩家背包中有 Teto 玩偶才会入住。包内原作者未声明开放许可证，继续保留原作者所有权声明；分发前请遵守原作者要求。",
+  "localizedNames": {
+    "zh-Hans": "重音 Teto 时装套组"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "加入 44 套重音 Teto 时装、翅膀、背包、发型、法棍、玩偶、两种宠物和出售全部内容的重音 Teto NPC。"
+  },
+  "sourceEdition": {
+    "baseVersion": "1.40",
+    "sourceManifestSha256": "cedc39798bb1819b0d41e9a09ec59c185a103026849a3cbb7e832567d4bb1840"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.40"
+  }
+}

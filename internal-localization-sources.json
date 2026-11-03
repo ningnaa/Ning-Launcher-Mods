@@ -1437,29 +1437,6 @@
       "author": "Zayah"
     },
     {
-      "uid": "15c81011-b5fb-46bc-8a1d-728e904a039a",
-      "id": "isekaid",
-      "name": "异世界 RPG 系统",
-      "version": "1.0.1-ningzh.1",
-      "file": "isekaid-1.0.1-ningzh.1.bl",
-      "sha256": "c8162647f3fbafbe3432488c5afa65d6715076515ad8291ff712f6f513bb6b79",
-      "size": 57902,
-      "originalSha256": "f9ec2b1029d285455cf71561bedf4db679b4332d097c3401ba4069113f945e44",
-      "tag": "mod-isekaid-v1.0.1-ningzh.1",
-      "changedFiles": [
-        "manifest.json",
-        "description_zh-Hans.md",
-        "changelog_zh-Hans.md",
-        "content/Localization/zh-Hans.json"
-      ],
-      "baseVersion": "1.0.1",
-      "englishKeys": 10,
-      "chineseKeys": 10,
-      "supplementalKeys": 0,
-      "source": "上游包未提供简体中文；按 Terraria 语境补译并保留原有语言文件",
-      "author": "Zayah"
-    },
-    {
       "uid": "56ae3a13-ac51-4bc7-8c8f-a03f8f5d26b4",
       "id": "lanternslot",
       "name": "灯笼栏",
@@ -1574,6 +1551,60 @@
       "supplementalKeys": 0,
       "source": "上游包未提供简体中文；按 Terraria 语境补译并保留原有语言文件",
       "author": "Nyacro, Mantovani"
+    },
+    {
+      "uid": "15c81011-b5fb-46bc-8a1d-728e904a039a",
+      "id": "isekaid",
+      "name": "异世界 RPG 系统",
+      "version": "1.0.1-ningzh.2",
+      "file": "isekaid-1.0.1-ningzh.2.bl",
+      "sha256": "d211d9f3f3bf1fc83c22855eea738b055200c97cc920201eb5675074a2915b65",
+      "size": 58337,
+      "originalSha256": "f9ec2b1029d285455cf71561bedf4db679b4332d097c3401ba4069113f945e44",
+      "tag": "mod-isekaid-v1.0.1-ningzh.2",
+      "changedFiles": [
+        "manifest.json",
+        "content/Localization/zh-Hans.json",
+        "content/Main/Classes.js",
+        "content/Common/Systems/MenuSystem.js",
+        "content/Main/LevelUp.js",
+        "content/Common/Commands/ExpCommand.js",
+        "content/Common/GlobalNPCs/ExpNPC.js",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
+      ],
+      "baseVersion": "1.0.1",
+      "englishKeys": 10,
+      "chineseKeys": 10,
+      "supplementalKeys": 0,
+      "source": "上游包未提供简体中文；按 Terraria 语境补译并保留原有语言文件",
+      "author": "Zayah",
+      "revisionHistory": [
+        {
+          "uid": "15c81011-b5fb-46bc-8a1d-728e904a039a",
+          "id": "isekaid",
+          "name": "异世界 RPG 系统",
+          "version": "1.0.1-ningzh.1",
+          "file": "isekaid-1.0.1-ningzh.1.bl",
+          "sha256": "c8162647f3fbafbe3432488c5afa65d6715076515ad8291ff712f6f513bb6b79",
+          "size": 57902,
+          "originalSha256": "f9ec2b1029d285455cf71561bedf4db679b4332d097c3401ba4069113f945e44",
+          "tag": "mod-isekaid-v1.0.1-ningzh.1",
+          "changedFiles": [
+            "manifest.json",
+            "description_zh-Hans.md",
+            "changelog_zh-Hans.md",
+            "content/Localization/zh-Hans.json"
+          ],
+          "baseVersion": "1.0.1",
+          "englishKeys": 10,
+          "chineseKeys": 10,
+          "supplementalKeys": 0,
+          "source": "上游包未提供简体中文；按 Terraria 语境补译并保留原有语言文件",
+          "author": "Zayah"
+        }
+      ],
+      "note": "修订版补齐代码内角色菜单、职业、属性、升级和 Boss 进度提示的中文文本。"
     }
   ],
   "authorChineseSources": {

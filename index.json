@@ -4909,23 +4909,22 @@
       "uid": "f8a2d3e1-7b6c-4d5e-9f0a-1b2c3d4e5f6a",
       "id": "leveled-prisma",
       "name": "成长型武器：等级制附属包",
-      "version": "1.0.0-ningzh.1",
+      "version": "1.0.0-ningzh.2",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-leveled-prisma-v1.0.0-ningzh.1/leveled-prisma-1.0.0-ningzh.1.bl",
-        "sha256": "5b973462bc51e84e31e7dfcc9dbd64e2d5b14e848d0692b5a81c45b7d327e938",
-        "size": 16775
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-leveled-prisma-v1.0.0-ningzh.2/leveled-prisma-1.0.0-ningzh.2.bl",
+        "sha256": "13dcb7ea1a33fbd4ef086933b801d31c7939545b4167c2b430da51a3ee612ce6",
+        "size": 16477
       },
       "files": [
         "manifest.json",
         "icon.png",
-        "changelog_zh-Hans.md",
         "description_zh-Hans.md"
       ],
       "manifest": {
         "uid": "f8a2d3e1-7b6c-4d5e-9f0a-1b2c3d4e5f6a",
         "id": "leveled-prisma",
         "name": "成长型武器：等级制附属包",
-        "version": "1.0.0-ningzh.1",
+        "version": "1.0.0-ningzh.2",
         "author": "阮汐月",
         "authors": [
           {
@@ -4941,7 +4940,7 @@
         "category": "武器",
         "type": "mod",
         "summary": "击杀怪物获取经验，无限突破等级上限；《成长型武器》的等级制附属扩展包。",
-        "description": "# 成长型武器：等级制附属包\\n\\n作者：阮汐月。\\n\\n这是《成长型武器》的附属扩展包，提供独立的等级制泰拉棱镜。击杀非友军怪物获取经验，武器等级没有上限，基础伤害随等级平滑成长，并通过称谓展示成长阶段。\\n\\n需要先安装主包《成长型武器》（\u00071）。附属包武器与主包武器相互独立，可在同一存档共存。武器召唤物采用紧凑光翼阵列，最高 6 把。\\n\\n安装或更新后请完全退出并重启游戏；联机兼容性尚未充分验证。\\n\\n许可：MIT。",
+        "description": "# 成长型武器：等级制附属包\n\n作者：阮汐月。\n\n这是《成长型武器》的附属扩展包，提供独立的等级制泰拉棱镜。击杀非友军怪物获取经验，武器等级没有上限，基础伤害随等级平滑成长，并通过称谓展示成长阶段。\n\n需要先安装主包《成长型武器》（a1）。附属包武器与主包武器相互独立，可在同一存档共存。武器召唤物采用紧凑光翼阵列，最高 6 把。\n\n安装或更新后请完全退出并重启游戏；联机兼容性尚未充分验证。\n\n许可：MIT。",
         "license": "MIT",
         "links": [],
         "pages": [],
@@ -4981,7 +4980,7 @@
           "sourceManifestSha256": "562189c8dab76e512716489a22d9c6ba3773346bc02ce7d09661fcd7f40686ec"
         }
       },
-      "updatedAt": "2026-11-03T15:16:46Z",
+      "updatedAt": "2026-11-03T15:20:06Z",
       "publishedAt": "2026-11-03T15:16:46Z"
     },
     {

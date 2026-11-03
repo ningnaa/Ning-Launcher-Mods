@@ -4841,11 +4841,11 @@
       "uid": "15c81011-b5fb-46bc-8a1d-728e904a039a",
       "id": "isekaid",
       "name": "异世界 RPG 系统",
-      "version": "1.0.1-ningzh.1",
+      "version": "1.0.1-ningzh.2",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-isekaid-v1.0.1-ningzh.1/isekaid-1.0.1-ningzh.1.bl",
-        "sha256": "c8162647f3fbafbe3432488c5afa65d6715076515ad8291ff712f6f513bb6b79",
-        "size": 57902
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-isekaid-v1.0.1-ningzh.2/isekaid-1.0.1-ningzh.2.bl",
+        "sha256": "d211d9f3f3bf1fc83c22855eea738b055200c97cc920201eb5675074a2915b65",
+        "size": 58337
       },
       "files": [
         "manifest.json",
@@ -4862,7 +4862,7 @@
         "uid": "15c81011-b5fb-46bc-8a1d-728e904a039a",
         "id": "isekaid",
         "name": "异世界 RPG 系统",
-        "version": "1.0.1-ningzh.1",
+        "version": "1.0.1-ningzh.2",
         "authors": [
           {
             "name": "Zayah",
@@ -4893,11 +4893,11 @@
         },
         "localizationEdition": {
           "language": "zh-Hans",
-          "revision": 1,
+          "revision": 2,
           "baseVersion": "1.0.1"
         }
       },
-      "updatedAt": "2026-11-03T16:17:48Z",
+      "updatedAt": "2026-11-03T16:47:07Z",
       "publishedAt": "2026-11-03T16:17:48Z"
     },
     {

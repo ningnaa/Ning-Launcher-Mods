@@ -2,7 +2,7 @@
   "uid": "15c81011-b5fb-46bc-8a1d-728e904a039a",
   "id": "isekaid",
   "name": "异世界 RPG 系统",
-  "version": "1.0.1-ningzh.1",
+  "version": "1.0.1-ningzh.2",
   "authors": [
     {
       "name": "Zayah",
@@ -33,7 +33,7 @@
   },
   "localizationEdition": {
     "language": "zh-Hans",
-    "revision": 1,
+    "revision": 2,
     "baseVersion": "1.0.1"
   }
 }

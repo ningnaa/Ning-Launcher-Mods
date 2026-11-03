@@ -1,0 +1,45 @@
+{
+  "uid": "5c1ae0e6-28da-5db4-b929-5ca075471a5a",
+  "id": "wingslotextra",
+  "name": "额外翅膀栏",
+  "version": "1.4.9-ningzh.1",
+  "blVersion": 2,
+  "entry": "main.js",
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "category": "辅助",
+  "updated": "2026-11-02",
+  "author": "Aitherix、abluescarab",
+  "authors": [
+    {
+      "name": "Aitherix",
+      "role": "原作者与维护者"
+    },
+    {
+      "name": "abluescarab",
+      "role": "原始翅膀栏作者"
+    },
+    {
+      "name": "柠娜",
+      "role": "Bunny Loader 移植者"
+    }
+  ],
+  "license": "",
+  "description": "提供独立的功能翅膀、时装翅膀和染料槽，并支持装备方案与显示设置。",
+  "portEdition": {
+    "originalName": "Wing Slot Extra",
+    "sourceVersion": "1.4.9",
+    "sourceSha256": "bd7db8ef67ee8260d2171ccb74796c7c0744350415282c9a7794e4c8450c4db3",
+    "porter": "柠娜",
+    "revision": 1
+  },
+  "summary": "增加独立的功能翅膀、时装翅膀和染料栏，支持装备方案。",
+  "localizedNames": {
+    "zh-Hans": "额外翅膀栏"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "增加独立的功能翅膀、时装翅膀和染料栏，支持装备方案。"
+  }
+}

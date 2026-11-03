@@ -1,0 +1,40 @@
+{
+  "uid": "0f6e273f-5832-52a8-96d9-31333045ff69",
+  "id": "prettyrarities",
+  "name": "特效提示",
+  "version": "1.4.4-ningzh.1",
+  "blVersion": 2,
+  "entry": "main.js",
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "category": "视觉",
+  "author": "Yata",
+  "authors": [
+    {
+      "name": "Yata",
+      "role": "原作者"
+    },
+    {
+      "name": "柠娜",
+      "role": "Bunny Loader 移植者"
+    }
+  ],
+  "license": "",
+  "description": "为物品名称添加随稀有度变化的渐变、光晕与粒子效果。",
+  "portEdition": {
+    "originalName": "Better Tooltips",
+    "sourceVersion": "1.4.4",
+    "sourceSha256": "1606e21d263c37f32e3cd24ad5f36eeafb0db590ab18fd2dd4ec6d741275040e",
+    "porter": "柠娜",
+    "revision": 1
+  },
+  "summary": "为不同稀有度的物品名称添加渐变、光晕和粒子效果。",
+  "localizedNames": {
+    "zh-Hans": "特效提示"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "为不同稀有度的物品名称添加渐变、光晕和粒子效果。"
+  }
+}

@@ -5703,6 +5703,133 @@
       },
       "updatedAt": "2026-11-02T23:52:27Z",
       "publishedAt": "2026-11-02T23:52:27Z"
+    },
+    {
+      "uid": "0f6e273f-5832-52a8-96d9-31333045ff69",
+      "id": "prettyrarities",
+      "name": "特效提示",
+      "version": "1.4.4-ningzh.1",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-prettyrarities-v1.4.4-ningzh.1/prettyrarities-1.4.4-ningzh.1.bl",
+        "sha256": "bd1b76d0fc2b1a7963afd5c57568c72dc9c1c6cc803adb21340f78e09998189c",
+        "size": 9983236
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md"
+      ],
+      "manifest": {
+        "uid": "0f6e273f-5832-52a8-96d9-31333045ff69",
+        "id": "prettyrarities",
+        "name": "特效提示",
+        "version": "1.4.4-ningzh.1",
+        "blVersion": 2,
+        "entry": "main.js",
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "category": "视觉",
+        "author": "Yata",
+        "authors": [
+          {
+            "name": "Yata",
+            "role": "原作者"
+          },
+          {
+            "name": "柠娜",
+            "role": "Bunny Loader 移植者"
+          }
+        ],
+        "license": "",
+        "description": "为物品名称添加随稀有度变化的渐变、光晕与粒子效果。",
+        "portEdition": {
+          "originalName": "Better Tooltips",
+          "sourceVersion": "1.4.4",
+          "sourceSha256": "1606e21d263c37f32e3cd24ad5f36eeafb0db590ab18fd2dd4ec6d741275040e",
+          "porter": "柠娜",
+          "revision": 1
+        },
+        "summary": "为不同稀有度的物品名称添加渐变、光晕和粒子效果。",
+        "localizedNames": {
+          "zh-Hans": "特效提示"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "为不同稀有度的物品名称添加渐变、光晕和粒子效果。"
+        }
+      },
+      "updatedAt": "2026-11-03T00:18:21Z",
+      "publishedAt": "2026-11-03T00:18:21Z"
+    },
+    {
+      "uid": "5c1ae0e6-28da-5db4-b929-5ca075471a5a",
+      "id": "wingslotextra",
+      "name": "额外翅膀栏",
+      "version": "1.4.9-ningzh.1",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-wingslotextra-v1.4.9-ningzh.1/wingslotextra-1.4.9-ningzh.1.bl",
+        "sha256": "fb96d6d867d78b0adc870c66ed820b90dc45784b00e7cb71740c61b32d65f960",
+        "size": 49285
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md"
+      ],
+      "manifest": {
+        "uid": "5c1ae0e6-28da-5db4-b929-5ca075471a5a",
+        "id": "wingslotextra",
+        "name": "额外翅膀栏",
+        "version": "1.4.9-ningzh.1",
+        "blVersion": 2,
+        "entry": "main.js",
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "category": "辅助",
+        "updated": "2026-11-02",
+        "author": "Aitherix、abluescarab",
+        "authors": [
+          {
+            "name": "Aitherix",
+            "role": "原作者与维护者"
+          },
+          {
+            "name": "abluescarab",
+            "role": "原始翅膀栏作者"
+          },
+          {
+            "name": "柠娜",
+            "role": "Bunny Loader 移植者"
+          }
+        ],
+        "license": "",
+        "description": "提供独立的功能翅膀、时装翅膀和染料槽，并支持装备方案与显示设置。",
+        "portEdition": {
+          "originalName": "Wing Slot Extra",
+          "sourceVersion": "1.4.9",
+          "sourceSha256": "bd7db8ef67ee8260d2171ccb74796c7c0744350415282c9a7794e4c8450c4db3",
+          "porter": "柠娜",
+          "revision": 1
+        },
+        "summary": "增加独立的功能翅膀、时装翅膀和染料栏，支持装备方案。",
+        "localizedNames": {
+          "zh-Hans": "额外翅膀栏"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "增加独立的功能翅膀、时装翅膀和染料栏，支持装备方案。"
+        }
+      },
+      "updatedAt": "2026-11-03T00:18:21Z",
+      "publishedAt": "2026-11-03T00:18:21Z"
     }
   ],
   "featured": [

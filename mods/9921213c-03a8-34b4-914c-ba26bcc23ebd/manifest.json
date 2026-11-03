@@ -27,5 +27,11 @@
     "parentVersion": "1.2.0",
     "parentSha256": "997b2ea3f55de7724d4c8afa9d2826ad2387337e95efff1a032f69782f6f621d",
     "sourceFormat": "Terraria PC resource-pack ZIP"
-  }
+  },
+  "authors": [
+    {
+      "name": "柠娜",
+      "role": "维护者"
+    }
+  ]
 }

@@ -10,7 +10,11 @@
       "avatar": "bunny-loader.png",
       "color": "#F9E141"
     },
-    "Comic Neue Project Authors"
+    "Comic Neue Project Authors",
+    {
+      "name": "柠娜",
+      "role": "维护者"
+    }
   ],
   "type": "font",
   "category": "字体",

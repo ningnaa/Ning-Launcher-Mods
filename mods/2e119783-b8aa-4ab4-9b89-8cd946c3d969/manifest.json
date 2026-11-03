@@ -22,6 +22,10 @@
       "role": "移植",
       "avatar": "durian.png",
       "color": "#E8C170"
+    },
+    {
+      "name": "柠娜",
+      "role": "维护者"
     }
   ],
   "category": "玩法扩展",

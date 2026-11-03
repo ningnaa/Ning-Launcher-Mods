@@ -24,5 +24,11 @@
     "language": "zh-Hans",
     "revision": 1,
     "baseVersion": "1.1.1"
-  }
+  },
+  "authors": [
+    {
+      "name": "柠娜",
+      "role": "维护者"
+    }
+  ]
 }

@@ -2,7 +2,7 @@
   "uid": "52ed2234-aaf3-5d86-822c-70bc86225629",
   "id": "autotrash",
   "name": "智能垃圾桶",
-  "version": "0.8.1.1-bunny.3",
+  "version": "0.8.1.1-ningzh.4",
   "blVersion": 2,
   "entry": "main.js",
   "gameVersion": [
@@ -10,7 +10,7 @@
     301720
   ],
   "category": "玩法",
-  "updated": "2026-11-01",
+  "updated": "2026-11-03",
   "author": "jopojelly",
   "authors": [
     {
@@ -47,6 +47,6 @@
     "sourceSha256": "a8009619adc866e8f58f45ee9bac0741a3a5d42a45488055375e5f80fb068c97",
     "upstreamCommit": "55741cdabe08e58798e594ffc9341762840fa187",
     "porter": "柠娜",
-    "revision": 3
+    "revision": 4
   }
 }

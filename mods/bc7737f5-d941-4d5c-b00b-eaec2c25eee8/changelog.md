@@ -1,3 +1,8 @@
+# 1.0.0-ningzh.1.fix.2
+
+- 修复存储终端打开时，底层移动、跳跃和攻击触摸仍可能被激活的问题。
+- 关闭终端后恢复原生触摸操作。
+
 # 1.0.0 (retextured)
 
 - Renamed to Magic Storage Adaptation; new description and credits.

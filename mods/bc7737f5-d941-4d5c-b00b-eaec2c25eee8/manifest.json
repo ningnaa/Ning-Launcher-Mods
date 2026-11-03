@@ -2,7 +2,7 @@
   "uid": "bc7737f5-d941-4d5c-b00b-eaec2c25eee8",
   "id": "unifiedstorage",
   "name": "魔法存储",
-  "version": "1.0.0-ningzh.1.fix.1",
+  "version": "1.0.0-ningzh.1.fix.2",
   "authors": [
     {
       "name": "Bloa",
@@ -29,7 +29,7 @@
   "summary": "将存储单元连接到核心，集中搜索、分类、取放物品，并使用网络内的材料制作；支持容量升级和远程访问。当前移植版仅支持单人模式。",
   "license": "MIT",
   "featured": false,
-  "updated": "2026-11-02",
+  "updated": "2026-11-03",
   "blVersion": 2,
   "gameVersion": [
     301720,

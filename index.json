@@ -500,54 +500,6 @@
       }
     },
     {
-      "uid": "bcb72e90-3716-4cd1-b8a4-866a963958e5",
-      "id": "bunnysocial",
-      "name": "双倍饰品栏",
-      "version": "1.0.0-ningzh.2",
-      "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-bunnysocial-v1.0.0-ningzh.2/bunnysocial-1.0.0-ningzh.2.bl",
-        "sha256": "61c00d1695b143040d3363e4e6c0cf577a638f5c7980dd9ee0a6876f43728afb",
-        "size": 1704316
-      },
-      "files": [
-        "manifest.json",
-        "icon.png",
-        "banner.png",
-        "description_zh-Hans.md",
-        "changelog_zh-Hans.md"
-      ],
-      "manifest": {
-        "uid": "bcb72e90-3716-4cd1-b8a4-866a963958e5",
-        "id": "bunnysocial",
-        "name": "双倍饰品栏",
-        "version": "1.0.0-ningzh.2",
-        "author": "VowTz",
-        "category": "玩法",
-        "summary": "Every vanity slot works like an accessory slot.",
-        "description": "Items in the vanity (social) slots now apply their effects too, exactly as if they were in the matching equipment slot.",
-        "blVersion": 2,
-        "entry": "main.js",
-        "localizedNames": {
-          "zh-Hans": "双倍饰品栏"
-        },
-        "localizedSummaries": {
-          "zh-Hans": "让每个时装栏也能发挥对应装备栏的效果。"
-        },
-        "localizationEdition": {
-          "language": "zh-Hans",
-          "revision": 2,
-          "baseVersion": "1.0.0"
-        },
-        "authors": [
-          {
-            "name": "柠娜",
-            "role": "维护者"
-          }
-        ]
-      },
-      "publishedAt": "2026-10-28T02:20:38Z"
-    },
-    {
       "uid": "c7257a97-0552-4aa5-bc55-95f102b0e230",
       "id": "chestpeek",
       "name": "ChestPeek",
@@ -769,70 +721,6 @@
       }
     },
     {
-      "uid": "dc3f4de8-1c59-4d92-a986-3ea0e4b42e15",
-      "id": "cooleritemvisualeffect",
-      "name": "近战武器视觉特效（C.I.V.E.）",
-      "version": "1.0.9-bunny.9.ningzh.2.fix.2",
-      "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-cooleritemvisualeffect-v1.0.9-bunny.9.ningzh.2.fix.2/cooleritemvisualeffect-1.0.9-bunny.9.ningzh.2.fix.2.bl",
-        "sha256": "cbfd16fdcacab363af6a71f7fcc4a1f4c4f2dd6ce23f4b75ed8c73baa9e865d3",
-        "size": 40412
-      },
-      "files": [
-        "authors/castorzeira.png",
-        "changelog_zh-Hans.md",
-        "description_zh-Hans.md",
-        "icon.png",
-        "manifest.json"
-      ],
-      "manifest": {
-        "uid": "dc3f4de8-1c59-4d92-a986-3ea0e4b42e15",
-        "id": "cooleritemvisualeffect",
-        "name": "近战武器视觉特效（C.I.V.E.）",
-        "version": "1.0.9-bunny.9.ningzh.2.fix.2",
-        "authors": [
-          {
-            "name": "Log Spiral (Original Creator)",
-            "role": "原模组与视觉资源"
-          },
-          {
-            "name": "Castorzeira (port)",
-            "avatar": "Castorzeira.png",
-            "role": "Bunny Loader 移植"
-          },
-          {
-            "name": "柠娜",
-            "role": "维护者"
-          }
-        ],
-        "category": "视觉效果",
-        "summary": "挥砍剑光与攻击动画；联机使用原版近战伤害判定和同步。",
-        "description": "efeito slash totalmente exagerado e bonito",
-        "updated": "2026-11-02",
-        "blVersion": 2,
-        "entry": "main.js",
-        "localizedNames": {
-          "zh-Hans": "近战武器视觉特效（C.I.V.E.）",
-          "en-US": "Cooler Item Visual Effect — Bunny Port"
-        },
-        "localizedSummaries": {
-          "zh-Hans": "挥砍剑光与攻击动画；联机使用原版近战伤害判定和同步。"
-        },
-        "localizationEdition": {
-          "language": "zh-Hans",
-          "revision": 2,
-          "baseVersion": "1.0.9-bunny.9"
-        },
-        "repairEdition": {
-          "parentVersion": "1.0.9-bunny.9.ningzh.2.fix.1",
-          "parentSha256": "8439bfe9aed54c82447c6f32ecd25d45141de87918105191f067a9ed88bc2a08",
-          "revision": 2
-        }
-      },
-      "publishedAt": "2026-10-29T10:39:39Z",
-      "updatedAt": "2026-11-02T01:53:52Z"
-    },
-    {
       "uid": "a4f0d04b-f2f0-499b-b4b8-6d89e4bcbd6a",
       "id": "coyote-frames",
       "name": "Coyote Frames",
@@ -998,74 +886,6 @@
         }
       },
       "publishedAt": "2026-10-29T10:39:17Z"
-    },
-    {
-      "uid": "22b95101-7032-49ab-92a8-468f3030aa41",
-      "id": "devtools",
-      "name": "开发者工具",
-      "version": "1.0.1-ningzh.1.fix.3",
-      "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-devtools-v1.0.1-ningzh.1.fix.3/devtools-1.0.1-ningzh.1.fix.3.bl",
-        "sha256": "c30c0cf4677dc07c9c18a10e94f984f6a5b782b751f5951627b4eab890d7b96e",
-        "size": 227705
-      },
-      "files": [
-        "manifest.json",
-        "icon.png",
-        "banner.jpg",
-        "description.md",
-        "authors/0.png",
-        "description_zh-Hans.md",
-        "changelog_zh-Hans.md",
-        "changelog.md"
-      ],
-      "manifest": {
-        "uid": "22b95101-7032-49ab-92a8-468f3030aa41",
-        "id": "devtools",
-        "name": "开发者工具",
-        "version": "1.0.1-ningzh.1.fix.3",
-        "authors": [
-          {
-            "name": "GST378",
-            "role": "作者",
-            "avatar": "0.png",
-            "color": "#ffffff",
-            "link": "https://youtube.com/@gst_378"
-          },
-          {
-            "name": "柠娜",
-            "role": "维护者"
-          }
-        ],
-        "category": "实用工具",
-        "summary": "一个直观的工具界面：难度切换、实体清除、碰撞箱、天气与时间、相机与拍照模式、调试信息。",
-        "license": "",
-        "updated": "2026-11-01",
-        "blVersion": 2,
-        "gameVersion": [
-          301720,
-          301720
-        ],
-        "entry": "main.js",
-        "dependencies": [],
-        "localizedNames": {
-          "zh-Hans": "开发者工具"
-        },
-        "localizedSummaries": {
-          "zh-Hans": "一个直观的工具界面：难度切换、实体清除、碰撞箱、天气与时间、相机与拍照模式、调试信息。"
-        },
-        "localizationEdition": {
-          "language": "zh-Hans",
-          "revision": 1,
-          "baseVersion": "1.0.1"
-        },
-        "repairEdition": {
-          "revision": 3,
-          "parentVersion": "1.0.1-ningzh.1.fix.2",
-          "parentSha256": "273926a05c6da4a1d98585eaa11fff34caccefbf5be47f2cf082db552a801133"
-        }
-      },
-      "updatedAt": "2026-11-01T09:57:19Z"
     },
     {
       "uid": "cece9409-844d-476a-8953-1a59de78db92",
@@ -2101,6 +1921,68 @@
           "baseVersion": "1.0.2"
         }
       }
+    },
+    {
+      "uid": "729873fc-a00b-33e7-a02a-6b6cd589aed6",
+      "id": "texture-729873fc-a00b-33e7-a02a-6b6cd589aed6",
+      "name": "JoJo的泰拉冒险",
+      "version": "2.0.0-port.1",
+      "manifest": {
+        "uid": "729873fc-a00b-33e7-a02a-6b6cd589aed6",
+        "id": "texture-729873fc-a00b-33e7-a02a-6b6cd589aed6",
+        "name": "JoJo的泰拉冒险",
+        "version": "2.0.0-port.1",
+        "type": "texture",
+        "category": "材质包",
+        "summary": "以 JoJo 角色和替身主题替换盔甲、武器、召唤物及部分界面与家具外观。",
+        "localizedNames": {
+          "zh-Hans": "JoJo的泰拉冒险",
+          "en-US": "JoJo's Terraria Adventure"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "以 JoJo 角色和替身主题替换盔甲、武器、召唤物及部分界面与家具外观。"
+        },
+        "authors": [
+          {
+            "name": "Giobun",
+            "role": "原作者"
+          },
+          {
+            "name": "1",
+            "role": "移植者"
+          },
+          {
+            "name": "柠娜",
+            "role": "维护者"
+          }
+        ],
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "updated": "2026-11-02",
+        "links": [
+          {
+            "title": "原作 Steam 创意工坊",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2440909212"
+          }
+        ],
+        "description": "# JoJo的泰拉冒险\n\n以 JoJo 角色和替身主题替换盔甲、武器、召唤物及部分界面与家具外观。\n\n原作者：Giobun。移植者：1。原名：JoJo's Terraria Adventure。\n\n包含257张活动贴图。4张旧版动画/图集与手机版布局不一致，保留原版显示，原图附于 source/incompatible。源包未附独立许可证声明，保留原作署名与资料。\n\n启用后重启生效，关闭后重启恢复原版；同名贴图覆盖按加载优先级。\n"
+      },
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-texture-729873fc-a00b-33e7-a02a-6b6cd589aed6-v2.0.0-port.1/texture-729873fc-a00b-33e7-a02a-6b6cd589aed6-2.0.0-port.1.bl",
+        "sha256": "830bc1d31fdbda2499be2560b2381686499d7f39bb02641b8b7b5b4597426276",
+        "size": 635930
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md"
+      ],
+      "updatedAt": "2026-11-02T08:28:36.304065Z",
+      "publishedAt": "2026-11-02T08:28:36.304065Z"
     },
     {
       "uid": "adbf3a32-2952-41cc-8d97-7c3b1575785d",
@@ -4290,65 +4172,133 @@
       }
     },
     {
-      "uid": "fbb7eb80-3232-4079-998c-cb863e14f3dd",
-      "id": "voluntaryhook",
-      "name": "愿者上钩 (VoluntaryHook)",
-      "version": "1.1.0-ningzh.1",
+      "uid": "444a9868-3515-547a-b2db-f889023c76f3",
+      "id": "census",
+      "name": "人口普查：城镇居民清单",
+      "version": "0.5.2.8-ningzh.3",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-voluntaryhook-v1.1.0-ningzh.1/voluntaryhook-1.1.0-ningzh.1.bl",
-        "sha256": "cd1c1d2980f2eac8eb14533d6d46936f8aaeb61beb4eaa84ac42d4c0c43a3110",
-        "size": 4465
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-census-v0.5.2.8-ningzh.3/census-0.5.2.8-ningzh.3.bl",
+        "sha256": "b9f1d509a63eed0765bddfc5b14c79a779d7fb67b45626809dc41077387ff3ed",
+        "size": 19951
       },
       "files": [
         "manifest.json",
         "icon.png",
         "description.md",
-        "license.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
         "description_zh-Hans.md"
       ],
       "manifest": {
-        "uid": "fbb7eb80-3232-4079-998c-cb863e14f3dd",
-        "id": "voluntaryhook",
-        "name": "愿者上钩 (VoluntaryHook)",
-        "version": "1.1.0-ningzh.1",
+        "uid": "444a9868-3515-547a-b2db-f889023c76f3",
+        "id": "census",
+        "name": "人口普查：城镇居民清单",
+        "version": "0.5.2.8-ningzh.3",
+        "blVersion": 2,
+        "entry": "main.js",
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "category": "界面",
+        "updated": "2026-11-01",
+        "author": "jopojelly",
         "authors": [
           {
-            "name": "lzup333"
+            "name": "jopojelly",
+            "role": "原作者"
+          },
+          {
+            "name": "柠娜",
+            "role": "Bunny Loader 移植者"
           },
           {
             "name": "柠娜",
             "role": "维护者"
           }
         ],
-        "category": "玩法",
-        "summary": "抛出鱼钩后数量固定 5 倍，实现多倍鱼钩。",
-        "license": "AGPL-3.0",
-        "updated": "2026-10-22",
-        "blVersion": 2,
-        "entry": "main.js",
+        "license": "",
+        "description": "直接扩展背包内的 NPC 居住界面，显示未入住居民、入住条件与状态，并支持定位箭头。原作者 jopojelly；移植者柠娜。",
         "localizedNames": {
-          "zh-Hans": "愿者上钩"
+          "zh-Hans": "人口普查：城镇居民清单"
         },
+        "portEdition": {
+          "originalName": "Census - Town NPC Checklist",
+          "sourceVersion": "0.5.2.8",
+          "sourceSha256": "9a1a8c891ea1557b446001fcf352c1d3469af5f2ca5b9f9c216a84146a6a39a9",
+          "porter": "柠娜",
+          "revision": 3
+        },
+        "links": [
+          {
+            "title": "Steam 原作",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2687866031"
+          }
+        ],
+        "summary": "在背包居住界面查看居民入住条件和状态，并定位已入住居民。",
         "localizedSummaries": {
-          "zh-Hans": "抛出鱼钩后，鱼钩数量固定为五倍。"
-        },
-        "localizationEdition": {
-          "language": "zh-Hans",
-          "revision": 1,
-          "baseVersion": "1.1.0"
+          "zh-Hans": "在背包居住界面查看居民入住条件和状态，并定位已入住居民。"
         }
       },
-      "publishedAt": "2026-10-22T16:57:49Z"
+      "updatedAt": "2026-11-02T18:42:56Z",
+      "publishedAt": "2026-11-02T16:43:28Z"
     },
     {
-      "uid": "9921213c-03a8-34b4-914c-ba26bcc23ebd",
-      "id": "texture-9921213c-03a8-34b4-914c-ba26bcc23ebd",
-      "name": "灾厄Boss外观",
-      "version": "1.2.0-fix.1",
+      "uid": "024331b6-3e6a-33d2-9baa-5708933fd1e0",
+      "id": "texture-024331b6-3e6a-33d2-9baa-5708933fd1e0",
+      "name": "全NPC可爱",
+      "version": "1.0.0-port.1",
+      "manifest": {
+        "uid": "024331b6-3e6a-33d2-9baa-5708933fd1e0",
+        "id": "texture-024331b6-3e6a-33d2-9baa-5708933fd1e0",
+        "name": "全NPC可爱",
+        "version": "1.0.0-port.1",
+        "type": "texture",
+        "category": "材质包",
+        "summary": "以可爱角色造型重绘 NPC、头像和相关碎块动画。",
+        "localizedNames": {
+          "zh-Hans": "全NPC可爱",
+          "en-US": "全NPC可爱"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "以可爱角色造型重绘 NPC、头像和相关碎块动画。"
+        },
+        "authors": [
+          {
+            "name": "那位伟大的向导大人",
+            "role": "原作者"
+          },
+          {
+            "name": "wan",
+            "role": "部分角色原设计"
+          },
+          {
+            "name": "月光不止于疾风",
+            "role": "移植者"
+          },
+          {
+            "name": "柠娜",
+            "role": "维护者"
+          }
+        ],
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "updated": "2026-11-02",
+        "links": [
+          {
+            "title": "原作 Steam 创意工坊",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3307646858"
+          }
+        ],
+        "description": "# 全NPC可爱\n\n以可爱角色造型重绘 NPC、头像和相关碎块动画。\n\n原作者：那位伟大的向导大人。移植者：月光不止于疾风。动画由原作者绘制，28名NPC中11名角色的原设计来自wan。\n\n包含187张活动贴图。源包未附独立许可证声明，保留原作署名与资料。\n\n启用后重启生效，关闭后重启恢复原版；同名贴图覆盖按加载优先级。\n"
+      },
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-texture-9921213c-03a8-34b4-914c-ba26bcc23ebd-v1.2.0-fix.1/texture-9921213c-03a8-34b4-914c-ba26bcc23ebd-1.2.0-fix.1.bl",
-        "size": 1893198,
-        "sha256": "a6ee5b4714ae40ecdfd2c76933e234fa21f988eba7003d01c290408531d11425"
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-texture-024331b6-3e6a-33d2-9baa-5708933fd1e0-v1.0.0-port.1/texture-024331b6-3e6a-33d2-9baa-5708933fd1e0-1.0.0-port.1.bl",
+        "sha256": "8d01cce4441d322cf2de2af3c8ea16c6484bcd1741ce33eb143d027a8c5b7c64",
+        "size": 730933
       },
       "files": [
         "manifest.json",
@@ -4356,35 +4306,47 @@
         "changelog_zh-Hans.md",
         "description_zh-Hans.md"
       ],
+      "updatedAt": "2026-11-02T08:28:36.280395Z",
+      "publishedAt": "2026-11-02T08:28:36.280395Z"
+    },
+    {
+      "uid": "bcb72e90-3716-4cd1-b8a4-866a963958e5",
+      "id": "bunnysocial",
+      "name": "双倍饰品栏",
+      "version": "1.0.0-ningzh.2",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-bunnysocial-v1.0.0-ningzh.2/bunnysocial-1.0.0-ningzh.2.bl",
+        "sha256": "61c00d1695b143040d3363e4e6c0cf577a638f5c7980dd9ee0a6876f43728afb",
+        "size": 1704316
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.png",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
+      ],
       "manifest": {
-        "uid": "9921213c-03a8-34b4-914c-ba26bcc23ebd",
-        "id": "texture-9921213c-03a8-34b4-914c-ba26bcc23ebd",
-        "name": "灾厄Boss外观",
-        "version": "1.2.0-fix.1",
-        "author": "令狐e",
-        "type": "texture",
-        "category": "材质",
+        "uid": "bcb72e90-3716-4cd1-b8a4-866a963958e5",
+        "id": "bunnysocial",
+        "name": "双倍饰品栏",
+        "version": "1.0.0-ningzh.2",
+        "author": "VowTz",
+        "category": "玩法",
+        "summary": "Every vanity slot works like an accessory slot.",
+        "description": "Items in the vanity (social) slots now apply their effects too, exactly as if they were in the matching equipment slot.",
         "blVersion": 2,
-        "description": "将毁灭者-神明吞噬者，双子魔眼-XS-01阿尔忒弥斯和XS-03阿波罗,机械骷髅王-XF-09阿瑞斯",
-        "license": "",
-        "updated": "2026-11-01",
+        "entry": "main.js",
         "localizedNames": {
-          "zh-Hans": "灾厄Boss外观"
+          "zh-Hans": "双倍饰品栏"
         },
         "localizedSummaries": {
-          "zh-Hans": "将机械三王替换为灾厄风格外观；修复两张弹幕图片编码错误。原作者：令狐e。"
+          "zh-Hans": "让每个时装栏也能发挥对应装备栏的效果。"
         },
-        "links": [
-          {
-            "title": "原包记录的 Steam Workshop 页面",
-            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3747656042"
-          }
-        ],
-        "repairEdition": {
-          "revision": 1,
-          "parentVersion": "1.2.0",
-          "parentSha256": "997b2ea3f55de7724d4c8afa9d2826ad2387337e95efff1a032f69782f6f621d",
-          "sourceFormat": "Terraria PC resource-pack ZIP"
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 2,
+          "baseVersion": "1.0.0"
         },
         "authors": [
           {
@@ -4393,46 +4355,27 @@
           }
         ]
       },
-      "publishedAt": "2026-10-31T16:30:38Z"
+      "publishedAt": "2026-10-28T02:20:38Z"
     },
     {
-      "uid": "7c5ee232-0456-3147-a347-e31852f566b9",
-      "id": "texture-7c5ee232-0456-3147-a347-e31852f566b9",
-      "name": "萌萌恶魂",
-      "version": "1.0.0-port.3",
-      "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-texture-7c5ee232-0456-3147-a347-e31852f566b9-v1.0.0-port.3/texture-7c5ee232-0456-3147-a347-e31852f566b9-1.0.0-port.3.bl",
-        "size": 967931,
-        "sha256": "7b51414c80ece1110e1eb462146eb1ac530eb0c26a653044df85832dbe62874b"
-      },
-      "files": [
-        "manifest.json",
-        "icon.png",
-        "changelog_zh-Hans.md",
-        "description_zh-Hans.md"
-      ],
+      "uid": "b7c4e2f1-9a3d-4e58-8c21-6f0d5a9b3e74",
+      "id": "starblessing",
+      "name": "召唤师扩展",
+      "version": "1.4.0-ningzh.1",
       "manifest": {
-        "uid": "7c5ee232-0456-3147-a347-e31852f566b9",
-        "id": "texture-7c5ee232-0456-3147-a347-e31852f566b9",
-        "name": "萌萌恶魂",
-        "version": "1.0.0-port.3",
-        "resourceOverrides": {
-          "sounds": true,
-          "localization": true
-        },
-        "type": "texture",
-        "category": "材质",
-        "blVersion": 2,
-        "updated": "2026-11-01",
-        "author": "Pixivic",
+        "uid": "b7c4e2f1-9a3d-4e58-8c21-6f0d5a9b3e74",
+        "id": "starblessing",
+        "name": "召唤师扩展",
+        "version": "1.4.0-ningzh.1",
+        "author": "YG",
         "authors": [
           {
-            "name": "Pixivic",
-            "role": "原作者",
-            "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3631710750"
+            "name": "YG",
+            "role": "作者",
+            "color": "#8FB8FF"
           },
           {
-            "name": "流脌",
+            "name": "逐邺",
             "role": "移植者"
           },
           {
@@ -4440,29 +4383,189 @@
             "role": "维护者"
           }
         ],
-        "description": "将阿比盖尔替换为萌萌恶魂外观，并替换召唤物品、增益图标和花朵贴图。附带原版音效替换与中文名称、说明。正式版 0.4.14 仅应用贴图；音效及文字需要启动器支持资源包音效与语言替换。",
+        "category": "玩法扩展",
+        "type": "mod",
+        "summary": "一件随 BOSS 进度成长的召唤师饰品、史莱姆法杖的前期合成路径，以及补全小雪怪皮毛套装的兜帽与靴子。",
+        "description": "# 召唤师扩展\n\n为召唤师补充3件新装备，并为原版史莱姆法杖增加前期配方。原作者：YG；移植者：逐邺。保留源包的MIT许可声明。\n\n## 星之庇佑\n\n在工作台用1颗坠落之星制作。装备后基础增加1个召唤栏位、1个哨兵栏位、10%召唤伤害及30%移动速度。\n\n饰品读取当前世界的Boss击败进度，分为以下9组；每组任意一名Boss被击败即获得该组奖励，同组不会重复叠加：\n\n1. 史莱姆王 / 克苏鲁之眼\n2. 世界吞噬怪 / 克苏鲁之脑\n3. 蜂王 / 骷髅王 / 独眼巨鹿\n4. 血肉墙（进入困难模式）\n5. 史莱姆皇后 / 任意机械Boss / 猪龙鱼公爵\n6. 世纪之花\n7. 石巨人 / 光之女皇\n8. 拜月教邪教徒\n9. 月亮领主\n\n全部9组完成时，饰品合计增加5个召唤栏位、5个哨兵栏位、100%召唤伤害、80点最大生命及16点防御。移动速度加成在进入困难模式后为50%，击败月亮领主后为100%。说明栏显示当前加成、完成组数和下一组的谜语提示。\n\n成长取决于当前世界已有进度，换世界后按新世界计算；无需重复制作饰品。\n\n## 史莱姆法杖配方\n\n在工作台用15个凝胶制作原版史莱姆法杖。只增加配方，保留原版掉落。\n\n## 小雪怪兜帽与靴子\n\n| 装备 | 织布机配方 | 单件效果 |\n|---|---|---|\n| 小雪怪兜帽 | 6个小雪怪皮毛＋4个丝绸 | 1防御、5%召唤伤害 |\n| 小雪怪靴子 | 8个小雪怪皮毛＋5个丝绸 | 1防御、5%召唤伤害、5%移动速度 |\n\n两件新装备与原版小雪怪皮毛外套同时穿戴时，额外增加10%召唤伤害。套装额外奖励不再增加召唤栏位，原版外套自身的效果保留。\n\n安装或更新后重启游戏。适用于本包声明的Terraria运行版本；联机兼容性尚未充分验证。\n",
+        "license": "MIT",
+        "links": [],
+        "pages": [],
+        "theme": {
+          "accent": "#8FB8FF",
+          "panel": "",
+          "text": "",
+          "heading": "",
+          "button": "",
+          "buttonText": "",
+          "background": "",
+          "backgroundMode": "",
+          "backgroundScale": null,
+          "backgroundDim": null
+        },
+        "updated": "2026-11-01",
+        "featured": false,
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": [],
         "localizedNames": {
-          "zh-Hans": "萌萌恶魂"
+          "zh-Hans": "召唤师扩展",
+          "en-US": "Summoner Expanded"
         },
         "localizedSummaries": {
-          "zh-Hans": "阿比盖尔与相关物品的萌萌恶魂外观；原作者 Pixivic，移植者流脌。附带音效与中文名称资源。"
-        },
-        "license": "",
-        "links": [
-          {
-            "title": "原包记录的 Steam Workshop 页面",
-            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3631710750"
-          }
-        ],
-        "portEdition": {
-          "revision": 3,
-          "baseVersion": "1.0.0",
-          "originalName": "Ghastling as Abigail",
-          "sourceSha256": "59878dc840c704e80e8354bf9a1f814b6acc8add9580426a589a430b48899b9a",
-          "porter": "流脌"
+          "zh-Hans": "一件随 BOSS 进度成长的召唤师饰品、史莱姆法杖的前期合成路径，以及补全小雪怪皮毛套装的兜帽与靴子。",
+          "en-US": "A summoner accessory that grows with boss progression, an early crafting path for the Slime Staff, and the boots that complete the Flinx Fur set."
         }
       },
-      "publishedAt": "2026-11-01T02:30:23.450349Z"
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-starblessing-v1.4.0-ningzh.1/starblessing-1.4.0-ningzh.1.bl",
+        "sha256": "489188a12c2965f012f18ec1c41dd4da6c9437424b038b96b78e579c2253b3d4",
+        "size": 40875
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
+      ],
+      "publishedAt": "2026-11-01T08:57:11Z"
+    },
+    {
+      "uid": "008a4524-a7c4-54ec-b814-ec7924905407",
+      "id": "recipebrowser",
+      "name": "合成表",
+      "version": "0.12.0.3-ningzh.1",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-recipebrowser-v0.12.0.3-ningzh.1/recipebrowser-0.12.0.3-ningzh.1.bl",
+        "sha256": "a0b2d7d1c32d08d5f62d7f3ce85a9d24fbc885a443a57317127bcf1395f5d2f5",
+        "size": 353054
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md"
+      ],
+      "manifest": {
+        "uid": "008a4524-a7c4-54ec-b814-ec7924905407",
+        "id": "recipebrowser",
+        "name": "合成表",
+        "version": "0.12.0.3-ningzh.1",
+        "blVersion": 2,
+        "entry": "main.js",
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "category": "实用",
+        "author": "jopojelly",
+        "authors": [
+          {
+            "name": "jopojelly",
+            "role": "原作者"
+          },
+          {
+            "name": "柠娜",
+            "role": "Bunny Loader 移植者"
+          },
+          {
+            "name": "柠娜",
+            "role": "维护者"
+          }
+        ],
+        "license": "",
+        "description": "查询配方、材料用途、物品来源与制作路径，并收藏需要的配方。",
+        "portEdition": {
+          "originalName": "Recipe Browser",
+          "sourceVersion": "0.12.0.3",
+          "sourceSha256": "efc90e330ae365244ca8f024904351e6a97668ffd4fac7cd5d936d857eb6958b",
+          "porter": "柠娜",
+          "revision": 1
+        },
+        "summary": "查询原版和模组配方、材料用途与制作路径，并浏览物品和怪物图鉴。",
+        "localizedNames": {
+          "zh-Hans": "合成表"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "查询原版和模组配方、材料用途与制作路径，并浏览物品和怪物图鉴。"
+        }
+      },
+      "updatedAt": "2026-11-02T23:52:27Z",
+      "publishedAt": "2026-11-02T23:52:27Z"
+    },
+    {
+      "uid": "cd65cef1-9f13-55f7-b871-4030eb64f770",
+      "id": "shopexpander",
+      "name": "商店翻页",
+      "version": "1.8.1-ningzh.3",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-shopexpander-v1.8.1-ningzh.3/shopexpander-1.8.1-ningzh.3.bl",
+        "sha256": "027769bc55e5ae65c4af04b46f0404d43c877992d80c351ce8ddae34221a3fc2",
+        "size": 16975
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md"
+      ],
+      "manifest": {
+        "uid": "cd65cef1-9f13-55f7-b871-4030eb64f770",
+        "id": "shopexpander",
+        "name": "商店翻页",
+        "version": "1.8.1-ningzh.3",
+        "blVersion": 2,
+        "entry": "main.js",
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "category": "界面",
+        "updated": "2026-11-02",
+        "author": "DRKV、Exterminator",
+        "authors": [
+          {
+            "name": "DRKV、Exterminator",
+            "role": "原作者与维护者"
+          },
+          {
+            "name": "柠娜",
+            "role": "Bunny Loader 移植者"
+          },
+          {
+            "name": "柠娜",
+            "role": "维护者"
+          }
+        ],
+        "license": "MIT",
+        "description": "在原生商店中翻阅完整商品列表，提供独立回购页及模组商店兼容接口。原作者与维护者 DRKV、Exterminator；移植者柠娜。",
+        "portEdition": {
+          "originalName": "Shop Expander",
+          "sourceVersion": "1.8.1",
+          "sourceSha256": "cf56d7d69b2228303823ce45311a0fc63e186143e9f0e11d91bd9dbd41603b1b",
+          "porter": "柠娜",
+          "revision": 3
+        },
+        "links": [
+          {
+            "title": "Steam 原作",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2828370879"
+          }
+        ],
+        "summary": "为商品较多的商店添加翻页按钮，支持购买、出售和回购。",
+        "localizedSummaries": {
+          "zh-Hans": "为商品较多的商店添加翻页按钮，支持购买、出售和回购。"
+        }
+      },
+      "updatedAt": "2026-11-02T18:42:56Z",
+      "publishedAt": "2026-11-02T16:43:28Z"
     },
     {
       "uid": "6207de5c-2bf1-595d-8f44-c9a4795f8ebc",
@@ -4534,14 +4637,341 @@
       "publishedAt": "2026-10-31T17:44:28Z"
     },
     {
+      "uid": "9b5487f0-f568-4956-a81d-9619be344a2c",
+      "id": "vortex_weapons",
+      "name": "天界四柱·武器扩展与重置",
+      "version": "1.17.1-ning.1",
+      "manifest": {
+        "uid": "9b5487f0-f568-4956-a81d-9619be344a2c",
+        "id": "vortex_weapons",
+        "name": "天界四柱·武器扩展与重置",
+        "version": "1.17.1-ning.1",
+        "authors": [
+          {
+            "name": "白色灯泡小精灵",
+            "role": "原作者",
+            "avatar": "avatar.png",
+            "color": "#7B9E89"
+          },
+          {
+            "name": "北妓春奈",
+            "role": "移植者"
+          },
+          {
+            "name": "柠娜",
+            "role": "维护者"
+          }
+        ],
+        "category": "武器",
+        "summary": "新增星旋湍流、日珥、星云天秤，重做日耀喷发剑、星旋机枪、星云奥秘、幻影弓、星云烈焰、破晓之光。",
+        "license": "CC-BY-NC-4.0",
+        "updated": "2026-11-02",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": [],
+        "notes": "喵？",
+        "sourceEdition": {
+          "baseVersion": "1.17.1",
+          "sourceManifestSha256": "6eff51be10641b27c268de4dd1e719b0e5160ff21a6089730506676bfde00581"
+        },
+        "localizedNames": {
+          "zh-Hans": "天界四柱·武器扩展与重置"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "新增星旋湍流、日珥、星云天秤，重做日耀喷发剑、星旋机枪、星云奥秘、幻影弓、星云烈焰、破晓之光。"
+        },
+        "description": "# ★ 四柱武器扩展 & 重制\n\n## ✦ 新增武器\n\n- **星旋湍流**（星旋）\n- **日珥**（日耀）\n- **星云天秤**（星云）\n\n## ✦ 重做的原版武器\n\n- **日耀喷发**\n- **星旋机枪**\n- **星云奥秘**\n- **幻影弓**\n- **星云烈焰**\n- **破晓之光**\n- （星尘柱没问）\n\n## ✦ 其他内容\n\n- 不会调数值，所以没做平衡哦\n- 但是你可以在mod设置里调整是否在月后才启用原版武器重置\n\n原作者：白色灯泡小精灵。移植者：北妓春奈。代码及原创内容按 CC BY-NC 4.0 发布，其他素材归各自权利人，详见包内许可证。安装并启用后重启游戏；联机兼容性尚未充分验证。\n\n手机版绘制接口限制：日珥部分星芒保留原版颜色与位置；其他视觉效果按当前运行库能力显示。\n"
+      },
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-vortex_weapons-v1.17.1-ning.1/vortex_weapons-1.17.1-ning.1.bl",
+        "sha256": "7373a284afe76879eabd100ac2fce94e8d6c37af1eae952799659f909c7dd3b7",
+        "size": 401297
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "license.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "authors/avatar.png"
+      ],
+      "updatedAt": "2026-11-02T08:28:36.336930Z",
+      "publishedAt": "2026-11-02T08:28:36.336930Z"
+    },
+    {
+      "uid": "22b95101-7032-49ab-92a8-468f3030aa41",
+      "id": "devtools",
+      "name": "开发者工具",
+      "version": "1.0.1-ningzh.1.fix.3",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-devtools-v1.0.1-ningzh.1.fix.3/devtools-1.0.1-ningzh.1.fix.3.bl",
+        "sha256": "c30c0cf4677dc07c9c18a10e94f984f6a5b782b751f5951627b4eab890d7b96e",
+        "size": 227705
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.jpg",
+        "description.md",
+        "authors/0.png",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md",
+        "changelog.md"
+      ],
+      "manifest": {
+        "uid": "22b95101-7032-49ab-92a8-468f3030aa41",
+        "id": "devtools",
+        "name": "开发者工具",
+        "version": "1.0.1-ningzh.1.fix.3",
+        "authors": [
+          {
+            "name": "GST378",
+            "role": "作者",
+            "avatar": "0.png",
+            "color": "#ffffff",
+            "link": "https://youtube.com/@gst_378"
+          },
+          {
+            "name": "柠娜",
+            "role": "维护者"
+          }
+        ],
+        "category": "实用工具",
+        "summary": "一个直观的工具界面：难度切换、实体清除、碰撞箱、天气与时间、相机与拍照模式、调试信息。",
+        "license": "",
+        "updated": "2026-11-01",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": [],
+        "localizedNames": {
+          "zh-Hans": "开发者工具"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "一个直观的工具界面：难度切换、实体清除、碰撞箱、天气与时间、相机与拍照模式、调试信息。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.1"
+        },
+        "repairEdition": {
+          "revision": 3,
+          "parentVersion": "1.0.1-ningzh.1.fix.2",
+          "parentSha256": "273926a05c6da4a1d98585eaa11fff34caccefbf5be47f2cf082db552a801133"
+        }
+      },
+      "updatedAt": "2026-11-01T09:57:19Z"
+    },
+    {
+      "uid": "fbb7eb80-3232-4079-998c-cb863e14f3dd",
+      "id": "voluntaryhook",
+      "name": "愿者上钩 (VoluntaryHook)",
+      "version": "1.1.0-ningzh.1",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-voluntaryhook-v1.1.0-ningzh.1/voluntaryhook-1.1.0-ningzh.1.bl",
+        "sha256": "cd1c1d2980f2eac8eb14533d6d46936f8aaeb61beb4eaa84ac42d4c0c43a3110",
+        "size": 4465
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "license.md",
+        "description_zh-Hans.md"
+      ],
+      "manifest": {
+        "uid": "fbb7eb80-3232-4079-998c-cb863e14f3dd",
+        "id": "voluntaryhook",
+        "name": "愿者上钩 (VoluntaryHook)",
+        "version": "1.1.0-ningzh.1",
+        "authors": [
+          {
+            "name": "lzup333"
+          },
+          {
+            "name": "柠娜",
+            "role": "维护者"
+          }
+        ],
+        "category": "玩法",
+        "summary": "抛出鱼钩后数量固定 5 倍，实现多倍鱼钩。",
+        "license": "AGPL-3.0",
+        "updated": "2026-10-22",
+        "blVersion": 2,
+        "entry": "main.js",
+        "localizedNames": {
+          "zh-Hans": "愿者上钩"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "抛出鱼钩后，鱼钩数量固定为五倍。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.1.0"
+        }
+      },
+      "publishedAt": "2026-10-22T16:57:49Z"
+    },
+    {
+      "uid": "b1241e97-de9b-479f-a5cc-41fddc33aa83",
+      "id": "a1",
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
+      ],
+      "manifest": {
+        "uid": "b1241e97-de9b-479f-a5cc-41fddc33aa83",
+        "id": "a1",
+        "name": "成长型武器",
+        "version": "1.0.1-ningzh.1",
+        "author": "阮汐月",
+        "authors": [
+          {
+            "name": "阮汐月",
+            "role": "作者",
+            "color": "#8FB8FF"
+          },
+          {
+            "name": "柠娜",
+            "role": "维护者"
+          }
+        ],
+        "category": "武器",
+        "type": "mod",
+        "summary": "手持后自动补充翼形飞剑，伤害和数量上限随世界 Boss 进度成长；飞剑突刺并旋转连击敌人。",
+        "description": "# 成长型武器\n\n作者：阮汐月。更新至作者提供的 1.0.1。\n\n在工作台用10个铁锭或铅锭、3颗坠落之星、5个金锭或铂金锭制作成长型泰拉棱镜。手持后自动补充飞剑，切换武器后继续存在，移出背包或角色死亡后消失。\n\n基础成长仍按世界已击败的 Boss 计算，从12点基础伤害、1把飞剑成长至99点基础伤害、13把飞剑。同一进度不会因重复击杀而重复累计。召唤时计算当前召唤伤害加成；已存在飞剑保留召唤时的伤害。\n\n新版采用翼形排列以及突刺、旋转连击、返回的动作，不追击城镇 NPC 和生命上限不超过5的小动物。\n\n安装或更新后完全退出并重启游戏。联机兼容性尚未充分验证。\n",
+        "license": "MIT",
+        "links": [],
+        "pages": [],
+        "theme": {
+          "accent": "#8FB8FF",
+          "panel": "",
+          "text": "",
+          "heading": "",
+          "button": "",
+          "buttonText": "",
+          "background": "",
+          "backgroundMode": "",
+          "backgroundScale": null,
+          "backgroundDim": null
+        },
+        "updated": "2026-11-02",
+        "featured": false,
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": [],
+        "localizedNames": {
+          "zh-Hans": "成长型武器",
+          "en-US": "Growth-oriented weapon"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "手持后自动补充翼形飞剑，伤害和数量上限随世界 Boss 进度成长；飞剑突刺并旋转连击敌人。",
+          "en-US": "A summon weapon that grows with you throughout your Terraria journey. From a faint starlight to a sword array that tears through the Moon Lord. More growth equipment coming soon."
+        },
+        "sourceEdition": {
+          "baseVersion": "1.0.1",
+          "sourceManifestSha256": "345394d6defc585e38b68754088e2d9a51b6d13a802628b67d86fe544a5a1871"
+        }
+      },
+      "name": "成长型武器",
+      "version": "1.0.1-ningzh.1",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-a1-v1.0.1-ningzh.1/a1-1.0.1-ningzh.1.bl",
+        "sha256": "63694ec8d977a52ca09302fb6ec0858f4fd57eea204a3bbbe455542d8ed08360",
+        "size": 16749
+      },
+      "publishedAt": "2026-11-01T16:33:20.721224Z",
+      "updatedAt": "2026-11-02T08:28:36.178054Z"
+    },
+    {
+      "uid": "962caacd-14a8-3437-b74e-a6b71192ba45",
+      "id": "texture-962caacd-14a8-3437-b74e-a6b71192ba45",
+      "name": "我的世界材质包",
+      "version": "1.0.0-port.1",
+      "manifest": {
+        "uid": "962caacd-14a8-3437-b74e-a6b71192ba45",
+        "id": "texture-962caacd-14a8-3437-b74e-a6b71192ba45",
+        "name": "我的世界材质包",
+        "localizedNames": {
+          "zh-Hans": "我的世界材质包"
+        },
+        "version": "1.0.0-port.1",
+        "type": "texture",
+        "category": "材质包",
+        "summary": "用像素方块风格重绘方块、墙、背景、物品和界面等贴图。",
+        "localizedSummaries": {
+          "zh-Hans": "用像素方块风格重绘方块、墙、背景、物品和界面等贴图。"
+        },
+        "authors": [
+          {
+            "name": "Melstar",
+            "role": "原作者"
+          },
+          {
+            "name": "The Lamb",
+            "role": "原作者"
+          },
+          {
+            "name": "m",
+            "role": "移植者"
+          },
+          {
+            "name": "柠娜",
+            "role": "维护者"
+          }
+        ],
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "updated": "2026-11-01",
+        "links": [
+          {
+            "title": "原作 Steam 创意工坊",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2439772075"
+          }
+        ]
+      },
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-texture-962caacd-14a8-3437-b74e-a6b71192ba45-v1.0.0-port.1/texture-962caacd-14a8-3437-b74e-a6b71192ba45-1.0.0-port.1.bl",
+        "sha256": "43e51cae2f940a80197c2353756d1f82f587234be8e6b5297fb605870586937a",
+        "size": 10456836
+      },
+      "files": [
+        "changelog_zh-Hans.md",
+        "CREDITS.md",
+        "description_zh-Hans.md",
+        "manifest.json"
+      ],
+      "publishedAt": "2026-11-01T08:16:33Z"
+    },
+    {
       "uid": "52ed2234-aaf3-5d86-822c-70bc86225629",
       "id": "autotrash",
       "name": "智能垃圾桶",
-      "version": "0.8.1.1-bunny.3",
+      "version": "0.8.1.1-ningzh.4",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-autotrash-v0.8.1.1-bunny.3/autotrash-0.8.1.1-bunny.3.bl",
-        "sha256": "ed547692a6b063eb9579138cfb52c5449469f295ae9df18a6fd9379b49f95f6b",
-        "size": 23548
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-autotrash-v0.8.1.1-ningzh.4/autotrash-0.8.1.1-ningzh.4.bl",
+        "sha256": "da1ef1a2df419d8b2a35bb3783911732c18dbf1a1fcc2db86a4cab127c2d25ec",
+        "size": 22446
       },
       "files": [
         "manifest.json",
@@ -4554,7 +4984,7 @@
         "uid": "52ed2234-aaf3-5d86-822c-70bc86225629",
         "id": "autotrash",
         "name": "智能垃圾桶",
-        "version": "0.8.1.1-bunny.3",
+        "version": "0.8.1.1-ningzh.4",
         "blVersion": 2,
         "entry": "main.js",
         "gameVersion": [
@@ -4562,7 +4992,7 @@
           301720
         ],
         "category": "玩法",
-        "updated": "2026-11-01",
+        "updated": "2026-11-03",
         "author": "jopojelly",
         "authors": [
           {
@@ -4599,25 +5029,24 @@
           "sourceSha256": "a8009619adc866e8f58f45ee9bac0741a3a5d42a45488055375e5f80fb068c97",
           "upstreamCommit": "55741cdabe08e58798e594ffc9341762840fa187",
           "porter": "柠娜",
-          "revision": 3
+          "revision": 4
         }
       },
+      "updatedAt": "2026-11-03T04:39:32Z",
       "publishedAt": "2026-11-01T06:10:08Z"
     },
     {
-      "uid": "bc7737f5-d941-4d5c-b00b-eaec2c25eee8",
-      "id": "unifiedstorage",
-      "name": "魔法存储",
-      "version": "1.0.0-ningzh.1.fix.1",
+      "uid": "5dac741b-9094-47dd-88fd-ed466f14ec36",
+      "id": "ImproveGame",
+      "name": "更好的体验",
+      "version": "1.0.3-ning.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-unifiedstorage-v1.0.0-ningzh.1.fix.1/unifiedstorage-1.0.0-ningzh.1.fix.1.bl",
-        "sha256": "1456e53a4a69c3478fd904a8375c1dbe0c862313f83c5013d1aecda7c0414fa3",
-        "size": 437449
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-ImproveGame-v1.0.3-ning.1/ImproveGame-1.0.3-ning.1.bl",
+        "sha256": "819e8dacbea1ba57b02143054fb478ae6aa237ff45a3323954234821509529b3",
+        "size": 380487
       },
       "files": [
-        "authors/absoluteaquarian.png",
-        "authors/bloa.png",
-        "banner.png",
+        "authors/durian.png",
         "changelog.md",
         "changelog_zh-Hans.md",
         "description.md",
@@ -4627,25 +5056,32 @@
         "manifest.json"
       ],
       "manifest": {
-        "uid": "bc7737f5-d941-4d5c-b00b-eaec2c25eee8",
-        "id": "unifiedstorage",
-        "name": "魔法存储",
-        "version": "1.0.0-ningzh.1.fix.1",
+        "uid": "5dac741b-9094-47dd-88fd-ed466f14ec36",
+        "id": "ImproveGame",
+        "name": "更好的体验",
+        "localizedNames": {
+          "zh-Hans": "更好的体验"
+        },
+        "localizedSummaries": {
+          "en-US": "These features will bring you better gameplay experience",
+          "zh-Hans": "更好的体验：便携增益、背包与容器、建造魔杖和日常便利设置。移植者：LL。部分功能限单人模式；请勿与轻量版同时启用。"
+        },
+        "version": "1.0.3-ning.1",
         "authors": [
           {
-            "name": "Bloa",
-            "role": "原包移动端移植与适配",
-            "color": "#7FC8FF",
-            "avatar": "bloa.png"
+            "name": "局长, Cyril and the ImproveGame team",
+            "role": "Original tModLoader mod",
+            "color": "#7FD4FF",
+            "link": "https://github.com/487666123/ImproveGame"
           },
           {
-            "name": "Absoluteaquarian",
-            "role": "材质与设计",
-            "color": "#F2C14E",
-            "avatar": "absoluteaquarian.png"
+            "name": "榴莲只吃皮",
+            "role": "移动端移植",
+            "avatar": "durian.png",
+            "color": "#E8C170"
           },
           {
-            "name": "Titan camera",
+            "name": "LL",
             "role": "移植者"
           },
           {
@@ -4654,9 +5090,8 @@
           }
         ],
         "category": "实用工具",
-        "summary": "将存储单元连接到核心，集中搜索、分类、取放物品，并使用网络内的材料制作；支持容量升级和远程访问。当前移植版仅支持单人模式。",
+        "summary": "更好的体验：便携增益、背包与容器、建造魔杖和日常便利设置。移植者：LL。部分功能限单人模式；请勿与轻量版同时启用。",
         "license": "MIT",
-        "featured": false,
         "updated": "2026-11-02",
         "blVersion": 2,
         "gameVersion": [
@@ -4667,30 +5102,19 @@
         "dependencies": [],
         "links": [
           {
-            "title": "Bunny Loader",
-            "url": "https://github.com/JonataOliveiraa/Bunny-Loader"
+            "title": "Original (GitHub)",
+            "url": "https://github.com/487666123/ImproveGame"
           }
         ],
-        "localizedNames": {
-          "zh-Hans": "魔法存储"
-        },
-        "localizedSummaries": {
-          "zh-Hans": "将存储单元连接到核心，集中搜索、分类、取放物品，并使用网络内的材料制作；支持容量升级和远程访问。当前移植版仅支持单人模式。"
-        },
-        "localizationEdition": {
-          "language": "zh-Hans",
-          "revision": 1,
-          "baseVersion": "1.0.0"
-        },
+        "pages": [],
         "repairEdition": {
-          "revision": 1,
-          "parentVersion": "1.0.0-ningzh.1",
-          "parentSha256": "cc65e30d47e0ee12b6d6644f419d4b90f57b7e82f9562f3a645255f202721e05"
-        },
-        "description": "# 魔法存储\n\n将存储单元连接到核心，集中搜索、分类、取放物品，并使用网络内的材料制作；支持容量升级和远程访问。当前移植版仅支持单人模式。\n\n将存储单元与存储核心相连，点击核心或访问器打开界面。连接存储制作界面后，可直接用存储材料制作。制作站和墓碑可安装到核心。手持远程访问器点击核心完成绑定。\n\n基础容量40栏，依次升级为80、120、160、240、320和640栏。拆除单元前须清空物品。支持名称搜索、@模组和#英文分类；分类按钮已汉化。\n\n此移植版的存储界面仅支持单人模式，多人模式下无法打开。\n\n署名：Titan camera（移植者）；Bloa（原包移动端适配）；Absoluteaquarian（材质与设计）；Magic Storage 原作者 Kaylee Minsuh Kim、absoluteAquarian 及贡献者。保留 MIT 许可。\n\n\n## 修复说明\n\n存储与制作界面打开时拦截背景触摸、攻击、交互和移动，以及原版地图和背包入口；关闭后恢复游戏操作。面板上方留白避开手机版顶部按钮。安装更新后请完全退出并重启游戏。\n"
+          "parentVersion": "1.0.3",
+          "parentSha256": "9768c21acec3e22bb65057252ce65c82df6e157682eb5fd7e7e15641c79e02ec",
+          "revision": 1
+        }
       },
-      "publishedAt": "2026-11-01T07:38:36Z",
-      "updatedAt": "2026-11-02T08:28:36.316278Z"
+      "updatedAt": "2026-11-02T01:53:52Z",
+      "publishedAt": "2026-11-02T01:53:52Z"
     },
     {
       "uid": "e3c3804b-ea9a-406f-a65e-f8f01220b5f5",
@@ -4763,65 +5187,190 @@
       "publishedAt": "2026-11-01T07:38:36Z"
     },
     {
-      "uid": "e9fcf815-a05d-4e36-9303-e30a1d9a02fd",
-      "id": "autofish_bunny_community",
-      "name": "自动钓鱼",
-      "version": "0.1.0-test1.ningzh.1.fix.1",
+      "uid": "633c85b4-3c35-52ae-8033-8a170fe1360c",
+      "id": "shorterrespawn",
+      "name": "更短复活时间",
+      "version": "1.2.1.1-ningzh.3",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-autofish_bunny_community-v0.1.0-test1.ningzh.1.fix.1/autofish_bunny_community-0.1.0-test1.ningzh.1.fix.1.bl",
-        "sha256": "8feea6357077cce9991fdaf54322ac31602638332e46f672357073ab97bba18e",
-        "size": 30842
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-shorterrespawn-v1.2.1.1-ningzh.3/shorterrespawn-1.2.1.1-ningzh.3.bl",
+        "sha256": "7860327a5e3306f95aa7201f3cf2b3d8dcdc71a830f00b45405b1f1c5a861e05",
+        "size": 14880
       },
       "files": [
-        "CREDITS.md",
-        "changelog_zh-Hans.md",
-        "description_zh-Hans.md",
+        "manifest.json",
         "icon.png",
-        "manifest.json"
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md"
       ],
       "manifest": {
-        "uid": "e9fcf815-a05d-4e36-9303-e30a1d9a02fd",
-        "id": "autofish_bunny_community",
-        "name": "自动钓鱼",
-        "version": "0.1.0-test1.ningzh.1.fix.1",
+        "uid": "633c85b4-3c35-52ae-8033-8a170fe1360c",
+        "id": "shorterrespawn",
+        "name": "更短复活时间",
+        "version": "1.2.1.1-ningzh.3",
+        "blVersion": 2,
+        "entry": "main.js",
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "category": "玩法",
+        "updated": "2026-11-01",
+        "author": "jopojelly",
         "authors": [
           {
-            "name": "-Cyril-",
-            "role": "原版 Autofish 作者（MIT）"
+            "name": "jopojelly",
+            "role": "原作者"
           },
           {
-            "name": "顾楠骨",
-            "role": "基于Bunny Loader移植"
+            "name": "柠娜",
+            "role": "Bunny Loader 移植者"
           },
           {
             "name": "柠娜",
             "role": "维护者"
           }
         ],
+        "license": "",
+        "description": "自定义普通、专家及 Boss 战的复活时间，支持倍率、精确秒数和 Boss 离场后缩短倒计时。联机采用房主设置。",
+        "localizedNames": {
+          "zh-Hans": "更短复活时间"
+        },
         "links": [
           {
-            "title": "Original Autofish",
-            "url": "https://github.com/Cyrillya/Autofish"
+            "title": "Steam 原版",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2562997415"
           }
         ],
-        "category": "实用工具",
-        "summary": "自动收线、锁定抛竿目标、声呐渔获筛选与药水续喝，支持黑名单和其他渔获名单。测试版适配，部分功能会按运行时诊断结果停用。",
-        "blVersion": 2,
-        "entry": "main.js",
+        "portEdition": {
+          "originalName": "Shorter Respawn Time",
+          "sourceVersion": "1.2.1.1",
+          "sourceSha256": "4756cd6ae2125584920b5b6bc9be893705b820062bd2e0730bab11857b36e88a",
+          "porter": "柠娜",
+          "revision": 3
+        },
+        "summary": "调整普通、专家及 Boss 战的复活时间，联机采用房主设置。",
+        "localizedSummaries": {
+          "zh-Hans": "调整普通、专家及 Boss 战的复活时间，联机采用房主设置。"
+        }
+      },
+      "updatedAt": "2026-11-02T18:42:56Z",
+      "publishedAt": "2026-11-02T16:43:28Z"
+    },
+    {
+      "uid": "5a58615a-631b-34bf-8f86-84a4f64e6c96",
+      "id": "texture-5a58615a-631b-34bf-8f86-84a4f64e6c96",
+      "name": "更透明的玻璃",
+      "version": "1.2.0-port.1",
+      "manifest": {
+        "uid": "5a58615a-631b-34bf-8f86-84a4f64e6c96",
+        "id": "texture-5a58615a-631b-34bf-8f86-84a4f64e6c96",
+        "name": "更透明的玻璃",
         "localizedNames": {
-          "zh-Hans": "自动钓鱼"
+          "zh-Hans": "更透明的玻璃"
+        },
+        "version": "1.2.0-port.1",
+        "type": "texture",
+        "category": "材质包",
+        "summary": "移除玻璃上的部分纹理，并将彩色玻璃墙改为纯色透明玻璃。",
+        "localizedSummaries": {
+          "zh-Hans": "移除玻璃上的部分纹理，并将彩色玻璃墙改为纯色透明玻璃。"
+        },
+        "authors": [
+          {
+            "name": "Petillon",
+            "role": "原作者"
+          },
+          {
+            "name": "m",
+            "role": "移植者"
+          },
+          {
+            "name": "柠娜",
+            "role": "维护者"
+          }
+        ],
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "updated": "2026-11-01",
+        "links": [
+          {
+            "title": "原作 Steam 创意工坊",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3455411572"
+          }
+        ]
+      },
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-texture-5a58615a-631b-34bf-8f86-84a4f64e6c96-v1.2.0-port.1/texture-5a58615a-631b-34bf-8f86-84a4f64e6c96-1.2.0-port.1.bl",
+        "sha256": "08596358f4484ca77b09773840b914d6c4b54cad0487988576ade095d110af50",
+        "size": 102619
+      },
+      "files": [
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "icon.png",
+        "manifest.json"
+      ],
+      "publishedAt": "2026-11-01T08:16:33Z"
+    },
+    {
+      "uid": "9921213c-03a8-34b4-914c-ba26bcc23ebd",
+      "id": "texture-9921213c-03a8-34b4-914c-ba26bcc23ebd",
+      "name": "灾厄Boss外观",
+      "version": "1.2.0-fix.1",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-texture-9921213c-03a8-34b4-914c-ba26bcc23ebd-v1.2.0-fix.1/texture-9921213c-03a8-34b4-914c-ba26bcc23ebd-1.2.0-fix.1.bl",
+        "size": 1893198,
+        "sha256": "a6ee5b4714ae40ecdfd2c76933e234fa21f988eba7003d01c290408531d11425"
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md"
+      ],
+      "manifest": {
+        "uid": "9921213c-03a8-34b4-914c-ba26bcc23ebd",
+        "id": "texture-9921213c-03a8-34b4-914c-ba26bcc23ebd",
+        "name": "灾厄Boss外观",
+        "version": "1.2.0-fix.1",
+        "author": "令狐e",
+        "type": "texture",
+        "category": "材质",
+        "blVersion": 2,
+        "description": "将毁灭者-神明吞噬者，双子魔眼-XS-01阿尔忒弥斯和XS-03阿波罗,机械骷髅王-XF-09阿瑞斯",
+        "license": "",
+        "updated": "2026-11-01",
+        "localizedNames": {
+          "zh-Hans": "灾厄Boss外观"
         },
         "localizedSummaries": {
-          "zh-Hans": "自动收线、锁定抛竿目标、声呐渔获筛选与药水续喝，支持黑名单和其他渔获名单。测试版适配，部分功能会按运行时诊断结果停用。"
+          "zh-Hans": "将机械三王替换为灾厄风格外观；修复两张弹幕图片编码错误。原作者：令狐e。"
         },
-        "localizationEdition": {
-          "language": "zh-Hans",
+        "links": [
+          {
+            "title": "原包记录的 Steam Workshop 页面",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3747656042"
+          }
+        ],
+        "repairEdition": {
           "revision": 1,
-          "baseVersion": "0.1.0-test1"
+          "parentVersion": "1.2.0",
+          "parentSha256": "997b2ea3f55de7724d4c8afa9d2826ad2387337e95efff1a032f69782f6f621d",
+          "sourceFormat": "Terraria PC resource-pack ZIP"
         },
-        "updated": "2026-11-01"
+        "authors": [
+          {
+            "name": "柠娜",
+            "role": "维护者"
+          }
+        ]
       },
-      "publishedAt": "2026-11-01T07:38:36Z"
+      "publishedAt": "2026-10-31T16:30:38Z"
     },
     {
       "uid": "2e119783-b8aa-4ab4-9b89-8cd946c3d969",
@@ -4902,6 +5451,71 @@
       "publishedAt": "2026-11-01T07:38:36Z"
     },
     {
+      "uid": "0f6e273f-5832-52a8-96d9-31333045ff69",
+      "id": "prettyrarities",
+      "name": "特效提示",
+      "version": "1.4.4-ningzh.1",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-prettyrarities-v1.4.4-ningzh.1/prettyrarities-1.4.4-ningzh.1.bl",
+        "sha256": "bd1b76d0fc2b1a7963afd5c57568c72dc9c1c6cc803adb21340f78e09998189c",
+        "size": 9983236
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md"
+      ],
+      "manifest": {
+        "uid": "0f6e273f-5832-52a8-96d9-31333045ff69",
+        "id": "prettyrarities",
+        "name": "特效提示",
+        "version": "1.4.4-ningzh.1",
+        "blVersion": 2,
+        "entry": "main.js",
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "category": "视觉",
+        "author": "Yata",
+        "authors": [
+          {
+            "name": "Yata",
+            "role": "原作者"
+          },
+          {
+            "name": "柠娜",
+            "role": "Bunny Loader 移植者"
+          },
+          {
+            "name": "柠娜",
+            "role": "维护者"
+          }
+        ],
+        "license": "",
+        "description": "为物品名称添加随稀有度变化的渐变、光晕与粒子效果。",
+        "portEdition": {
+          "originalName": "Better Tooltips",
+          "sourceVersion": "1.4.4",
+          "sourceSha256": "1606e21d263c37f32e3cd24ad5f36eeafb0db590ab18fd2dd4ec6d741275040e",
+          "porter": "柠娜",
+          "revision": 1
+        },
+        "summary": "为不同稀有度的物品名称添加渐变、光晕和粒子效果。",
+        "localizedNames": {
+          "zh-Hans": "特效提示"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "为不同稀有度的物品名称添加渐变、光晕和粒子效果。"
+        }
+      },
+      "updatedAt": "2026-11-03T00:18:21Z",
+      "publishedAt": "2026-11-03T00:18:21Z"
+    },
+    {
       "uid": "4d51aa3f-0391-3972-a56a-756c88709b32",
       "id": "texture-4d51aa3f-0391-3972-a56a-756c88709b32",
       "name": "狱火",
@@ -4961,31 +5575,247 @@
       "publishedAt": "2026-11-01T08:16:33Z"
     },
     {
-      "uid": "5a58615a-631b-34bf-8f86-84a4f64e6c96",
-      "id": "texture-5a58615a-631b-34bf-8f86-84a4f64e6c96",
-      "name": "更透明的玻璃",
-      "version": "1.2.0-port.1",
+      "uid": "39cbbdbb-9c10-544d-a334-6b60e894af84",
+      "id": "hpaware",
+      "name": "生命感知",
+      "version": "1.0.6.1-ningzh.3",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-hpaware-v1.0.6.1-ningzh.3/hpaware-1.0.6.1-ningzh.3.bl",
+        "sha256": "9a14251be029cc2dace473ab3704fb0e4ae13e0286045ec93dcb9e00326b1f14",
+        "size": 20421
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md"
+      ],
       "manifest": {
-        "uid": "5a58615a-631b-34bf-8f86-84a4f64e6c96",
-        "id": "texture-5a58615a-631b-34bf-8f86-84a4f64e6c96",
-        "name": "更透明的玻璃",
-        "localizedNames": {
-          "zh-Hans": "更透明的玻璃"
-        },
-        "version": "1.2.0-port.1",
-        "type": "texture",
-        "category": "材质包",
-        "summary": "移除玻璃上的部分纹理，并将彩色玻璃墙改为纯色透明玻璃。",
-        "localizedSummaries": {
-          "zh-Hans": "移除玻璃上的部分纹理，并将彩色玻璃墙改为纯色透明玻璃。"
-        },
+        "uid": "39cbbdbb-9c10-544d-a334-6b60e894af84",
+        "id": "hpaware",
+        "name": "生命感知",
+        "version": "1.0.6.1-ningzh.3",
+        "blVersion": 2,
+        "entry": "main.js",
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "category": "辅助",
+        "updated": "2026-11-01",
+        "author": "Core",
         "authors": [
           {
-            "name": "Petillon",
+            "name": "Core",
             "role": "原作者"
           },
           {
-            "name": "m",
+            "name": "柠娜",
+            "role": "Bunny Loader 移植者"
+          },
+          {
+            "name": "柠娜",
+            "role": "维护者"
+          }
+        ],
+        "license": "",
+        "description": "受伤与低血量画面提醒、角色血条、药水就绪提示和减益提示，支持灰度、音效、音乐衰减与排除名单。",
+        "portEdition": {
+          "originalName": "HP Awareness",
+          "sourceVersion": "1.0.6.1",
+          "sourceSha256": "9c82735ae5b479f0e1db2031e145ba036c9f31634e37294fcd4077660cec6999",
+          "porter": "柠娜",
+          "revision": 3
+        },
+        "links": [
+          {
+            "title": "Steam 原作",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2564503881"
+          }
+        ],
+        "summary": "显示受伤、低血量、药水冷却和减益状态提醒。",
+        "localizedSummaries": {
+          "zh-Hans": "显示受伤、低血量、药水冷却和减益状态提醒。"
+        }
+      },
+      "updatedAt": "2026-11-02T18:42:56Z",
+      "publishedAt": "2026-11-02T16:43:28Z"
+    },
+    {
+      "uid": "3f4a2442-23f6-58be-ae18-3aa1ac0e405f",
+      "id": "lifesourceslight",
+      "name": "生命水晶与生命果发光",
+      "version": "1.3.0-ningzh.3",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-lifesourceslight-v1.3.0-ningzh.3/lifesourceslight-1.3.0-ningzh.3.bl",
+        "sha256": "6aa25dccf48fbd9756fe767d8d93654cf3b43f3e30b120e6b2d476fd2113d02c",
+        "size": 22823
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md"
+      ],
+      "manifest": {
+        "uid": "3f4a2442-23f6-58be-ae18-3aa1ac0e405f",
+        "id": "lifesourceslight",
+        "name": "生命水晶与生命果发光",
+        "version": "1.3.0-ningzh.3",
+        "blVersion": 2,
+        "entry": "main.js",
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "category": "视觉",
+        "updated": "2026-11-01",
+        "author": "Chev",
+        "authors": [
+          {
+            "name": "Chev",
+            "role": "原作者",
+            "link": "https://github.com/chev2/terraria-mods"
+          },
+          {
+            "name": "柠娜",
+            "role": "Bunny Loader 移植者"
+          },
+          {
+            "name": "柠娜",
+            "role": "维护者"
+          }
+        ],
+        "license": "GPL-3.0",
+        "description": "让生命水晶发出粉红色光芒、生命果发出黄色光芒。两个效果可独立开关，默认开启。原作者 Chev；移植者柠娜。",
+        "localizedNames": {
+          "zh-Hans": "生命水晶与生命果发光"
+        },
+        "links": [
+          {
+            "title": "Steam 原版",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2853619836"
+          }
+        ],
+        "portEdition": {
+          "originalName": "Heart Crystal & Life Fruit Glow",
+          "sourceVersion": "1.3.0",
+          "sourceSha256": "81bfff7f998cd79729d6bd248ef9160c60408eaf27688d5aa2cba00bc9f71edb",
+          "upstreamCommit": "d7c40e835b57d69fab55d7fd33b31da494dc2e4a",
+          "porter": "柠娜",
+          "revision": 3
+        },
+        "summary": "让生命水晶和生命果发光，两种效果可分别开关。",
+        "localizedSummaries": {
+          "zh-Hans": "让生命水晶和生命果发光，两种效果可分别开关。"
+        }
+      },
+      "updatedAt": "2026-11-02T18:42:56Z",
+      "publishedAt": "2026-11-02T16:43:28Z"
+    },
+    {
+      "uid": "e9fcf815-a05d-4e36-9303-e30a1d9a02fd",
+      "id": "autofish_bunny_community",
+      "name": "自动钓鱼",
+      "version": "0.1.0-test1.ningzh.1.fix.1",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-autofish_bunny_community-v0.1.0-test1.ningzh.1.fix.1/autofish_bunny_community-0.1.0-test1.ningzh.1.fix.1.bl",
+        "sha256": "8feea6357077cce9991fdaf54322ac31602638332e46f672357073ab97bba18e",
+        "size": 30842
+      },
+      "files": [
+        "CREDITS.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "icon.png",
+        "manifest.json"
+      ],
+      "manifest": {
+        "uid": "e9fcf815-a05d-4e36-9303-e30a1d9a02fd",
+        "id": "autofish_bunny_community",
+        "name": "自动钓鱼",
+        "version": "0.1.0-test1.ningzh.1.fix.1",
+        "authors": [
+          {
+            "name": "-Cyril-",
+            "role": "原版 Autofish 作者（MIT）"
+          },
+          {
+            "name": "顾楠骨",
+            "role": "基于Bunny Loader移植"
+          },
+          {
+            "name": "柠娜",
+            "role": "维护者"
+          }
+        ],
+        "links": [
+          {
+            "title": "Original Autofish",
+            "url": "https://github.com/Cyrillya/Autofish"
+          }
+        ],
+        "category": "实用工具",
+        "summary": "自动收线、锁定抛竿目标、声呐渔获筛选与药水续喝，支持黑名单和其他渔获名单。测试版适配，部分功能会按运行时诊断结果停用。",
+        "blVersion": 2,
+        "entry": "main.js",
+        "localizedNames": {
+          "zh-Hans": "自动钓鱼"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "自动收线、锁定抛竿目标、声呐渔获筛选与药水续喝，支持黑名单和其他渔获名单。测试版适配，部分功能会按运行时诊断结果停用。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "0.1.0-test1"
+        },
+        "updated": "2026-11-01"
+      },
+      "publishedAt": "2026-11-01T07:38:36Z"
+    },
+    {
+      "uid": "7c5ee232-0456-3147-a347-e31852f566b9",
+      "id": "texture-7c5ee232-0456-3147-a347-e31852f566b9",
+      "name": "萌萌恶魂",
+      "version": "1.0.0-port.3",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-texture-7c5ee232-0456-3147-a347-e31852f566b9-v1.0.0-port.3/texture-7c5ee232-0456-3147-a347-e31852f566b9-1.0.0-port.3.bl",
+        "size": 967931,
+        "sha256": "7b51414c80ece1110e1eb462146eb1ac530eb0c26a653044df85832dbe62874b"
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md"
+      ],
+      "manifest": {
+        "uid": "7c5ee232-0456-3147-a347-e31852f566b9",
+        "id": "texture-7c5ee232-0456-3147-a347-e31852f566b9",
+        "name": "萌萌恶魂",
+        "version": "1.0.0-port.3",
+        "resourceOverrides": {
+          "sounds": true,
+          "localization": true
+        },
+        "type": "texture",
+        "category": "材质",
+        "blVersion": 2,
+        "updated": "2026-11-01",
+        "author": "Pixivic",
+        "authors": [
+          {
+            "name": "Pixivic",
+            "role": "原作者",
+            "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3631710750"
+          },
+          {
+            "name": "流脌",
             "role": "移植者"
           },
           {
@@ -4993,31 +5823,93 @@
             "role": "维护者"
           }
         ],
-        "blVersion": 2,
-        "gameVersion": [
-          301720,
-          301720
-        ],
-        "updated": "2026-11-01",
+        "description": "将阿比盖尔替换为萌萌恶魂外观，并替换召唤物品、增益图标和花朵贴图。附带原版音效替换与中文名称、说明。正式版 0.4.14 仅应用贴图；音效及文字需要启动器支持资源包音效与语言替换。",
+        "localizedNames": {
+          "zh-Hans": "萌萌恶魂"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "阿比盖尔与相关物品的萌萌恶魂外观；原作者 Pixivic，移植者流脌。附带音效与中文名称资源。"
+        },
+        "license": "",
         "links": [
           {
-            "title": "原作 Steam 创意工坊",
-            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3455411572"
+            "title": "原包记录的 Steam Workshop 页面",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3631710750"
           }
-        ]
+        ],
+        "portEdition": {
+          "revision": 3,
+          "baseVersion": "1.0.0",
+          "originalName": "Ghastling as Abigail",
+          "sourceSha256": "59878dc840c704e80e8354bf9a1f814b6acc8add9580426a589a430b48899b9a",
+          "porter": "流脌"
+        }
       },
+      "publishedAt": "2026-11-01T02:30:23.450349Z"
+    },
+    {
+      "uid": "dc3f4de8-1c59-4d92-a986-3ea0e4b42e15",
+      "id": "cooleritemvisualeffect",
+      "name": "近战武器视觉特效（C.I.V.E.）",
+      "version": "1.0.9-bunny.9.ningzh.2.fix.2",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-texture-5a58615a-631b-34bf-8f86-84a4f64e6c96-v1.2.0-port.1/texture-5a58615a-631b-34bf-8f86-84a4f64e6c96-1.2.0-port.1.bl",
-        "sha256": "08596358f4484ca77b09773840b914d6c4b54cad0487988576ade095d110af50",
-        "size": 102619
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-cooleritemvisualeffect-v1.0.9-bunny.9.ningzh.2.fix.2/cooleritemvisualeffect-1.0.9-bunny.9.ningzh.2.fix.2.bl",
+        "sha256": "cbfd16fdcacab363af6a71f7fcc4a1f4c4f2dd6ce23f4b75ed8c73baa9e865d3",
+        "size": 40412
       },
       "files": [
+        "authors/castorzeira.png",
         "changelog_zh-Hans.md",
         "description_zh-Hans.md",
         "icon.png",
         "manifest.json"
       ],
-      "publishedAt": "2026-11-01T08:16:33Z"
+      "manifest": {
+        "uid": "dc3f4de8-1c59-4d92-a986-3ea0e4b42e15",
+        "id": "cooleritemvisualeffect",
+        "name": "近战武器视觉特效（C.I.V.E.）",
+        "version": "1.0.9-bunny.9.ningzh.2.fix.2",
+        "authors": [
+          {
+            "name": "Log Spiral (Original Creator)",
+            "role": "原模组与视觉资源"
+          },
+          {
+            "name": "Castorzeira (port)",
+            "avatar": "Castorzeira.png",
+            "role": "Bunny Loader 移植"
+          },
+          {
+            "name": "柠娜",
+            "role": "维护者"
+          }
+        ],
+        "category": "视觉效果",
+        "summary": "挥砍剑光与攻击动画；联机使用原版近战伤害判定和同步。",
+        "description": "efeito slash totalmente exagerado e bonito",
+        "updated": "2026-11-02",
+        "blVersion": 2,
+        "entry": "main.js",
+        "localizedNames": {
+          "zh-Hans": "近战武器视觉特效（C.I.V.E.）",
+          "en-US": "Cooler Item Visual Effect — Bunny Port"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "挥砍剑光与攻击动画；联机使用原版近战伤害判定和同步。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 2,
+          "baseVersion": "1.0.9-bunny.9"
+        },
+        "repairEdition": {
+          "parentVersion": "1.0.9-bunny.9.ningzh.2.fix.1",
+          "parentSha256": "8439bfe9aed54c82447c6f32ecd25d45141de87918105191f067a9ed88bc2a08",
+          "revision": 2
+        }
+      },
+      "publishedAt": "2026-10-29T10:39:39Z",
+      "updatedAt": "2026-11-02T01:53:52Z"
     },
     {
       "uid": "7e6a6f0a-2479-3e54-b905-1e2f9f1b759c",
@@ -5082,143 +5974,63 @@
       "publishedAt": "2026-11-01T08:16:33Z"
     },
     {
-      "uid": "962caacd-14a8-3437-b74e-a6b71192ba45",
-      "id": "texture-962caacd-14a8-3437-b74e-a6b71192ba45",
-      "name": "我的世界材质包",
-      "version": "1.0.0-port.1",
-      "manifest": {
-        "uid": "962caacd-14a8-3437-b74e-a6b71192ba45",
-        "id": "texture-962caacd-14a8-3437-b74e-a6b71192ba45",
-        "name": "我的世界材质包",
-        "localizedNames": {
-          "zh-Hans": "我的世界材质包"
-        },
-        "version": "1.0.0-port.1",
-        "type": "texture",
-        "category": "材质包",
-        "summary": "用像素方块风格重绘方块、墙、背景、物品和界面等贴图。",
-        "localizedSummaries": {
-          "zh-Hans": "用像素方块风格重绘方块、墙、背景、物品和界面等贴图。"
-        },
-        "authors": [
-          {
-            "name": "Melstar",
-            "role": "原作者"
-          },
-          {
-            "name": "The Lamb",
-            "role": "原作者"
-          },
-          {
-            "name": "m",
-            "role": "移植者"
-          },
-          {
-            "name": "柠娜",
-            "role": "维护者"
-          }
-        ],
-        "blVersion": 2,
-        "gameVersion": [
-          301720,
-          301720
-        ],
-        "updated": "2026-11-01",
-        "links": [
-          {
-            "title": "原作 Steam 创意工坊",
-            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2439772075"
-          }
-        ]
-      },
+      "uid": "5c1ae0e6-28da-5db4-b929-5ca075471a5a",
+      "id": "wingslotextra",
+      "name": "额外翅膀栏",
+      "version": "1.4.9-ningzh.2",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-texture-962caacd-14a8-3437-b74e-a6b71192ba45-v1.0.0-port.1/texture-962caacd-14a8-3437-b74e-a6b71192ba45-1.0.0-port.1.bl",
-        "sha256": "43e51cae2f940a80197c2353756d1f82f587234be8e6b5297fb605870586937a",
-        "size": 10456836
-      },
-      "files": [
-        "changelog_zh-Hans.md",
-        "CREDITS.md",
-        "description_zh-Hans.md",
-        "manifest.json"
-      ],
-      "publishedAt": "2026-11-01T08:16:33Z"
-    },
-    {
-      "uid": "b7c4e2f1-9a3d-4e58-8c21-6f0d5a9b3e74",
-      "id": "starblessing",
-      "name": "召唤师扩展",
-      "version": "1.4.0-ningzh.1",
-      "manifest": {
-        "uid": "b7c4e2f1-9a3d-4e58-8c21-6f0d5a9b3e74",
-        "id": "starblessing",
-        "name": "召唤师扩展",
-        "version": "1.4.0-ningzh.1",
-        "author": "YG",
-        "authors": [
-          {
-            "name": "YG",
-            "role": "作者",
-            "color": "#8FB8FF"
-          },
-          {
-            "name": "逐邺",
-            "role": "移植者"
-          },
-          {
-            "name": "柠娜",
-            "role": "维护者"
-          }
-        ],
-        "category": "玩法扩展",
-        "type": "mod",
-        "summary": "一件随 BOSS 进度成长的召唤师饰品、史莱姆法杖的前期合成路径，以及补全小雪怪皮毛套装的兜帽与靴子。",
-        "description": "# 召唤师扩展\n\n为召唤师补充3件新装备，并为原版史莱姆法杖增加前期配方。原作者：YG；移植者：逐邺。保留源包的MIT许可声明。\n\n## 星之庇佑\n\n在工作台用1颗坠落之星制作。装备后基础增加1个召唤栏位、1个哨兵栏位、10%召唤伤害及30%移动速度。\n\n饰品读取当前世界的Boss击败进度，分为以下9组；每组任意一名Boss被击败即获得该组奖励，同组不会重复叠加：\n\n1. 史莱姆王 / 克苏鲁之眼\n2. 世界吞噬怪 / 克苏鲁之脑\n3. 蜂王 / 骷髅王 / 独眼巨鹿\n4. 血肉墙（进入困难模式）\n5. 史莱姆皇后 / 任意机械Boss / 猪龙鱼公爵\n6. 世纪之花\n7. 石巨人 / 光之女皇\n8. 拜月教邪教徒\n9. 月亮领主\n\n全部9组完成时，饰品合计增加5个召唤栏位、5个哨兵栏位、100%召唤伤害、80点最大生命及16点防御。移动速度加成在进入困难模式后为50%，击败月亮领主后为100%。说明栏显示当前加成、完成组数和下一组的谜语提示。\n\n成长取决于当前世界已有进度，换世界后按新世界计算；无需重复制作饰品。\n\n## 史莱姆法杖配方\n\n在工作台用15个凝胶制作原版史莱姆法杖。只增加配方，保留原版掉落。\n\n## 小雪怪兜帽与靴子\n\n| 装备 | 织布机配方 | 单件效果 |\n|---|---|---|\n| 小雪怪兜帽 | 6个小雪怪皮毛＋4个丝绸 | 1防御、5%召唤伤害 |\n| 小雪怪靴子 | 8个小雪怪皮毛＋5个丝绸 | 1防御、5%召唤伤害、5%移动速度 |\n\n两件新装备与原版小雪怪皮毛外套同时穿戴时，额外增加10%召唤伤害。套装额外奖励不再增加召唤栏位，原版外套自身的效果保留。\n\n安装或更新后重启游戏。适用于本包声明的Terraria运行版本；联机兼容性尚未充分验证。\n",
-        "license": "MIT",
-        "links": [],
-        "pages": [],
-        "theme": {
-          "accent": "#8FB8FF",
-          "panel": "",
-          "text": "",
-          "heading": "",
-          "button": "",
-          "buttonText": "",
-          "background": "",
-          "backgroundMode": "",
-          "backgroundScale": null,
-          "backgroundDim": null
-        },
-        "updated": "2026-11-01",
-        "featured": false,
-        "blVersion": 2,
-        "gameVersion": [
-          301720,
-          301720
-        ],
-        "entry": "main.js",
-        "dependencies": [],
-        "localizedNames": {
-          "zh-Hans": "召唤师扩展",
-          "en-US": "Summoner Expanded"
-        },
-        "localizedSummaries": {
-          "zh-Hans": "一件随 BOSS 进度成长的召唤师饰品、史莱姆法杖的前期合成路径，以及补全小雪怪皮毛套装的兜帽与靴子。",
-          "en-US": "A summoner accessory that grows with boss progression, an early crafting path for the Slime Staff, and the boots that complete the Flinx Fur set."
-        }
-      },
-      "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-starblessing-v1.4.0-ningzh.1/starblessing-1.4.0-ningzh.1.bl",
-        "sha256": "489188a12c2965f012f18ec1c41dd4da6c9437424b038b96b78e579c2253b3d4",
-        "size": 40875
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-wingslotextra-v1.4.9-ningzh.2/wingslotextra-1.4.9-ningzh.2.bl",
+        "sha256": "1d0253894397af91790fc77a981dae96094248985ff02c5d71afee2245cd5a9c",
+        "size": 50106
       },
       "files": [
         "manifest.json",
         "icon.png",
-        "description_zh-Hans.md",
-        "changelog_zh-Hans.md"
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md"
       ],
-      "publishedAt": "2026-11-01T08:57:11Z"
+      "manifest": {
+        "uid": "5c1ae0e6-28da-5db4-b929-5ca075471a5a",
+        "id": "wingslotextra",
+        "name": "额外翅膀栏",
+        "version": "1.4.9-ningzh.2",
+        "blVersion": 2,
+        "entry": "main.js",
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "category": "辅助",
+        "updated": "2026-11-03",
+        "author": "Aitherix、abluescarab",
+        "authors": [
+          {
+            "name": "Aitherix",
+            "role": "原作者与维护者"
+          },
+          {
+            "name": "abluescarab",
+            "role": "原始翅膀栏作者"
+          },
+          {
+            "name": "柠娜",
+            "role": "Bunny Loader 移植者"
+          }
+        ],
+        "license": "",
+        "description": "提供独立的功能翅膀、时装翅膀和染料槽，并支持装备方案与显示设置。",
+        "portEdition": {
+          "originalName": "Wing Slot Extra",
+          "sourceVersion": "1.4.9",
+          "sourceSha256": "bd7db8ef67ee8260d2171ccb74796c7c0744350415282c9a7794e4c8450c4db3",
+          "porter": "柠娜",
+          "revision": 2
+        }
+      },
+      "updatedAt": "2026-11-03T04:39:35Z",
+      "publishedAt": "2026-11-03T00:18:21Z"
     },
     {
       "uid": "5f1f085d-59f4-4e66-9360-e43595fa56fc",
@@ -5308,129 +6120,47 @@
       "updatedAt": "2026-11-01T14:47:55Z"
     },
     {
-      "uid": "b1241e97-de9b-479f-a5cc-41fddc33aa83",
-      "id": "a1",
+      "uid": "bc7737f5-d941-4d5c-b00b-eaec2c25eee8",
+      "id": "unifiedstorage",
+      "name": "魔法存储",
+      "version": "1.0.0-ningzh.1.fix.2",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-unifiedstorage-v1.0.0-ningzh.1.fix.2/unifiedstorage-1.0.0-ningzh.1.fix.2.bl",
+        "sha256": "dae6413594843ce54894dabf4e49854b7ab253841057a674187b60c426e8c7ac",
+        "size": 437954
+      },
       "files": [
         "manifest.json",
         "icon.png",
-        "description_zh-Hans.md",
-        "changelog_zh-Hans.md"
-      ],
-      "manifest": {
-        "uid": "b1241e97-de9b-479f-a5cc-41fddc33aa83",
-        "id": "a1",
-        "name": "成长型武器",
-        "version": "1.0.1-ningzh.1",
-        "author": "阮汐月",
-        "authors": [
-          {
-            "name": "阮汐月",
-            "role": "作者",
-            "color": "#8FB8FF"
-          },
-          {
-            "name": "柠娜",
-            "role": "维护者"
-          }
-        ],
-        "category": "武器",
-        "type": "mod",
-        "summary": "手持后自动补充翼形飞剑，伤害和数量上限随世界 Boss 进度成长；飞剑突刺并旋转连击敌人。",
-        "description": "# 成长型武器\n\n作者：阮汐月。更新至作者提供的 1.0.1。\n\n在工作台用10个铁锭或铅锭、3颗坠落之星、5个金锭或铂金锭制作成长型泰拉棱镜。手持后自动补充飞剑，切换武器后继续存在，移出背包或角色死亡后消失。\n\n基础成长仍按世界已击败的 Boss 计算，从12点基础伤害、1把飞剑成长至99点基础伤害、13把飞剑。同一进度不会因重复击杀而重复累计。召唤时计算当前召唤伤害加成；已存在飞剑保留召唤时的伤害。\n\n新版采用翼形排列以及突刺、旋转连击、返回的动作，不追击城镇 NPC 和生命上限不超过5的小动物。\n\n安装或更新后完全退出并重启游戏。联机兼容性尚未充分验证。\n",
-        "license": "MIT",
-        "links": [],
-        "pages": [],
-        "theme": {
-          "accent": "#8FB8FF",
-          "panel": "",
-          "text": "",
-          "heading": "",
-          "button": "",
-          "buttonText": "",
-          "background": "",
-          "backgroundMode": "",
-          "backgroundScale": null,
-          "backgroundDim": null
-        },
-        "updated": "2026-11-02",
-        "featured": false,
-        "blVersion": 2,
-        "gameVersion": [
-          301720,
-          301720
-        ],
-        "entry": "main.js",
-        "dependencies": [],
-        "localizedNames": {
-          "zh-Hans": "成长型武器",
-          "en-US": "Growth-oriented weapon"
-        },
-        "localizedSummaries": {
-          "zh-Hans": "手持后自动补充翼形飞剑，伤害和数量上限随世界 Boss 进度成长；飞剑突刺并旋转连击敌人。",
-          "en-US": "A summon weapon that grows with you throughout your Terraria journey. From a faint starlight to a sword array that tears through the Moon Lord. More growth equipment coming soon."
-        },
-        "sourceEdition": {
-          "baseVersion": "1.0.1",
-          "sourceManifestSha256": "345394d6defc585e38b68754088e2d9a51b6d13a802628b67d86fe544a5a1871"
-        }
-      },
-      "name": "成长型武器",
-      "version": "1.0.1-ningzh.1",
-      "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-a1-v1.0.1-ningzh.1/a1-1.0.1-ningzh.1.bl",
-        "sha256": "63694ec8d977a52ca09302fb6ec0858f4fd57eea204a3bbbe455542d8ed08360",
-        "size": 16749
-      },
-      "publishedAt": "2026-11-01T16:33:20.721224Z",
-      "updatedAt": "2026-11-02T08:28:36.178054Z"
-    },
-    {
-      "uid": "5dac741b-9094-47dd-88fd-ed466f14ec36",
-      "id": "ImproveGame",
-      "name": "更好的体验",
-      "version": "1.0.3-ning.1",
-      "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-ImproveGame-v1.0.3-ning.1/ImproveGame-1.0.3-ning.1.bl",
-        "sha256": "819e8dacbea1ba57b02143054fb478ae6aa237ff45a3323954234821509529b3",
-        "size": 380487
-      },
-      "files": [
-        "authors/durian.png",
-        "changelog.md",
-        "changelog_zh-Hans.md",
+        "banner.png",
         "description.md",
-        "description_zh-Hans.md",
-        "icon.png",
+        "changelog.md",
         "license.md",
-        "manifest.json"
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "authors/absoluteaquarian.png",
+        "authors/bloa.png"
       ],
       "manifest": {
-        "uid": "5dac741b-9094-47dd-88fd-ed466f14ec36",
-        "id": "ImproveGame",
-        "name": "更好的体验",
-        "localizedNames": {
-          "zh-Hans": "更好的体验"
-        },
-        "localizedSummaries": {
-          "en-US": "These features will bring you better gameplay experience",
-          "zh-Hans": "更好的体验：便携增益、背包与容器、建造魔杖和日常便利设置。移植者：LL。部分功能限单人模式；请勿与轻量版同时启用。"
-        },
-        "version": "1.0.3-ning.1",
+        "uid": "bc7737f5-d941-4d5c-b00b-eaec2c25eee8",
+        "id": "unifiedstorage",
+        "name": "魔法存储",
+        "version": "1.0.0-ningzh.1.fix.2",
         "authors": [
           {
-            "name": "局长, Cyril and the ImproveGame team",
-            "role": "Original tModLoader mod",
-            "color": "#7FD4FF",
-            "link": "https://github.com/487666123/ImproveGame"
+            "name": "Bloa",
+            "role": "原包移动端移植与适配",
+            "color": "#7FC8FF",
+            "avatar": "bloa.png"
           },
           {
-            "name": "榴莲只吃皮",
-            "role": "移动端移植",
-            "avatar": "durian.png",
-            "color": "#E8C170"
+            "name": "Absoluteaquarian",
+            "role": "材质与设计",
+            "color": "#F2C14E",
+            "avatar": "absoluteaquarian.png"
           },
           {
-            "name": "LL",
+            "name": "Titan camera",
             "role": "移植者"
           },
           {
@@ -5439,9 +6169,10 @@
           }
         ],
         "category": "实用工具",
-        "summary": "更好的体验：便携增益、背包与容器、建造魔杖和日常便利设置。移植者：LL。部分功能限单人模式；请勿与轻量版同时启用。",
+        "summary": "将存储单元连接到核心，集中搜索、分类、取放物品，并使用网络内的材料制作；支持容量升级和远程访问。当前移植版仅支持单人模式。",
         "license": "MIT",
-        "updated": "2026-11-02",
+        "featured": false,
+        "updated": "2026-11-03",
         "blVersion": 2,
         "gameVersion": [
           301720,
@@ -5451,771 +6182,30 @@
         "dependencies": [],
         "links": [
           {
-            "title": "Original (GitHub)",
-            "url": "https://github.com/487666123/ImproveGame"
+            "title": "Bunny Loader",
+            "url": "https://github.com/JonataOliveiraa/Bunny-Loader"
           }
         ],
-        "pages": [],
+        "localizedNames": {
+          "zh-Hans": "魔法存储"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "将存储单元连接到核心，集中搜索、分类、取放物品，并使用网络内的材料制作；支持容量升级和远程访问。当前移植版仅支持单人模式。"
+        },
+        "localizationEdition": {
+          "language": "zh-Hans",
+          "revision": 1,
+          "baseVersion": "1.0.0"
+        },
         "repairEdition": {
-          "parentVersion": "1.0.3",
-          "parentSha256": "9768c21acec3e22bb65057252ce65c82df6e157682eb5fd7e7e15641c79e02ec",
-          "revision": 1
-        }
-      },
-      "updatedAt": "2026-11-02T01:53:52Z",
-      "publishedAt": "2026-11-02T01:53:52Z"
-    },
-    {
-      "uid": "024331b6-3e6a-33d2-9baa-5708933fd1e0",
-      "id": "texture-024331b6-3e6a-33d2-9baa-5708933fd1e0",
-      "name": "全NPC可爱",
-      "version": "1.0.0-port.1",
-      "manifest": {
-        "uid": "024331b6-3e6a-33d2-9baa-5708933fd1e0",
-        "id": "texture-024331b6-3e6a-33d2-9baa-5708933fd1e0",
-        "name": "全NPC可爱",
-        "version": "1.0.0-port.1",
-        "type": "texture",
-        "category": "材质包",
-        "summary": "以可爱角色造型重绘 NPC、头像和相关碎块动画。",
-        "localizedNames": {
-          "zh-Hans": "全NPC可爱",
-          "en-US": "全NPC可爱"
+          "revision": 1,
+          "parentVersion": "1.0.0-ningzh.1",
+          "parentSha256": "cc65e30d47e0ee12b6d6644f419d4b90f57b7e82f9562f3a645255f202721e05"
         },
-        "localizedSummaries": {
-          "zh-Hans": "以可爱角色造型重绘 NPC、头像和相关碎块动画。"
-        },
-        "authors": [
-          {
-            "name": "那位伟大的向导大人",
-            "role": "原作者"
-          },
-          {
-            "name": "wan",
-            "role": "部分角色原设计"
-          },
-          {
-            "name": "月光不止于疾风",
-            "role": "移植者"
-          },
-          {
-            "name": "柠娜",
-            "role": "维护者"
-          }
-        ],
-        "blVersion": 2,
-        "gameVersion": [
-          301720,
-          301720
-        ],
-        "updated": "2026-11-02",
-        "links": [
-          {
-            "title": "原作 Steam 创意工坊",
-            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3307646858"
-          }
-        ],
-        "description": "# 全NPC可爱\n\n以可爱角色造型重绘 NPC、头像和相关碎块动画。\n\n原作者：那位伟大的向导大人。移植者：月光不止于疾风。动画由原作者绘制，28名NPC中11名角色的原设计来自wan。\n\n包含187张活动贴图。源包未附独立许可证声明，保留原作署名与资料。\n\n启用后重启生效，关闭后重启恢复原版；同名贴图覆盖按加载优先级。\n"
+        "description": "# 魔法存储\n\n将存储单元连接到核心，集中搜索、分类、取放物品，并使用网络内的材料制作；支持容量升级和远程访问。当前移植版仅支持单人模式。\n\n将存储单元与存储核心相连，点击核心或访问器打开界面。连接存储制作界面后，可直接用存储材料制作。制作站和墓碑可安装到核心。手持远程访问器点击核心完成绑定。\n\n基础容量40栏，依次升级为80、120、160、240、320和640栏。拆除单元前须清空物品。支持名称搜索、@模组和#英文分类；分类按钮已汉化。\n\n此移植版的存储界面仅支持单人模式，多人模式下无法打开。\n\n署名：Titan camera（移植者）；Bloa（原包移动端适配）；Absoluteaquarian（材质与设计）；Magic Storage 原作者 Kaylee Minsuh Kim、absoluteAquarian 及贡献者。保留 MIT 许可。\n\n\n## 修复说明\n\n存储与制作界面打开时拦截背景触摸、攻击、交互和移动，以及原版地图和背包入口；关闭后恢复游戏操作。面板上方留白避开手机版顶部按钮。安装更新后请完全退出并重启游戏。\n"
       },
-      "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-texture-024331b6-3e6a-33d2-9baa-5708933fd1e0-v1.0.0-port.1/texture-024331b6-3e6a-33d2-9baa-5708933fd1e0-1.0.0-port.1.bl",
-        "sha256": "8d01cce4441d322cf2de2af3c8ea16c6484bcd1741ce33eb143d027a8c5b7c64",
-        "size": 730933
-      },
-      "files": [
-        "manifest.json",
-        "icon.png",
-        "changelog_zh-Hans.md",
-        "description_zh-Hans.md"
-      ],
-      "updatedAt": "2026-11-02T08:28:36.280395Z",
-      "publishedAt": "2026-11-02T08:28:36.280395Z"
-    },
-    {
-      "uid": "729873fc-a00b-33e7-a02a-6b6cd589aed6",
-      "id": "texture-729873fc-a00b-33e7-a02a-6b6cd589aed6",
-      "name": "JoJo的泰拉冒险",
-      "version": "2.0.0-port.1",
-      "manifest": {
-        "uid": "729873fc-a00b-33e7-a02a-6b6cd589aed6",
-        "id": "texture-729873fc-a00b-33e7-a02a-6b6cd589aed6",
-        "name": "JoJo的泰拉冒险",
-        "version": "2.0.0-port.1",
-        "type": "texture",
-        "category": "材质包",
-        "summary": "以 JoJo 角色和替身主题替换盔甲、武器、召唤物及部分界面与家具外观。",
-        "localizedNames": {
-          "zh-Hans": "JoJo的泰拉冒险",
-          "en-US": "JoJo's Terraria Adventure"
-        },
-        "localizedSummaries": {
-          "zh-Hans": "以 JoJo 角色和替身主题替换盔甲、武器、召唤物及部分界面与家具外观。"
-        },
-        "authors": [
-          {
-            "name": "Giobun",
-            "role": "原作者"
-          },
-          {
-            "name": "1",
-            "role": "移植者"
-          },
-          {
-            "name": "柠娜",
-            "role": "维护者"
-          }
-        ],
-        "blVersion": 2,
-        "gameVersion": [
-          301720,
-          301720
-        ],
-        "updated": "2026-11-02",
-        "links": [
-          {
-            "title": "原作 Steam 创意工坊",
-            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2440909212"
-          }
-        ],
-        "description": "# JoJo的泰拉冒险\n\n以 JoJo 角色和替身主题替换盔甲、武器、召唤物及部分界面与家具外观。\n\n原作者：Giobun。移植者：1。原名：JoJo's Terraria Adventure。\n\n包含257张活动贴图。4张旧版动画/图集与手机版布局不一致，保留原版显示，原图附于 source/incompatible。源包未附独立许可证声明，保留原作署名与资料。\n\n启用后重启生效，关闭后重启恢复原版；同名贴图覆盖按加载优先级。\n"
-      },
-      "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-texture-729873fc-a00b-33e7-a02a-6b6cd589aed6-v2.0.0-port.1/texture-729873fc-a00b-33e7-a02a-6b6cd589aed6-2.0.0-port.1.bl",
-        "sha256": "830bc1d31fdbda2499be2560b2381686499d7f39bb02641b8b7b5b4597426276",
-        "size": 635930
-      },
-      "files": [
-        "manifest.json",
-        "icon.png",
-        "changelog_zh-Hans.md",
-        "description_zh-Hans.md"
-      ],
-      "updatedAt": "2026-11-02T08:28:36.304065Z",
-      "publishedAt": "2026-11-02T08:28:36.304065Z"
-    },
-    {
-      "uid": "9b5487f0-f568-4956-a81d-9619be344a2c",
-      "id": "vortex_weapons",
-      "name": "天界四柱·武器扩展与重置",
-      "version": "1.17.1-ning.1",
-      "manifest": {
-        "uid": "9b5487f0-f568-4956-a81d-9619be344a2c",
-        "id": "vortex_weapons",
-        "name": "天界四柱·武器扩展与重置",
-        "version": "1.17.1-ning.1",
-        "authors": [
-          {
-            "name": "白色灯泡小精灵",
-            "role": "原作者",
-            "avatar": "avatar.png",
-            "color": "#7B9E89"
-          },
-          {
-            "name": "北妓春奈",
-            "role": "移植者"
-          },
-          {
-            "name": "柠娜",
-            "role": "维护者"
-          }
-        ],
-        "category": "武器",
-        "summary": "新增星旋湍流、日珥、星云天秤，重做日耀喷发剑、星旋机枪、星云奥秘、幻影弓、星云烈焰、破晓之光。",
-        "license": "CC-BY-NC-4.0",
-        "updated": "2026-11-02",
-        "blVersion": 2,
-        "gameVersion": [
-          301720,
-          301720
-        ],
-        "entry": "main.js",
-        "dependencies": [],
-        "notes": "喵？",
-        "sourceEdition": {
-          "baseVersion": "1.17.1",
-          "sourceManifestSha256": "6eff51be10641b27c268de4dd1e719b0e5160ff21a6089730506676bfde00581"
-        },
-        "localizedNames": {
-          "zh-Hans": "天界四柱·武器扩展与重置"
-        },
-        "localizedSummaries": {
-          "zh-Hans": "新增星旋湍流、日珥、星云天秤，重做日耀喷发剑、星旋机枪、星云奥秘、幻影弓、星云烈焰、破晓之光。"
-        },
-        "description": "# ★ 四柱武器扩展 & 重制\n\n## ✦ 新增武器\n\n- **星旋湍流**（星旋）\n- **日珥**（日耀）\n- **星云天秤**（星云）\n\n## ✦ 重做的原版武器\n\n- **日耀喷发**\n- **星旋机枪**\n- **星云奥秘**\n- **幻影弓**\n- **星云烈焰**\n- **破晓之光**\n- （星尘柱没问）\n\n## ✦ 其他内容\n\n- 不会调数值，所以没做平衡哦\n- 但是你可以在mod设置里调整是否在月后才启用原版武器重置\n\n原作者：白色灯泡小精灵。移植者：北妓春奈。代码及原创内容按 CC BY-NC 4.0 发布，其他素材归各自权利人，详见包内许可证。安装并启用后重启游戏；联机兼容性尚未充分验证。\n\n手机版绘制接口限制：日珥部分星芒保留原版颜色与位置；其他视觉效果按当前运行库能力显示。\n"
-      },
-      "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-vortex_weapons-v1.17.1-ning.1/vortex_weapons-1.17.1-ning.1.bl",
-        "sha256": "7373a284afe76879eabd100ac2fce94e8d6c37af1eae952799659f909c7dd3b7",
-        "size": 401297
-      },
-      "files": [
-        "manifest.json",
-        "icon.png",
-        "description.md",
-        "changelog.md",
-        "license.md",
-        "changelog_zh-Hans.md",
-        "description_zh-Hans.md",
-        "authors/avatar.png"
-      ],
-      "updatedAt": "2026-11-02T08:28:36.336930Z",
-      "publishedAt": "2026-11-02T08:28:36.336930Z"
-    },
-    {
-      "uid": "3f4a2442-23f6-58be-ae18-3aa1ac0e405f",
-      "id": "lifesourceslight",
-      "name": "生命水晶与生命果发光",
-      "version": "1.3.0-ningzh.3",
-      "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-lifesourceslight-v1.3.0-ningzh.3/lifesourceslight-1.3.0-ningzh.3.bl",
-        "sha256": "6aa25dccf48fbd9756fe767d8d93654cf3b43f3e30b120e6b2d476fd2113d02c",
-        "size": 22823
-      },
-      "files": [
-        "manifest.json",
-        "icon.png",
-        "description.md",
-        "changelog.md",
-        "changelog_zh-Hans.md",
-        "description_zh-Hans.md"
-      ],
-      "manifest": {
-        "uid": "3f4a2442-23f6-58be-ae18-3aa1ac0e405f",
-        "id": "lifesourceslight",
-        "name": "生命水晶与生命果发光",
-        "version": "1.3.0-ningzh.3",
-        "blVersion": 2,
-        "entry": "main.js",
-        "gameVersion": [
-          301720,
-          301720
-        ],
-        "category": "视觉",
-        "updated": "2026-11-01",
-        "author": "Chev",
-        "authors": [
-          {
-            "name": "Chev",
-            "role": "原作者",
-            "link": "https://github.com/chev2/terraria-mods"
-          },
-          {
-            "name": "柠娜",
-            "role": "Bunny Loader 移植者"
-          },
-          {
-            "name": "柠娜",
-            "role": "维护者"
-          }
-        ],
-        "license": "GPL-3.0",
-        "description": "让生命水晶发出粉红色光芒、生命果发出黄色光芒。两个效果可独立开关，默认开启。原作者 Chev；移植者柠娜。",
-        "localizedNames": {
-          "zh-Hans": "生命水晶与生命果发光"
-        },
-        "links": [
-          {
-            "title": "Steam 原版",
-            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2853619836"
-          }
-        ],
-        "portEdition": {
-          "originalName": "Heart Crystal & Life Fruit Glow",
-          "sourceVersion": "1.3.0",
-          "sourceSha256": "81bfff7f998cd79729d6bd248ef9160c60408eaf27688d5aa2cba00bc9f71edb",
-          "upstreamCommit": "d7c40e835b57d69fab55d7fd33b31da494dc2e4a",
-          "porter": "柠娜",
-          "revision": 3
-        },
-        "summary": "让生命水晶和生命果发光，两种效果可分别开关。",
-        "localizedSummaries": {
-          "zh-Hans": "让生命水晶和生命果发光，两种效果可分别开关。"
-        }
-      },
-      "updatedAt": "2026-11-02T18:42:56Z",
-      "publishedAt": "2026-11-02T16:43:28Z"
-    },
-    {
-      "uid": "444a9868-3515-547a-b2db-f889023c76f3",
-      "id": "census",
-      "name": "人口普查：城镇居民清单",
-      "version": "0.5.2.8-ningzh.3",
-      "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-census-v0.5.2.8-ningzh.3/census-0.5.2.8-ningzh.3.bl",
-        "sha256": "b9f1d509a63eed0765bddfc5b14c79a779d7fb67b45626809dc41077387ff3ed",
-        "size": 19951
-      },
-      "files": [
-        "manifest.json",
-        "icon.png",
-        "description.md",
-        "changelog.md",
-        "changelog_zh-Hans.md",
-        "description_zh-Hans.md"
-      ],
-      "manifest": {
-        "uid": "444a9868-3515-547a-b2db-f889023c76f3",
-        "id": "census",
-        "name": "人口普查：城镇居民清单",
-        "version": "0.5.2.8-ningzh.3",
-        "blVersion": 2,
-        "entry": "main.js",
-        "gameVersion": [
-          301720,
-          301720
-        ],
-        "category": "界面",
-        "updated": "2026-11-01",
-        "author": "jopojelly",
-        "authors": [
-          {
-            "name": "jopojelly",
-            "role": "原作者"
-          },
-          {
-            "name": "柠娜",
-            "role": "Bunny Loader 移植者"
-          },
-          {
-            "name": "柠娜",
-            "role": "维护者"
-          }
-        ],
-        "license": "",
-        "description": "直接扩展背包内的 NPC 居住界面，显示未入住居民、入住条件与状态，并支持定位箭头。原作者 jopojelly；移植者柠娜。",
-        "localizedNames": {
-          "zh-Hans": "人口普查：城镇居民清单"
-        },
-        "portEdition": {
-          "originalName": "Census - Town NPC Checklist",
-          "sourceVersion": "0.5.2.8",
-          "sourceSha256": "9a1a8c891ea1557b446001fcf352c1d3469af5f2ca5b9f9c216a84146a6a39a9",
-          "porter": "柠娜",
-          "revision": 3
-        },
-        "links": [
-          {
-            "title": "Steam 原作",
-            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2687866031"
-          }
-        ],
-        "summary": "在背包居住界面查看居民入住条件和状态，并定位已入住居民。",
-        "localizedSummaries": {
-          "zh-Hans": "在背包居住界面查看居民入住条件和状态，并定位已入住居民。"
-        }
-      },
-      "updatedAt": "2026-11-02T18:42:56Z",
-      "publishedAt": "2026-11-02T16:43:28Z"
-    },
-    {
-      "uid": "633c85b4-3c35-52ae-8033-8a170fe1360c",
-      "id": "shorterrespawn",
-      "name": "更短复活时间",
-      "version": "1.2.1.1-ningzh.3",
-      "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-shorterrespawn-v1.2.1.1-ningzh.3/shorterrespawn-1.2.1.1-ningzh.3.bl",
-        "sha256": "7860327a5e3306f95aa7201f3cf2b3d8dcdc71a830f00b45405b1f1c5a861e05",
-        "size": 14880
-      },
-      "files": [
-        "manifest.json",
-        "icon.png",
-        "description.md",
-        "changelog.md",
-        "changelog_zh-Hans.md",
-        "description_zh-Hans.md"
-      ],
-      "manifest": {
-        "uid": "633c85b4-3c35-52ae-8033-8a170fe1360c",
-        "id": "shorterrespawn",
-        "name": "更短复活时间",
-        "version": "1.2.1.1-ningzh.3",
-        "blVersion": 2,
-        "entry": "main.js",
-        "gameVersion": [
-          301720,
-          301720
-        ],
-        "category": "玩法",
-        "updated": "2026-11-01",
-        "author": "jopojelly",
-        "authors": [
-          {
-            "name": "jopojelly",
-            "role": "原作者"
-          },
-          {
-            "name": "柠娜",
-            "role": "Bunny Loader 移植者"
-          },
-          {
-            "name": "柠娜",
-            "role": "维护者"
-          }
-        ],
-        "license": "",
-        "description": "自定义普通、专家及 Boss 战的复活时间，支持倍率、精确秒数和 Boss 离场后缩短倒计时。联机采用房主设置。",
-        "localizedNames": {
-          "zh-Hans": "更短复活时间"
-        },
-        "links": [
-          {
-            "title": "Steam 原版",
-            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2562997415"
-          }
-        ],
-        "portEdition": {
-          "originalName": "Shorter Respawn Time",
-          "sourceVersion": "1.2.1.1",
-          "sourceSha256": "4756cd6ae2125584920b5b6bc9be893705b820062bd2e0730bab11857b36e88a",
-          "porter": "柠娜",
-          "revision": 3
-        },
-        "summary": "调整普通、专家及 Boss 战的复活时间，联机采用房主设置。",
-        "localizedSummaries": {
-          "zh-Hans": "调整普通、专家及 Boss 战的复活时间，联机采用房主设置。"
-        }
-      },
-      "updatedAt": "2026-11-02T18:42:56Z",
-      "publishedAt": "2026-11-02T16:43:28Z"
-    },
-    {
-      "uid": "cd65cef1-9f13-55f7-b871-4030eb64f770",
-      "id": "shopexpander",
-      "name": "商店翻页",
-      "version": "1.8.1-ningzh.3",
-      "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-shopexpander-v1.8.1-ningzh.3/shopexpander-1.8.1-ningzh.3.bl",
-        "sha256": "027769bc55e5ae65c4af04b46f0404d43c877992d80c351ce8ddae34221a3fc2",
-        "size": 16975
-      },
-      "files": [
-        "manifest.json",
-        "icon.png",
-        "description.md",
-        "changelog.md",
-        "changelog_zh-Hans.md",
-        "description_zh-Hans.md"
-      ],
-      "manifest": {
-        "uid": "cd65cef1-9f13-55f7-b871-4030eb64f770",
-        "id": "shopexpander",
-        "name": "商店翻页",
-        "version": "1.8.1-ningzh.3",
-        "blVersion": 2,
-        "entry": "main.js",
-        "gameVersion": [
-          301720,
-          301720
-        ],
-        "category": "界面",
-        "updated": "2026-11-02",
-        "author": "DRKV、Exterminator",
-        "authors": [
-          {
-            "name": "DRKV、Exterminator",
-            "role": "原作者与维护者"
-          },
-          {
-            "name": "柠娜",
-            "role": "Bunny Loader 移植者"
-          },
-          {
-            "name": "柠娜",
-            "role": "维护者"
-          }
-        ],
-        "license": "MIT",
-        "description": "在原生商店中翻阅完整商品列表，提供独立回购页及模组商店兼容接口。原作者与维护者 DRKV、Exterminator；移植者柠娜。",
-        "portEdition": {
-          "originalName": "Shop Expander",
-          "sourceVersion": "1.8.1",
-          "sourceSha256": "cf56d7d69b2228303823ce45311a0fc63e186143e9f0e11d91bd9dbd41603b1b",
-          "porter": "柠娜",
-          "revision": 3
-        },
-        "links": [
-          {
-            "title": "Steam 原作",
-            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2828370879"
-          }
-        ],
-        "summary": "为商品较多的商店添加翻页按钮，支持购买、出售和回购。",
-        "localizedSummaries": {
-          "zh-Hans": "为商品较多的商店添加翻页按钮，支持购买、出售和回购。"
-        }
-      },
-      "updatedAt": "2026-11-02T18:42:56Z",
-      "publishedAt": "2026-11-02T16:43:28Z"
-    },
-    {
-      "uid": "39cbbdbb-9c10-544d-a334-6b60e894af84",
-      "id": "hpaware",
-      "name": "生命感知",
-      "version": "1.0.6.1-ningzh.3",
-      "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-hpaware-v1.0.6.1-ningzh.3/hpaware-1.0.6.1-ningzh.3.bl",
-        "sha256": "9a14251be029cc2dace473ab3704fb0e4ae13e0286045ec93dcb9e00326b1f14",
-        "size": 20421
-      },
-      "files": [
-        "manifest.json",
-        "icon.png",
-        "description.md",
-        "changelog.md",
-        "changelog_zh-Hans.md",
-        "description_zh-Hans.md"
-      ],
-      "manifest": {
-        "uid": "39cbbdbb-9c10-544d-a334-6b60e894af84",
-        "id": "hpaware",
-        "name": "生命感知",
-        "version": "1.0.6.1-ningzh.3",
-        "blVersion": 2,
-        "entry": "main.js",
-        "gameVersion": [
-          301720,
-          301720
-        ],
-        "category": "辅助",
-        "updated": "2026-11-01",
-        "author": "Core",
-        "authors": [
-          {
-            "name": "Core",
-            "role": "原作者"
-          },
-          {
-            "name": "柠娜",
-            "role": "Bunny Loader 移植者"
-          },
-          {
-            "name": "柠娜",
-            "role": "维护者"
-          }
-        ],
-        "license": "",
-        "description": "受伤与低血量画面提醒、角色血条、药水就绪提示和减益提示，支持灰度、音效、音乐衰减与排除名单。",
-        "portEdition": {
-          "originalName": "HP Awareness",
-          "sourceVersion": "1.0.6.1",
-          "sourceSha256": "9c82735ae5b479f0e1db2031e145ba036c9f31634e37294fcd4077660cec6999",
-          "porter": "柠娜",
-          "revision": 3
-        },
-        "links": [
-          {
-            "title": "Steam 原作",
-            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2564503881"
-          }
-        ],
-        "summary": "显示受伤、低血量、药水冷却和减益状态提醒。",
-        "localizedSummaries": {
-          "zh-Hans": "显示受伤、低血量、药水冷却和减益状态提醒。"
-        }
-      },
-      "updatedAt": "2026-11-02T18:42:56Z",
-      "publishedAt": "2026-11-02T16:43:28Z"
-    },
-    {
-      "uid": "008a4524-a7c4-54ec-b814-ec7924905407",
-      "id": "recipebrowser",
-      "name": "合成表",
-      "version": "0.12.0.3-ningzh.1",
-      "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-recipebrowser-v0.12.0.3-ningzh.1/recipebrowser-0.12.0.3-ningzh.1.bl",
-        "sha256": "a0b2d7d1c32d08d5f62d7f3ce85a9d24fbc885a443a57317127bcf1395f5d2f5",
-        "size": 353054
-      },
-      "files": [
-        "manifest.json",
-        "icon.png",
-        "description.md",
-        "changelog.md",
-        "changelog_zh-Hans.md",
-        "description_zh-Hans.md"
-      ],
-      "manifest": {
-        "uid": "008a4524-a7c4-54ec-b814-ec7924905407",
-        "id": "recipebrowser",
-        "name": "合成表",
-        "version": "0.12.0.3-ningzh.1",
-        "blVersion": 2,
-        "entry": "main.js",
-        "gameVersion": [
-          301720,
-          301720
-        ],
-        "category": "实用",
-        "author": "jopojelly",
-        "authors": [
-          {
-            "name": "jopojelly",
-            "role": "原作者"
-          },
-          {
-            "name": "柠娜",
-            "role": "Bunny Loader 移植者"
-          },
-          {
-            "name": "柠娜",
-            "role": "维护者"
-          }
-        ],
-        "license": "",
-        "description": "查询配方、材料用途、物品来源与制作路径，并收藏需要的配方。",
-        "portEdition": {
-          "originalName": "Recipe Browser",
-          "sourceVersion": "0.12.0.3",
-          "sourceSha256": "efc90e330ae365244ca8f024904351e6a97668ffd4fac7cd5d936d857eb6958b",
-          "porter": "柠娜",
-          "revision": 1
-        },
-        "summary": "查询原版和模组配方、材料用途与制作路径，并浏览物品和怪物图鉴。",
-        "localizedNames": {
-          "zh-Hans": "合成表"
-        },
-        "localizedSummaries": {
-          "zh-Hans": "查询原版和模组配方、材料用途与制作路径，并浏览物品和怪物图鉴。"
-        }
-      },
-      "updatedAt": "2026-11-02T23:52:27Z",
-      "publishedAt": "2026-11-02T23:52:27Z"
-    },
-    {
-      "uid": "0f6e273f-5832-52a8-96d9-31333045ff69",
-      "id": "prettyrarities",
-      "name": "特效提示",
-      "version": "1.4.4-ningzh.1",
-      "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-prettyrarities-v1.4.4-ningzh.1/prettyrarities-1.4.4-ningzh.1.bl",
-        "sha256": "bd1b76d0fc2b1a7963afd5c57568c72dc9c1c6cc803adb21340f78e09998189c",
-        "size": 9983236
-      },
-      "files": [
-        "manifest.json",
-        "icon.png",
-        "description.md",
-        "changelog.md",
-        "changelog_zh-Hans.md",
-        "description_zh-Hans.md"
-      ],
-      "manifest": {
-        "uid": "0f6e273f-5832-52a8-96d9-31333045ff69",
-        "id": "prettyrarities",
-        "name": "特效提示",
-        "version": "1.4.4-ningzh.1",
-        "blVersion": 2,
-        "entry": "main.js",
-        "gameVersion": [
-          301720,
-          301720
-        ],
-        "category": "视觉",
-        "author": "Yata",
-        "authors": [
-          {
-            "name": "Yata",
-            "role": "原作者"
-          },
-          {
-            "name": "柠娜",
-            "role": "Bunny Loader 移植者"
-          },
-          {
-            "name": "柠娜",
-            "role": "维护者"
-          }
-        ],
-        "license": "",
-        "description": "为物品名称添加随稀有度变化的渐变、光晕与粒子效果。",
-        "portEdition": {
-          "originalName": "Better Tooltips",
-          "sourceVersion": "1.4.4",
-          "sourceSha256": "1606e21d263c37f32e3cd24ad5f36eeafb0db590ab18fd2dd4ec6d741275040e",
-          "porter": "柠娜",
-          "revision": 1
-        },
-        "summary": "为不同稀有度的物品名称添加渐变、光晕和粒子效果。",
-        "localizedNames": {
-          "zh-Hans": "特效提示"
-        },
-        "localizedSummaries": {
-          "zh-Hans": "为不同稀有度的物品名称添加渐变、光晕和粒子效果。"
-        }
-      },
-      "updatedAt": "2026-11-03T00:18:21Z",
-      "publishedAt": "2026-11-03T00:18:21Z"
-    },
-    {
-      "uid": "5c1ae0e6-28da-5db4-b929-5ca075471a5a",
-      "id": "wingslotextra",
-      "name": "额外翅膀栏",
-      "version": "1.4.9-ningzh.1",
-      "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-wingslotextra-v1.4.9-ningzh.1/wingslotextra-1.4.9-ningzh.1.bl",
-        "sha256": "fb96d6d867d78b0adc870c66ed820b90dc45784b00e7cb71740c61b32d65f960",
-        "size": 49285
-      },
-      "files": [
-        "manifest.json",
-        "icon.png",
-        "description.md",
-        "changelog.md",
-        "changelog_zh-Hans.md",
-        "description_zh-Hans.md"
-      ],
-      "manifest": {
-        "uid": "5c1ae0e6-28da-5db4-b929-5ca075471a5a",
-        "id": "wingslotextra",
-        "name": "额外翅膀栏",
-        "version": "1.4.9-ningzh.1",
-        "blVersion": 2,
-        "entry": "main.js",
-        "gameVersion": [
-          301720,
-          301720
-        ],
-        "category": "辅助",
-        "updated": "2026-11-02",
-        "author": "Aitherix、abluescarab",
-        "authors": [
-          {
-            "name": "Aitherix",
-            "role": "原作者与维护者"
-          },
-          {
-            "name": "abluescarab",
-            "role": "原始翅膀栏作者"
-          },
-          {
-            "name": "柠娜",
-            "role": "Bunny Loader 移植者"
-          },
-          {
-            "name": "柠娜",
-            "role": "维护者"
-          }
-        ],
-        "license": "",
-        "description": "提供独立的功能翅膀、时装翅膀和染料槽，并支持装备方案与显示设置。",
-        "portEdition": {
-          "originalName": "Wing Slot Extra",
-          "sourceVersion": "1.4.9",
-          "sourceSha256": "bd7db8ef67ee8260d2171ccb74796c7c0744350415282c9a7794e4c8450c4db3",
-          "porter": "柠娜",
-          "revision": 1
-        },
-        "summary": "增加独立的功能翅膀、时装翅膀和染料栏，支持装备方案。",
-        "localizedNames": {
-          "zh-Hans": "额外翅膀栏"
-        },
-        "localizedSummaries": {
-          "zh-Hans": "增加独立的功能翅膀、时装翅膀和染料栏，支持装备方案。"
-        }
-      },
-      "updatedAt": "2026-11-03T00:18:21Z",
-      "publishedAt": "2026-11-03T00:18:21Z"
+      "updatedAt": "2026-11-03T04:39:29Z",
+      "publishedAt": "2026-11-01T07:38:36Z"
     }
   ],
   "featured": [

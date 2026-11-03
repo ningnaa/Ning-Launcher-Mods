@@ -2,7 +2,7 @@
   "uid": "b1241e97-de9b-479f-a5cc-41fddc33aa83",
   "id": "a1",
   "name": "成长型武器",
-  "version": "1.0.1-ningzh.1",
+  "version": "1.0.2-ningzh.1",
   "author": "阮汐月",
   "authors": [
     {
@@ -17,8 +17,8 @@
   ],
   "category": "武器",
   "type": "mod",
-  "summary": "手持后自动补充翼形飞剑，伤害和数量上限随世界 Boss 进度成长；飞剑突刺并旋转连击敌人。",
-  "description": "# 成长型武器\n\n作者：阮汐月。更新至作者提供的 1.0.1。\n\n在工作台用10个铁锭或铅锭、3颗坠落之星、5个金锭或铂金锭制作成长型泰拉棱镜。手持后自动补充飞剑，切换武器后继续存在，移出背包或角色死亡后消失。\n\n基础成长仍按世界已击败的 Boss 计算，从12点基础伤害、1把飞剑成长至99点基础伤害、13把飞剑。同一进度不会因重复击杀而重复累计。召唤时计算当前召唤伤害加成；已存在飞剑保留召唤时的伤害。\n\n新版采用翼形排列以及突刺、旋转连击、返回的动作，不追击城镇 NPC 和生命上限不超过5的小动物。\n\n安装或更新后完全退出并重启游戏。联机兼容性尚未充分验证。\n",
+  "summary": "伴随泰拉旅程成长的召唤神器；包含原初核心、残影挑战和成长型泰拉棱镜。",
+  "description": "# 成长型武器\\n\\n作者：阮汐月。\\n\\n成长型召唤武器会随泰拉瑞亚旅程推进，从原初核心与原初残影的获取，到逐步成长的泰拉棱镜。包含原初核心、原初残影、原初碎片和成长型泰拉棱镜的完整流程，并保留原版召唤动作与音效。\\n\\n更新至作者提供的 1.0.2：重新调整伤害公式与召唤数量上限，增加世吞/克脑成长阶段，修复飞剑攻击假人、小动物和攻击停滞问题。安装或更新后请完全退出并重启游戏；联机兼容性尚未充分验证。\\n\\n许可：MIT。",
   "license": "MIT",
   "links": [],
   "pages": [],
@@ -34,7 +34,7 @@
     "backgroundScale": null,
     "backgroundDim": null
   },
-  "updated": "2026-11-02",
+  "updated": "2026-11-03",
   "featured": false,
   "blVersion": 2,
   "gameVersion": [
@@ -48,11 +48,16 @@
     "en-US": "Growth-oriented weapon"
   },
   "localizedSummaries": {
-    "zh-Hans": "手持后自动补充翼形飞剑，伤害和数量上限随世界 Boss 进度成长；飞剑突刺并旋转连击敌人。",
-    "en-US": "A summon weapon that grows with you throughout your Terraria journey. From a faint starlight to a sword array that tears through the Moon Lord. More growth equipment coming soon."
+    "zh-Hans": "伴随泰拉旅程成长的召唤神器；包含原初核心、残影挑战和成长型泰拉棱镜。",
+    "en-US": "A summoning artifact that grows with your Terraria journey. Featuring the choice of the Primordial Core, the challenge of the Phantoms, and a fully upgraded Terraprisma with authentic animations and sounds."
   },
   "sourceEdition": {
-    "baseVersion": "1.0.1",
-    "sourceManifestSha256": "345394d6defc585e38b68754088e2d9a51b6d13a802628b67d86fe544a5a1871"
+    "baseVersion": "1.0.2",
+    "sourceManifestSha256": "58c4590f41e14426eefc2965e79ea58cc626f98a86dac8b74c41253e8ebf2b5f"
+  },
+  "localizationEdition": {
+    "language": "zh-Hans",
+    "revision": 1,
+    "baseVersion": "1.0.2"
   }
 }

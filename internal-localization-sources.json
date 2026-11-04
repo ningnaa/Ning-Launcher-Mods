@@ -1467,29 +1467,6 @@
       "author": "amogus"
     },
     {
-      "uid": "b22b17d1-185c-481d-9033-eb1ebaf3b397",
-      "id": "orycto",
-      "name": "Orycto（Alpha）",
-      "version": "1-ningzh.1",
-      "file": "orycto-1-ningzh.1.bl",
-      "sha256": "c2517ba2d397d72e6004f2c68613f647eda8a61660af01a00eb2178d4193d4c1",
-      "size": 80629,
-      "originalSha256": "7bf984fa7434919fa5253883bb157bf2c62bf3316fec5d9cf2d38f8fc2e0b97a",
-      "tag": "mod-orycto-v1-ningzh.1",
-      "changedFiles": [
-        "manifest.json",
-        "description_zh-Hans.md",
-        "changelog_zh-Hans.md",
-        "content/Localization/zh-Hans.json"
-      ],
-      "baseVersion": "1",
-      "englishKeys": 8,
-      "chineseKeys": 8,
-      "supplementalKeys": 0,
-      "source": "上游包未提供简体中文；按 Terraria 语境补译并保留原有语言文件",
-      "author": "vowtz"
-    },
-    {
       "uid": "888cc431-b9d8-4016-a87f-6fcbaa32223b",
       "id": "tetovanitysets",
       "name": "重音 Teto 时装套组",
@@ -1632,6 +1609,54 @@
           "localization": "随 Bunny 移植代码与配置汉化"
         }
       ]
+    },
+    {
+      "uid": "b22b17d1-185c-481d-9033-eb1ebaf3b397",
+      "id": "orycto",
+      "name": "Orycto（Alpha）",
+      "version": "1-ningzh.2",
+      "file": "orycto-1-ningzh.2.bl",
+      "sha256": "5ec532223575943e4d028bd8789143d1f224c5d34c71bc14abf11b95c14c60c3",
+      "size": 80957,
+      "originalSha256": "7bf984fa7434919fa5253883bb157bf2c62bf3316fec5d9cf2d38f8fc2e0b97a",
+      "tag": "mod-orycto-v1-ningzh.2",
+      "changedFiles": [
+        "manifest.json",
+        "content/Localization/zh-Hans.json",
+        "changelog_zh-Hans.md"
+      ],
+      "baseVersion": "1",
+      "englishKeys": 8,
+      "chineseKeys": 8,
+      "supplementalKeys": 0,
+      "source": "上游包未提供简体中文；按 Terraria 语境补译并保留原有语言文件",
+      "author": "vowtz",
+      "revisionHistory": [
+        {
+          "uid": "b22b17d1-185c-481d-9033-eb1ebaf3b397",
+          "id": "orycto",
+          "name": "Orycto（Alpha）",
+          "version": "1-ningzh.1",
+          "file": "orycto-1-ningzh.1.bl",
+          "sha256": "c2517ba2d397d72e6004f2c68613f647eda8a61660af01a00eb2178d4193d4c1",
+          "size": 80629,
+          "originalSha256": "7bf984fa7434919fa5253883bb157bf2c62bf3316fec5d9cf2d38f8fc2e0b97a",
+          "tag": "mod-orycto-v1-ningzh.1",
+          "changedFiles": [
+            "manifest.json",
+            "description_zh-Hans.md",
+            "changelog_zh-Hans.md",
+            "content/Localization/zh-Hans.json"
+          ],
+          "baseVersion": "1",
+          "englishKeys": 8,
+          "chineseKeys": 8,
+          "supplementalKeys": 0,
+          "source": "上游包未提供简体中文；按 Terraria 语境补译并保留原有语言文件",
+          "author": "vowtz"
+        }
+      ],
+      "note": "补齐 Orycto 的全部帧率、性能、实体节流、视觉和调试配置中文名称。"
     }
   ],
   "authorChineseSources": {

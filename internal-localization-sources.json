@@ -1280,23 +1280,6 @@
       "localization": "随 Bunny 移植代码与配置汉化"
     },
     {
-      "uid": "5c1ae0e6-28da-5db4-b929-5ca075471a5a",
-      "id": "wingslotextra",
-      "name": "额外翅膀栏",
-      "version": "1.4.9-ningzh.1",
-      "file": "wingslotextra-1.4.9-ningzh.1.bl",
-      "size": 49285,
-      "sha256": "fb96d6d867d78b0adc870c66ed820b90dc45784b00e7cb71740c61b32d65f960",
-      "tag": "mod-wingslotextra-v1.4.9-ningzh.1",
-      "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-wingslotextra-v1.4.9-ningzh.1/wingslotextra-1.4.9-ningzh.1.bl",
-      "kind": "bunny-port",
-      "baseVersion": "1.4.9",
-      "originalSha256": "bd7db8ef67ee8260d2171ccb74796c7c0744350415282c9a7794e4c8450c4db3",
-      "sourceName": "Wing Slot Extra",
-      "porter": "柠娜",
-      "localization": "随 Bunny 移植代码与配置汉化"
-    },
-    {
       "uid": "b1241e97-de9b-479f-a5cc-41fddc33aa83",
       "id": "a1",
       "name": "成长型武器",
@@ -1605,6 +1588,50 @@
         }
       ],
       "note": "修订版补齐代码内角色菜单、职业、属性、升级和 Boss 进度提示的中文文本。"
+    },
+    {
+      "uid": "5c1ae0e6-28da-5db4-b929-5ca075471a5a",
+      "id": "wingslotextra",
+      "name": "额外翅膀栏",
+      "version": "1.4.9-ningzh.2.fix.1",
+      "file": "wingslotextra-1.4.9-ningzh.2.fix.1.bl",
+      "size": 50369,
+      "sha256": "193ab2ede4b659c9609bac12648ec73858bde14ada5b7c510856c2e192c21660",
+      "tag": "mod-wingslotextra-v1.4.9-ningzh.2.fix.1",
+      "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-wingslotextra-v1.4.9-ningzh.1/wingslotextra-1.4.9-ningzh.1.bl",
+      "kind": "bunny-port",
+      "baseVersion": "1.4.9",
+      "originalSha256": "bd7db8ef67ee8260d2171ccb74796c7c0744350415282c9a7794e4c8450c4db3",
+      "sourceName": "Wing Slot Extra",
+      "porter": "柠娜",
+      "localization": "随 Bunny 移植代码与配置汉化",
+      "changedFiles": [
+        "manifest.json",
+        "changelog_zh-Hans.md"
+      ],
+      "repairRevision": 1,
+      "parentLocalizedVersion": "1.4.9-ningzh.1",
+      "parentLocalizedSha256": "fb96d6d867d78b0adc870c66ed820b90dc45784b00e7cb71740c61b32d65f960",
+      "repairNote": "修复 Gitee 镜像附件文件名大小写导致的下载失败；包内功能和中文内容不变。",
+      "revisionHistory": [
+        {
+          "uid": "5c1ae0e6-28da-5db4-b929-5ca075471a5a",
+          "id": "wingslotextra",
+          "name": "额外翅膀栏",
+          "version": "1.4.9-ningzh.1",
+          "file": "wingslotextra-1.4.9-ningzh.1.bl",
+          "size": 49285,
+          "sha256": "fb96d6d867d78b0adc870c66ed820b90dc45784b00e7cb71740c61b32d65f960",
+          "tag": "mod-wingslotextra-v1.4.9-ningzh.1",
+          "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-wingslotextra-v1.4.9-ningzh.1/wingslotextra-1.4.9-ningzh.1.bl",
+          "kind": "bunny-port",
+          "baseVersion": "1.4.9",
+          "originalSha256": "bd7db8ef67ee8260d2171ccb74796c7c0744350415282c9a7794e4c8450c4db3",
+          "sourceName": "Wing Slot Extra",
+          "porter": "柠娜",
+          "localization": "随 Bunny 移植代码与配置汉化"
+        }
+      ]
     }
   ],
   "authorChineseSources": {

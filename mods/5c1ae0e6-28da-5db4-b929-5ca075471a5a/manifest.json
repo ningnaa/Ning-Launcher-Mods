@@ -2,7 +2,7 @@
   "uid": "5c1ae0e6-28da-5db4-b929-5ca075471a5a",
   "id": "wingslotextra",
   "name": "额外翅膀栏",
-  "version": "1.4.9-ningzh.2",
+  "version": "1.4.9-ningzh.2.fix.1",
   "blVersion": 2,
   "entry": "main.js",
   "gameVersion": [
@@ -34,5 +34,11 @@
     "sourceSha256": "bd7db8ef67ee8260d2171ccb74796c7c0744350415282c9a7794e4c8450c4db3",
     "porter": "柠娜",
     "revision": 2
+  },
+  "repairEdition": {
+    "revision": 1,
+    "parentVersion": "1.4.9-ningzh.2",
+    "parentSha256": "1d0253894397af91790fc77a981dae96094248985ff02c5d71afee2245cd5a9c",
+    "repairNote": "修复国内镜像附件文件名大小写导致的下载失败；功能和中文内容不变。"
   }
 }

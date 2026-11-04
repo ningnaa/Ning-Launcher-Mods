@@ -2591,11 +2591,11 @@
       "uid": "b22b17d1-185c-481d-9033-eb1ebaf3b397",
       "id": "orycto",
       "name": "Orycto（Alpha）",
-      "version": "1-ningzh.1",
+      "version": "1-ningzh.2",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-orycto-v1-ningzh.1/orycto-1-ningzh.1.bl",
-        "sha256": "c2517ba2d397d72e6004f2c68613f647eda8a61660af01a00eb2178d4193d4c1",
-        "size": 80629
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-orycto-v1-ningzh.2/orycto-1-ningzh.2.bl",
+        "sha256": "5ec532223575943e4d028bd8789143d1f224c5d34c71bc14abf11b95c14c60c3",
+        "size": 80957
       },
       "files": [
         "manifest.json",
@@ -2608,7 +2608,7 @@
         "uid": "b22b17d1-185c-481d-9033-eb1ebaf3b397",
         "id": "orycto",
         "name": "Orycto（Alpha）",
-        "version": "1-ningzh.1",
+        "version": "1-ningzh.2",
         "author": "vowtz",
         "category": "性能优化",
         "summary": "移动版 Terraria 的性能优化：解锁帧率、减少重复光照计算、限制粒子并降低远处实体更新开销。",
@@ -2638,11 +2638,11 @@
         },
         "localizationEdition": {
           "language": "zh-Hans",
-          "revision": 1,
+          "revision": 2,
           "baseVersion": "1"
         }
       },
-      "updatedAt": "2026-11-03T16:17:57Z",
+      "updatedAt": "2026-11-04T04:18:55Z",
       "publishedAt": "2026-11-03T16:17:57Z"
     },
     {

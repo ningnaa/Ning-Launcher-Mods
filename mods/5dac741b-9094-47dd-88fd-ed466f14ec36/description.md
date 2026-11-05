@@ -1,9 +1,12 @@
-## Quality of Terraria · Mobile Port
+# 更好的体验 · 手机移植版
 
-Convenience for exploration, building and everyday play. Based on PC ImproveGame 1.8.3; adjust individual features in the mod settings.
+让探索、建造与日常操作更方便。基于 PC 原模组 ImproveGame 1.8.3 移植。
 
-- **Everyday convenience:** mining and placement tweaks, infinite buffs and portable crafting facilities.
-- **Storage:** Super Vault, Potion Bag, Banner Box and storage browsing.
-- **Wands:** building, area clearing and wall filling, with touch menus and selections.
-- **New conveniences:** travelling merchant refresh, quick nurse, herb replanting, respawn resummoning, shimmer results and item provenance.
-- **Please note:** some features are single-player only; this is not the full PC feature set. See the changelog for changes, experimental-feature restrictions and scenarios still awaiting verification.
+- **魔杖工具**：修复放置坐标偏移，优化紧凑面板、拖动选区和材料显示。
+- **钓鱼机**：修复机器面板无法打开、装备装载/卸载和水面目标选择问题；支持诱饵腔补充。
+- **日常便利**：便携增益、背包与容器、旅商刷新、快捷护士、再生补种、复活重召唤、微光转换提示和物品来源提示。
+- **限制**：自动钓鱼的原生捕获、掉落和完整鱼获库存尚未接入；交易、自动补种和重召唤等部分功能限单人模式。
+
+原作者：局长、Cyril 与 ImproveGame 团队。移动端移植：榴莲只吃皮；本次移植者：LL；维护者：柠娜。
+
+安装或更新后请完全退出并重启游戏。请勿与“更好的体验·轻量版”同时启用。

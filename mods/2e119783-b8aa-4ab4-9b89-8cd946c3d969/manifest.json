@@ -7,13 +7,13 @@
   },
   "localizedSummaries": {
     "en-US": "This mod adds 7 NPCs (Alchemist, Brewer, Jeweler, Young Brewer, Operator, Architect and Musician), who sell potions, materials and some other stuff. New combinations of potions are sold by the Young Brewer.",
-    "zh-Hans": "添加炼金师、药剂师、珠宝师、年轻药剂师、操作员、建筑师、音乐家和工匠，提供药水、材料、组合药剂及便利道具。"
+    "zh-Hans": "补充炼金师、药剂师、珠宝师、年轻药剂师、操作员、建筑师、音乐家和工匠的中文名称、对话、商店与配置说明。"
   },
-  "version": "1.03-ningzh.1",
+  "version": "1.03-ningzh.2",
   "authors": [
     {
       "name": "VVV101",
-      "role": "原版 tModLoader 模组作者",
+      "role": "Original tModLoader mod",
       "color": "#7FE07A",
       "link": "https://github.com/VVV101/AlchemistNPCLite"
     },
@@ -22,16 +22,12 @@
       "role": "移植",
       "avatar": "durian.png",
       "color": "#E8C170"
-    },
-    {
-      "name": "柠娜",
-      "role": "维护者"
     }
   ],
   "category": "玩法扩展",
-  "summary": "添加炼金师、药剂师、珠宝师、年轻药剂师、操作员、建筑师、音乐家和工匠，提供药水、材料、组合药剂及便利道具。",
+  "summary": "补充炼金师、药剂师、珠宝师、年轻药剂师、操作员、建筑师、音乐家和工匠的中文名称、对话、商店与配置说明。",
   "license": "All rights reserved",
-  "updated": "2026-11-01",
+  "updated": "2026-11-05",
   "blVersion": 2,
   "gameVersion": [
     301720,
@@ -51,7 +47,7 @@
   ],
   "localizationEdition": {
     "language": "zh-Hans",
-    "revision": 1,
+    "revision": 2,
     "baseVersion": "1.03"
   }
 }

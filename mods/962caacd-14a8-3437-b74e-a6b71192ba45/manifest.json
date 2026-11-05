@@ -5,12 +5,12 @@
   "localizedNames": {
     "zh-Hans": "我的世界材质包"
   },
-  "version": "1.0.0-port.1",
+  "version": "1.0.0-port.2",
   "type": "texture",
   "category": "材质包",
-  "summary": "用像素方块风格重绘方块、墙、背景、物品和界面等贴图。",
+  "summary": "更新 Minecraft 风格材质资源，重绘方块、墙、背景、物品和界面贴图；移植者：i。",
   "localizedSummaries": {
-    "zh-Hans": "用像素方块风格重绘方块、墙、背景、物品和界面等贴图。"
+    "zh-Hans": "更新 Minecraft 风格材质资源，重绘方块、墙、背景、物品和界面贴图；移植者：i。"
   },
   "authors": [
     {
@@ -22,7 +22,7 @@
       "role": "原作者"
     },
     {
-      "name": "m",
+      "name": "i",
       "role": "移植者"
     },
     {
@@ -35,11 +35,16 @@
     301720,
     301720
   ],
-  "updated": "2026-11-01",
+  "updated": "2026-11-05",
   "links": [
     {
       "title": "原作 Steam 创意工坊",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2439772075"
     }
-  ]
+  ],
+  "sourceEdition": {
+    "baseVersion": "1.0.0",
+    "previousPublishedVersion": "1.0.0-port.1",
+    "revision": 2
+  }
 }

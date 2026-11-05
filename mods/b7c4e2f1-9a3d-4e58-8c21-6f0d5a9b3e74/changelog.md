@@ -1,44 +1,38 @@
-# Changelog
+# 0.2.5-ningzh.1（2026-11-05）
+
+- 原名称“召唤师扩展”更名为“泰拉瑞亚扩展”。
+- 对齐作者 0.2.5 内容，补充成长饰品、邪恶世界分支、蜂巢护符、粉色史莱姆法杖和小雪怪套装的中文说明。
+- 更新配方、阶段奖励与安装提示；保留原作者、逐邺移植署名和 MIT 许可。
+
+# 1.4.0-ningzh.2（2026-11-03）
+
+同步作者提供的 0.2.0 内容，新增藤蔓护符、腐化/猩红坠饰、蜂巢护符和粉色史莱姆法杖路线；更新原作者署名为力力丝并移除移植者署名。
+
+安装或更新后请完全退出并重启游戏。
+
+# 更新日志
 
 ## 0.2.0 — 2026-11-03
 
-### Added
+### 新增
 
-- **Vine Charm** — the first summoner accessory before the Wall of Flesh.
-  Vanilla gives a summoner no accessory at all until hardmode, so this fills the
-  biggest gap in the class. A Tinkerer's Workshop, 10 Vines and 6 Jungle Spores; no boss
-  required. +1 minion slot, −12% summon damage.
-- **Corrupt Pendant** — a summoner accessory for after the evil boss. A Work
-  Tinkerer's Workshop, 8 Demonite Bar and 5 Shadow Scale. +20% summon damage.
-- **Crimson Pendant** — a summoner accessory for after the evil boss. A Work
-  Tinkerer's Workshop, 8 Crimtane Bar and 5 Tissue Sample. +15% summon damage, +20% max life.
-- **Hive Charm** — a summoner accessory for after Queen Bee, filling the one
-  gap left in the class: vanilla summoners cannot heal at all. A Tinkerer's Workshop, 10 Hive,
-  5 Bottled Honey and 15 Bee Wax (Bee Wax only drops from Queen Bee, so she has
-  to be down first). +1 minion slot, +1 sentry slot, and a 10% chance for minion
-  hits to restore 3 life.
+- **藤蔓护符** —— 肉前召唤师的第一件饰品。原版从开局到血肉墙之间召唤师一件饰品都没有，这里补上。工匠作坊 + 10 个藤蔓 + 6 个丛林孢子，不用打 BOSS。效果：+1 召唤栏位、−12% 召唤伤害。
+- **腐化坠饰** —— 邪恶 BOSS 之后的召唤师饰品。工匠作坊 + 8 个魔矿锭 + 5 个暗影鳞片。效果：+20% 召唤伤害。
+- **猩红坠饰** —— 邪恶 BOSS 之后的召唤师饰品。工匠作坊 + 8 个猩红矿锭 + 5 个组织样本。效果：+15% 召唤伤害、+20% 最大生命。
+- **蜂巢护符** —— 蜂王之后的召唤师饰品，补上召唤师完全没有回血的空白。工匠作坊 + 10 个蜂巢块 + 5 个瓶装蜂蜜 + 15 个蜂蜡（蜂蜡只有蜂王掉，所以必须先打败蜂王）。效果：+1 召唤栏位、+1 哨兵栏位、召唤物命中时 10% 概率回复 3 点生命。
 
 ## 0.1.0 — 2026-11-03
 
-First public release.
+首次公开发布。
 
-### Added
+### 新增
 
-- **Star's Blessing** — a summoner accessory that grows through nine boss
-  stages. +1 minion slot, +1 sentry slot and +10% summon damage from the first
-  night; +5 slots, +5 sentries and +100% summon damage at a full clear. A Work
-  Bench and one Fallen Star.
-- **Slime Staff recipe** — a Work Bench and 15 Gel, so an early summoner has a
-  weapon without waiting for a 0.01% drop.
-- **Pink Slime Staff** — a Work Bench, 10 Pink Gel, 5 Shadow Scale and 8
-  Demonite Bar (or 5 Tissue Sample and 8 Crimtane Bar in a Crimson world). 13
-  summon damage instead of 8, no mana cost. Needs the evil boss down first.
-- **Baby Pink Slime** — the minion the pink staff summons. Flies alongside you,
-  rams enemies, and never touches the ground.
-- **Flinx Hood** — a Loom, 6 Flinx Fur and 4 Silk. +1 defense, +5% summon damage.
-- **Flinx Boots** — a Loom, 8 Flinx Fur and 5 Silk. +1 defense, +5% summon
-  damage, +5% movement speed.
-- Flinx set bonus: all three pieces give +10% summon damage.
-- Tooltip riddles: each uncleared stage shows a hint that describes the boss
-  without naming its summoning item.
-- Chinese and English text; the tooltip follows the game language.
+- **星之庇佑** —— 一件随 BOSS 进度成长的召唤师饰品。开局 +1 召唤栏位、+1 哨兵栏位、+10% 召唤伤害；全通 +5 栏位、+5 哨兵、+100% 召唤伤害。工作台 + 1 颗坠落之星。
+- **史莱姆法杖配方** —— 工作台 + 15 个凝胶，前期不用等 0.01% 的掉落也能拿到武器。
+- **粉色史莱姆法杖** —— 工作台 + 10 个粉凝胶 + 5 个暗影鳞片 + 8 个魔矿锭（猩红世界则是 5 个组织样本 + 8 个猩红矿锭）。召唤伤害 13（原版是 8），不消耗法力。需要先打完邪恶 BOSS。
+- **粉色史莱姆宝宝** —— 粉色法杖召唤出来的召唤物。一直飞在你身边、撞敌人，不会落地。
+- **小雪怪兜帽** —— 织布机 + 6 个小雪怪皮毛 + 4 个丝绸。+1 防御、+5% 召唤伤害。
+- **小雪怪靴子** —— 织布机 + 8 个小雪怪皮毛 + 5 个丝绸。+1 防御、+5% 召唤伤害、+5% 移动速度。
+- 套装效果：三件齐全 +10% 召唤伤害。
+- 说明栏谜语：每个未完成的阶段都会显示一句提示，描述那只 BOSS 但不点名召唤物。
+- 中文和英文文本，说明栏跟随游戏语言。

@@ -1,5 +1,5 @@
 {
-  "snapshot": "2026-11-03",
+  "snapshot": "2026-11-05",
   "packages": [
     {
       "uid": "31b7ee57-73c8-4a66-ab91-c44440430ee7",
@@ -995,30 +995,6 @@
       "translationSource": "Preserved bundled author Chinese; supplemented missing Chinese and display strings against supplied package."
     },
     {
-      "uid": "e3c3804b-ea9a-406f-a65e-f8f01220b5f5",
-      "id": "improvelite",
-      "name": "更好的体验·轻量版",
-      "baseVersion": "1.0.2",
-      "version": "1.0.2-ningzh.1",
-      "originalSha256": "c0e6f04ca466436d1e094c3e8460a0f0cddbf0cc314b77e7e0b6a1e5709d4ab4",
-      "sha256": "88e90150eb72c7bdbdeac208183a47c8651f0163eb4c06722881428714a5f2be",
-      "size": 284461,
-      "file": "improvelite-1.0.2-ningzh.1.bl",
-      "changedFiles": [
-        "content/Common/Systems/Diagnostics.js",
-        "content/Localization/zh-Hans.json",
-        "manifest.json",
-        "description_zh-Hans.md",
-        "changelog_zh-Hans.md"
-      ],
-      "englishKeys": 41,
-      "chineseKeys": 42,
-      "summary": "保留作者已有中文，补充模组配置页名称、启动提示及中文展示说明。",
-      "tag": "mod-improvelite-v1.0.2-ningzh.1",
-      "sourceKind": "user-supplied-package",
-      "translationSource": "Preserved bundled author Chinese; supplemented missing Chinese and display strings against supplied package."
-    },
-    {
       "uid": "e9fcf815-a05d-4e36-9303-e30a1d9a02fd",
       "id": "autofish_bunny_community",
       "name": "自动钓鱼",
@@ -1039,29 +1015,6 @@
       "chineseKeys": 22,
       "summary": "保留作者已有中文，补充设置面板和模组配置页中文名称。",
       "tag": "mod-autofish_bunny_community-v0.1.0-test1.ningzh.1",
-      "sourceKind": "user-supplied-package",
-      "translationSource": "Preserved bundled author Chinese; supplemented missing Chinese and display strings against supplied package."
-    },
-    {
-      "uid": "2e119783-b8aa-4ab4-9b89-8cd946c3d969",
-      "id": "AlchemistNPCLite",
-      "name": "炼金术师 NPC 轻量版",
-      "baseVersion": "1.03",
-      "version": "1.03-ningzh.1",
-      "originalSha256": "b3fa2db57136561e0b3ce792aa08f37f4c69a1eb92a83daf576198c6800c6eca",
-      "sha256": "fc18bdbeda4a9c8d289195adb8555d0ff0a72c52369ec1e65ee0290973045a88",
-      "size": 386665,
-      "file": "AlchemistNPCLite-1.03-ningzh.1.bl",
-      "changedFiles": [
-        "changelog_zh-Hans.md",
-        "content/Localization/zh-Hans.json",
-        "description_zh-Hans.md",
-        "manifest.json"
-      ],
-      "englishKeys": 1063,
-      "chineseKeys": 1063,
-      "summary": "保留作者已有中文，补齐42个 NPC 姓名译文及中文主名称。",
-      "tag": "mod-AlchemistNPCLite-v1.03-ningzh.1",
       "sourceKind": "user-supplied-package",
       "translationSource": "Preserved bundled author Chinese; supplemented missing Chinese and display strings against supplied package."
     },
@@ -1278,102 +1231,6 @@
       "sourceName": "Better Tooltips",
       "porter": "柠娜",
       "localization": "随 Bunny 移植代码与配置汉化"
-    },
-    {
-      "uid": "b1241e97-de9b-479f-a5cc-41fddc33aa83",
-      "id": "a1",
-      "name": "成长型武器",
-      "version": "1.0.2-ningzh.1",
-      "file": "a1-1.0.2-ningzh.1.bl",
-      "sha256": "3de242aa81bd625d8a0023f9ff3c2592307b8491765f40c7a4898a4cac14e688",
-      "size": 26953,
-      "originalSha256": "8975698eca69f48953646e30252001de5c90a957d04e7156effb3d2927ecbfd0",
-      "tag": "mod-a1-v1.0.2-ningzh.1",
-      "changedFiles": [
-        "manifest.json",
-        "description_zh-Hans.md",
-        "changelog_zh-Hans.md"
-      ],
-      "baseVersion": "1.0.2",
-      "englishKeys": 1,
-      "chineseKeys": 1,
-      "supplementalKeys": 0,
-      "source": "Author-provided archive",
-      "author": "阮汐月",
-      "revisionHistory": [
-        {
-          "uid": "b1241e97-de9b-479f-a5cc-41fddc33aa83",
-          "id": "a1",
-          "name": "成长型武器",
-          "version": "1.0.0-ningzh.1",
-          "file": "a1-1.0.0-ningzh.1.bl",
-          "sha256": "bea16c95a367ea20478ebe880f27faa17091e0deb8eaeea94b81dfaac4f6b620",
-          "size": 19120,
-          "originalSha256": "37137cc6768b576bff962d05ecfe9e689504f45f341d59df256c27771721c25f",
-          "tag": "mod-a1-v1.0.0-ningzh.1",
-          "changedFiles": [
-            "manifest.json",
-            "content/Localization/zh-Hans.json",
-            "content/Localization/en-US.json",
-            "description_zh-Hans.md",
-            "changelog_zh-Hans.md",
-            "source/original-manifest.json"
-          ],
-          "baseVersion": "1.0.0",
-          "englishKeys": 3,
-          "chineseKeys": 3,
-          "supplementalKeys": 2,
-          "source": "Author-provided archive",
-          "author": "阮汐月"
-        }
-      ]
-    },
-    {
-      "uid": "f8a2d3e1-7b6c-4d5e-9f0a-1b2c3d4e5f6a",
-      "id": "leveled-prisma",
-      "name": "成长型武器：等级制附属包",
-      "version": "1.0.0-ningzh.2",
-      "file": "leveled-prisma-1.0.0-ningzh.2.bl",
-      "sha256": "13dcb7ea1a33fbd4ef086933b801d31c7939545b4167c2b430da51a3ee612ce6",
-      "size": 16477,
-      "originalSha256": "6da1a196a3314bb849755861cdfd62eb1f38e9db04f8c48b4db00adac645e1f3",
-      "tag": "mod-leveled-prisma-v1.0.0-ningzh.2",
-      "changedFiles": [
-        "manifest.json",
-        "description_zh-Hans.md"
-      ],
-      "baseVersion": "1.0.0",
-      "englishKeys": 1,
-      "chineseKeys": 1,
-      "supplementalKeys": 0,
-      "source": "Author-provided archive",
-      "author": "阮汐月",
-      "note": "首次发布后修正公开说明中的主包标识文本；1.0.0-ningzh.1 保留为历史 Release。"
-    },
-    {
-      "file": "starblessing-1.4.0-ningzh.2.bl",
-      "size": 263357,
-      "sha256": "19d0f37b310a892fed5452ef3f88496f6483b176b05e1dd98c80c6d60b8626f7",
-      "uid": "b7c4e2f1-9a3d-4e58-8c21-6f0d5a9b3e74",
-      "id": "starblessing",
-      "name": "召唤师扩展",
-      "version": "1.4.0-ningzh.2",
-      "sourceVersion": "0.2.0",
-      "sourceSha256": "1420e4837148c14f6de8fe5f737108a81d954d1cf706e8d9fe3d8eb6ee063b8d",
-      "previousVersion": "1.4.0-ningzh.1",
-      "changedFiles": [
-        "manifest.json",
-        "description.md",
-        "description_zh-Hans.md",
-        "changelog_zh-Hans.md",
-        "license.md"
-      ],
-      "creditChange": "原作者：力力丝；移除移植者署名",
-      "tag": "mod-starblessing-v1.4.0-ningzh.2",
-      "baseVersion": "0.2.0",
-      "originalSha256": "1420e4837148c14f6de8fe5f737108a81d954d1cf706e8d9fe3d8eb6ee063b8d",
-      "sourceKind": "user-supplied-package",
-      "previousPublishedVersion": "1.4.0-ningzh.1"
     },
     {
       "file": "murasamastandalone-1.7.1.bl",
@@ -1611,25 +1468,111 @@
       ]
     },
     {
+      "uid": "5dac741b-9094-47dd-88fd-ed466f14ec36",
+      "id": "ImproveGame",
+      "name": "更好的体验",
+      "baseVersion": "1.0.4-ning.1",
+      "version": "1.0.4-ning.1",
+      "sha256": "b50c91f321054a391892f50e98c5a04f892f1e122c11c397c134a0aa70d39f35",
+      "size": 306322,
+      "file": "ImproveGame-1.0.4-ning.1.bl",
+      "tag": "mod-ImproveGame-v1.0.4-ning.1",
+      "changedFiles": [
+        "manifest.json",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
+      ],
+      "updated": "2026-11-05",
+      "note": "魔杖坐标、面板与钓鱼机使用链路修复；自动捕获仍未实现"
+    },
+    {
+      "file": "starblessing-0.2.5-ningzh.1.bl",
+      "size": 257932,
+      "sha256": "f3603278b79ff7d4f7794309b7b5122c3b017375cb550bd2fc689ed076b0dcd4",
+      "uid": "b7c4e2f1-9a3d-4e58-8c21-6f0d5a9b3e74",
+      "id": "starblessing",
+      "name": "泰拉瑞亚扩展",
+      "version": "0.2.5-ningzh.1",
+      "sourceVersion": "0.2.5",
+      "sourceSha256": "1420e4837148c14f6de8fe5f737108a81d954d1cf706e8d9fe3d8eb6ee063b8d",
+      "previousVersion": "1.4.0-ningzh.1",
+      "changedFiles": [
+        "manifest.json",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
+      ],
+      "creditChange": "原作者：力力丝；移除移植者署名",
+      "tag": "mod-starblessing-v0.2.5-ningzh.1",
+      "baseVersion": "0.2.5",
+      "originalSha256": "1420e4837148c14f6de8fe5f737108a81d954d1cf706e8d9fe3d8eb6ee063b8d",
+      "sourceKind": "user-supplied-package",
+      "previousPublishedVersion": "1.4.0-ningzh.2",
+      "updated": "2026-11-05",
+      "note": "更名为泰拉瑞亚扩展并更新至 0.2.5"
+    },
+    {
+      "uid": "962caacd-14a8-3437-b74e-a6b71192ba45",
+      "id": "texture-962caacd-14a8-3437-b74e-a6b71192ba45",
+      "name": "我的世界材质包",
+      "baseVersion": "1.0.0",
+      "version": "1.0.0-port.2",
+      "sha256": "45ead87e76c7a3d59d18d351f98dd9b290cfdef817dde7816effa8cae0181bb8",
+      "size": 9738248,
+      "file": "texture-962caacd-14a8-3437-b74e-a6b71192ba45-1.0.0-port.2.bl",
+      "tag": "mod-texture-962caacd-14a8-3437-b74e-a6b71192ba45-v1.0.0-port.2",
+      "changedFiles": [
+        "manifest.json",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
+      ],
+      "updated": "2026-11-05",
+      "note": "更新 Minecraft 风格材质并将移植者改为 i",
+      "source": "原作材质包更新；移植者署名改为 i"
+    },
+    {
+      "uid": "2e119783-b8aa-4ab4-9b89-8cd946c3d969",
+      "id": "AlchemistNPCLite",
+      "name": "炼金术师 NPC 轻量版",
+      "baseVersion": "1.03-ningzh.2",
+      "version": "1.03-ningzh.2",
+      "originalSha256": "b3fa2db57136561e0b3ce792aa08f37f4c69a1eb92a83daf576198c6800c6eca",
+      "sha256": "1f321935b0d929cdef097600cbd6ac47fb1418be8b6160fb9602913ab9683d50",
+      "size": 385434,
+      "file": "AlchemistNPCLite-1.03-ningzh.2.bl",
+      "changedFiles": [
+        "manifest.json",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
+      ],
+      "englishKeys": 1063,
+      "chineseKeys": 1063,
+      "summary": "补充 NPC、商店、对话和配置中文。",
+      "tag": "mod-AlchemistNPCLite-v1.03-ningzh.2",
+      "sourceKind": "user-supplied-package",
+      "translationSource": "Preserved bundled author Chinese; supplemented missing Chinese and display strings against supplied package.",
+      "updated": "2026-11-05",
+      "note": "补充 NPC、商店、对话和配置中文"
+    },
+    {
       "uid": "b22b17d1-185c-481d-9033-eb1ebaf3b397",
       "id": "orycto",
       "name": "Orycto（Alpha）",
-      "version": "1-ningzh.2",
-      "file": "orycto-1-ningzh.2.bl",
-      "sha256": "5ec532223575943e4d028bd8789143d1f224c5d34c71bc14abf11b95c14c60c3",
-      "size": 80957,
+      "version": "1.2-ningzh.1",
+      "file": "orycto-1.2-ningzh.1.bl",
+      "sha256": "fb98a0eea7c2700b96be1129462c1bed1e1a800575abf534affdc12422d79139",
+      "size": 82421,
       "originalSha256": "7bf984fa7434919fa5253883bb157bf2c62bf3316fec5d9cf2d38f8fc2e0b97a",
-      "tag": "mod-orycto-v1-ningzh.2",
+      "tag": "mod-orycto-v1.2-ningzh.1",
       "changedFiles": [
         "manifest.json",
-        "content/Localization/zh-Hans.json",
+        "description_zh-Hans.md",
         "changelog_zh-Hans.md"
       ],
-      "baseVersion": "1",
+      "baseVersion": "1.2",
       "englishKeys": 8,
       "chineseKeys": 8,
       "supplementalKeys": 0,
-      "source": "上游包未提供简体中文；按 Terraria 语境补译并保留原有语言文件",
+      "source": "上游包未提供简体中文；按 Terraria 语境补译并补充 v1.2 玩家说明",
       "author": "vowtz",
       "revisionHistory": [
         {
@@ -1656,7 +1599,60 @@
           "author": "vowtz"
         }
       ],
-      "note": "补齐 Orycto 的全部帧率、性能、实体节流、视觉和调试配置中文名称。"
+      "note": "更新至 v1.2，补齐日志并增加大量模组反作用警告",
+      "updated": "2026-11-05",
+      "sourceVersion": "1.2"
+    },
+    {
+      "uid": "b1241e97-de9b-479f-a5cc-41fddc33aa83",
+      "id": "a1",
+      "name": "成长型武器",
+      "version": "1.0.2-ningzh.2",
+      "file": "a1-1.0.2-ningzh.2.bl",
+      "sha256": "284448e4e2599c750bfab10de3bb8931ccbf1feec93e05abc0edd1477f79ee8c",
+      "size": 28196,
+      "originalSha256": "8975698eca69f48953646e30252001de5c90a957d04e7156effb3d2927ecbfd0",
+      "tag": "mod-a1-v1.0.2-ningzh.2",
+      "changedFiles": [
+        "manifest.json",
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
+      ],
+      "baseVersion": "1.0.2",
+      "englishKeys": 1,
+      "chineseKeys": 1,
+      "supplementalKeys": 0,
+      "source": "Author-provided archive",
+      "author": "阮汐月",
+      "revisionHistory": [
+        {
+          "uid": "b1241e97-de9b-479f-a5cc-41fddc33aa83",
+          "id": "a1",
+          "name": "成长型武器",
+          "version": "1.0.0-ningzh.1",
+          "file": "a1-1.0.0-ningzh.1.bl",
+          "sha256": "bea16c95a367ea20478ebe880f27faa17091e0deb8eaeea94b81dfaac4f6b620",
+          "size": 19120,
+          "originalSha256": "37137cc6768b576bff962d05ecfe9e689504f45f341d59df256c27771721c25f",
+          "tag": "mod-a1-v1.0.0-ningzh.1",
+          "changedFiles": [
+            "manifest.json",
+            "content/Localization/zh-Hans.json",
+            "content/Localization/en-US.json",
+            "description_zh-Hans.md",
+            "changelog_zh-Hans.md",
+            "source/original-manifest.json"
+          ],
+          "baseVersion": "1.0.0",
+          "englishKeys": 3,
+          "chineseKeys": 3,
+          "supplementalKeys": 2,
+          "source": "Author-provided archive",
+          "author": "阮汐月"
+        }
+      ],
+      "updated": "2026-11-05",
+      "note": "修复简介和更新日志中的字面换行符，移除等级附属包依赖"
     }
   ],
   "authorChineseSources": {

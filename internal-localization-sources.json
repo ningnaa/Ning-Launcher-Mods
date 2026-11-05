@@ -1557,15 +1557,18 @@
       "uid": "b22b17d1-185c-481d-9033-eb1ebaf3b397",
       "id": "orycto",
       "name": "Orycto（Alpha）",
-      "version": "1.2-ningzh.1",
-      "file": "orycto-1.2-ningzh.1.bl",
-      "sha256": "fb98a0eea7c2700b96be1129462c1bed1e1a800575abf534affdc12422d79139",
-      "size": 82421,
+      "version": "1.2-ningzh.1.fix.1",
+      "file": "orycto-1.2-ningzh.1.fix.1.bl",
+      "sha256": "0be9257d6a85718aa0829b37a62204de182793fb1ce81282dc65b925b9c28417",
+      "size": 84806,
       "originalSha256": "7bf984fa7434919fa5253883bb157bf2c62bf3316fec5d9cf2d38f8fc2e0b97a",
-      "tag": "mod-orycto-v1.2-ningzh.1",
+      "tag": "mod-orycto-v1.2-ningzh.1.fix.1",
       "changedFiles": [
         "manifest.json",
+        "content/Lib/FrameLoop.js",
+        "description.md",
         "description_zh-Hans.md",
+        "changelog.md",
         "changelog_zh-Hans.md"
       ],
       "baseVersion": "1.2",
@@ -1597,11 +1600,38 @@
           "supplementalKeys": 0,
           "source": "上游包未提供简体中文；按 Terraria 语境补译并保留原有语言文件",
           "author": "vowtz"
+        },
+        {
+          "uid": "b22b17d1-185c-481d-9033-eb1ebaf3b397",
+          "id": "orycto",
+          "name": "Orycto（Alpha）",
+          "version": "1.2-ningzh.1",
+          "file": "orycto-1.2-ningzh.1.bl",
+          "sha256": "fb98a0eea7c2700b96be1129462c1bed1e1a800575abf534affdc12422d79139",
+          "size": 82421,
+          "originalSha256": "7bf984fa7434919fa5253883bb157bf2c62bf3316fec5d9cf2d38f8fc2e0b97a",
+          "tag": "mod-orycto-v1.2-ningzh.1",
+          "changedFiles": [
+            "manifest.json",
+            "description_zh-Hans.md",
+            "changelog_zh-Hans.md"
+          ],
+          "baseVersion": "1.2",
+          "englishKeys": 8,
+          "chineseKeys": 8,
+          "supplementalKeys": 0,
+          "source": "上游包未提供简体中文；按 Terraria 语境补译并补充 v1.2 玩家说明",
+          "author": "vowtz",
+          "note": "更新至 v1.2，补齐日志并增加大量模组反作用警告",
+          "updated": "2026-11-05",
+          "sourceVersion": "1.2"
         }
       ],
-      "note": "更新至 v1.2，补齐日志并增加大量模组反作用警告",
+      "note": "修复实际帧率低于目标时的世界更新减速；补齐系统和模拟器高帧率前置条件说明",
       "updated": "2026-11-05",
-      "sourceVersion": "1.2"
+      "sourceVersion": "1.2",
+      "previousPublishedVersion": "1.2-ningzh.1",
+      "previousPublishedSha256": "fb98a0eea7c2700b96be1129462c1bed1e1a800575abf534affdc12422d79139"
     },
     {
       "uid": "b1241e97-de9b-479f-a5cc-41fddc33aa83",

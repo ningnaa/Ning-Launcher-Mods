@@ -2592,11 +2592,11 @@
       "uid": "b22b17d1-185c-481d-9033-eb1ebaf3b397",
       "id": "orycto",
       "name": "Orycto（Alpha）",
-      "version": "1.2-ningzh.1",
+      "version": "1.2-ningzh.1.fix.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-orycto-v1.2-ningzh.1/orycto-1.2-ningzh.1.bl",
-        "sha256": "fb98a0eea7c2700b96be1129462c1bed1e1a800575abf534affdc12422d79139",
-        "size": 82421
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-orycto-v1.2-ningzh.1.fix.1/orycto-1.2-ningzh.1.fix.1.bl",
+        "sha256": "0be9257d6a85718aa0829b37a62204de182793fb1ce81282dc65b925b9c28417",
+        "size": 84806
       },
       "files": [
         "manifest.json",
@@ -2609,11 +2609,11 @@
         "uid": "b22b17d1-185c-481d-9033-eb1ebaf3b397",
         "id": "orycto",
         "name": "Orycto（Alpha）",
-        "version": "1.2-ningzh.1",
+        "version": "1.2-ningzh.1.fix.1",
         "author": "vowtz",
         "category": "性能优化",
-        "summary": "Orycto 1.2：移动版 Terraria 性能优化，提供帧率、光照、实体、粒子、雨和特效控制，以及性能分析覆盖层。不要在启用大量模组时使用，可能产生反作用。",
-        "description": "# Orycto（Alpha） 1.2\n\n作者：vowtz。维护者：柠娜。\n\nOrycto 是移动版 Terraria 的性能优化模组，提供帧率解锁、减少重复光照计算、实体和粒子限制、远处实体节流、雨和特效开关，以及性能分析覆盖层。所有选项都在模组配置中调整。\n\n**重要限制：不建议与大量模组同时启用。** 多个模组同时修改实体、绘制或更新流程时，Orycto 的节流和跳帧可能与它们产生反作用，出现显示异常、功能失效或稳定性问题。请先单独启用并逐项调整。Alpha 版本可能存在兼容性和稳定性问题。安装或更新后请重启游戏；联机兼容性尚未充分验证。\n",
+        "summary": "帧率解锁修复版：避免目标帧率未达到时游戏变慢；高帧率需系统或模拟器同步开启。",
+        "description": "# Orycto（Alpha）帧率解锁修复版\n\n原作者：vowtz。维护者：柠娜。\n\n提供帧率解锁、平滑移动、光照和特效等配置。本版修复高帧率目标未达到时，世界更新被过度跳过、人物和敌人出现慢动作的问题。更新改为按实际经过时间调度，保留触摸输入和原有配置。\n\n## 如何开启高帧率\n\n1. 在模组配置中开启“解锁帧率”，选择目标帧率；需要主菜单也解锁时，另开启“菜单中启用帧率解锁”。\n2. 手机需开启系统高刷新率模式；使用雷电模拟器时，需同时开启模拟器的高帧率选项，并提高模拟器帧率上限。\n3. 模组目标、系统显示模式和设备性能共同决定实际帧率。外部上限为 60 帧时，仅把模组目标改为 144 不会得到 144 帧。\n4. 安装或更新后完全退出并重新启动游戏。\n\n## 使用限制\n\n高帧率不会加速世界逻辑。此修复不保证所有设备或场景稳定达到目标帧率；大量模组、实体裁剪和平滑处理可能增加开销。出现性能下降时，可逐项关闭平滑和实体裁剪，或禁用本模组后重启。\n\n当前移动运行库中部分 NPC、地图、液体和电路节流选项尚不能正常生效。Alpha 版本，真机及联机兼容性尚未充分验证。保留原 UID、作者署名和配置。\n",
         "blVersion": 2,
         "entry": "main.js",
         "updated": "2026-11-05",
@@ -2631,12 +2631,12 @@
           "zh-Hans": "Orycto（Alpha）"
         },
         "localizedSummaries": {
-          "zh-Hans": "Orycto 1.2：移动版 Terraria 性能优化，提供帧率、光照、实体、粒子、雨和特效控制，以及性能分析覆盖层。不要在启用大量模组时使用，可能产生反作用。"
+          "zh-Hans": "帧率解锁修复版：避免目标帧率未达到时游戏变慢；高帧率需系统或模拟器同步开启。"
         },
         "sourceEdition": {
           "baseVersion": "1.2",
-          "previousPublishedVersion": "1-ningzh.2",
-          "revision": 1
+          "previousPublishedVersion": "1.2-ningzh.1",
+          "revision": 2
         },
         "localizationEdition": {
           "language": "zh-Hans",
@@ -2644,7 +2644,7 @@
           "baseVersion": "1.2"
         }
       },
-      "updatedAt": "2026-11-05T00:00:00Z"
+      "updatedAt": "2026-11-05T15:37:08.301839Z"
     },
     {
       "uid": "a26a4992-e895-4120-a903-0e23b376c8a1",

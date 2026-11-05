@@ -2,7 +2,7 @@
   "uid": "6207de5c-2bf1-595d-8f44-c9a4795f8ebc",
   "id": "maxstackextra",
   "name": "堆叠上限增强",
-  "version": "1.4.0.3-bunny.4",
+  "version": "1.4.0.3-bunny.5",
   "blVersion": 2,
   "entry": "main.js",
   "gameVersion": [
@@ -10,7 +10,7 @@
     301720
   ],
   "category": "玩法",
-  "updated": "2026-11-01",
+  "updated": "2026-11-05",
   "authors": [
     {
       "name": "NuovaPrime",
@@ -38,11 +38,11 @@
   "localizedSummaries": {
     "zh-Hans": "分五类设置物品堆叠上限；移动版安全范围 1–32767，硬币保持原版规则。"
   },
-  "description": "分五类设置普通物品、方块、武器、装备和特殊物品的堆叠上限，安全范围 1–32767；硬币保持原版规则。基于 Max Stack Plus Extra 1.4.0.3，移植者柠娜。",
+  "description": "分五类设置普通物品、方块、武器、装备和特殊物品的堆叠上限，安全范围 1–32767；硬币保持原版规则。修复模组物品读取堆叠上限时的异常。基于 Max Stack Plus Extra 1.4.0.3，移植者柠娜。",
   "summary": "五类中文堆叠配置，安全范围 1–32767；移植者柠娜。",
   "portEdition": {
     "baseVersion": "1.4.0.3",
-    "revision": 4,
+    "revision": 5,
     "originalName": "Max Stack Plus Extra",
     "porter": "柠娜",
     "sourceSha256": "c36bb45eae2e49aaa138e01c82b9d4952d52a9c894606ae10e3c6bc97c5036cc",

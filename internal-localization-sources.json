@@ -1653,6 +1653,31 @@
       ],
       "updated": "2026-11-05",
       "note": "修复简介和更新日志中的字面换行符，移除等级附属包依赖"
+    },
+    {
+      "uid": "6207de5c-2bf1-595d-8f44-c9a4795f8ebc",
+      "id": "maxstackextra",
+      "version": "1.4.0.3-bunny.5",
+      "file": "maxstackextra-1.4.0.3-bunny.5.bl",
+      "size": 8807,
+      "sha256": "b4d632c036a80ee1c201f1b4d7d1a75e5182cbe8dc47d6160b5f68dad72455c2",
+      "name": "堆叠上限增强",
+      "baseVersion": "1.4.0.3",
+      "tag": "mod-maxstackextra-v1.4.0.3-bunny.5",
+      "sourceSha256": "c36bb45eae2e49aaa138e01c82b9d4952d52a9c894606ae10e3c6bc97c5036cc",
+      "previousPublishedVersion": "1.4.0.3-bunny.4",
+      "previousSha256": "086571e5aaf6bfd3e7a8551c5cc067a8fa94f84009414eb24473d86c888af914",
+      "changedFiles": [
+        "content/main.js",
+        "manifest.json",
+        "changelog_zh-Hans.md"
+      ],
+      "note": "箱子读取模组物品堆叠上限时改用完整物品样本，避免原版字典遗漏和 getter 递归；保留合法旧堆叠及硬币规则。",
+      "verification": {
+        "hostRegressionGroups": 13,
+        "gameRuntime": "本修订未实测",
+        "dualSourceAnonymousDownload": "passed"
+      }
     }
   ],
   "authorChineseSources": {

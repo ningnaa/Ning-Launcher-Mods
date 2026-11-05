@@ -5616,11 +5616,11 @@
       "uid": "0f6e273f-5832-52a8-96d9-31333045ff69",
       "id": "prettyrarities",
       "name": "特效提示",
-      "version": "1.4.4-ningzh.1",
+      "version": "1.4.4-ningzh.3",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-prettyrarities-v1.4.4-ningzh.1/prettyrarities-1.4.4-ningzh.1.bl",
-        "sha256": "bd1b76d0fc2b1a7963afd5c57568c72dc9c1c6cc803adb21340f78e09998189c",
-        "size": 9983236
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-prettyrarities-v1.4.4-ningzh.3/prettyrarities-1.4.4-ningzh.3.bl",
+        "sha256": "ad7882bde9830c2ba46a75b90628eeb6987e1ea46f4c0d9648d4597e5616c4b9",
+        "size": 9983995
       },
       "files": [
         "manifest.json",
@@ -5634,7 +5634,7 @@
         "uid": "0f6e273f-5832-52a8-96d9-31333045ff69",
         "id": "prettyrarities",
         "name": "特效提示",
-        "version": "1.4.4-ningzh.1",
+        "version": "1.4.4-ningzh.3",
         "blVersion": 2,
         "entry": "main.js",
         "gameVersion": [
@@ -5664,7 +5664,7 @@
           "sourceVersion": "1.4.4",
           "sourceSha256": "1606e21d263c37f32e3cd24ad5f36eeafb0db590ab18fd2dd4ec6d741275040e",
           "porter": "柠娜",
-          "revision": 1
+          "revision": 3
         },
         "summary": "为不同稀有度的物品名称添加渐变、光晕和粒子效果。",
         "localizedNames": {
@@ -5674,7 +5674,7 @@
           "zh-Hans": "为不同稀有度的物品名称添加渐变、光晕和粒子效果。"
         }
       },
-      "updatedAt": "2026-11-03T00:18:21Z",
+      "updatedAt": "2026-11-05T14:45:55Z",
       "publishedAt": "2026-11-03T00:18:21Z"
     },
     {

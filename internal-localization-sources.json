@@ -1678,6 +1678,26 @@
         "gameRuntime": "本修订未实测",
         "dualSourceAnonymousDownload": "passed"
       }
+    },
+    {
+      "uid": "0f6e273f-5832-52a8-96d9-31333045ff69",
+      "id": "prettyrarities",
+      "name": "特效提示",
+      "version": "1.4.4-ningzh.3",
+      "file": "prettyrarities-1.4.4-ningzh.3.bl",
+      "size": 9983995,
+      "sha256": "ad7882bde9830c2ba46a75b90628eeb6987e1ea46f4c0d9648d4597e5616c4b9",
+      "tag": "mod-prettyrarities-v1.4.4-ningzh.3",
+      "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-prettyrarities-v1.4.4-ningzh.3/prettyrarities-1.4.4-ningzh.3.bl",
+      "kind": "bunny-port",
+      "baseVersion": "1.4.4",
+      "originalSha256": "1606e21d263c37f32e3cd24ad5f36eeafb0db590ab18fd2dd4ec6d741275040e",
+      "sourceName": "Better Tooltips",
+      "porter": "柠娜",
+      "localization": "随 Bunny 移植代码与配置汉化",
+      "previousVersion": "1.4.4-ningzh.1",
+      "previousSha256": "bd1b76d0fc2b1a7963afd5c57568c72dc9c1c6cc803adb21340f78e09998189c",
+      "change": "修复与字体包混用时的字形透明度"
     }
   ],
   "authorChineseSources": {

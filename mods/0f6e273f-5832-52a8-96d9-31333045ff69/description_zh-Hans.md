@@ -2,6 +2,6 @@
 
 为物品提示、地面名称和拾取文字增加随稀有度变化的文字特效。可在模组设置中调整粒子数量和光晕。
 
-原作 Better Tooltips（PrettyRarities）1.4.4；原作者 Yata，Bunny Loader 移植者柠娜。
+1.4.4-ningzh.3 修复与 Comic Neue 等字体包同时启用时部分文字显示为方块的问题。安装或更新后请完全退出并重启游戏。其他字体包及设备的兼容性尚未全面验证。
 
-安装或更新后请完全退出并重启游戏。
+原作 Better Tooltips（PrettyRarities）1.4.4；原作者：Yata；Bunny Loader 移植者与维护者：柠娜。原包未声明独立许可证。

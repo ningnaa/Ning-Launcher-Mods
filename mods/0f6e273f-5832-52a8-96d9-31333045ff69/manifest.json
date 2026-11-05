@@ -2,7 +2,7 @@
   "uid": "0f6e273f-5832-52a8-96d9-31333045ff69",
   "id": "prettyrarities",
   "name": "特效提示",
-  "version": "1.4.4-ningzh.1",
+  "version": "1.4.4-ningzh.3",
   "blVersion": 2,
   "entry": "main.js",
   "gameVersion": [
@@ -32,7 +32,7 @@
     "sourceVersion": "1.4.4",
     "sourceSha256": "1606e21d263c37f32e3cd24ad5f36eeafb0db590ab18fd2dd4ec6d741275040e",
     "porter": "柠娜",
-    "revision": 1
+    "revision": 3
   },
   "summary": "为不同稀有度的物品名称添加渐变、光晕和粒子效果。",
   "localizedNames": {

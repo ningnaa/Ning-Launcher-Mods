@@ -3495,12 +3495,12 @@
     {
       "uid": "2465f295-e293-4742-93fe-73d86b92c6e5",
       "id": "touhoupets",
-      "name": "Touhou Pets",
-      "version": "1.0.4-ningzh.1",
+      "name": "东方宠物伙伴",
+      "version": "1.0.4-ningzh.1.fix.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-touhoupets-v1.0.4-ningzh.1/touhoupets-1.0.4-ningzh.1.bl",
-        "sha256": "0b21fd12c935c26be2b89a30737af46fbb831ad9445fe41f69a37560a15f6fdb",
-        "size": 265586
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-touhoupets-v1.0.4-ningzh.1.fix.1/touhoupets-1.0.4-ningzh.1.fix.1.bl",
+        "sha256": "88f626d63bcf4486fd98df74f9a1cc06d8cddd904fa82eac635c13b86275f2e2",
+        "size": 255769
       },
       "files": [
         "manifest.json",
@@ -3509,13 +3509,16 @@
         "license.md",
         "authors/potato.png",
         "authors/steam.png",
-        "description_zh-Hans.md"
+        "description_zh-Hans.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_en-US.md"
       ],
       "manifest": {
         "uid": "2465f295-e293-4742-93fe-73d86b92c6e5",
         "id": "touhoupets",
-        "name": "Touhou Pets",
-        "version": "1.0.4-ningzh.1",
+        "name": "东方宠物伙伴",
+        "version": "1.0.4-ningzh.1.fix.1",
         "authors": [
           {
             "name": "中学生",
@@ -3537,9 +3540,9 @@
         ],
         "category": "宠物",
         "type": "mod",
-        "summary": "Adventure with cute partners: 19 Touhou characters as pets, dropped by the bosses. They animate, react to the world and talk to you and to each other.",
+        "summary": "19 位东方角色化身宠物，由 Boss 掉落；她们拥有动画，会回应周围环境，并与玩家或其他伙伴交谈。",
         "license": "GPL-3.0",
-        "updated": "2026-10-04",
+        "updated": "2026-11-06",
         "blVersion": 2,
         "gameVersion": [
           301720,
@@ -3549,11 +3552,11 @@
         "dependencies": [],
         "links": [
           {
-            "title": "Steam 创意工坊原模组",
+            "title": "Original mod on the Steam Workshop",
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2973922820"
           },
           {
-            "title": "源代码（GitHub）",
+            "title": "Source code (GitHub)",
             "url": "https://github.com/MineGame223/TouhouLittleFriend"
           }
         ],
@@ -3568,7 +3571,8 @@
           "revision": 1,
           "baseVersion": "1.0.4"
         }
-      }
+      },
+      "updatedAt": "2026-11-06T15:49:22Z"
     },
     {
       "uid": "77b38952-98d6-4e18-a301-638d54c4bfd0",
@@ -4372,28 +4376,30 @@
       "uid": "bcb72e90-3716-4cd1-b8a4-866a963958e5",
       "id": "bunnysocial",
       "name": "双倍饰品栏",
-      "version": "1.0.0-ningzh.2",
+      "version": "1.0.0-ningzh.2.fix.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-bunnysocial-v1.0.0-ningzh.2/bunnysocial-1.0.0-ningzh.2.bl",
-        "sha256": "61c00d1695b143040d3363e4e6c0cf577a638f5c7980dd9ee0a6876f43728afb",
-        "size": 1704316
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-bunnysocial-v1.0.0-ningzh.2.fix.1/bunnysocial-1.0.0-ningzh.2.fix.1.bl",
+        "sha256": "e2a7e3caa9efd2c70b157fc5ad30ca2c3e762c5e03d968da0234040fc7fddb48",
+        "size": 1705580
       },
       "files": [
         "manifest.json",
         "icon.png",
         "banner.png",
         "description_zh-Hans.md",
-        "changelog_zh-Hans.md"
+        "changelog_zh-Hans.md",
+        "description.md",
+        "changelog.md"
       ],
       "manifest": {
         "uid": "bcb72e90-3716-4cd1-b8a4-866a963958e5",
         "id": "bunnysocial",
         "name": "双倍饰品栏",
-        "version": "1.0.0-ningzh.2",
+        "version": "1.0.0-ningzh.2.fix.1",
         "author": "VowTz",
         "category": "玩法",
-        "summary": "Every vanity slot works like an accessory slot.",
-        "description": "Items in the vanity (social) slots now apply their effects too, exactly as if they were in the matching equipment slot.",
+        "summary": "让每个时装栏也能发挥对应装备栏的效果。",
+        "description": "时装栏中的物品也会发挥对应装备效果。",
         "blVersion": 2,
         "entry": "main.js",
         "localizedNames": {
@@ -4409,12 +4415,18 @@
         },
         "authors": [
           {
+            "name": "VowTz",
+            "role": "原作者"
+          },
+          {
             "name": "柠娜",
             "role": "维护者"
           }
-        ]
+        ],
+        "updated": "2026-11-06"
       },
-      "publishedAt": "2026-10-28T02:20:38Z"
+      "publishedAt": "2026-10-28T02:20:38Z",
+      "updatedAt": "2026-11-06T15:49:22Z"
     },
     {
       "publishedAt": "2026-11-01T08:57:11Z",

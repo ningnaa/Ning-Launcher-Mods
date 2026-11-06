@@ -2,11 +2,11 @@
   "uid": "bcb72e90-3716-4cd1-b8a4-866a963958e5",
   "id": "bunnysocial",
   "name": "双倍饰品栏",
-  "version": "1.0.0-ningzh.2",
+  "version": "1.0.0-ningzh.2.fix.1",
   "author": "VowTz",
   "category": "玩法",
-  "summary": "Every vanity slot works like an accessory slot.",
-  "description": "Items in the vanity (social) slots now apply their effects too, exactly as if they were in the matching equipment slot.",
+  "summary": "让每个时装栏也能发挥对应装备栏的效果。",
+  "description": "时装栏中的物品也会发挥对应装备效果。",
   "blVersion": 2,
   "entry": "main.js",
   "localizedNames": {
@@ -22,8 +22,13 @@
   },
   "authors": [
     {
+      "name": "VowTz",
+      "role": "原作者"
+    },
+    {
       "name": "柠娜",
       "role": "维护者"
     }
-  ]
+  ],
+  "updated": "2026-11-06"
 }

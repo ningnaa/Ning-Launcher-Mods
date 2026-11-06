@@ -1,70 +1,56 @@
-# Touhou Pets
+# 东方宠物伙伴
 
-*Adventure with the residents of Gensokyo!*
+*与幻想乡的居民一同冒险！*
 
-A pet mod: **19 Touhou characters** follow you as pets. Every pet item drops
-from a boss, in any difficulty, with a **1 in 4** chance (the same chance as
-the Master Mode boss pets). Some bosses drop one of two or three items.
+这是一个宠物模组：**19 位东方角色**会作为宠物跟随你。每种宠物物品都会在任意难度下由 Boss 以 **1/4** 的概率掉落，与大师模式 Boss 宠物的掉落概率相同。部分 Boss 会从两种或三种物品中掉落一种。
 
-The pets are not just sprites: they blink, play their own animations, react
-to where you are and what is happening, and **talk**, to you and to each
-other.
+宠物不只是静态图像：她们会眨眼、播放专属动画、回应你所在的位置和周围事件，还会与你及其他伙伴**交谈**。
 
-## Where to find them
+## 获取方式
 
-| Boss | Item | Pet |
+| Boss | 物品 | 宠物 |
 |---|---|---|
-| King Slime | BOMB | Daiyousei |
-| Eye of Cthulhu | Odd Umbrella | Kogasa Tatara |
-| Eater of Worlds / Brain of Cthulhu | A Cup of Red Tea **or** Cherry Pudding | Remilia / Flandre Scarlet |
-| Skeletron | Hina Doll | Hina Kagiyama |
-| Deerclops | Ice Shard Full of Knowledge | Cirno (light pet) |
-| Wall of Flesh | Crimson Eye | Utsuho Reiuji (light pet) |
-| Queen Slime | Gold Moon | Patchouli Knowledge (light pet) |
-| The Twins | Pink Slippers **or** Purple Telephone | Satori (light pet) / Koishi Komeiji |
-| Golem | Blue Bow | Sekibanki |
-| Empress of Light | Keystone | Tenshi Hinanawi |
-| Duke Fishron | The Legendary Oarfish | Iku Nagae (light pet) |
-| Lunatic Cultist | Yin-Yang Orb, Mini-Hakkero **or** Silver Frog Coin | Reimu Hakurei / Marisa Kirisame (light pet) / Sanae Kochiya (light pet) |
-| Moon Lord | Strange Red Planet **or** Pure Mooncake | Hecatia Lapislazuli with Clownpiece / Junko (light pet) |
+| 史莱姆王 | BOMB | 大妖精 |
+| 克苏鲁之眼 | 古怪的伞 | 多多良 小伞 |
+| 世界吞噬怪 / 克苏鲁之脑 | 一杯红茶**或**樱桃布丁 | 蕾米莉亚·斯卡雷特 / 芙兰朵露·斯卡雷特 |
+| 骷髅王 | 雏人偶 | 键山 雏 |
+| 独眼巨鹿 | 充满智慧的冰晶 | 琪露诺（照明宠物） |
+| 血肉墙 | 赤红之瞳 | 灵乌路 空（照明宠物） |
+| 史莱姆皇后 | 金月 | 帕秋莉·诺蕾姬（照明宠物） |
+| 双子魔眼 | 一双粉色拖鞋**或**紫色电话筒 | 古明地 觉（照明宠物）/ 古明地 恋 |
+| 石巨人 | 蓝色蝴蝶结 | 赤蛮奇 |
+| 光之女皇 | 要石 | 比那名居 天子 |
+| 猪龙鱼公爵 | 传奇带鱼 | 永江 衣玖（照明宠物） |
+| 拜月教邪教徒 | 阴阳玉、迷你八卦炉**或**银色的青蛙硬币 | 博丽 灵梦 / 雾雨 魔理沙（照明宠物）/ 东风谷 早苗（照明宠物） |
+| 月亮领主 | 奇怪的红色星球**或**纯粹的月饼 | 赫卡提亚·拉碧斯拉祖利与克劳恩皮斯 / 纯狐（照明宠物） |
 
-Two items call a pair at once:
+另有两种物品可同时召唤一对伙伴：
 
-- **Cake of Scarlet** (A Cup of Red Tea + Cherry Pudding): Remilia and Flandre.
-- **The Third Eye** (Pink Slippers + Purple Telephone): Satori and Koishi.
+- **斯卡雷特之蛋糕**（一杯红茶 + 樱桃布丁）：蕾米莉亚和芙兰朵露。
+- **觉之瞳**（一双粉色拖鞋 + 紫色电话筒）：古明地觉和古明地恋。
 
-## A few things they do
+## 她们会做些什么
 
-- **Conversations.** Cirno and Daiyousei, Remilia and Flandre, Remilia and
-  Patchouli, Marisa and Reimu, Reimu and Sanae, Tenshi and Iku, Hecatia and
-  Clownpiece, Satori with Koishi and Utsuho: bring them together and listen.
-- **Iku** reads the air: her lines follow the weather, the wind and the events
-  of the world.
-- **Remilia and Flandre** hide under their hats in the sunlight, and only talk
-  at night.
-- **Hecatia** switches between her three bodies and planets.
-- **Reimu** naps when nothing is happening; **Reimu and Sanae** fly when you
-  go fast.
-- **Kogasa** hides behind her umbrella when a boss shows up.
-- **Satori** reads your mind: while her third eye is wide open, you can see
-  the creatures around you.
-- **Hina** keeps your luck from going below zero, and **Tenshi** adds half a
-  point of luck.
-- **Koishi**... if your life drops very low and Satori is not around, she may
-  make a phone call. *The warning is on the item.*
+- **交谈**：琪露诺与大妖精、蕾米莉亚与芙兰朵露、蕾米莉亚与帕秋莉、魔理沙与灵梦、灵梦与早苗、天子与衣玖、赫卡提亚与克劳恩皮斯，以及觉与恋、空，都有互动；让她们同行，听听她们的对话。
+- **衣玖**会读取气氛，她的台词随天气、风和世界事件变化。
+- **蕾米莉亚与芙兰朵露**在阳光下会躲在帽子里，只在夜间说话。
+- **赫卡提亚**会在三种身体与星球之间切换。
+- **灵梦**在无事发生时会打盹；移动较快时，**灵梦和早苗**会飞行。
+- **小伞**在 Boss 出现时会躲到伞后。
+- **觉**会读心：她的第三只眼睁开时，你可以看见周围生物。
+- **雏**让幸运值不会低于零，**天子**则增加 0.5 点幸运。
+- **恋**……如果你的生命值很低，而觉不在身边，她可能会拨一通电话。*物品说明中已有提醒。*
 
-## About this port
+## 关于移植版
 
-A port of the tModLoader mod *东方小伙伴 - Adventure with cute partners*, by
-中学生 (version 1.0.4, built for tModLoader 2022.9), to the Bunny Loader. The
-lines were in Chinese inside the code; here they are in the Localization, in
-English, Brazilian Portuguese and the original Chinese.
+移植自中学生制作的 tModLoader 模组 *东方小伙伴 - Adventure with cute partners*，版本 1.0.4，面向 tModLoader 2022.9。原作将中文台词写在代码中，本版将台词移入 Localization，提供英语、巴西葡萄牙语及原有中文。
 
-The mod is free software under the **GNU GPL version 3** (see the License
-tab), the license of its source code, published by the author as
-[Touhou Little Friend](https://github.com/MineGame223/TouhouLittleFriend).
-This port is under the same license.
+本模组采用 **GNU GPL 第 3 版**自由软件许可证，详见许可证标签页。这也是作者发布的源代码 [Touhou Little Friend](https://github.com/MineGame223/TouhouLittleFriend) 所使用的许可证；移植版沿用相同许可。
 
-Two small slips of the original are fixed: the Twins dropped their item from
-each twin instead of the last one, and Kogasa never talked again after her
-first boss fight.
+修复原作的两处小问题：双子魔眼原先会由每只眼各掉落一次宠物物品，现在只由最后被击败的一只掉落；小伞在首次 Boss 战之后不再说话的问题也已修复。
+
+修复选角预览中赫卡提亚贴图被绘制成多个角色的问题。 更新后请重启游戏。
+
+原作者：中学生；Bunny Loader 移植：Potato；维护者：柠娜。
+
+不同设备和其他宠物的兼容性尚未全面验证。

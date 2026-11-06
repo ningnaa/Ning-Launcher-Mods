@@ -1728,6 +1728,38 @@
       "previousVersion": "1.4.4-ningzh.1",
       "previousSha256": "bd1b76d0fc2b1a7963afd5c57568c72dc9c1c6cc803adb21340f78e09998189c",
       "change": "修复与字体包混用时的字形透明度"
+    },
+    {
+      "uid": "bcb72e90-3716-4cd1-b8a4-866a963958e5",
+      "id": "bunnysocial",
+      "tag": "mod-bunnysocial-v1.0.0-ningzh.2.fix.1",
+      "file": "bunnysocial-1.0.0-ningzh.2.fix.1.bl",
+      "version": "1.0.0-ningzh.2.fix.1",
+      "baseVersion": "1.0.0",
+      "originalSha256": "d81318260ccc552d2cc385d198d1751d1100a23fb88bd73c49840acf8aad014b",
+      "sha256": "e2a7e3caa9efd2c70b157fc5ad30ca2c3e762c5e03d968da0234040fc7fddb48",
+      "size": 1705580,
+      "englishKeys": 0,
+      "chineseKeys": 0,
+      "supplementalKeys": 0,
+      "previousVersion": "1.0.0-ningzh.2",
+      "previousSha256": "61c00d1695b143040d3363e4e6c0cf577a638f5c7980dd9ee0a6876f43728afb"
+    },
+    {
+      "uid": "2465f295-e293-4742-93fe-73d86b92c6e5",
+      "id": "touhoupets",
+      "tag": "mod-touhoupets-v1.0.4-ningzh.1.fix.1",
+      "file": "touhoupets-1.0.4-ningzh.1.fix.1.bl",
+      "version": "1.0.4-ningzh.1.fix.1",
+      "baseVersion": "1.0.4",
+      "originalSha256": "bd59c93494638c74161ad48cf215932ff63cd184426a6ff1e4f4e0e715b285a4",
+      "sha256": "88f626d63bcf4486fd98df74f9a1cc06d8cddd904fa82eac635c13b86275f2e2",
+      "size": 255769,
+      "englishKeys": 232,
+      "chineseKeys": 232,
+      "supplementalKeys": 0,
+      "previousVersion": "1.0.4-ningzh.1",
+      "previousSha256": "0b21fd12c935c26be2b89a30737af46fbb831ad9445fe41f69a37560a15f6fdb"
     }
   ],
   "authorChineseSources": {

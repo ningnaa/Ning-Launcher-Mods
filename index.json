@@ -502,24 +502,25 @@
     {
       "uid": "c7257a97-0552-4aa5-bc55-95f102b0e230",
       "id": "chestpeek",
-      "name": "ChestPeek",
-      "version": "0.1.0-ningzh.1",
+      "name": "容器预览",
+      "version": "0.1.0-ningzh.1.fix.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-chestpeek-v0.1.0-ningzh.1/chestpeek-0.1.0-ningzh.1.bl",
-        "sha256": "f2b320343bd9287dc2ec4be4795ea127293dac7f93b3331faf574693478f4c5e",
-        "size": 636968
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-chestpeek-v0.1.0-ningzh.1.fix.1/chestpeek-0.1.0-ningzh.1.fix.1.bl",
+        "sha256": "e9a93bcfc9189384a6dd40bdc50f6ae61f06f02b35924d16bd43829a59b8f2ec",
+        "size": 637650
       },
       "files": [
         "manifest.json",
         "icon.png",
         "description.md",
-        "description_zh-Hans.md"
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "c7257a97-0552-4aa5-bc55-95f102b0e230",
         "id": "chestpeek",
-        "name": "ChestPeek",
-        "version": "0.1.0-ningzh.1",
+        "name": "容器预览",
+        "version": "0.1.0-ningzh.1.fix.1",
         "authors": [
           {
             "name": "VowTz",
@@ -533,7 +534,7 @@
         "category": "物品",
         "summary": "Point at any container (chest, piggy bank, safe, forge, void vault) to see what is inside.",
         "license": "GPL-3.0",
-        "updated": "2026-10-18",
+        "updated": "2026-11-08",
         "blVersion": 2,
         "gameVersion": [
           301720,
@@ -619,12 +620,12 @@
     {
       "uid": "dae471c1-1177-4640-9cb7-68e29de58f6b",
       "id": "consolaria",
-      "name": "Consolaria Mobile",
-      "version": "1.0.2-ningzh.1.fix.1",
+      "name": "主机独占内容回归",
+      "version": "1.0.2-ningzh.1.fix.2",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-consolaria-v1.0.2-ningzh.1.fix.1/consolaria-1.0.2-ningzh.1.fix.1.bl",
-        "sha256": "3ff9b4eb1639c9b59c0894829105044675e339df8586e9dc68ba0ca109b1c2cf",
-        "size": 27397010
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-consolaria-v1.0.2-ningzh.1.fix.2/consolaria-1.0.2-ningzh.1.fix.2.bl",
+        "sha256": "c77c5636819e948ac182826456b4ff49c9ec32d9552a6ac591d9b36710d30823",
+        "size": 27397394
       },
       "files": [
         "manifest.json",
@@ -650,8 +651,8 @@
       "manifest": {
         "uid": "dae471c1-1177-4640-9cb7-68e29de58f6b",
         "id": "consolaria",
-        "name": "Consolaria Mobile",
-        "version": "1.0.2-ningzh.1.fix.1",
+        "name": "主机独占内容回归",
+        "version": "1.0.2-ningzh.1.fix.2",
         "authors": [
           {
             "name": "Consolaria Team",
@@ -668,7 +669,7 @@
         "category": "内容扩展",
         "summary": "Tons of exclusive content from the legacy and old-gen versions, reworked and rebalanced for modern Terraria.",
         "license": "MIT",
-        "updated": "2026-10-31",
+        "updated": "2026-11-08",
         "blVersion": 2,
         "gameVersion": [
           301720,
@@ -703,7 +704,7 @@
           "backgroundDim": 0.3
         },
         "localizedNames": {
-          "zh-Hans": "Consolaria：旧版独占内容"
+          "zh-Hans": "主机独占内容回归"
         },
         "localizedSummaries": {
           "zh-Hans": "让旧版移动端和主机版的独占内容回归，并针对现代泰拉瑞亚重新设计和平衡。"

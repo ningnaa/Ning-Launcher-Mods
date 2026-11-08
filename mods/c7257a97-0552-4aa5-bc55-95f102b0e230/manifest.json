@@ -1,8 +1,8 @@
 {
   "uid": "c7257a97-0552-4aa5-bc55-95f102b0e230",
   "id": "chestpeek",
-  "name": "ChestPeek",
-  "version": "0.1.0-ningzh.1",
+  "name": "容器预览",
+  "version": "0.1.0-ningzh.1.fix.1",
   "authors": [
     {
       "name": "VowTz",
@@ -16,7 +16,7 @@
   "category": "物品",
   "summary": "Point at any container (chest, piggy bank, safe, forge, void vault) to see what is inside.",
   "license": "GPL-3.0",
-  "updated": "2026-10-18",
+  "updated": "2026-11-08",
   "blVersion": 2,
   "gameVersion": [
     301720,

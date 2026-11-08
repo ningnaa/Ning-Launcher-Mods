@@ -1,8 +1,8 @@
 {
   "uid": "dae471c1-1177-4640-9cb7-68e29de58f6b",
   "id": "consolaria",
-  "name": "Consolaria Mobile",
-  "version": "1.0.2-ningzh.1.fix.1",
+  "name": "主机独占内容回归",
+  "version": "1.0.2-ningzh.1.fix.2",
   "authors": [
     {
       "name": "Consolaria Team",
@@ -19,7 +19,7 @@
   "category": "内容扩展",
   "summary": "Tons of exclusive content from the legacy and old-gen versions, reworked and rebalanced for modern Terraria.",
   "license": "MIT",
-  "updated": "2026-10-31",
+  "updated": "2026-11-08",
   "blVersion": 2,
   "gameVersion": [
     301720,
@@ -54,7 +54,7 @@
     "backgroundDim": 0.3
   },
   "localizedNames": {
-    "zh-Hans": "Consolaria：旧版独占内容"
+    "zh-Hans": "主机独占内容回归"
   },
   "localizedSummaries": {
     "zh-Hans": "让旧版移动端和主机版的独占内容回归，并针对现代泰拉瑞亚重新设计和平衡。"

@@ -1795,6 +1795,34 @@
       "kind": "gameplay-repair",
       "baseVersion": "1.0.2-ningzh.1",
       "originalSha256": "88e90150eb72c7bdbdeac208183a47c8651f0163eb4c06722881428714a5f2be"
+    },
+    {
+      "uid": "c7257a97-0552-4aa5-bc55-95f102b0e230",
+      "id": "chestpeek",
+      "name": "容器预览",
+      "version": "0.1.0-ningzh.1.fix.1",
+      "file": "chestpeek-0.1.0-ningzh.1.fix.1.bl",
+      "size": 637650,
+      "sha256": "e9a93bcfc9189384a6dd40bdc50f6ae61f06f02b35924d16bd43829a59b8f2ec",
+      "tag": "mod-chestpeek-v0.1.0-ningzh.1.fix.1",
+      "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-chestpeek-v0.1.0-ningzh.1.fix.1/chestpeek-0.1.0-ningzh.1.fix.1.bl",
+      "kind": "gameplay-repair",
+      "baseVersion": "0.1.0-ningzh.1",
+      "originalSha256": "f2b320343bd9287dc2ec4be4795ea127293dac7f93b3331faf574693478f4c5e"
+    },
+    {
+      "uid": "dae471c1-1177-4640-9cb7-68e29de58f6b",
+      "id": "consolaria",
+      "name": "主机独占内容回归",
+      "version": "1.0.2-ningzh.1.fix.2",
+      "file": "consolaria-1.0.2-ningzh.1.fix.2.bl",
+      "size": 27397394,
+      "sha256": "c77c5636819e948ac182826456b4ff49c9ec32d9552a6ac591d9b36710d30823",
+      "tag": "mod-consolaria-v1.0.2-ningzh.1.fix.2",
+      "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-consolaria-v1.0.2-ningzh.1.fix.2/consolaria-1.0.2-ningzh.1.fix.2.bl",
+      "kind": "gameplay-repair",
+      "baseVersion": "1.0.2-ningzh.1.fix.1",
+      "originalSha256": "3ff9b4eb1639c9b59c0894829105044675e339df8586e9dc68ba0ca109b1c2cf"
     }
   ]
 }

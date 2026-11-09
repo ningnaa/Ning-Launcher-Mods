@@ -62,7 +62,8 @@
           "revision": 1,
           "baseVersion": "1.0.0"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "0c2e1d93-1149-4942-adb2-860ad8a9b965",
@@ -121,7 +122,8 @@
           "revision": 1,
           "baseVersion": "1.0.0"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "6af3b741-65ee-4f5f-99b0-77018638d9fd",
@@ -189,7 +191,8 @@
           "revision": 1,
           "baseVersion": "1.0"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "c83a16d7-d5e8-459d-b5fa-d7ab63117102",
@@ -251,7 +254,8 @@
           "revision": 1,
           "baseVersion": "1.1.0"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "9c6ebfc9-4520-490d-942a-348c41648a4d",
@@ -310,7 +314,8 @@
           "revision": 1,
           "baseVersion": "1.0.1"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "5bd9553e-8439-4ddb-a12c-805b34b855e8",
@@ -386,7 +391,8 @@
           "revision": 1,
           "baseVersion": "1.1.1"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "dbe76e93-a141-4b42-9bbe-13e5b6984e19",
@@ -446,7 +452,8 @@
           "revision": 1,
           "baseVersion": "1.1.0"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "e2f97cd2-138a-5e31-bbab-f276bd5a9cfb",
@@ -553,7 +560,8 @@
           "revision": 1,
           "baseVersion": "0.1.0"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "e613a447-d93c-49ca-8c74-f88accbfa996",
@@ -615,7 +623,8 @@
           "revision": 1,
           "baseVersion": "1.1.0"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "dae471c1-1177-4640-9cb7-68e29de58f6b",
@@ -719,7 +728,8 @@
           "parentVersion": "1.0.2-ningzh.1",
           "parentSha256": "f372fabd38b6e1c64e696cea9a11496e9518cbf5b5e4e6ca93ab847f3da86f1a"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "a4f0d04b-f2f0-499b-b4b8-6d89e4bcbd6a",
@@ -780,7 +790,8 @@
           "revision": 1,
           "baseVersion": "1.0.0"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "62f7b9da-e712-5f22-b943-dbf5474d5b4c",
@@ -886,7 +897,8 @@
           "parentSha256": "c5cf0fb83e0f7141705fb06b25d1ae1eedbe703229b03a1ffcab42f16e39bd3f"
         }
       },
-      "publishedAt": "2026-10-29T10:39:17Z"
+      "publishedAt": "2026-10-29T10:39:17Z",
+      "runtime": "csharp"
     },
     {
       "uid": "cece9409-844d-476a-8953-1a59de78db92",
@@ -948,7 +960,8 @@
           "parentSha256": "a750f2b11a824d3d9493d69fb3fef2d4556d0324b8589962c41a6883fe304b94"
         }
       },
-      "publishedAt": "2026-10-26T10:27:00Z"
+      "publishedAt": "2026-10-26T10:27:00Z",
+      "runtime": "js"
     },
     {
       "uid": "95728a1c-1fb7-4ed7-af5b-d12bdec38e46",
@@ -1010,7 +1023,8 @@
           "revision": 1,
           "baseVersion": "1.0.0"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "e2f97cd2-138a-5e31-bbab-f206bd5a9cfb",
@@ -1132,7 +1146,8 @@
           "revision": 1,
           "baseVersion": "1.0.0"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "72922151-b656-35dd-a8f9-a7a272f12b25",
@@ -1604,7 +1619,8 @@
         },
         "description": "# Gnorp's Builder\n\n来认识一下 **Gnorp**，一位外星建筑师，他会在第一天就搬进你的世界。和他交谈，从他的五家商店中选择一家购买**建筑球**：使用一个，建筑就会出现在你点击的位置。\n\n## 可以建造什么\n\n- 每个生物群系（森林、苔原、沙漠、丛林、海洋、蘑菇、神圣之地）的路灯和小型、中型、大型房屋，以及会根据你所在生物群系选择风格的\"生物群系\"建筑球。\n- 四种尺寸的城堡和树屋基地。\n- 地下室模块：房间、走廊、楼梯、拐角、监狱、军械库、图书馆等，可以在地下拼接在一起。\n- Boss 竞技场（简易和高级，三种尺寸）。\n- 水、熔岩、蜂蜜和微光湖（微光湖在击败月亮领主之后）。\n- 一直挖到地狱的电梯，每个生物群系一种。\n- 每个生物群系的晶塔房屋。\n- 矿车轨道，包括一条贯穿整个世界的轨道。\n- 节日房屋（情人节、爱心房屋）和几座搞笑的房屋。\n\n神圣之地的建筑在困难模式解锁。如果 Gnorp 死了，他会掉落 **Gnorpy遥控器**，可以把他带回来（也可以用虫网抓住他）。\n\n## 手机版\n\n- 建筑会在它将出现的位置显示半透明预览。\n- 默认情况下，建筑的底部中心会放在你点击的方块上：它从地面向上生长，你能看到它会延伸到哪里。\n- 点击**锚点**按钮（手持建筑球时显示）可切换到原版的四个角之一。设置中也有此选项。\n- 可选\"双击放置\"，避免误触浪费建筑球。\n- 支持多人游戏：服务器负责建造并同步区域。\n\n## 设置\n\n图片预览、粒子预览、预览不透明度、双击放置以及默认锚点。\n\n原版模组由 **Korlex** 制作，由 Animatak_ 移植。建筑来自原版文件（已内置 StructureHelper，无需其他模组）。\n\n\n## 修复说明\n\n修复出生或读档初期建筑师显示为一整串重复贴图的问题，保留原有外观、商店和建筑工具。安装更新后请完全退出并重启游戏。\n"
       },
-      "updatedAt": "2026-11-02T08:28:36.253217Z"
+      "updatedAt": "2026-11-02T08:28:36.253217Z",
+      "runtime": "js"
     },
     {
       "uid": "4ef70487-0ffd-4b37-adbd-9e9a403d5307",
@@ -1655,7 +1671,8 @@
             "role": "维护者"
           }
         ]
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "12754257-00fe-4c58-b21b-7af0c5faf7b3",
@@ -1720,7 +1737,8 @@
           "revision": 1,
           "baseVersion": "1.0.0"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "47f60fb6-0b46-453e-b19e-389867412da8",
@@ -1775,7 +1793,8 @@
           "revision": 1,
           "baseVersion": "1.2.0"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "469b0c4b-acfa-463b-90df-5db222a81351",
@@ -1843,7 +1862,8 @@
           "revision": 1,
           "baseVersion": "1.0.0"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "2d01296e-d4e9-4493-a107-6ee6835f349e",
@@ -1921,7 +1941,8 @@
           "revision": 1,
           "baseVersion": "1.0.2"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "729873fc-a00b-33e7-a02a-6b6cd589aed6",
@@ -2042,7 +2063,8 @@
           "revision": 1,
           "baseVersion": "1.0.0"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "cefdf353-c563-4845-b253-85a851e5d84c",
@@ -2099,7 +2121,8 @@
           "revision": 1,
           "baseVersion": "1.0.0"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "a9538fc3-d926-43dd-a893-6d49a83da1c9",
@@ -2161,7 +2184,8 @@
           "revision": 1,
           "baseVersion": "1.1.2"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "024d3144-6342-4dbe-93b6-3eec25f7e23e",
@@ -2252,7 +2276,8 @@
           "revision": 1,
           "baseVersion": "1.0.0"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "fc731e9a-2844-433b-ade1-5a0ab23165c4",
@@ -2315,7 +2340,8 @@
           "revision": 1,
           "baseVersion": "1.1.1"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "e651d97d-eb24-51b5-bdc2-57722a898f79",
@@ -2392,7 +2418,8 @@
           "revision": 1,
           "baseVersion": "1.0.2"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "005ff90e-02cd-4caa-ba96-953378fca597",
@@ -2451,7 +2478,8 @@
           "revision": 1,
           "baseVersion": "1.0.0"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "96640ec6-506d-457f-a695-8e212bd07184",
@@ -2524,7 +2552,8 @@
           "revision": 1,
           "baseVersion": "1.0.0"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "421e4df1-c2d7-45ec-86ec-563ccc597273",
@@ -2586,7 +2615,8 @@
           "revision": 1,
           "baseVersion": "1.0.0"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "publishedAt": "2026-11-03T16:17:57Z",
@@ -2645,7 +2675,8 @@
           "baseVersion": "1.2"
         }
       },
-      "updatedAt": "2026-11-05T15:37:08.301839Z"
+      "updatedAt": "2026-11-05T15:37:08.301839Z",
+      "runtime": "js"
     },
     {
       "uid": "a26a4992-e895-4120-a903-0e23b376c8a1",
@@ -2700,7 +2731,8 @@
           "baseVersion": "1.0.2"
         }
       },
-      "publishedAt": "2026-10-26T10:27:19Z"
+      "publishedAt": "2026-10-26T10:27:19Z",
+      "runtime": "js"
     },
     {
       "uid": "3cfaa0a0-6ddf-4484-900e-6c482ef4e1c7",
@@ -2775,7 +2807,8 @@
           "revision": 1,
           "baseVersion": "2.8.2"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "ae7c31e7-a0d5-4064-995d-acedf7fd5afc",
@@ -2858,7 +2891,8 @@
           "revision": 1,
           "baseVersion": "1.0.5"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "89bcf9c1-64d4-4f1a-8c59-464bbf1e14c8",
@@ -2910,7 +2944,8 @@
           "revision": 1,
           "baseVersion": "68"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "0dc6638d-65f8-415b-8b1f-818e818b3f6d",
@@ -2968,7 +3003,8 @@
           "revision": 1,
           "baseVersion": "1.0.0"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "15b99fa4-580f-40c6-9a26-78e3928876d7",
@@ -3030,7 +3066,8 @@
           "revision": 1,
           "baseVersion": "1.0.0"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "8539e254-45e2-4519-8381-e38c7806f19a",
@@ -3081,7 +3118,8 @@
           "revision": 1,
           "baseVersion": "0.2.0"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "8de902a2-3816-4a6b-91f8-ab80a0ce0f57",
@@ -3147,7 +3185,8 @@
           "revision": 1,
           "baseVersion": "1.2.0"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "cd8c4f20-bc13-4b47-a508-305a6fc05ae2",
@@ -3200,7 +3239,8 @@
             "role": "维护者"
           }
         ]
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "30f21a81-4240-420b-a9ba-924e917fc571",
@@ -3306,7 +3346,8 @@
           "revision": 1,
           "baseVersion": "1.0.3"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "c344c0ce-136d-4e57-b58f-0a1239fbc302",
@@ -3371,7 +3412,8 @@
           "baseVersion": "0.3.1"
         }
       },
-      "publishedAt": "2026-10-22T16:56:20Z"
+      "publishedAt": "2026-10-22T16:56:20Z",
+      "runtime": "js"
     },
     {
       "uid": "5f0b0d15-6ee8-4e03-aafb-825d9ba5ca19",
@@ -3433,7 +3475,8 @@
           "revision": 1,
           "baseVersion": "1.0.1"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "7b1e9c52-3f4a-4d6e-9a18-5c2d8e0f41a7",
@@ -3491,7 +3534,8 @@
           "baseVersion": "0.31.0"
         }
       },
-      "publishedAt": "2026-10-26T17:28:54Z"
+      "publishedAt": "2026-10-26T17:28:54Z",
+      "runtime": "js"
     },
     {
       "uid": "2465f295-e293-4742-93fe-73d86b92c6e5",
@@ -3573,7 +3617,8 @@
           "baseVersion": "1.0.4"
         }
       },
-      "updatedAt": "2026-11-06T15:49:22Z"
+      "updatedAt": "2026-11-06T15:49:22Z",
+      "runtime": "js"
     },
     {
       "uid": "77b38952-98d6-4e18-a301-638d54c4bfd0",
@@ -3631,7 +3676,8 @@
           "revision": 1,
           "baseVersion": "1.0.0"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "35117929-e61f-42bc-97c5-773228761b99",
@@ -3694,7 +3740,8 @@
           "revision": 1,
           "baseVersion": "1.1.2"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "ed06a60f-5b26-47ab-b684-e801ff88f2aa",
@@ -3749,7 +3796,8 @@
           "revision": 1,
           "baseVersion": "1.1.0"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "ddc6440e-bcaf-4bc9-9e21-9633b49bd1bf",
@@ -3816,7 +3864,8 @@
           "revision": 1,
           "baseVersion": "1.0.2"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "f16fc5fd-5b01-42dc-bdbc-669bfda6c090",
@@ -3879,7 +3928,8 @@
           "revision": 1,
           "baseVersion": "1.1.1"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "be81ae6a-ac8a-4d23-bcd1-2bb8d056d37d",
@@ -3946,7 +3996,8 @@
           "revision": 1,
           "baseVersion": "1.0.0"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "821a0c6b-ff63-437b-b3e7-da92f9eae0f8",
@@ -4025,7 +4076,8 @@
           "parentVersion": "1.0.0-ningzh.1",
           "parentSha256": "dbb52e389c7ff39a6a997711d5171d40012baa6b1f70f86a927dc96f8296c800"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "3183ab40-81f1-477a-aa50-0df1dde68c58",
@@ -4109,7 +4161,8 @@
           "revision": 1,
           "baseVersion": "1.5.2"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "55e1d4c5-3dc5-4c73-acaa-52a5bf0750f5",
@@ -4178,7 +4231,8 @@
           "revision": 1,
           "baseVersion": "1.2.0"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "67770d24-4d80-41b4-bde9-9a1840caf2c8",
@@ -4233,7 +4287,8 @@
           "revision": 1,
           "baseVersion": "0.6.2"
         }
-      }
+      },
+      "runtime": "js"
     },
     {
       "uid": "444a9868-3515-547a-b2db-f889023c76f3",
@@ -4305,7 +4360,8 @@
         }
       },
       "updatedAt": "2026-11-02T18:42:56Z",
-      "publishedAt": "2026-11-02T16:43:28Z"
+      "publishedAt": "2026-11-02T16:43:28Z",
+      "runtime": "js"
     },
     {
       "uid": "024331b6-3e6a-33d2-9baa-5708933fd1e0",
@@ -4427,7 +4483,8 @@
         "updated": "2026-11-06"
       },
       "publishedAt": "2026-10-28T02:20:38Z",
-      "updatedAt": "2026-11-06T15:49:22Z"
+      "updatedAt": "2026-11-06T15:49:22Z",
+      "runtime": "js"
     },
     {
       "publishedAt": "2026-11-01T08:57:11Z",
@@ -4509,7 +4566,8 @@
           "revision": 1
         }
       },
-      "updatedAt": "2026-11-05T00:00:00Z"
+      "updatedAt": "2026-11-05T00:00:00Z",
+      "runtime": "js"
     },
     {
       "uid": "008a4524-a7c4-54ec-b814-ec7924905407",
@@ -4574,7 +4632,8 @@
         }
       },
       "updatedAt": "2026-11-02T23:52:27Z",
-      "publishedAt": "2026-11-02T23:52:27Z"
+      "publishedAt": "2026-11-02T23:52:27Z",
+      "runtime": "js"
     },
     {
       "uid": "cd65cef1-9f13-55f7-b871-4030eb64f770",
@@ -4643,7 +4702,8 @@
         }
       },
       "updatedAt": "2026-11-02T18:42:56Z",
-      "publishedAt": "2026-11-02T16:43:28Z"
+      "publishedAt": "2026-11-02T16:43:28Z",
+      "runtime": "js"
     },
     {
       "uid": "6207de5c-2bf1-595d-8f44-c9a4795f8ebc",
@@ -4713,7 +4773,8 @@
         }
       },
       "publishedAt": "2026-10-31T17:44:28Z",
-      "updatedAt": "2026-11-05T13:09:01.312213+00:00"
+      "updatedAt": "2026-11-05T13:09:01.312213+00:00",
+      "runtime": "js"
     },
     {
       "uid": "22b95101-7032-49ab-92a8-468f3030aa41",
@@ -4781,7 +4842,8 @@
           "parentSha256": "273926a05c6da4a1d98585eaa11fff34caccefbf5be47f2cf082db552a801133"
         }
       },
-      "updatedAt": "2026-11-01T09:57:19Z"
+      "updatedAt": "2026-11-01T09:57:19Z",
+      "runtime": "js"
     },
     {
       "uid": "15c81011-b5fb-46bc-8a1d-728e904a039a",
@@ -4844,7 +4906,8 @@
         }
       },
       "updatedAt": "2026-11-03T16:47:07Z",
-      "publishedAt": "2026-11-03T16:17:48Z"
+      "publishedAt": "2026-11-03T16:17:48Z",
+      "runtime": "js"
     },
     {
       "uid": "fbb7eb80-3232-4079-998c-cb863e14f3dd",
@@ -4895,7 +4958,8 @@
           "baseVersion": "1.1.0"
         }
       },
-      "publishedAt": "2026-10-22T16:57:49Z"
+      "publishedAt": "2026-10-22T16:57:49Z",
+      "runtime": "js"
     },
     {
       "publishedAt": "2026-11-01T16:33:20.721224Z",
@@ -4977,7 +5041,8 @@
           "baseVersion": "1.0.2"
         }
       },
-      "updatedAt": "2026-11-05T00:00:00Z"
+      "updatedAt": "2026-11-05T00:00:00Z",
+      "runtime": "js"
     },
     {
       "publishedAt": "2026-11-01T08:16:33Z",
@@ -5114,7 +5179,8 @@
         }
       },
       "updatedAt": "2026-11-03T16:17:44Z",
-      "publishedAt": "2026-11-03T16:17:44Z"
+      "publishedAt": "2026-11-03T16:17:44Z",
+      "runtime": "js"
     },
     {
       "uid": "52ed2234-aaf3-5d86-822c-70bc86225629",
@@ -5186,7 +5252,8 @@
         }
       },
       "updatedAt": "2026-11-03T04:39:32Z",
-      "publishedAt": "2026-11-01T06:10:08Z"
+      "publishedAt": "2026-11-01T06:10:08Z",
+      "runtime": "js"
     },
     {
       "uid": "633c85b4-3c35-52ae-8033-8a170fe1360c",
@@ -5258,7 +5325,8 @@
         }
       },
       "updatedAt": "2026-11-02T18:42:56Z",
-      "publishedAt": "2026-11-02T16:43:28Z"
+      "publishedAt": "2026-11-02T16:43:28Z",
+      "runtime": "js"
     },
     {
       "uid": "5a58615a-631b-34bf-8f86-84a4f64e6c96",
@@ -5415,7 +5483,8 @@
         }
       },
       "updatedAt": "2026-11-03T16:17:51Z",
-      "publishedAt": "2026-11-03T16:17:51Z"
+      "publishedAt": "2026-11-03T16:17:51Z",
+      "runtime": "js"
     },
     {
       "uid": "9921213c-03a8-34b4-914c-ba26bcc23ebd",
@@ -5545,7 +5614,8 @@
           "baseVersion": "1.03"
         }
       },
-      "updatedAt": "2026-11-05T00:00:00Z"
+      "updatedAt": "2026-11-05T00:00:00Z",
+      "runtime": "js"
     },
     {
       "uid": "0f6e273f-5832-52a8-96d9-31333045ff69",
@@ -5610,7 +5680,8 @@
         }
       },
       "updatedAt": "2026-11-05T14:45:55Z",
-      "publishedAt": "2026-11-03T00:18:21Z"
+      "publishedAt": "2026-11-03T00:18:21Z",
+      "runtime": "js"
     },
     {
       "uid": "4d51aa3f-0391-3972-a56a-756c88709b32",
@@ -5738,7 +5809,8 @@
         }
       },
       "updatedAt": "2026-11-02T18:42:56Z",
-      "publishedAt": "2026-11-02T16:43:28Z"
+      "publishedAt": "2026-11-02T16:43:28Z",
+      "runtime": "js"
     },
     {
       "uid": "3f4a2442-23f6-58be-ae18-3aa1ac0e405f",
@@ -5812,7 +5884,8 @@
         }
       },
       "updatedAt": "2026-11-02T18:42:56Z",
-      "publishedAt": "2026-11-02T16:43:28Z"
+      "publishedAt": "2026-11-02T16:43:28Z",
+      "runtime": "js"
     },
     {
       "uid": "e9fcf815-a05d-4e36-9303-e30a1d9a02fd",
@@ -5873,7 +5946,8 @@
         },
         "updated": "2026-11-01"
       },
-      "publishedAt": "2026-11-01T07:38:36Z"
+      "publishedAt": "2026-11-01T07:38:36Z",
+      "runtime": "js"
     },
     {
       "uid": "7c1e9b52-3f0a-4d8e-9a64-5b2d8c6e1f47",
@@ -5946,7 +6020,8 @@
         }
       },
       "updatedAt": "2026-11-03T16:17:54Z",
-      "publishedAt": "2026-11-03T16:17:54Z"
+      "publishedAt": "2026-11-03T16:17:54Z",
+      "runtime": "js"
     },
     {
       "uid": "7c5ee232-0456-3147-a347-e31852f566b9",
@@ -6092,7 +6167,8 @@
         }
       },
       "updatedAt": "2026-11-03T16:18:05Z",
-      "publishedAt": "2026-11-03T16:18:05Z"
+      "publishedAt": "2026-11-03T16:18:05Z",
+      "runtime": "js"
     },
     {
       "uid": "dc3f4de8-1c59-4d92-a986-3ea0e4b42e15",
@@ -6156,7 +6232,8 @@
         }
       },
       "publishedAt": "2026-10-29T10:39:39Z",
-      "updatedAt": "2026-11-02T01:53:52Z"
+      "updatedAt": "2026-11-02T01:53:52Z",
+      "runtime": "js"
     },
     {
       "uid": "888cc431-b9d8-4016-a87f-6fcbaa32223b",
@@ -6395,7 +6472,8 @@
         }
       },
       "updatedAt": "2026-11-03T16:18:00Z",
-      "publishedAt": "2026-11-03T16:18:00Z"
+      "publishedAt": "2026-11-03T16:18:00Z",
+      "runtime": "js"
     },
     {
       "uid": "7e6a6f0a-2479-3e54-b905-1e2f9f1b759c",
@@ -6522,7 +6600,8 @@
         }
       },
       "updatedAt": "2026-11-04T04:04:33Z",
-      "publishedAt": "2026-11-03T00:18:21Z"
+      "publishedAt": "2026-11-03T00:18:21Z",
+      "runtime": "js"
     },
     {
       "uid": "bc7737f5-d941-4d5c-b00b-eaec2c25eee8",
@@ -6610,7 +6689,8 @@
         "description": "# 魔法存储\n\n将存储单元连接到核心，集中搜索、分类、取放物品，并使用网络内的材料制作；支持容量升级和远程访问。当前移植版仅支持单人模式。\n\n将存储单元与存储核心相连，点击核心或访问器打开界面。连接存储制作界面后，可直接用存储材料制作。制作站和墓碑可安装到核心。手持远程访问器点击核心完成绑定。\n\n基础容量40栏，依次升级为80、120、160、240、320和640栏。拆除单元前须清空物品。支持名称搜索、@模组和#英文分类；分类按钮已汉化。\n\n此移植版的存储界面仅支持单人模式，多人模式下无法打开。\n\n署名：Titan camera（移植者）；Bloa（原包移动端适配）；Absoluteaquarian（材质与设计）；Magic Storage 原作者 Kaylee Minsuh Kim、absoluteAquarian 及贡献者。保留 MIT 许可。\n\n\n## 修复说明\n\n存储与制作界面打开时拦截背景触摸、攻击、交互和移动，以及原版地图和背包入口；关闭后恢复游戏操作。面板上方留白避开手机版顶部按钮。安装更新后请完全退出并重启游戏。\n"
       },
       "updatedAt": "2026-11-03T04:39:29Z",
-      "publishedAt": "2026-11-01T07:38:36Z"
+      "publishedAt": "2026-11-01T07:38:36Z",
+      "runtime": "js"
     }
   ],
   "featured": [

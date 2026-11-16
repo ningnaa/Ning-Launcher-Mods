@@ -1760,6 +1760,38 @@
       "supplementalKeys": 0,
       "previousVersion": "1.0.4-ningzh.1",
       "previousSha256": "0b21fd12c935c26be2b89a30737af46fbb831ad9445fe41f69a37560a15f6fdb"
+    },
+    {
+      "uid": "f7c355cb-8b92-4b31-9a92-5e3fbb23f4db",
+      "id": "split",
+      "originalName": "Split",
+      "tag": "mod-split-v1.0.5-ningzh.1",
+      "file": "split-1.0.5-ningzh.1.bl",
+      "version": "1.0.5-ningzh.1",
+      "baseVersion": "1.0.5",
+      "originalSha256": "80eb4af7b6541018f88cf5ca96baf2db82689e25b2bcca3b60cfa400adb40a3e",
+      "sha256": "c8aaa44c15b6fabef8317c1b015c23eec4521daea717c4b643bc4f2b6d8f691a",
+      "size": 42408796,
+      "upstreamCommit": "66a6b64af09f422c294be50dfc4128cb8be8d262",
+      "upstreamRelease": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/tag/mod-split-v1.0.5",
+      "englishKeys": 2540,
+      "chineseKeys": 2512,
+      "sourceEmptyKeys": 44,
+      "desktopReusedKeys": 1519,
+      "supplementalKeys": 16,
+      "translationSources": [
+        {
+          "author": "Yee苍棱（YeePalearris）",
+          "version": "0.1.0.24",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3708423467",
+          "languageFile": "Localization/zh-Hans.hjson",
+          "sha256": "19b429cf4e5d65f6520ee57ea979338d93a964a192b48bf5c6f70d481d86d6de"
+        },
+        {
+          "author": "柠版泰拉启动器",
+          "scope": "移动端差异补译、术语校对、发布文案"
+        }
+      ]
     }
   ],
   "authorChineseSources": {

@@ -1,0 +1,143 @@
+--- a/content/Content/Items/Photography/PrimeEnvelope.js
++++ b/content/Content/Items/Photography/PrimeEnvelope.js
+@@ -65,9 +65,7 @@
+         const text =
+             remaining > 0
+                 ? `${remaining}/9`
+-                : String(ModLocalization.ActiveCultureName || '').startsWith('pt')
+-                  ? 'Coleção Prime completa'
+-                  : 'Prime collection complete';
++                : ModLocalization.GetTextValue('Photography.PrimeCollectionComplete');
+         tooltips.push(new TooltipLine(this.Mod, 'PrimeCollection', text));
+     }
+ 
+--- a/content/Content/Items/Weapons/HeavyMelee/AdvancedHeavyMeleeItems.js
++++ b/content/Content/Items/Weapons/HeavyMelee/AdvancedHeavyMeleeItems.js
+@@ -158,7 +158,7 @@
+             silver: 0,
+             autoReuse: true
+         });
+-        this.DisplayName = 'Thorny Greatsword';
++        this.DisplayName = ModLocalization.GetTextValue('ItemName.ThornyGreatsword');
+     }
+ }
+ 
+@@ -177,7 +177,7 @@
+             silver: 0,
+             autoReuse: true
+         });
+-        this.DisplayName = 'We Have Technology';
++        this.DisplayName = ModLocalization.GetTextValue('ItemName.WeHaveTechnology');
+         this.Texture = 'Items/Weapons/HeavyMelee/WeHaveTechnologyItem';
+     }
+ 
+--- a/content/Content/Misc/Fishing/FrostbiteCrateTile.js
++++ b/content/Content/Misc/Fishing/FrostbiteCrateTile.js
+@@ -22,7 +22,7 @@
+         t.StyleHorizontal = true;
+         TileObjectData.addTile(this.Type);
+         this.DustType = -1;
+-        this.AddMapEntry(Color.new(119, 172, 205), 'Frostbite Crate');
++        this.AddMapEntry(Color.new(119, 172, 205), 'MapObject.FrostbiteCrate');
+     }
+ 
+     GetItemDrops(i, j) {
+--- a/content/Content/Tiles/CraftingStations/Amplifier.js
++++ b/content/Content/Tiles/CraftingStations/Amplifier.js
+@@ -15,6 +15,6 @@
+         TileObjectData.addTile(this.Type);
+         this.DustType = 1;
+         this.RegisterItemDrop(LC.ItemType('AmplifierItem'));
+-        this.AddMapEntry(Rgb5F71A0, 'Amplifier');
++        this.AddMapEntry(Rgb5F71A0, 'MapObject.Amplifier');
+     }
+ }
+--- a/content/Content/Tiles/Misc/BatPot.js
++++ b/content/Content/Tiles/Misc/BatPot.js
+@@ -28,7 +28,7 @@
+         t.StyleWrapLimit = 111;
+         TileObjectData.addTile(this.Type);
+         TileID.Sets.DisableSmartCursor[this.Type] = true;
+-        this.AddMapEntry(Color.new(73, 56, 41), 'Bat Pot');
++        this.AddMapEntry(Color.new(73, 56, 41), 'MapObject.BatPot');
+     }
+ 
+     CreateDust() {
+--- a/content/Content/Tiles/Misc/OceanAltar.js
++++ b/content/Content/Tiles/Misc/OceanAltar.js
+@@ -28,7 +28,7 @@
+         t.StyleHorizontal = true;
+         t.StyleWrapLimit = 111;
+         TileObjectData.addTile(this.Type);
+-        this.AddMapEntry(Color.new(93, 131, 203), 'Ocean Altar');
++        this.AddMapEntry(Color.new(93, 131, 203), 'MapObject.OceanAltar');
+         this.glow = LC.Request(this.Texture + '_Glow');
+         this.AnimationFrameHeight = 56;
+     }
+--- a/content/Content/Tiles/Misc/RoundCactus.js
++++ b/content/Content/Tiles/Misc/RoundCactus.js
+@@ -23,7 +23,7 @@
+         t.StyleHorizontal = true;
+         t.StyleWrapLimit = 111;
+         TileObjectData.addTile(this.Type);
+-        this.AddMapEntry(Color.new(73, 120, 17), 'Round Cactus');
++        this.AddMapEntry(Color.new(73, 120, 17), 'MapObject.RoundCactus');
+     }
+ 
+     KillMultiTile(i, j, frameX) {
+--- a/content/Content/Tiles/Misc/TeslaTower/TeslaTowerTile.js
++++ b/content/Content/Tiles/Misc/TeslaTower/TeslaTowerTile.js
+@@ -55,7 +55,7 @@
+         t.CoordinateHeights = [16, 16, 18];
+         TileObjectData.addTile(this.Type);
+         this.DustType = 1;
+-        this.AddMapEntry(Color.new(95, 111, 160), 'Tesla Tower');
++        this.AddMapEntry(Color.new(95, 111, 160), 'MapObject.TeslaTower');
+         this.RegisterItemDrop(LC.ItemType('TeslaTower'));
+         this.glowTexture = LC.Request(this.Texture + '_Glow');
+     }
+--- a/content/Content/Tiles/StrandedShip/FrostbiteSapling.js
++++ b/content/Content/Tiles/StrandedShip/FrostbiteSapling.js
+@@ -27,7 +27,7 @@
+         t.RandomStyleRange = 3;
+         t.StyleMultiplier = 3;
+         TileObjectData.addTile(this.Type);
+-        this.AddMapEntry(Color.new(119, 172, 205), 'Frostbite Sapling');
++        this.AddMapEntry(Color.new(119, 172, 205), 'MapObject.FrostbiteSapling');
+     }
+ 
+     NumDust(i, j, fail, amount) {
+--- a/content/Content/Tiles/UnderworldDomain/BasaltitePot2.js
++++ b/content/Content/Tiles/UnderworldDomain/BasaltitePot2.js
+@@ -34,7 +34,7 @@
+         t.CoordinateHeights = [16, 16, 18];
+         t.LavaDeath = false;
+         TileObjectData.addTile(this.Type);
+-        this.AddMapEntry(Color.new(133, 81, 66), 'Basaltite Pot');
++        this.AddMapEntry(Color.new(133, 81, 66), 'MapObject.BasaltitePot');
+         this.glow = LC.Request('Content/Tiles/UnderworldDomain/BasaltitePotGlow2');
+     }
+ 
+--- a/content/main.js
++++ b/content/main.js
+@@ -42,16 +42,10 @@
+     try {
+         const Main = Terraria.Main;
+         const NewText = Main['void NewText(string newText, byte R, byte G, byte B, bool onlyCurrentPlayer)'];
+-        const culture = String(Terraria.Localization.Language.ActiveCulture.Name || '');
+-        const lines = culture.startsWith('pt')
+-            ? [
+-                  '[Split] Você entrou no mundo antes de o mod terminar de carregar.',
+-                  '[Split] Saia SEM salvar e entre de novo para não perder os itens do mod.'
+-              ]
+-            : [
+-                  '[Split] You entered the world before the mod finished loading.',
+-                  '[Split] Exit WITHOUT saving and enter again so you do not lose mod items.'
+-              ];
++        const lines = [
++            ModLocalization.GetTextValue('Messages.LoadedInWorld'),
++            ModLocalization.GetTextValue('Messages.ExitWithoutSaving')
++        ];
+         for (const line of lines) {
+             NewText(line, 255, 80, 80, true);
+         }

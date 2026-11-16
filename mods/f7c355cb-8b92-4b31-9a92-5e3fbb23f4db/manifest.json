@@ -1,0 +1,76 @@
+{
+  "uid": "f7c355cb-8b92-4b31-9a92-5e3fbb23f4db",
+  "id": "split",
+  "name": "裂痕",
+  "version": "1.0.5-ningzh.1",
+  "category": "内容扩展",
+  "summary": "探索搁浅冰帆和冥域，挑战诡影幽灵、冰封神枪手、灾星雷云与帕蜡芬，体验摄影、魔力过载和重近战。",
+  "updated": "2026-11-16",
+  "blVersion": 2,
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "entry": "main.js",
+  "dependencies": [],
+  "authors": [
+    {
+      "name": "Mantovani",
+      "role": "Bunny Loader 移植",
+      "color": "#AF66DE",
+      "link": "https://github.com/MantovaniDevTrue"
+    },
+    {
+      "name": "Split Team",
+      "role": "原作团队",
+      "avatar": "split.png",
+      "color": "#FFD678",
+      "link": "https://discord.gg/5eutHVCYMg"
+    },
+    {
+      "name": "Yee苍棱（YeePalearris）",
+      "role": "电脑版简中译文",
+      "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3708423467"
+    },
+    {
+      "name": "柠版泰拉启动器",
+      "role": "移动版汉化与维护",
+      "link": "https://github.com/ningnaa/Ning-Launcher-Mods"
+    }
+  ],
+  "localizedSummaries": {
+    "pt-BR": "O Split Mod no celular: chefes, biomas, Fotografia, Sobrecarga de Mana e centenas de itens, até a Paraffin.",
+    "en-US": "The Split Mod on mobile: bosses, biomes, Photography, Mana Overload and hundreds of items, up to Paraffin.",
+    "zh-Hans": "探索搁浅冰帆和冥域，挑战诡影幽灵、冰封神枪手、灾星雷云与帕蜡芬，体验摄影、魔力过载和重近战。"
+  },
+  "license": "All rights reserved (Split Team)",
+  "links": [
+    {
+      "title": "Discord",
+      "url": "https://discord.gg/5eutHVCYMg"
+    },
+    {
+      "title": "YouTube",
+      "url": "https://www.youtube.com/@SplitMod"
+    },
+    {
+      "title": "Wiki",
+      "url": "https://splitmod.fandom.com/wiki/The_Split_Mod_Wiki"
+    }
+  ],
+  "theme": {
+    "accent": "#FFD678",
+    "panel": "#2A1436",
+    "text": "#EDE3FF",
+    "heading": "#FFFFFF",
+    "button": "#6B2E7A",
+    "buttonText": "#FFFFFF",
+    "background": "#160A1E"
+  },
+  "localizedNames": {
+    "en-US": "Split",
+    "pt-BR": "Split",
+    "zh-Hans": "裂痕"
+  },
+  "runtime": "js"
+}

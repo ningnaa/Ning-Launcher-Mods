@@ -18,3 +18,5 @@ Isekaid RPG System adiciona progressão de personagem ao Terraria com experiênc
 ## Licença
 
 O projeto está sob **licença de uso restrito — todos os direitos reservados**. Cópia, redistribuição, modificação, publicação de versões derivadas ou reutilização de código/assets exigem autorização prévia e expressa por escrito do titular. Consulte `license.md` para os termos completos.
+
+本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。

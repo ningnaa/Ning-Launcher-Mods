@@ -41,3 +41,5 @@ Centenas de armas (raquetes, espadões pesados, lacaios, sentinelas, chicotes, i
 ## Créditos
 
 O Split pertence aos seus autores originais: **Doctor Hummer, Instrex, Cloud, Lunatix e Jackspy**. Este port é um trabalho de fã para o Bunny Loader, e todo o mérito do conteúdo é deles. Gostou? Apoie o Split original pelos botões no topo da página.
+
+本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。

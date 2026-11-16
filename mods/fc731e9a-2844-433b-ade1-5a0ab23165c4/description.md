@@ -9,3 +9,5 @@ Mosquete Infinita.
 > [!NOTE]
 > É também o mod de exemplo do Bunny Loader: o comentário no topo do
 > `content/main.js` documenta a API inteira.
+
+本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。

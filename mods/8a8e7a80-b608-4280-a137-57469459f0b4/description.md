@@ -13,3 +13,5 @@ Guarde os itens no **Cofrinho** (não precisa carregar nem colocar nada por pert
 **Poções:** uma pilha de **30 ou mais** de qualquer poção com buff dá o efeito dela.
 
 Se o buff acabar, ele volta sozinho; os buffs duram 10 minutos e são renovados a cada 15 a 30 segundos. Funciona em multijogador.
+
+本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。

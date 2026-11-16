@@ -20,3 +20,5 @@ Town melee combat uses a small client-independent projectile on the host because
 Original mod and assets by **rzc0d3r**. Bunny Loader port by **Potato**. The original MIT copyright notice is included in `license.md`.
 
 [Original Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=3402763063) | [Original source code](https://github.com/rzc00d3r/MitaNPC)
+
+本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。

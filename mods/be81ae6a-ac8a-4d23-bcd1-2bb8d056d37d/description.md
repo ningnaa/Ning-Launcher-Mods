@@ -5,3 +5,5 @@ This can be useful if you're playing with lots of mods at once, or if you're a Y
 (Inspired by the Minecraft mod WAILA by ProfMobius)
 
 Also, big thanks to Pop000100 for maintaining the mod.
+
+本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。

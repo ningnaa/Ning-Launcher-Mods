@@ -23,3 +23,5 @@
 ## 致谢
 
 原模组、着色器和颜色渐变由 yiyang233 制作（[Steam 创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=2670628346)、[GitHub](https://github.com/AWEoghAwo/Lights)）。波兰语翻译由 Gryfu 提供。
+
+本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。

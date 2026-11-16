@@ -72,3 +72,5 @@ The GIF is decoded inside the game in small slices spread over many game frames 
 
 - The frames of the theme in use stay in memory after you enter a world.
 - A theme's music only plays while that theme is selected.
+
+本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。

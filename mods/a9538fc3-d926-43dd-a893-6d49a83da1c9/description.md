@@ -31,3 +31,5 @@ pulse, light and the default lists.
 | `/beams on` / `/beams off` | Turns beams on or off. |
 
 Available in 12 languages.
+
+本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。

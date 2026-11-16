@@ -21,3 +21,5 @@ and receives the areas the others explored.
 | Interval | Minutes between syncs (1 to 10). |
 | Notifications | Shows a chat message when your map receives new areas. |
 | Share Now | Sends your whole explored map right away. |
+
+本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。

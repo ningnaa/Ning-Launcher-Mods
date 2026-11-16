@@ -48,3 +48,5 @@ Other players' numbers also show their class color (dimmer) when everyone has
 the mod.
 
 Available in 12 languages.
+
+本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。

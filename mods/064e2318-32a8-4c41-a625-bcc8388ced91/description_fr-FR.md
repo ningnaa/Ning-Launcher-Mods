@@ -43,3 +43,5 @@ double toucher et le point d'ancrage par défaut.
 
 Mod original de **Korlex**, porté par Animatak_. Les bâtiments viennent des
 fichiers originaux (StructureHelper est intégré, aucun autre mod nécessaire).
+
+本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。

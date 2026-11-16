@@ -53,3 +53,5 @@ if (ModLoader.TryGetMod('bosschecklist', ref)) {
 ```
 
 `GetEntry`（使用条目键，如 `Terraria KingSlime`）和 `IsDowned` 返回单个条目。
+
+本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。

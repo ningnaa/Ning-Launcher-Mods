@@ -101,3 +101,5 @@ Yukari and Yuyuko. The other original poses and character art remain credited
 to the original mod author. Inu Sakuya uses her fan character design.
 
 Distributed under **GPL-3.0**, with the JavaScript source included.
+
+本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。

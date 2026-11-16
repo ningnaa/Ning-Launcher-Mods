@@ -5,3 +5,5 @@
 原作 Shorter Respawn Time 1.2.1.1，原作者 jopojelly；Bunny Loader 移植者柠娜。HERO 的即时复活联动需要兼容的 HERO 模组；Cheat Sheet 联动尚未适配。
 
 HERO 联动已使用兼容接口测试桩验证，尚未与实际 HERO 模组联合测试；客机修改房主全局配置尚不支持。
+
+本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。

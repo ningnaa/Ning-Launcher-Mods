@@ -20,3 +20,5 @@
 原模组与资源由 **rzc0d3r** 制作，**Potato** 负责 Bunny Loader 移植。`license.md` 中保留了原版 MIT 版权声明。
 
 [原创意工坊页面](https://steamcommunity.com/sharedfiles/filedetails/?id=3402763063) | [原版源代码](https://github.com/rzc00d3r/MitaNPC)
+
+本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。

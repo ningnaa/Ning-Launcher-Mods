@@ -23,3 +23,5 @@ With **Screen Effects** off in Settings, nothing is drawn.
 ## Credits
 
 Original mod, shaders and color gradients by yiyang233 ([Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2670628346), [GitHub](https://github.com/AWEoghAwo/Lights)). Polish translation by Gryfu.
+
+本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。

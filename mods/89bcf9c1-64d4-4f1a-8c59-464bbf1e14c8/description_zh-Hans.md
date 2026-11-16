@@ -32,3 +32,5 @@
 - 每项功能独立挂接游戏。如果当前游戏构建缺少某项功能所需的接口，该功能会被跳过，并在日志中说明；可搜索 `[QoB]`。
 - 其他模组可通过 `Mod.Call` 添加支持，接口名称与 Quality of Terraria 一致：`IgnoreInfItem`、`AddPotion`、`AddStation`、`AddPortableCraftingStation`。
 - 选项按设备保存，多人游戏中每位玩家分别设置。
+
+本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。

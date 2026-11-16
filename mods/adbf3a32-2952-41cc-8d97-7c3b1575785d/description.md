@@ -55,3 +55,5 @@ ModDifficulty.register(MyDifficulty);
 ## 作者
 
 GST378（[YouTube](https://youtube.com/@gst_378)）
+
+本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。

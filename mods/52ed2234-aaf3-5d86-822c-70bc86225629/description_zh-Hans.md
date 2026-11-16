@@ -25,3 +25,5 @@
 来源：https://steamcommunity.com/sharedfiles/filedetails/?id=2565540604
 源码：https://github.com/JavidPack/AutoTrash
 上游未附带明确许可证，本包未额外授予原作者代码或资源许可。
+
+本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。

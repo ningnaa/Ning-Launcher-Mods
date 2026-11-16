@@ -15,3 +15,5 @@ Ported to Terraria Mobile through Bunny Loader.
 
 - **CeleryMan**: original mod ([Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2956773024))
 - **Bloa**: port to Bunny Loader
+
+本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。

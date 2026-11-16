@@ -83,3 +83,5 @@ if (ModLoader.TryGetMod('bosschecklist', ref)) {
 
 `GetEntry` (with an entry key such as `Terraria KingSlime`) and `IsDowned`
 return a single entry.
+
+本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。

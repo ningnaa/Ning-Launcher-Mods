@@ -19,3 +19,5 @@
 ## 制作人员
 
 原版模组由 **MooMoo** 为 tModLoader 制作，延迟图标由 **crumb** 绘制，图标边框由 **otterly** 绘制。由 **Animatak_** 移植到 Bunny Loader。
+
+本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。

@@ -38,3 +38,5 @@
 ## 制作人员
 
 原版模组由 **LevitatingGT** 为 tModLoader 制作，由 **Animatak_** 移植到 Bunny Loader。
+
+本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。

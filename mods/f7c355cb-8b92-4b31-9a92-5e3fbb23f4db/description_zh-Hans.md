@@ -14,4 +14,4 @@
 
 本移植版的流程做到**帕蜡芬**。首次启动若在世界中看到裂痕尚未载入的红字提示，请**不要保存，退出后重新进入**，以免丢失模组物品。建议用备份或新存档体验，联机兼容性尚未充分验证。
 
-原作由 Doctor Hummer、Instrex、Cloud、Lunatix 和 Jackspy 创作，Mantovani 负责 Bunny Loader 移植。电脑版简中译文来自 Yee苍棱（YeePalearris），移动版文本由柠版泰拉启动器补译、维护。模组内容和素材归原作者所有，保留原包许可。
+原作由 Doctor Hummer、Instrex、Cloud、Lunatix 和 Jackspy 创作，Mantovani 负责 Bunny Loader 移植。电脑版简中译文来自 Yee苍棱（YeePalearris），移动版汉化与维护：柠版泰拉启动器。模组内容和素材归原作者所有，保留原包许可。

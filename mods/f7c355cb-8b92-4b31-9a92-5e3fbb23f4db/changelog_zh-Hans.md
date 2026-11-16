@@ -5,4 +5,4 @@
 - 包含上游 1.0.3 和 1.0.4 的修复，包括召唤部分原版 Boss 时崩溃、武器和哨兵异常、部分音效不播放，并减少密集弹幕和联机时的重复处理。
 - 适用 Terraria 运行库 301720。移动版内容开放至帕蜡芬。联机兼容性尚未充分验证，更新后请完全退出并重启游戏。
 
-原作：Doctor Hummer、Instrex、Cloud、Lunatix、Jackspy。Bunny Loader 移植：Mantovani。电脑版简中：Yee苍棱（YeePalearris）。移动版补译与维护：柠版泰拉启动器。
+原作：Doctor Hummer、Instrex、Cloud、Lunatix、Jackspy。Bunny Loader 移植：Mantovani。电脑版简中：Yee苍棱（YeePalearris）。移动版汉化与维护：柠版泰拉启动器。

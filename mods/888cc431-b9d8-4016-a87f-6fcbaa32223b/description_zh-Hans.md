@@ -1,6 +1,6 @@
 # 重音 Teto 时装套组
 
-原作者：Makeight；代码协助：Ink of the Eternity；Bunny Loader 移植：Bloa；维护者：柠娜。
+原作者：Makeight；代码协助：Ink of the Eternity；Bunny Loader 移植：Bloa；移动版汉化与维护：柠版泰拉启动器。
 
 制作并将 Teto 玩偶放在背包中，重音 Teto NPC 就会入住并出售全部内容。模组包含 44 套头部、身体和腿部时装，以及翅膀、背包、发型、Teto 法棍、Teto 玩偶、Pearto 和 Sukina Souzai Happyou Dragon 两种宠物。部分时装会根据移动方向翻转，翅膀适合前期使用并可免疫摔落伤害。
 

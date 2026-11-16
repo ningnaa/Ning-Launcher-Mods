@@ -1,6 +1,6 @@
 # 赛马娘时装（Bunny 移植版）
 
-原 PC 模组：Nyacro；角色与知识产权：Cygames；Bunny Loader / Android 移植：Mantovani；维护者：柠娜。感谢 Nyacro 授权移植。
+原 PC 模组：Nyacro；角色与知识产权：Cygames；Bunny Loader / Android 移植：Mantovani；移动版汉化与维护：柠版泰拉启动器。感谢 Nyacro 授权移植。
 
 包含 43 件时装、角色服装与发型、马耳和马尾、Mambo 宠物、角色跑步轨迹和特殊效果，以及动画脸部、尾巴和头发。配置可以选择轻量、平衡、高和电影级视觉质量，调整特效数量 0–200% 并开启额外发光。
 

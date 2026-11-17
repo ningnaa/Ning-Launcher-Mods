@@ -2048,6 +2048,75 @@
       }
     },
     {
+      "uid": "721a1ed2-9076-451c-b4d1-c1ab92c23284",
+      "id": "supreme_robe",
+      "name": "至尊长袍",
+      "version": "1.0",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-supreme_robe-v1.0/supreme_robe-1.0.bl",
+        "sha256": "67cfcf017f71e27775397bb659598e5ad95642b1e07244dd483760e13927628c",
+        "size": 439431
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.png",
+        "description.md",
+        "changelog.md",
+        "license.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "authors/avatar.png",
+        "authors/avatar_chen.png",
+        "authors/avatar_p03.png"
+      ],
+      "manifest": {
+        "uid": "721a1ed2-9076-451c-b4d1-c1ab92c23284",
+        "id": "supreme_robe",
+        "name": "至尊长袍",
+        "version": "1.0",
+        "authors": [
+          {
+            "name": "木木Mokuzai",
+            "role": "原作者",
+            "avatar": "avatar.png",
+            "color": "#FFD166"
+          },
+          {
+            "name": "尘俞名",
+            "role": "设计&检修",
+            "avatar": "avatar_chen.png",
+            "color": "#9FD8FF"
+          },
+          {
+            "name": "p03",
+            "role": "技术支持",
+            "avatar": "avatar_p03.png",
+            "color": "#B8A1FF"
+          }
+        ],
+        "category": "装备",
+        "summary": "七彩法师胸甲，可选两种宝石效果，并可搭配原版头盔和护腿继承套装效果。",
+        "description": "七彩法师胸甲，可选两种宝石效果，并可搭配原版头盔和护腿继承套装效果。",
+        "license": "MIT",
+        "updated": "2026-11-17",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": [],
+        "localizedNames": {
+          "zh-Hans": "至尊长袍",
+          "en-US": "Supreme Robe"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "七彩法师胸甲，可选两种宝石效果，并可搭配原版头盔和护腿继承套装效果。"
+        }
+      }
+    },
+    {
       "uid": "729873fc-a00b-33e7-a02a-6b6cd589aed6",
       "id": "texture-729873fc-a00b-33e7-a02a-6b6cd589aed6",
       "name": "JoJo的泰拉冒险",

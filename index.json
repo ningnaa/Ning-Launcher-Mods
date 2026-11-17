@@ -6479,7 +6479,7 @@
       "uid": "7e6a6f0a-2479-3e54-b905-1e2f9f1b759c",
       "id": "texture-7e6a6f0a-2479-3e54-b905-1e2f9f1b759c",
       "name": "铸造与炼金",
-      "version": "1.10.0-port.3",
+      "version": "1.10.0-port.4",
       "manifest": {
         "uid": "7e6a6f0a-2479-3e54-b905-1e2f9f1b759c",
         "id": "texture-7e6a6f0a-2479-3e54-b905-1e2f9f1b759c",
@@ -6487,7 +6487,7 @@
         "localizedNames": {
           "zh-Hans": "铸造与炼金"
         },
-        "version": "1.10.0-port.3",
+        "version": "1.10.0-port.4",
         "type": "texture",
         "category": "材质包",
         "summary": "铸炼工匠协会联合制作的重绘材质，覆盖物品、生物、方块与界面，并保留作者的中文名称和说明替换。",
@@ -6525,9 +6525,9 @@
         }
       },
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-texture-7e6a6f0a-2479-3e54-b905-1e2f9f1b759c-v1.10.0-port.3/texture-7e6a6f0a-2479-3e54-b905-1e2f9f1b759c-1.10.0-port.3.bl",
-        "sha256": "3cf00da04cb543efea21ca0f8dff75d31dceff8906ba62dd6a8aaa46a49cb184",
-        "size": 5441896
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-texture-7e6a6f0a-2479-3e54-b905-1e2f9f1b759c-v1.10.0-port.4/texture-7e6a6f0a-2479-3e54-b905-1e2f9f1b759c-1.10.0-port.4.bl",
+        "sha256": "4fd344bd21b125be260518a0a2b3ca58de37689057794fa8d89b1d6f1a682517",
+        "size": 5441051
       },
       "files": [
         "changelog_zh-Hans.md",
@@ -6537,7 +6537,7 @@
         "changelog.md"
       ],
       "publishedAt": "2026-11-17T03:33:38Z",
-      "updatedAt": "2026-11-17T03:33:38Z"
+      "updatedAt": "2026-11-17T07:17:10Z"
     },
     {
       "uid": "5c1ae0e6-28da-5db4-b929-5ca075471a5a",

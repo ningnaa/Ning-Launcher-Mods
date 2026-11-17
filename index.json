@@ -4431,10 +4431,6 @@
             "role": "原作者"
           },
           {
-            "name": "柠娜",
-            "role": "Bunny Loader 移植者"
-          },
-          {
             "name": "柠版泰拉启动器",
             "role": "移动版汉化与维护"
           }
@@ -4709,10 +4705,6 @@
             "role": "原作者"
           },
           {
-            "name": "柠娜",
-            "role": "Bunny Loader 移植者"
-          },
-          {
             "name": "柠版泰拉启动器",
             "role": "移动版汉化与维护"
           }
@@ -4774,10 +4766,6 @@
           {
             "name": "DRKV、Exterminator",
             "role": "原作者与维护者"
-          },
-          {
-            "name": "柠娜",
-            "role": "Bunny Loader 移植者"
           },
           {
             "name": "柠版泰拉启动器",
@@ -4847,10 +4835,6 @@
             "name": "RighteousRyan",
             "role": "tModLoader 1.4 移植",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2562915378"
-          },
-          {
-            "name": "柠娜",
-            "role": "Bunny Loader 移植者"
           },
           {
             "name": "柠版泰拉启动器",
@@ -5323,10 +5307,6 @@
             "link": "https://github.com/JavidPack/AutoTrash"
           },
           {
-            "name": "柠娜",
-            "role": "Bunny Loader 移植者"
-          },
-          {
             "name": "柠版泰拉启动器",
             "role": "移动版汉化与维护"
           }
@@ -5394,10 +5374,6 @@
           {
             "name": "jopojelly",
             "role": "原作者"
-          },
-          {
-            "name": "柠娜",
-            "role": "Bunny Loader 移植者"
           },
           {
             "name": "柠版泰拉启动器",
@@ -5757,10 +5733,6 @@
             "role": "原作者"
           },
           {
-            "name": "柠娜",
-            "role": "Bunny Loader 移植者"
-          },
-          {
             "name": "柠版泰拉启动器",
             "role": "移动版汉化与维护"
           }
@@ -5883,10 +5855,6 @@
             "role": "原作者"
           },
           {
-            "name": "柠娜",
-            "role": "Bunny Loader 移植者"
-          },
-          {
             "name": "柠版泰拉启动器",
             "role": "移动版汉化与维护"
           }
@@ -5952,10 +5920,6 @@
             "name": "Chev",
             "role": "原作者",
             "link": "https://github.com/chev2/terraria-mods"
-          },
-          {
-            "name": "柠娜",
-            "role": "Bunny Loader 移植者"
           },
           {
             "name": "柠版泰拉启动器",
@@ -6603,10 +6567,6 @@
             "role": "原作者"
           },
           {
-            "name": "柠娜",
-            "role": "移植者"
-          },
-          {
             "name": "柠版泰拉启动器",
             "role": "移动版汉化与维护"
           }
@@ -6684,8 +6644,8 @@
             "role": "原始翅膀栏作者"
           },
           {
-            "name": "柠娜",
-            "role": "Bunny Loader 移植者"
+            "name": "柠版泰拉启动器",
+            "role": "移动版汉化与维护"
           }
         ],
         "license": "",

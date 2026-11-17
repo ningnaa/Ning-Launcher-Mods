@@ -1,3 +1,7 @@
+## 1.0.5-ningzh.2 (2026-11-17)
+
+Colored moons now spawn alongside normal falling stars, so vanilla Fallen Stars can still land and drop.
+
 # Changelog
 
 ## 1.0.5 - 2026-11-10 - Loading before the title screen

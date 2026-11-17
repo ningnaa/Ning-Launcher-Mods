@@ -1,3 +1,7 @@
+## 1.0.1-ningzh.3 (2026-11-17)
+
+Completed Simplified Chinese text for the title, attribute descriptions, cancel button, and class selection.
+
 # Changelog
 
 ## 0.2.1-beta

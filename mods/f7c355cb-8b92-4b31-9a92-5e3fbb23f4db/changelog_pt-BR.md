@@ -1,3 +1,7 @@
+## 1.0.5-ningzh.2 (2026-11-17)
+
+As luas coloridas surgem ao lado das estrelas cadentes originais, que mantêm a queda e a coleta.
+
 # Changelog
 
 ## 1.0.5 - 2026-11-10 - Carga antes da tela inicial

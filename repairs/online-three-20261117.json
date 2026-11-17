@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-17",
+  "packages": [
+    {
+      "id": "isekaid",
+      "uid": "15c81011-b5fb-46bc-8a1d-728e904a039a",
+      "version": "1.0.1-ningzh.3",
+      "file": "isekaid-1.0.1-ningzh.3.bl",
+      "sha256": "d51382fd6346c2852861dd2fee0aeca6a1f7213e191124f8428262915df661ab",
+      "size": 59195,
+      "parentSha256": "d211d9f3f3bf1fc83c22855eea738b055200c97cc920201eb5675074a2915b65",
+      "testedSha256": "56c681e9ec4e558ad8bc5f2b0ad00f61b93dd43796f7fa6e0b74cf0708f13829",
+      "sourceCommit": "2caae9e2a10baaf63e455ab650cf10b7d894513d"
+    },
+    {
+      "id": "split",
+      "uid": "f7c355cb-8b92-4b31-9a92-5e3fbb23f4db",
+      "version": "1.0.5-ningzh.2",
+      "file": "split-1.0.5-ningzh.2.bl",
+      "sha256": "9b42efbed39795df0a8db59eb18c6c80b51a3c2211a1388ead3da59cd453fafd",
+      "size": 42409781,
+      "parentSha256": "c8aaa44c15b6fabef8317c1b015c23eec4521daea717c4b643bc4f2b6d8f691a",
+      "testedSha256": "98c5d36875cd00fc80e33874d175b3bd4dab2ae89f9b41fd76bb686bf6b08842",
+      "sourceCommit": "2caae9e2a10baaf63e455ab650cf10b7d894513d"
+    },
+    {
+      "id": "texture-7e6a6f0a-2479-3e54-b905-1e2f9f1b759c",
+      "uid": "7e6a6f0a-2479-3e54-b905-1e2f9f1b759c",
+      "version": "1.10.0-port.3",
+      "file": "texture-7e6a6f0a-2479-3e54-b905-1e2f9f1b759c-1.10.0-port.3.bl",
+      "sha256": "3cf00da04cb543efea21ca0f8dff75d31dceff8906ba62dd6a8aaa46a49cb184",
+      "size": 5441896,
+      "parentSha256": "3c1389a03ac4848de61b8ba2fecf4bb84c73e372e4a648a2743886b5543fd5af",
+      "testedSha256": "8d2551602cd8753a05e5c0d28f4b966676901468a9a7f5db492574fb7b1efbf7",
+      "sourceCommit": "2caae9e2a10baaf63e455ab650cf10b7d894513d"
+    }
+  ]
+}

@@ -1373,12 +1373,12 @@
       "uid": "15c81011-b5fb-46bc-8a1d-728e904a039a",
       "id": "isekaid",
       "name": "异世界 RPG 系统",
-      "version": "1.0.1-ningzh.2",
-      "file": "isekaid-1.0.1-ningzh.2.bl",
-      "sha256": "d211d9f3f3bf1fc83c22855eea738b055200c97cc920201eb5675074a2915b65",
-      "size": 58337,
+      "version": "1.0.1-ningzh.3",
+      "file": "isekaid-1.0.1-ningzh.3.bl",
+      "sha256": "d51382fd6346c2852861dd2fee0aeca6a1f7213e191124f8428262915df661ab",
+      "size": 59195,
       "originalSha256": "f9ec2b1029d285455cf71561bedf4db679b4332d097c3401ba4069113f945e44",
-      "tag": "mod-isekaid-v1.0.1-ningzh.2",
+      "tag": "mod-isekaid-v1.0.1-ningzh.3",
       "changedFiles": [
         "manifest.json",
         "content/Localization/zh-Hans.json",
@@ -1421,7 +1421,16 @@
           "author": "Zayah"
         }
       ],
-      "note": "修订版补齐代码内角色菜单、职业、属性、升级和 Boss 进度提示的中文文本。"
+      "note": "修订版补齐代码内角色菜单、职业、属性、升级和 Boss 进度提示的中文文本。",
+      "previousReleases": [
+        {
+          "tag": "mod-isekaid-v1.0.1-ningzh.2",
+          "file": "isekaid-1.0.1-ningzh.2.bl",
+          "version": "1.0.1-ningzh.2",
+          "sha256": "d211d9f3f3bf1fc83c22855eea738b055200c97cc920201eb5675074a2915b65",
+          "size": 58337
+        }
+      ]
     },
     {
       "uid": "5c1ae0e6-28da-5db4-b929-5ca075471a5a",
@@ -1765,13 +1774,13 @@
       "uid": "f7c355cb-8b92-4b31-9a92-5e3fbb23f4db",
       "id": "split",
       "originalName": "Split",
-      "tag": "mod-split-v1.0.5-ningzh.1",
-      "file": "split-1.0.5-ningzh.1.bl",
-      "version": "1.0.5-ningzh.1",
+      "tag": "mod-split-v1.0.5-ningzh.2",
+      "file": "split-1.0.5-ningzh.2.bl",
+      "version": "1.0.5-ningzh.2",
       "baseVersion": "1.0.5",
       "originalSha256": "80eb4af7b6541018f88cf5ca96baf2db82689e25b2bcca3b60cfa400adb40a3e",
-      "sha256": "c8aaa44c15b6fabef8317c1b015c23eec4521daea717c4b643bc4f2b6d8f691a",
-      "size": 42408796,
+      "sha256": "9b42efbed39795df0a8db59eb18c6c80b51a3c2211a1388ead3da59cd453fafd",
+      "size": 42409781,
       "upstreamCommit": "66a6b64af09f422c294be50dfc4128cb8be8d262",
       "upstreamRelease": "https://github.com/JonataOliveiraa/Bunny-Loader-Mods/releases/tag/mod-split-v1.0.5",
       "englishKeys": 2540,
@@ -1790,6 +1799,15 @@
         {
           "author": "柠版泰拉启动器",
           "scope": "移动端差异补译、术语校对、发布文案"
+        }
+      ],
+      "previousReleases": [
+        {
+          "tag": "mod-split-v1.0.5-ningzh.1",
+          "file": "split-1.0.5-ningzh.1.bl",
+          "version": "1.0.5-ningzh.1",
+          "sha256": "c8aaa44c15b6fabef8317c1b015c23eec4521daea717c4b643bc4f2b6d8f691a",
+          "size": 42408796
         }
       ]
     }

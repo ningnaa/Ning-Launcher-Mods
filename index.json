@@ -4849,11 +4849,11 @@
       "uid": "15c81011-b5fb-46bc-8a1d-728e904a039a",
       "id": "isekaid",
       "name": "异世界 RPG 系统",
-      "version": "1.0.1-ningzh.2",
+      "version": "1.0.1-ningzh.3",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-isekaid-v1.0.1-ningzh.2/isekaid-1.0.1-ningzh.2.bl",
-        "sha256": "d211d9f3f3bf1fc83c22855eea738b055200c97cc920201eb5675074a2915b65",
-        "size": 58337
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-isekaid-v1.0.1-ningzh.3/isekaid-1.0.1-ningzh.3.bl",
+        "sha256": "d51382fd6346c2852861dd2fee0aeca6a1f7213e191124f8428262915df661ab",
+        "size": 59195
       },
       "files": [
         "manifest.json",
@@ -4870,7 +4870,7 @@
         "uid": "15c81011-b5fb-46bc-8a1d-728e904a039a",
         "id": "isekaid",
         "name": "异世界 RPG 系统",
-        "version": "1.0.1-ningzh.2",
+        "version": "1.0.1-ningzh.3",
         "authors": [
           {
             "name": "Zayah",
@@ -4885,10 +4885,10 @@
         "category": "玩法",
         "summary": "为泰拉瑞亚加入等级、8 项属性、6 种职业、状态菜单，以及按 Boss 进度成长的敌人强度。",
         "license": "Personal-use",
-        "updated": "2026-11-03",
+        "updated": "2026-11-17",
         "blVersion": 2,
         "entry": "main.js",
-        "description": "# 异世界 RPG 系统\n\n作者：Zayah。维护者：柠娜。\n\n为泰拉瑞亚加入 RPG 成长路线：击败敌人获取经验并升级，分配生命、耐力、力量、智力、敏捷、魅力、灵巧和信仰等属性；从战士、射手、法师、召唤师及两种混合职业中选择战斗方向。触控按钮可打开角色菜单，配置中可以调整经验条的位置和大小。\n\n敌人会随世界 Boss 进度逐步强化；首次击败 Boss 会触发额外经验奖励。可以使用 `/exp` 命令进行测试、重置等级或重新选择职业。\n\n安装或更新后请重启游戏；命令、配置和角色菜单已提供中文。联机兼容性尚未充分验证。包内许可证：Personal-use。",
+        "description": "# 异世界 RPG 系统\n\n作者：Zayah。移动版汉化与维护：柠版泰拉启动器。\n\n为泰拉瑞亚加入 RPG 成长路线：击败敌人获取经验并升级，分配生命、耐力、力量、智力、敏捷、魅力、灵巧和信仰等属性；从战士、射手、法师、召唤师及两种混合职业中选择战斗方向。触控按钮可打开角色菜单，配置中可以调整经验条的位置和大小。\n\n敌人会随世界 Boss 进度逐步强化；首次击败 Boss 会触发额外经验奖励。可以使用 `/exp` 命令进行测试、重置等级或重新选择职业。\n\n安装或更新后请重启游戏；命令、配置和角色菜单已提供中文。联机兼容性尚未充分验证。包内许可证：Personal-use。\n\n**1.0.1-ningzh.3** · 补齐升级面板的简体中文，覆盖主标题、属性名称与说明、取消按钮和职业选择。\n\n本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。\n",
         "localizedNames": {
           "zh-Hans": "异世界 RPG 系统"
         },
@@ -4905,8 +4905,8 @@
           "baseVersion": "1.0.1"
         }
       },
-      "updatedAt": "2026-11-03T16:47:07Z",
-      "publishedAt": "2026-11-03T16:17:48Z",
+      "updatedAt": "2026-11-17T03:33:38Z",
+      "publishedAt": "2026-11-17T03:33:38Z",
       "runtime": "js"
     },
     {
@@ -6479,7 +6479,7 @@
       "uid": "7e6a6f0a-2479-3e54-b905-1e2f9f1b759c",
       "id": "texture-7e6a6f0a-2479-3e54-b905-1e2f9f1b759c",
       "name": "铸造与炼金",
-      "version": "1.10.0-port.2",
+      "version": "1.10.0-port.3",
       "manifest": {
         "uid": "7e6a6f0a-2479-3e54-b905-1e2f9f1b759c",
         "id": "texture-7e6a6f0a-2479-3e54-b905-1e2f9f1b759c",
@@ -6487,7 +6487,7 @@
         "localizedNames": {
           "zh-Hans": "铸造与炼金"
         },
-        "version": "1.10.0-port.2",
+        "version": "1.10.0-port.3",
         "type": "texture",
         "category": "材质包",
         "summary": "铸炼工匠协会联合制作的重绘材质，覆盖物品、生物、方块与界面，并保留作者的中文名称和说明替换。",
@@ -6513,7 +6513,7 @@
           301720,
           301720
         ],
-        "updated": "2026-11-01",
+        "updated": "2026-11-17",
         "links": [
           {
             "title": "原作 Steam 创意工坊",
@@ -6525,17 +6525,19 @@
         }
       },
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-texture-7e6a6f0a-2479-3e54-b905-1e2f9f1b759c-v1.10.0-port.2/texture-7e6a6f0a-2479-3e54-b905-1e2f9f1b759c-1.10.0-port.2.bl",
-        "size": 5440736,
-        "sha256": "3c1389a03ac4848de61b8ba2fecf4bb84c73e372e4a648a2743886b5543fd5af"
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-texture-7e6a6f0a-2479-3e54-b905-1e2f9f1b759c-v1.10.0-port.3/texture-7e6a6f0a-2479-3e54-b905-1e2f9f1b759c-1.10.0-port.3.bl",
+        "sha256": "3cf00da04cb543efea21ca0f8dff75d31dceff8906ba62dd6a8aaa46a49cb184",
+        "size": 5441896
       },
       "files": [
         "changelog_zh-Hans.md",
         "description_zh-Hans.md",
         "icon.png",
-        "manifest.json"
+        "manifest.json",
+        "changelog.md"
       ],
-      "publishedAt": "2026-11-01T08:16:33Z"
+      "publishedAt": "2026-11-17T03:33:38Z",
+      "updatedAt": "2026-11-17T03:33:38Z"
     },
     {
       "uid": "5c1ae0e6-28da-5db4-b929-5ca075471a5a",
@@ -6696,11 +6698,11 @@
       "uid": "f7c355cb-8b92-4b31-9a92-5e3fbb23f4db",
       "id": "split",
       "name": "裂痕",
-      "version": "1.0.5-ningzh.1",
+      "version": "1.0.5-ningzh.2",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-split-v1.0.5-ningzh.1/split-1.0.5-ningzh.1.bl",
-        "sha256": "c8aaa44c15b6fabef8317c1b015c23eec4521daea717c4b643bc4f2b6d8f691a",
-        "size": 42408796
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-split-v1.0.5-ningzh.2/split-1.0.5-ningzh.2.bl",
+        "sha256": "9b42efbed39795df0a8db59eb18c6c80b51a3c2211a1388ead3da59cd453fafd",
+        "size": 42409781
       },
       "files": [
         "manifest.json",
@@ -6734,10 +6736,10 @@
         "uid": "f7c355cb-8b92-4b31-9a92-5e3fbb23f4db",
         "id": "split",
         "name": "裂痕",
-        "version": "1.0.5-ningzh.1",
+        "version": "1.0.5-ningzh.2",
         "category": "内容扩展",
         "summary": "探索搁浅冰帆和冥域，挑战诡影幽灵、冰封神枪手、灾星雷云与帕蜡芬，体验摄影、魔力过载和重近战。",
-        "updated": "2026-11-16",
+        "updated": "2026-11-17",
         "blVersion": 2,
         "gameVersion": [
           301720,
@@ -6805,8 +6807,8 @@
         },
         "runtime": "js"
       },
-      "updatedAt": "2026-11-16T01:13:24Z",
-      "publishedAt": "2026-11-16T01:13:24Z",
+      "updatedAt": "2026-11-17T03:33:38Z",
+      "publishedAt": "2026-11-17T03:33:38Z",
       "runtime": "js"
     }
   ],

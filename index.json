@@ -1741,6 +1741,51 @@
       "runtime": "js"
     },
     {
+      "uid": "dbd792e9-9b39-4e9a-af8e-2f940f0b7b11",
+      "id": "gugafen3",
+      "name": "咕嘎大家族",
+      "version": "1.9.0",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-gugafen3-v1.9.0/gugafen3-1.9.0.bl",
+        "sha256": "6367baec6d3efb0032afdf700d6abaaaa85353ecae30581a4cc1791130716326",
+        "size": 944851
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md"
+      ],
+      "manifest": {
+        "uid": "dbd792e9-9b39-4e9a-af8e-2f940f0b7b11",
+        "id": "gugafen3",
+        "name": "咕嘎大家族",
+        "version": "1.9.0",
+        "authors": [
+          {
+            "name": "建国",
+            "role": "原作者",
+            "color": "#2f6f6a"
+          }
+        ],
+        "category": "NPC",
+        "summary": "Adds Guga and Fen3 as NPCs. Meet Guga in the Snow biome and meet its dialogue requirements to invite it to town or have it follow you.",
+        "updated": "2026-11-17",
+        "blVersion": 2,
+        "entry": "main.js",
+        "dependencies": [],
+        "localizedNames": {
+          "zh-Hans": "咕嘎大家族"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "加入咕嘎与 3 分两名 NPC。咕嘎可在雪原遇见，完成对话条件后可入住并跟随冒险。"
+        }
+      }
+    },
+    {
       "uid": "47f60fb6-0b46-453e-b19e-389867412da8",
       "id": "improvedmovement",
       "name": "Improved Movement",

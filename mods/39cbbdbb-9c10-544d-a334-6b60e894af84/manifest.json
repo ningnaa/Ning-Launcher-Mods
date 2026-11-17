@@ -27,7 +27,7 @@
     }
   ],
   "license": "",
-  "description": "受伤与低血量画面提醒、角色血条、药水就绪提示和减益提示，支持灰度、音效、音乐衰减与排除名单。",
+  "description": "受伤与低血量画面提醒、角色血条、药水就绪提示和减益提示，支持灰度、音效、音乐衰减与排除名单。\n\n本模组仅供参考交流，严禁商用及倒卖，侵权即删。\n",
   "portEdition": {
     "originalName": "HP Awareness",
     "sourceVersion": "1.0.6.1",

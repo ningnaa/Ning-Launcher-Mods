@@ -27,7 +27,7 @@
     }
   ],
   "license": "MIT",
-  "description": "在原生商店中翻阅完整商品列表，提供独立回购页及模组商店兼容接口。原作者与维护者 DRKV、Exterminator；移植者柠娜。",
+  "description": "在原生商店中翻阅完整商品列表，提供独立回购页及模组商店兼容接口。原作者与维护者 DRKV、Exterminator；移植者柠娜。\n\n本模组仅供参考交流，严禁商用及倒卖，侵权即删。\n",
   "portEdition": {
     "originalName": "Shop Expander",
     "sourceVersion": "1.8.1",

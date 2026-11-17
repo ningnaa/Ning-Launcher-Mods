@@ -26,7 +26,7 @@
     }
   ],
   "license": "",
-  "description": "查询配方、材料用途、物品来源与制作路径，并收藏需要的配方。",
+  "description": "查询配方、材料用途、物品来源与制作路径，并收藏需要的配方。\n\n本模组仅供参考交流，严禁商用及倒卖，侵权即删。\n",
   "portEdition": {
     "originalName": "Recipe Browser",
     "sourceVersion": "0.12.0.3",

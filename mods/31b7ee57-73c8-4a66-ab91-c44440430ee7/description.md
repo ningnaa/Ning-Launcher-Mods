@@ -21,4 +21,4 @@ Port of the tModLoader mod *Abuse Goblin*.
 Available in English, Portuguese, Spanish, French, German, Italian, Polish,
 Russian, Chinese (Simplified and Traditional), Japanese and Korean.
 
-本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。
+本模组仅供参考交流，严禁商用及倒卖，侵权即删。

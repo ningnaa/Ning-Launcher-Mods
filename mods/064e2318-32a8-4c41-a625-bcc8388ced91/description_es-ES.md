@@ -43,4 +43,4 @@ colocar con doble toque y el punto de anclaje predeterminado.
 Mod original de **Korlex**, portado por Animatak_. Los edificios vienen de los
 archivos originales (StructureHelper viene incluido, no hace falta otro mod).
 
-本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。
+本模组仅供参考交流，严禁商用及倒卖，侵权即删。

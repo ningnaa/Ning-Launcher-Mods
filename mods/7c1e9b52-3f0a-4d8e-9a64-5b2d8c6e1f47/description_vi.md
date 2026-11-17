@@ -73,4 +73,4 @@ GIF được giải mã ngay trong game, chia thành nhiều lát nhỏ rải qu
 - Các khung của theme đang dùng vẫn nằm trong bộ nhớ sau khi bạn vào thế giới.
 - Nhạc của theme chỉ phát khi theme đó đang được chọn.
 
-本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。
+本模组仅供参考交流，严禁商用及倒卖，侵权即删。

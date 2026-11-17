@@ -20,4 +20,4 @@ Features 43 vanity items, character outfits and faces, animated hair and tails, 
 
 Special thanks to Nyacro for granting permission to port the mod.
 
-本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。
+本模组仅供参考交流，严禁商用及倒卖，侵权即删。

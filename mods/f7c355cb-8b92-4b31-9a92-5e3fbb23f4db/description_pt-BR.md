@@ -44,4 +44,4 @@ O Split pertence aos seus autores originais: **Doctor Hummer, Instrex, Cloud, Lu
 
 **1.0.5-ningzh.2** · As luas coloridas surgem ao lado das estrelas cadentes originais, que mantêm a queda e a coleta.
 
-本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。
+本模组仅供参考交流，严禁商用及倒卖，侵权即删。

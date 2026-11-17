@@ -21,4 +21,4 @@
 
 [原创意工坊页面](https://steamcommunity.com/sharedfiles/filedetails/?id=3402763063) | [原版源代码](https://github.com/rzc00d3r/MitaNPC)
 
-本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。
+本模组仅供参考交流，严禁商用及倒卖，侵权即删。

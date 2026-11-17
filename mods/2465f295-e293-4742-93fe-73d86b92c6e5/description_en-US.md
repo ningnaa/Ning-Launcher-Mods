@@ -69,4 +69,4 @@ Two small slips of the original are fixed: the Twins dropped their item from
 each twin instead of the last one, and Kogasa never talked again after her
 first boss fight.
 
-本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。
+本模组仅供参考交流，严禁商用及倒卖，侵权即删。

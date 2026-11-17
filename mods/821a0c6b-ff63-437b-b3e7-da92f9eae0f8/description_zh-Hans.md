@@ -49,4 +49,4 @@ export default class MyMod extends Mod {
 mod.value.Call(1, ModContent.ItemType('ExampleItem'), 'https://terrariamods.wiki.gg/wiki/MyMod/CustomWikiPage')
 ```
 
-本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。
+本模组仅供参考交流，严禁商用及倒卖，侵权即删。

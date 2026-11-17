@@ -40,4 +40,4 @@ the default anchor point.
 Original mod by **Korlex**, ported by Animatak_. The buildings come from the
 original files (StructureHelper is built in, no extra mod needed).
 
-本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。
+本模组仅供参考交流，严禁商用及倒卖，侵权即删。

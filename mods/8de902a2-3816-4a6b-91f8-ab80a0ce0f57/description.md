@@ -46,4 +46,4 @@ Teleports are saved in the world and, in multiplayer, are the same for every
 player. In-game texts in English, Portuguese, Spanish, Italian, French, German
 and Russian.
 
-本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。
+本模组仅供参考交流，严禁商用及倒卖，侵权即删。

@@ -33,4 +33,4 @@
 - 其他模组可通过 `Mod.Call` 添加支持，接口名称与 Quality of Terraria 一致：`IgnoreInfItem`、`AddPotion`、`AddStation`、`AddPortableCraftingStation`。
 - 选项按设备保存，多人游戏中每位玩家分别设置。
 
-本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。
+本模组仅供参考交流，严禁商用及倒卖，侵权即删。

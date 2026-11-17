@@ -44,4 +44,4 @@ Split belongs to its original authors: **Doctor Hummer, Instrex, Cloud, Lunatix 
 
 **1.0.5-ningzh.2** · Colored moons now spawn alongside normal falling stars, so vanilla Fallen Stars can still land and drop.
 
-本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。
+本模组仅供参考交流，严禁商用及倒卖，侵权即删。

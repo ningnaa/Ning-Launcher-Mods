@@ -25,4 +25,4 @@ O gerador original de `makeTemple` nunca é chamado. Se ocorrer um erro, ele é 
 
 Use apenas uma versão do gerador: o pacote ou o script do Editor. Outros mods que substituam `makeTemple` também disputam essa geração.
 
-本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。
+本模组仅供参考交流，严禁商用及倒卖，侵权即删。

@@ -42,4 +42,4 @@ moves between slots goes to the host and comes back to everyone.
 
 Logs: `bl.log` lines appear in the game's log file, starting with `Shared inventory: ...`.
 
-本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。
+本模组仅供参考交流，严禁商用及倒卖，侵权即删。

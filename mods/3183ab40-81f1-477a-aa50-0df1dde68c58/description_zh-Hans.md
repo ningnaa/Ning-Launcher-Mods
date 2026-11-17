@@ -78,4 +78,4 @@ tModLoader 版 Touhou Little Friend、Pet House 和 Pet House Stories 不能由 
 
 采用 **GPL-3.0** 许可证分发，并附带 JavaScript 源代码。
 
-本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。
+本模组仅供参考交流，严禁商用及倒卖，侵权即删。

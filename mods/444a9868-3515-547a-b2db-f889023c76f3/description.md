@@ -13,4 +13,4 @@
 
 原作 Census - Town NPC Checklist 0.5.2.8，原作者 jopojelly；Bunny Loader 移植者：柠娜。
 
-本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。
+本模组仅供参考交流，严禁商用及倒卖，侵权即删。

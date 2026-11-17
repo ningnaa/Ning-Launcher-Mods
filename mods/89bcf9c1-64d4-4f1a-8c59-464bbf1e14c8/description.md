@@ -28,4 +28,4 @@ Quality-of-life tweaks for Terraria Mobile, **inspired by Quality of Terraria** 
 - Other mods can add support through `Mod.Call` with the same names as Quality of Terraria: `IgnoreInfItem`, `AddPotion`, `AddStation`, `AddPortableCraftingStation`.
 - Options are per device; in multiplayer each player sets their own.
 
-本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。
+本模组仅供参考交流，严禁商用及倒卖，侵权即删。

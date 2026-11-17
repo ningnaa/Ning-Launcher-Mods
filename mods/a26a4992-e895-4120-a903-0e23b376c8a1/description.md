@@ -16,4 +16,4 @@ When you receive healing while already near full health, the part that does not 
 - Healing is detected through the game's heal effect, so potions, hearts, lifesteal and similar all count. Poison/burning and other damage that does not go through the game's normal hurt call is not absorbed by overhealth.
 - Local player only (other players' overhealth bars in multiplayer are not shown).
 
-本移植版模组由柠娜维护，且仅供参考交流，严禁商用及倒卖，侵权即删。
+本模组仅供参考交流，严禁商用及倒卖，侵权即删。

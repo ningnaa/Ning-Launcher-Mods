@@ -1754,8 +1754,10 @@
         "manifest.json",
         "icon.png",
         "banner.png",
+        "description.md",
         "changelog.md",
-        "changelog_zh-Hans.md"
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md"
       ],
       "manifest": {
         "uid": "dbd792e9-9b39-4e9a-af8e-2f940f0b7b11",
@@ -1776,6 +1778,10 @@
         "dependencies": [],
         "localizedNames": {
           "zh-Hans": "咕嘎大家族"
+        },
+        "summary": "Adds Guga and Fen3 as NPCs. Meet Guga in the Snow biome and meet its dialogue requirements to invite it to town or have it follow you.",
+        "localizedSummaries": {
+          "zh-Hans": "加入咕嘎与 3 分两名 NPC。咕嘎可在雪原遇见，完成对话条件后可入住并跟随冒险。"
         }
       }
     },
@@ -1997,9 +2003,11 @@
         "manifest.json",
         "icon.png",
         "banner.png",
+        "description.md",
         "changelog.md",
         "license.md",
         "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
         "authors/avatar.png",
         "authors/avatar_chen.png",
         "authors/avatar_p03.png"
@@ -2042,6 +2050,11 @@
         "localizedNames": {
           "zh-Hans": "至尊长袍",
           "en-US": "Supreme Robe"
+        },
+        "description": "七彩法师胸甲，可选两种宝石效果，并可搭配原版头盔和护腿继承套装效果。",
+        "summary": "七彩法师胸甲，可选两种宝石效果，并可搭配原版头盔和护腿继承套装效果。",
+        "localizedSummaries": {
+          "zh-Hans": "七彩法师胸甲，可选两种宝石效果，并可搭配原版头盔和护腿继承套装效果。"
         }
       }
     },

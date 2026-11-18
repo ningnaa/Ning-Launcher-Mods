@@ -11,11 +11,15 @@
     }
   ],
   "category": "NPC",
+  "summary": "Adds Guga and Fen3 as NPCs. Meet Guga in the Snow biome and meet its dialogue requirements to invite it to town or have it follow you.",
   "updated": "2026-11-17",
   "blVersion": 2,
   "entry": "main.js",
   "dependencies": [],
   "localizedNames": {
     "zh-Hans": "咕嘎大家族"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "加入咕嘎与 3 分两名 NPC。咕嘎可在雪原遇见，完成对话条件后可入住并跟随冒险。"
   }
 }

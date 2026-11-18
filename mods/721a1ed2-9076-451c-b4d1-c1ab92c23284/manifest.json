@@ -24,6 +24,8 @@
     }
   ],
   "category": "装备",
+  "summary": "七彩法师胸甲，可选两种宝石效果，并可搭配原版头盔和护腿继承套装效果。",
+  "description": "七彩法师胸甲，可选两种宝石效果，并可搭配原版头盔和护腿继承套装效果。",
   "license": "MIT",
   "updated": "2026-11-17",
   "blVersion": 2,
@@ -36,5 +38,8 @@
   "localizedNames": {
     "zh-Hans": "至尊长袍",
     "en-US": "Supreme Robe"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "七彩法师胸甲，可选两种宝石效果，并可搭配原版头盔和护腿继承套装效果。"
   }
 }

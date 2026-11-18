@@ -42,5 +42,3 @@ piazzamento con doppio tocco e il punto di ancoraggio predefinito.
 
 Mod originale di **Korlex**, portata da Animatak_. Gli edifici vengono dai file
 originali (StructureHelper è incluso, non serve un'altra mod).
-
-本模组仅供参考交流，严禁商用及倒卖，侵权即删。

@@ -42,5 +42,3 @@ if (ModLoader.TryGetMod('coloreddamagetypes', cdt)) {
 所有玩家都安装模组时，其他玩家的伤害数字也会显示对应职业的颜色，但亮度略低。
 
 支持 12 种语言。
-
-本模组仅供参考交流，严禁商用及倒卖，侵权即删。

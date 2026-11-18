@@ -41,5 +41,3 @@ moves between slots goes to the host and comes back to everyone.
    the inventory and life match everywhere.
 
 Logs: `bl.log` lines appear in the game's log file, starting with `Shared inventory: ...`.
-
-本模组仅供参考交流，严禁商用及倒卖，侵权即删。

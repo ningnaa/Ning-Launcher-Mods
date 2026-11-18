@@ -49,5 +49,3 @@ Tap a button to use it, or hold your finger on it to see what it does.
 early steps. **Map Preview** turns the live map on or off.
 
 Port of *WorldGen Previewer* by jopojelly (tModLoader).
-
-本模组仅供参考交流，严禁商用及倒卖，侵权即删。

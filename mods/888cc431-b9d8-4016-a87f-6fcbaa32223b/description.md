@@ -92,5 +92,3 @@ Use the **Change Shop** button to flip through her pages.
 > [!NOTE]
 > Join the Teto Discord for updates: https://discord.gg/f5ZYcYTXTE. The
 > welcome message in chat can be turned off in the mod's config.
-
-本模组仅供参考交流，严禁商用及倒卖，侵权即删。

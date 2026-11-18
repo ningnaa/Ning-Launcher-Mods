@@ -45,5 +45,3 @@ Open the **map** and tap a teleport's icon to travel to it.
 Teleports are saved in the world and, in multiplayer, are the same for every
 player. In-game texts in English, Portuguese, Spanish, Italian, French, German
 and Russian.
-
-本模组仅供参考交流，严禁商用及倒卖，侵权即删。

@@ -11,5 +11,3 @@
 [c/DA9C6E:We want to add more content in the future, so stay tuned!]
 
 > To keep up with the development process, feel free to join our subreddit **r/Terrarchitect**.
-
-本模组仅供参考交流，严禁商用及倒卖，侵权即删。

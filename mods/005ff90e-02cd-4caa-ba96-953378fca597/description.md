@@ -5,5 +5,3 @@ Consumable pickups (life hearts, mana stars, and Nebula boosters) can no longer 
 No more having to watch your step when setting up an oddly-specific arena in singleplayer!
 
 No more watching the tank steal all your mana drops in multiplayer!
-
-本模组仅供参考交流，严禁商用及倒卖，侵权即删。

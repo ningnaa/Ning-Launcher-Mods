@@ -12,5 +12,3 @@ Itens sem dano não são tocados.
 > [!TIP]
 > É o menor mod que faz alguma coisa: o `content/main.js` tem poucas linhas e é
 > um bom primeiro arquivo para ler.
-
-本模组仅供参考交流，严禁商用及倒卖，侵权即删。

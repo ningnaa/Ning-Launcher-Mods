@@ -55,5 +55,3 @@ and slime stiffness and damping, and more.
 
 Original mod by **LevitatingGT** for tModLoader, ported to Bunny Loader by
 **Animatak_**.
-
-本模组仅供参考交流，严禁商用及倒卖，侵权即删。

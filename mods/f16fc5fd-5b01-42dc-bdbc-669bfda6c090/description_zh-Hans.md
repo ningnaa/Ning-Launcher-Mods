@@ -57,5 +57,3 @@ wo.Call('RegisterItemSpriteTurn', ModContent.ItemType(MySpear), 90); // turns th
 - 电脑版模组联动，如灾厄、瑟银和 Overhaul 等，不适用于此移植版。
 
 支持英语、葡萄牙语、西班牙语、法语、德语、意大利语、波兰语、俄语、简体中文、繁体中文、日语和韩语。
-
-本模组仅供参考交流，严禁商用及倒卖，侵权即删。

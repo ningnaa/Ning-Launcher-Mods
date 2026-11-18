@@ -28,5 +28,3 @@ of the creature; the right side has the settings:
 - **Invisible Block**: hides the projector itself and leaves only the hologram.
 
 The settings are saved with the world and synced in multiplayer.
-
-本模组仅供参考交流，严禁商用及倒卖，侵权即删。

@@ -23,5 +23,3 @@
 
 > [!WARNING]
 > 原模组由 GST378 制作，infinity_slime 将其移植到 Bunny Loader。
-
-本模组仅供参考交流，严禁商用及倒卖，侵权即删。

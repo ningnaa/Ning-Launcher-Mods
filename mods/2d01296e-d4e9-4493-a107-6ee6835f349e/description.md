@@ -33,5 +33,3 @@ Each effect can be turned off in the settings, and the light strength goes from
 > multiplayer.
 
 Available in 12 languages.
-
-本模组仅供参考交流，严禁商用及倒卖，侵权即删。

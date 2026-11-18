@@ -59,5 +59,3 @@ Created by **Nyacro**, Lantern Slot adds a dedicated equipment slot for lanterns
 **Minecraft visual assets:** Mojang, as credited by the original creator.
 
 :::
-
-本模组仅供参考交流，严禁商用及倒卖，侵权即删。

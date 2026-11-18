@@ -40,5 +40,3 @@ de encaixe padrão.
 
 Mod original de **Korlex**, port por Animatak_. As construções vêm dos arquivos
 originais (o StructureHelper vem embutido, sem precisar de outro mod).
-
-本模组仅供参考交流，严禁商用及倒卖，侵权即删。

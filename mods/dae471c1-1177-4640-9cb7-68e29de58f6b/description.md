@@ -55,5 +55,3 @@ Consolaria brings this unique content back, reworked and rebalanced for modern T
 - **KaffaZ** - Brazilian Portuguese localization
 - **infinity_slime** - Chinese localization
 :::
-
-本模组仅供参考交流，严禁商用及倒卖，侵权即删。

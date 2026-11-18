@@ -21,5 +21,3 @@ Some interfaces can be dragged. To exit photo mode, click on the bottom center o
 
 > [!WARNING]
 > Original mod by GST378, ported to Bunny Loader by infinity_slime
-
-本模组仅供参考交流，严禁商用及倒卖，侵权即删。

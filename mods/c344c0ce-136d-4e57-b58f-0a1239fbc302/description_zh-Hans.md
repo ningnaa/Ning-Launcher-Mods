@@ -14,5 +14,3 @@
 
 - **CeleryMan**：原模组（[Steam 创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=2956773024)）。
 - **Bloa**：Bunny Loader 移植。
-
-本模组仅供参考交流，严禁商用及倒卖，侵权即删。

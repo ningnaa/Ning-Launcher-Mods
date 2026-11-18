@@ -44,5 +44,3 @@ Doppeltippen und der Standard-Ankerpunkt.
 
 Originaler Mod von **Korlex**, portiert von Animatak_. Die Gebäude stammen aus
 den Originaldateien (StructureHelper ist eingebaut, kein weiterer Mod nötig).
-
-本模组仅供参考交流，严禁商用及倒卖，侵权即删。

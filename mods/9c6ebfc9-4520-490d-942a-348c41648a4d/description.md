@@ -7,5 +7,3 @@ This update introduces a cleaner and more modern interface that blends seamlessl
 ![](assets/preview.png)
 
 > Fully compatible with all prefixes available in the game
-
-本模组仅供参考交流，严禁商用及倒卖，侵权即删。

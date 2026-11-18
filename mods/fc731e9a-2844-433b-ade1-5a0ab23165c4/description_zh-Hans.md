@@ -9,5 +9,3 @@
 
 > [!NOTE]
 > 这也是 Bunny Loader 的示例模组：`content/main.js` 顶部的注释记录了完整 API。
-
-本模组仅供参考交流，严禁商用及倒卖，侵权即删。

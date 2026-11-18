@@ -23,5 +23,3 @@ head, its name and a witty subtitle.
 
 Each world remembers which NPCs were already announced. Every vanilla Town
 NPC has its own subtitles; other NPCs use their name and a default subtitle.
-
-本模组仅供参考交流，严禁商用及倒卖，侵权即删。

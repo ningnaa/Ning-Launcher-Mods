@@ -68,5 +68,3 @@ This port is under the same license.
 Two small slips of the original are fixed: the Twins dropped their item from
 each twin instead of the last one, and Kogasa never talked again after her
 first boss fight.
-
-本模组仅供参考交流，严禁商用及倒卖，侵权即删。

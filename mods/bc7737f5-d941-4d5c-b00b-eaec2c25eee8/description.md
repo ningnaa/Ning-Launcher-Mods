@@ -69,5 +69,3 @@ Craft these at an **Iron Anvil or Lead Anvil**.
 - **Magic Storage:** original mod by Kaylee Minsuh Kim, absoluteAquarian and contributors, released under the MIT License.
 
 This is a fan-made adaptation and is not affiliated with or endorsed by the creators of Magic Storage.
-
-本模组仅供参考交流，严禁商用及倒卖，侵权即删。

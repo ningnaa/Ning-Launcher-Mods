@@ -24,5 +24,3 @@ if (ModLoader.TryGetMod('tooltipicon', ti)) {
 ```
 
 请在 `PostSetupContent` 中调用。
-
-本模组仅供参考交流，严禁商用及倒卖，侵权即删。

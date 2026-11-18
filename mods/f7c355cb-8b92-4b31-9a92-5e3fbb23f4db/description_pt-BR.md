@@ -43,5 +43,3 @@ Centenas de armas (raquetes, espadões pesados, lacaios, sentinelas, chicotes, i
 O Split pertence aos seus autores originais: **Doctor Hummer, Instrex, Cloud, Lunatix e Jackspy**. Este port é um trabalho de fã para o Bunny Loader, e todo o mérito do conteúdo é deles. Gostou? Apoie o Split original pelos botões no topo da página.
 
 **1.0.5-ningzh.2** · As luas coloridas surgem ao lado das estrelas cadentes originais, que mantêm a queda e a coleta.
-
-本模组仅供参考交流，严禁商用及倒卖，侵权即删。

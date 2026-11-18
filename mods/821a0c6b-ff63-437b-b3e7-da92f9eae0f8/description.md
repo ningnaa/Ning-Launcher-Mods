@@ -44,5 +44,3 @@ Sometimes the combination of URL + item name may not be sufficient; for this, yo
 ```js
 mod.value.Call(1, ModContent.ItemType('ExampleItem'), 'https://terrariamods.wiki.gg/wiki/MyMod/CustomWikiPage')
 ```
-
-本模组仅供参考交流，严禁商用及倒卖，侵权即删。

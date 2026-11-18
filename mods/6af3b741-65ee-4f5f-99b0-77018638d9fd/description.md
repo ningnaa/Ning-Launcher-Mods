@@ -33,5 +33,3 @@ O mod não faz varreduras pesadas no mundo. O bloqueio acontece diretamente dura
 
 > [!IMPORTANT]
 > Este é um port para **Bunny Loader**. Todo o crédito pelo conceito e pelo mod original pertence ao seu autor original.
-
-本模组仅供参考交流，严禁商用及倒卖，侵权即删。

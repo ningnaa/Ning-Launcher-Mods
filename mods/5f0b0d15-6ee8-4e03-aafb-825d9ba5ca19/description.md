@@ -30,5 +30,3 @@ if (ModLoader.TryGetMod('tooltipicon', ti)) {
 ```
 
 Call it from `PostSetupContent`.
-
-本模组仅供参考交流，严禁商用及倒卖，侵权即删。

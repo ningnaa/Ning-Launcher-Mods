@@ -7,5 +7,3 @@ dá sempre zero.
 
 > [!NOTE]
 > Não mexe em gravidade nem em velocidade: você cai igual, só não se machuca.
-
-本模组仅供参考交流，严禁商用及倒卖，侵权即删。

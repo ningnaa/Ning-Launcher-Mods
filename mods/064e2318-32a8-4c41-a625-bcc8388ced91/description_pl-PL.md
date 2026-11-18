@@ -43,5 +43,3 @@ dotknięciem i domyślny punkt zaczepienia.
 Oryginalny mod autorstwa **Korlex**, przeniesiony przez Animatak_. Budynki
 pochodzą z oryginalnych plików (StructureHelper jest wbudowany, inny mod nie
 jest potrzebny).
-
-本模组仅供参考交流，严禁商用及倒卖，侵权即删。

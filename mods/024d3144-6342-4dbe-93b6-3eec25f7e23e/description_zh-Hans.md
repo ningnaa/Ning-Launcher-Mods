@@ -50,5 +50,3 @@ Wind|![](doc/PlacedVisuals/Wind.png)| 2x2
 :::
 
 感谢 **dylan#3865** 提供展示图片！
-
-本模组仅供参考交流，严禁商用及倒卖，侵权即删。

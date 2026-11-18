@@ -1,7 +1,9 @@
-## Guga Family 1.9.0 (2026-11-17)
+## 咕嘎大家族 1.9.7 · 2026-11-19
 
-- First catalog listing of version 1.9.0, which includes Guga and Fen3.
-- Meet Guga in the Snow biome and use its dialogue options to move in, follow or return home.
-- Restart the game after enabling the mod. Multiplayer compatibility has not been verified.
+- 更新咕嘎远距离跟随时的飞行动画，加入背包喷射粒子和循环飞行音效。
+- 咕嘎弹命中后增加随机爆炸动画，并调整弹幕的索敌、追踪和命中处理。
+- 重新进入世界后，已经受邀入住的咕嘎会回到房屋或重生点。
 
-Original author: 建国. Catalog maintained by 柠版泰拉启动器.
+适用范围：柠版泰拉启动器 JS 模组，无额外前置。包内未限定运行库版本。
+
+制作：3分。早期版本原作者署名：建国。目录维护：柠版泰拉启动器。

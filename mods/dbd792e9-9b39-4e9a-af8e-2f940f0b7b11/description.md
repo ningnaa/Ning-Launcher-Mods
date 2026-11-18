@@ -1,6 +1,7 @@
 # Guga Family
 
-Adds Guga and Fen3 as NPCs. Meet Guga in the Snow biome and meet its dialogue requirements to invite it to town or have it follow you. Talk to Guga to see the options for moving in, following or returning home.
+Meet Guga in the Snow biome and offer it any fish to invite it to town. After recruiting it, you can ask it to follow you or return to town. Fen3 also appears at the spawn point of a new world.
 
+Creator: 3fen. Original author credit in earlier releases: 建国. Catalog maintainer: 柠版泰拉启动器.
 
-Original author: 建国.
+Author contact: QQ 752193064

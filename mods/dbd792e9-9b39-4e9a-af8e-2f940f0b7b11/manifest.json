@@ -2,17 +2,26 @@
   "uid": "dbd792e9-9b39-4e9a-af8e-2f940f0b7b11",
   "id": "gugafen3",
   "name": "咕嘎大家族",
-  "version": "1.9.0",
+  "version": "1.9.7",
   "authors": [
     {
-      "name": "建国",
-      "role": "原作者",
+      "name": "3分",
+      "role": "制作",
       "color": "#2f6f6a"
+    },
+    {
+      "name": "建国",
+      "role": "早期版本原作者",
+      "color": "#2f6f6a"
+    },
+    {
+      "name": "柠版泰拉启动器",
+      "role": "目录维护"
     }
   ],
   "category": "NPC",
-  "summary": "Adds Guga and Fen3 as NPCs. Meet Guga in the Snow biome and meet its dialogue requirements to invite it to town or have it follow you.",
-  "updated": "2026-11-17",
+  "summary": "Guga and Fen3 join the world as NPCs. Guga can be recruited in the Snow biome and follow you on adventures.",
+  "updated": "2026-11-19",
   "blVersion": 2,
   "entry": "main.js",
   "dependencies": [],
@@ -20,6 +29,7 @@
     "zh-Hans": "咕嘎大家族"
   },
   "localizedSummaries": {
-    "zh-Hans": "加入咕嘎与 3 分两名 NPC。咕嘎可在雪原遇见，完成对话条件后可入住并跟随冒险。"
+    "en-US": "Guga and Fen3 join the world as NPCs. Guga can be recruited in the Snow biome and follow you on adventures.",
+    "zh-Hans": "雪原可遇见咕嘎，用鱼邀请它入住，之后可带它一起冒险。模组也包含在新世界重生点出现的 3 分。"
   }
 }

@@ -1,0 +1,42 @@
+{
+  "uid": "a8e41c92-3b7d-4e9a-9f12-7c5b8d402310",
+  "id": "SeraphicTempest",
+  "name": "万象风鸣长弓",
+  "localizedNames": {
+    "en-US": "Tempest of Many Forms",
+    "zh-Hans": "万象风鸣长弓"
+  },
+  "localizedSummaries": {
+    "en-US": "A starforged bow with four switchable forms and ten stages unlocked through boss progression.",
+    "zh-Hans": "用碎象星核合成长弓，切换苍风、炽焰、星轮、终焉四重形态，随 Boss 进度解锁十个境阶。"
+  },
+  "version": "0.9.3-ning.1",
+  "authors": [
+    {
+      "name": "哈基米",
+      "role": "主制作 / Lead Developer",
+      "color": "#4FC3F7"
+    },
+    {
+      "name": "力力丝",
+      "role": "联合制作 / Co-Creator",
+      "color": "#FF6A3D"
+    },
+    {
+      "name": "柠版泰拉启动器",
+      "role": "目录维护"
+    }
+  ],
+  "category": "武器",
+  "summary": "A starforged bow with four switchable forms and ten stages unlocked through boss progression.",
+  "license": "MIT",
+  "updated": "2026-11-19",
+  "blVersion": 2,
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "entry": "main.js",
+  "dependencies": [],
+  "links": []
+}

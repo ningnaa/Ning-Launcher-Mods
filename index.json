@@ -1744,11 +1744,11 @@
       "uid": "dbd792e9-9b39-4e9a-af8e-2f940f0b7b11",
       "id": "gugafen3",
       "name": "咕嘎大家族",
-      "version": "1.9.0",
+      "version": "1.9.7",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-gugafen3-v1.9.0/gugafen3-1.9.0.bl",
-        "sha256": "6367baec6d3efb0032afdf700d6abaaaa85353ecae30581a4cc1791130716326",
-        "size": 944851
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-gugafen3-v1.9.7/gugafen3-1.9.7.bl",
+        "sha256": "55ec79fe3f61c56f51c41e61a639df61539a5b9d5e6f34a316ca183c29acbcbb",
+        "size": 556164
       },
       "files": [
         "manifest.json",
@@ -1763,27 +1763,39 @@
         "uid": "dbd792e9-9b39-4e9a-af8e-2f940f0b7b11",
         "id": "gugafen3",
         "name": "咕嘎大家族",
-        "version": "1.9.0",
+        "version": "1.9.7",
         "authors": [
           {
-            "name": "建国",
-            "role": "原作者",
+            "name": "3分",
+            "role": "制作",
             "color": "#2f6f6a"
+          },
+          {
+            "name": "建国",
+            "role": "早期版本原作者",
+            "color": "#2f6f6a"
+          },
+          {
+            "name": "柠版泰拉启动器",
+            "role": "目录维护"
           }
         ],
         "category": "NPC",
-        "updated": "2026-11-17",
+        "summary": "Guga and Fen3 join the world as NPCs. Guga can be recruited in the Snow biome and follow you on adventures.",
+        "updated": "2026-11-19",
         "blVersion": 2,
         "entry": "main.js",
         "dependencies": [],
         "localizedNames": {
           "zh-Hans": "咕嘎大家族"
         },
-        "summary": "Adds Guga and Fen3 as NPCs. Meet Guga in the Snow biome and meet its dialogue requirements to invite it to town or have it follow you.",
         "localizedSummaries": {
-          "zh-Hans": "加入咕嘎与 3 分两名 NPC。咕嘎可在雪原遇见，完成对话条件后可入住并跟随冒险。"
+          "en-US": "Guga and Fen3 join the world as NPCs. Guga can be recruited in the Snow biome and follow you on adventures.",
+          "zh-Hans": "雪原可遇见咕嘎，用鱼邀请它入住，之后可带它一起冒险。模组也包含在新世界重生点出现的 3 分。"
         }
-      }
+      },
+      "runtime": "js",
+      "updatedAt": "2026-11-18T16:38:00Z"
     },
     {
       "uid": "47f60fb6-0b46-453e-b19e-389867412da8",
@@ -6884,6 +6896,70 @@
       "updatedAt": "2026-11-17T03:33:38Z",
       "publishedAt": "2026-11-17T03:33:38Z",
       "runtime": "js"
+    },
+    {
+      "uid": "a8e41c92-3b7d-4e9a-9f12-7c5b8d402310",
+      "id": "SeraphicTempest",
+      "name": "万象风鸣长弓",
+      "version": "0.9.3-ning.1",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-SeraphicTempest-v0.9.3-ning.1/SeraphicTempest-0.9.3-ning.1.bl",
+        "sha256": "22d45fe8dcf63461f4a310ad54999660bf052635e0921310a92319c461241c55",
+        "size": 4815737
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md"
+      ],
+      "manifest": {
+        "uid": "a8e41c92-3b7d-4e9a-9f12-7c5b8d402310",
+        "id": "SeraphicTempest",
+        "name": "万象风鸣长弓",
+        "localizedNames": {
+          "en-US": "Tempest of Many Forms",
+          "zh-Hans": "万象风鸣长弓"
+        },
+        "localizedSummaries": {
+          "en-US": "A starforged bow with four switchable forms and ten stages unlocked through boss progression.",
+          "zh-Hans": "用碎象星核合成长弓，切换苍风、炽焰、星轮、终焉四重形态，随 Boss 进度解锁十个境阶。"
+        },
+        "version": "0.9.3-ning.1",
+        "authors": [
+          {
+            "name": "哈基米",
+            "role": "主制作 / Lead Developer",
+            "color": "#4FC3F7"
+          },
+          {
+            "name": "力力丝",
+            "role": "联合制作 / Co-Creator",
+            "color": "#FF6A3D"
+          },
+          {
+            "name": "柠版泰拉启动器",
+            "role": "目录维护"
+          }
+        ],
+        "category": "武器",
+        "summary": "A starforged bow with four switchable forms and ten stages unlocked through boss progression.",
+        "license": "MIT",
+        "updated": "2026-11-19",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": [],
+        "links": []
+      },
+      "runtime": "js",
+      "updatedAt": "2026-11-18T16:38:00Z",
+      "publishedAt": "2026-11-18T16:38:00Z"
     }
   ],
   "featured": [

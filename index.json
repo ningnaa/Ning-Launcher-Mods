@@ -1984,56 +1984,6 @@
       "runtime": "js"
     },
     {
-      "uid": "a8e41c92-3b7d-4e9a-9f12-7c5b8d402310",
-      "id": "SeraphicTempest",
-      "name": "万翼圣咏神弓",
-      "version": "0.9.3",
-      "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-SeraphicTempest-v0.9.3/SeraphicTempest-0.9.3.bl",
-        "sha256": "07af931e83dc84ff502c0279b6bc472abc4c706dd64826604c36e45c2b7a0e96",
-        "size": 4816389
-      },
-      "files": [
-        "manifest.json",
-        "icon.png",
-        "changelog.md",
-        "changelog_zh-Hans.md"
-      ],
-      "manifest": {
-        "uid": "a8e41c92-3b7d-4e9a-9f12-7c5b8d402310",
-        "id": "SeraphicTempest",
-        "name": "万翼圣咏神弓",
-        "localizedNames": {
-          "en-US": "Choir of Many Wings",
-          "zh-Hans": "万翼圣咏神弓"
-        },
-        "version": "0.9.3",
-        "authors": [
-          {
-            "name": "力力丝",
-            "role": "原作者",
-            "color": "#FF6A3D"
-          },
-          {
-            "name": "哈基米",
-            "role": "主制作 / Lead Developer",
-            "color": "#4FC3F7"
-          }
-        ],
-        "category": "武器",
-        "license": "MIT",
-        "updated": "2026-11-17",
-        "blVersion": 2,
-        "gameVersion": [
-          301720,
-          301720
-        ],
-        "entry": "main.js",
-        "dependencies": [],
-        "links": []
-      }
-    },
-    {
       "uid": "721a1ed2-9076-451c-b4d1-c1ab92c23284",
       "id": "supreme_robe",
       "name": "至尊长袍",

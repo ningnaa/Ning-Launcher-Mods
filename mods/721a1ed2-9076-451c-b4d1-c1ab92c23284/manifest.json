@@ -2,7 +2,7 @@
   "uid": "721a1ed2-9076-451c-b4d1-c1ab92c23284",
   "id": "supreme_robe",
   "name": "至尊长袍",
-  "version": "1.0",
+  "version": "1.1",
   "authors": [
     {
       "name": "木木Mokuzai",
@@ -24,10 +24,10 @@
     }
   ],
   "category": "装备",
-  "summary": "七彩法师胸甲，可选两种宝石效果，并可搭配原版头盔和护腿继承套装效果。",
-  "description": "七彩法师胸甲，可选两种宝石效果，并可搭配原版头盔和护腿继承套装效果。",
+  "summary": "七彩长袍可选宝石词条，1.1 增加困难模式可合成的饮血之袍及泣血、血怒、战魂三种血术。",
+  "description": "七彩长袍可选宝石词条，1.1 增加困难模式可合成的饮血之袍及泣血、血怒、战魂三种血术。",
   "license": "MIT",
-  "updated": "2026-11-17",
+  "updated": "2026-11-19",
   "blVersion": 2,
   "gameVersion": [
     301720,
@@ -36,10 +36,9 @@
   "entry": "main.js",
   "dependencies": [],
   "localizedNames": {
-    "zh-Hans": "至尊长袍",
-    "en-US": "Supreme Robe"
+    "zh-Hans": "至尊长袍"
   },
   "localizedSummaries": {
-    "zh-Hans": "七彩法师胸甲，可选两种宝石效果，并可搭配原版头盔和护腿继承套装效果。"
+    "zh-Hans": "七彩长袍可选宝石词条，1.1 增加困难模式可合成的饮血之袍及泣血、血怒、战魂三种血术。"
   }
 }

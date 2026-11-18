@@ -1754,10 +1754,8 @@
         "manifest.json",
         "icon.png",
         "banner.png",
-        "description.md",
         "changelog.md",
-        "changelog_zh-Hans.md",
-        "description_zh-Hans.md"
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "dbd792e9-9b39-4e9a-af8e-2f940f0b7b11",
@@ -1772,16 +1770,12 @@
           }
         ],
         "category": "NPC",
-        "summary": "Adds Guga and Fen3 as NPCs. Meet Guga in the Snow biome and meet its dialogue requirements to invite it to town or have it follow you.",
         "updated": "2026-11-17",
         "blVersion": 2,
         "entry": "main.js",
         "dependencies": [],
         "localizedNames": {
           "zh-Hans": "咕嘎大家族"
-        },
-        "localizedSummaries": {
-          "zh-Hans": "加入咕嘎与 3 分两名 NPC。咕嘎可在雪原遇见，完成对话条件后可入住并跟随冒险。"
         }
       }
     },
@@ -2002,10 +1996,8 @@
       "files": [
         "manifest.json",
         "icon.png",
-        "description.md",
         "changelog.md",
-        "changelog_zh-Hans.md",
-        "description_zh-Hans.md"
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "a8e41c92-3b7d-4e9a-9f12-7c5b8d402310",
@@ -2014,10 +2006,6 @@
         "localizedNames": {
           "en-US": "Choir of Many Wings",
           "zh-Hans": "万翼圣咏神弓"
-        },
-        "localizedSummaries": {
-          "en-US": "An ancient celestial bow forged from the First Wind and fallen starlight. Shift freely between four angelic voices and awaken deeper hymns as Terraria's bosses fall.",
-          "zh-Hans": "用折翼圣核合成神弓，在四种圣咏形态间切换，并随 Boss 进度解锁十个境阶。"
         },
         "version": "0.9.3",
         "authors": [
@@ -2033,7 +2021,6 @@
           }
         ],
         "category": "武器",
-        "summary": "用折翼圣核合成神弓，在四种圣咏形态间切换，并随 Boss 进度解锁十个境阶。",
         "license": "MIT",
         "updated": "2026-11-17",
         "blVersion": 2,
@@ -2043,8 +2030,7 @@
         ],
         "entry": "main.js",
         "dependencies": [],
-        "links": [],
-        "description": "# 万翼圣咏神弓 (Choir of Many Wings)\n\n由天穹初风与坠落星辉锻造而成的古老圣弓，弓身铭刻着四重天阶的共鸣圣印。\n\n- **世界唯一获取**：击败敌怪时有概率凝结唯一的「折翼圣核」，在制作栏徒手即可重铸为《万翼圣咏神弓》（每个世界仅掉落一次）。\n- **四重圣咏共鸣**：轻触屏幕上方圣眼即可在苍风、烈焰、天轮、终焉四重形态间自由切换。\n- **十重封印苏醒**：随泰拉世界的强敌逐一陨落，圣弓将同步进化至最终境阶。\n\n原作者：力力丝。主制作：哈基米。许可：MIT（源包清单标注）。\n"
+        "links": []
       }
     },
     {
@@ -2061,11 +2047,9 @@
         "manifest.json",
         "icon.png",
         "banner.png",
-        "description.md",
         "changelog.md",
         "license.md",
         "changelog_zh-Hans.md",
-        "description_zh-Hans.md",
         "authors/avatar.png",
         "authors/avatar_chen.png",
         "authors/avatar_p03.png"
@@ -2096,8 +2080,6 @@
           }
         ],
         "category": "装备",
-        "summary": "七彩法师胸甲，可选两种宝石效果，并可搭配原版头盔和护腿继承套装效果。",
-        "description": "七彩法师胸甲，可选两种宝石效果，并可搭配原版头盔和护腿继承套装效果。",
         "license": "MIT",
         "updated": "2026-11-17",
         "blVersion": 2,
@@ -2110,9 +2092,6 @@
         "localizedNames": {
           "zh-Hans": "至尊长袍",
           "en-US": "Supreme Robe"
-        },
-        "localizedSummaries": {
-          "zh-Hans": "七彩法师胸甲，可选两种宝石效果，并可搭配原版头盔和护腿继承套装效果。"
         }
       }
     },

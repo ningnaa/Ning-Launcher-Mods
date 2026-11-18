@@ -6,10 +6,6 @@
     "en-US": "Choir of Many Wings",
     "zh-Hans": "万翼圣咏神弓"
   },
-  "localizedSummaries": {
-    "en-US": "An ancient celestial bow forged from the First Wind and fallen starlight. Shift freely between four angelic voices and awaken deeper hymns as Terraria's bosses fall.",
-    "zh-Hans": "用折翼圣核合成神弓，在四种圣咏形态间切换，并随 Boss 进度解锁十个境阶。"
-  },
   "version": "0.9.3",
   "authors": [
     {
@@ -24,7 +20,6 @@
     }
   ],
   "category": "武器",
-  "summary": "用折翼圣核合成神弓，在四种圣咏形态间切换，并随 Boss 进度解锁十个境阶。",
   "license": "MIT",
   "updated": "2026-11-17",
   "blVersion": 2,
@@ -34,6 +29,5 @@
   ],
   "entry": "main.js",
   "dependencies": [],
-  "links": [],
-  "description": "# 万翼圣咏神弓 (Choir of Many Wings)\n\n由天穹初风与坠落星辉锻造而成的古老圣弓，弓身铭刻着四重天阶的共鸣圣印。\n\n- **世界唯一获取**：击败敌怪时有概率凝结唯一的「折翼圣核」，在制作栏徒手即可重铸为《万翼圣咏神弓》（每个世界仅掉落一次）。\n- **四重圣咏共鸣**：轻触屏幕上方圣眼即可在苍风、烈焰、天轮、终焉四重形态间自由切换。\n- **十重封印苏醒**：随泰拉世界的强敌逐一陨落，圣弓将同步进化至最终境阶。\n\n原作者：力力丝。主制作：哈基米。许可：MIT（源包清单标注）。\n"
+  "links": []
 }

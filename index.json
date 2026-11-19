@@ -2030,21 +2030,21 @@
       "uid": "721a1ed2-9076-451c-b4d1-c1ab92c23284",
       "id": "supreme_robe",
       "name": "至尊长袍",
-      "version": "1.1",
+      "version": "1.2",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-supreme_robe-v1.1/supreme_robe-1.1.bl",
-        "size": 487512,
-        "sha256": "04902e038acd78aea929cb2c0482da3d2a5a91c021cbfa8c0089949b4789d9f9"
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-supreme_robe-v1.2/supreme_robe-1.2.bl",
+        "size": 491279,
+        "sha256": "e3a20edd0e5bba3e86254286684259e4cf7eb8c0593547df7af09633e9a35b4c"
       },
       "files": [
         "manifest.json",
+        "license.md",
+        "description.md",
+        "description_zh-Hans.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
         "icon.png",
         "banner.png",
-        "description.md",
-        "changelog.md",
-        "license.md",
-        "changelog_zh-Hans.md",
-        "description_zh-Hans.md",
         "authors/avatar.png",
         "authors/avatar_chen.png",
         "authors/avatar_p03.png"
@@ -2053,7 +2053,7 @@
         "uid": "721a1ed2-9076-451c-b4d1-c1ab92c23284",
         "id": "supreme_robe",
         "name": "至尊长袍",
-        "version": "1.1",
+        "version": "1.2",
         "authors": [
           {
             "name": "木木Mokuzai",
@@ -2075,10 +2075,10 @@
           }
         ],
         "category": "装备",
-        "summary": "七彩长袍可选宝石词条，1.1 增加困难模式可合成的饮血之袍及泣血、血怒、战魂三种血术。",
-        "description": "七彩长袍可选宝石词条，1.1 增加困难模式可合成的饮血之袍及泣血、血怒、战魂三种血术。",
+        "summary": "法师长袍模组。可选择两种宝石效果，包含饮血之袍及其专属血术。",
+        "description": "法师长袍模组。可选择两种宝石效果，包含饮血之袍及其专属血术。",
         "license": "MIT",
-        "updated": "2026-11-19",
+        "updated": "2026-11-20",
         "blVersion": 2,
         "gameVersion": [
           301720,
@@ -2090,11 +2090,13 @@
           "zh-Hans": "至尊长袍"
         },
         "localizedSummaries": {
-          "zh-Hans": "七彩长袍可选宝石词条，1.1 增加困难模式可合成的饮血之袍及泣血、血怒、战魂三种血术。"
-        }
+          "zh-Hans": "法师长袍模组。可选择两种宝石效果，包含饮血之袍及其专属血术。"
+        },
+        "modRuntime": "js"
       },
       "runtime": "js",
-      "updatedAt": "2026-11-18T16:58:07Z"
+      "updatedAt": "2026-11-20T00:00:00Z",
+      "publishedAt": "2026-11-20T00:00:00Z"
     },
     {
       "uid": "729873fc-a00b-33e7-a02a-6b6cd589aed6",
@@ -9053,6 +9055,130 @@
       "updatedAt": "2026-11-19T00:00:00Z",
       "runtime": "js",
       "publishedAt": "2026-11-19T00:00:00Z"
+    },
+    {
+      "uid": "a49e2c81-9d3b-4f7a-b112-6e8a4c5d9023",
+      "id": "PrismTomeMod",
+      "name": "哈基米的泰拉",
+      "version": "0.5.0",
+      "manifest": {
+        "uid": "a49e2c81-9d3b-4f7a-b112-6e8a4c5d9023",
+        "id": "PrismTomeMod",
+        "name": "哈基米的泰拉",
+        "version": "0.5.0",
+        "authors": [
+          {
+            "name": "哈基米 (Gemini)",
+            "role": "主要创作者 · 架构与代码",
+            "avatar": "authors/gemini.png"
+          },
+          {
+            "name": "力力丝",
+            "role": "联合创始人 · 策划与测试",
+            "avatar": "authors/creator.png"
+          },
+          {
+            "name": "大肥鱼 (DeepSeek)",
+            "role": "联合创作者 · 调优与协作",
+            "avatar": "authors/deepseek.png"
+          }
+        ],
+        "category": "武器",
+        "summary": "包含法师武器「星棱翡翠法典」、召唤师武器「星棱律令权杖」和测伤靶偶。两把武器可随 Boss 进度成长。",
+        "license": "MIT",
+        "updated": "2026-11-20",
+        "blVersion": 3,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "dependencies": [],
+        "entry": "PrismTomeMod.cs",
+        "description": "包含法师武器「星棱翡翠法典」、召唤师武器「星棱律令权杖」和测伤靶偶。两把武器可随 Boss 进度成长。",
+        "localizedNames": {
+          "zh-Hans": "哈基米的泰拉"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "包含法师武器「星棱翡翠法典」、召唤师武器「星棱律令权杖」和测伤靶偶。两把武器可随 Boss 进度成长。"
+        },
+        "modRuntime": "csharp"
+      },
+      "files": [
+        "manifest.json",
+        "license.md",
+        "description.md",
+        "description_zh-Hans.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "icon.png",
+        "authors/creator.png",
+        "authors/deepseek.png",
+        "authors/gemini.png"
+      ],
+      "runtime": "csharp",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-PrismTomeMod-v0.5.0/PrismTomeMod-0.5.0.bl",
+        "size": 881339,
+        "sha256": "3d4dfe7b37366c97ae61cd5f821e06d5d811c678afe8bfc0919ec0f06af4fda3"
+      },
+      "updatedAt": "2026-11-20T00:00:00Z",
+      "publishedAt": "2026-11-20T00:00:00Z"
+    },
+    {
+      "uid": "0437fc60-ae93-43c6-af9f-56d107fce4a4",
+      "id": "starfallrelic",
+      "name": "星陨遗证",
+      "version": "1.2.1",
+      "manifest": {
+        "uid": "0437fc60-ae93-43c6-af9f-56d107fce4a4",
+        "id": "starfallrelic",
+        "name": "星陨遗证",
+        "localizedNames": {
+          "zh-Hans": "星陨遗证"
+        },
+        "version": "1.2.1",
+        "author": "江南梦",
+        "authors": [
+          {
+            "name": "江南梦",
+            "role": "代码与美术",
+            "color": "#B36BFF"
+          }
+        ],
+        "summary": "江南梦制作的武器整合包，包含五把武器、幽影徘徊者和成长饰品星泪钻。",
+        "category": "Mod",
+        "license": "Personal use",
+        "entry": "main.js",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "type": "mod",
+        "dependencies": [],
+        "localizedSummaries": {
+          "zh-Hans": "江南梦制作的武器整合包，包含五把武器、幽影徘徊者和成长饰品星泪钻。"
+        },
+        "updated": "2026-11-20",
+        "description": "江南梦制作的武器整合包，包含五把武器、幽影徘徊者和成长饰品星泪钻。",
+        "modRuntime": "js"
+      },
+      "files": [
+        "manifest.json",
+        "license.md",
+        "description.md",
+        "description_zh-Hans.md",
+        "changelog.md",
+        "changelog_zh-Hans.md"
+      ],
+      "runtime": "js",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-starfallrelic-v1.2.1/starfallrelic-1.2.1.bl",
+        "size": 7793231,
+        "sha256": "98e858daef98a07b3d77802f1b86eedca2075b37872d8671ce72331d6b3f0717"
+      },
+      "updatedAt": "2026-11-20T00:00:00Z",
+      "publishedAt": "2026-11-20T00:00:00Z"
     }
   ],
   "featured": [

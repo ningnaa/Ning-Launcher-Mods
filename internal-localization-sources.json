@@ -2229,6 +2229,42 @@
       "size": 9180450,
       "scope": "license-and-attribution",
       "licenseSource": "https://github.com/487666123/ImproveGame/blob/b623c9437cd40b335a17ff5d7fb48f1d82483de0/LICENSE"
+    },
+    {
+      "uid": "a49e2c81-9d3b-4f7a-b112-6e8a4c5d9023",
+      "id": "PrismTomeMod",
+      "version": "0.5.0",
+      "tag": "mod-PrismTomeMod-v0.5.0",
+      "file": "PrismTomeMod-0.5.0.bl",
+      "baseVersion": "0.5.0",
+      "sha256": "3d4dfe7b37366c97ae61cd5f821e06d5d811c678afe8bfc0919ec0f06af4fda3",
+      "size": 881339,
+      "originalSha256": "70a2eb9094b2707e73e896893dd9534cc5706703102ce9f8c9fe0a9bf67f9e74",
+      "scope": "author-supplied-mobile-catalog"
+    },
+    {
+      "uid": "721a1ed2-9076-451c-b4d1-c1ab92c23284",
+      "id": "supreme_robe",
+      "version": "1.2",
+      "tag": "mod-supreme_robe-v1.2",
+      "file": "supreme_robe-1.2.bl",
+      "baseVersion": "v1.2",
+      "sha256": "e3a20edd0e5bba3e86254286684259e4cf7eb8c0593547df7af09633e9a35b4c",
+      "size": 491279,
+      "originalSha256": "3d29093fae93c1367e3992c4ed8304f8c283b56209c399b81840c494f3536b3d",
+      "scope": "author-supplied-mobile-catalog"
+    },
+    {
+      "uid": "0437fc60-ae93-43c6-af9f-56d107fce4a4",
+      "id": "starfallrelic",
+      "version": "1.2.1",
+      "tag": "mod-starfallrelic-v1.2.1",
+      "file": "starfallrelic-1.2.1.bl",
+      "baseVersion": "1.2.1",
+      "sha256": "98e858daef98a07b3d77802f1b86eedca2075b37872d8671ce72331d6b3f0717",
+      "size": 7793231,
+      "originalSha256": "98e858daef98a07b3d77802f1b86eedca2075b37872d8671ce72331d6b3f0717",
+      "scope": "author-supplied-mobile-catalog"
     }
   ],
   "authorChineseSources": {

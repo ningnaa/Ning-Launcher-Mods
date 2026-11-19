@@ -1,0 +1,42 @@
+{
+  "uid": "a49e2c81-9d3b-4f7a-b112-6e8a4c5d9023",
+  "id": "PrismTomeMod",
+  "name": "哈基米的泰拉",
+  "version": "0.5.0",
+  "authors": [
+    {
+      "name": "哈基米 (Gemini)",
+      "role": "主要创作者 · 架构与代码",
+      "avatar": "authors/gemini.png"
+    },
+    {
+      "name": "力力丝",
+      "role": "联合创始人 · 策划与测试",
+      "avatar": "authors/creator.png"
+    },
+    {
+      "name": "大肥鱼 (DeepSeek)",
+      "role": "联合创作者 · 调优与协作",
+      "avatar": "authors/deepseek.png"
+    }
+  ],
+  "category": "武器",
+  "summary": "包含法师武器「星棱翡翠法典」、召唤师武器「星棱律令权杖」和测伤靶偶。两把武器可随 Boss 进度成长。",
+  "license": "MIT",
+  "updated": "2026-11-20",
+  "blVersion": 3,
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "dependencies": [],
+  "entry": "PrismTomeMod.cs",
+  "description": "包含法师武器「星棱翡翠法典」、召唤师武器「星棱律令权杖」和测伤靶偶。两把武器可随 Boss 进度成长。",
+  "localizedNames": {
+    "zh-Hans": "哈基米的泰拉"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "包含法师武器「星棱翡翠法典」、召唤师武器「星棱律令权杖」和测伤靶偶。两把武器可随 Boss 进度成长。"
+  },
+  "modRuntime": "csharp"
+}

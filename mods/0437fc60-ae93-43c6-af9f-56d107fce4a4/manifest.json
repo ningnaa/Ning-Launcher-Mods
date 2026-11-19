@@ -1,0 +1,34 @@
+{
+  "uid": "0437fc60-ae93-43c6-af9f-56d107fce4a4",
+  "id": "starfallrelic",
+  "name": "星陨遗证",
+  "localizedNames": {
+    "zh-Hans": "星陨遗证"
+  },
+  "version": "1.2.1",
+  "author": "江南梦",
+  "authors": [
+    {
+      "name": "江南梦",
+      "role": "代码与美术",
+      "color": "#B36BFF"
+    }
+  ],
+  "summary": "江南梦制作的武器整合包，包含五把武器、幽影徘徊者和成长饰品星泪钻。",
+  "category": "Mod",
+  "license": "Personal use",
+  "entry": "main.js",
+  "blVersion": 2,
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "type": "mod",
+  "dependencies": [],
+  "localizedSummaries": {
+    "zh-Hans": "江南梦制作的武器整合包，包含五把武器、幽影徘徊者和成长饰品星泪钻。"
+  },
+  "updated": "2026-11-20",
+  "description": "江南梦制作的武器整合包，包含五把武器、幽影徘徊者和成长饰品星泪钻。",
+  "modRuntime": "js"
+}

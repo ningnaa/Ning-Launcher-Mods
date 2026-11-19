@@ -1,0 +1,39 @@
+{
+  "uid": "48ca24c7-5faf-599d-b624-5c08939c28f7",
+  "id": "SerousCommonLib",
+  "name": "absoluteAquarian Utilities",
+  "version": "1.0.6.2-ningcs.1.fix.20261117",
+  "blVersion": 3,
+  "entry": "SerousCommonLib.cs",
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "dependencies": [],
+  "authors": [
+    {
+      "name": "absoluteAquarian",
+      "role": "原模组作者"
+    },
+    {
+      "name": "柠版泰拉启动器",
+      "role": "移动版汉化与维护"
+    }
+  ],
+  "summary": "供魔法存储等模组使用的通用工具前置库，提供界面、文本输入与其他辅助接口。",
+  "links": [
+    {
+      "title": "Steam 原作",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2908170107"
+    }
+  ],
+  "description": "供魔法存储等模组使用的通用工具前置库，提供界面、文本输入与其他辅助接口。",
+  "updated": "2026-11-19",
+  "localizedNames": {
+    "zh-Hans": "absoluteAquarian Utilities"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "供魔法存储等模组使用的通用工具前置库，提供界面、文本输入与其他辅助接口。"
+  },
+  "modRuntime": "csharp"
+}

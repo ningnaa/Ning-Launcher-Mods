@@ -1,0 +1,35 @@
+{
+  "uid": "a5ac9379-8ea2-5f80-8b0f-d2d07e919533",
+  "id": "Luminance",
+  "name": "Luminance 光效前置库",
+  "author": "Lucille Karma",
+  "version": "1.0.14-ningcs.1.dev1",
+  "blVersion": 2,
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "entry": "Luminance.dll",
+  "dependencies": [],
+  "localizedNames": {
+    "zh-Hans": "Luminance 光效前置库"
+  },
+  "authors": [
+    {
+      "name": "Lucille Karma",
+      "role": "原作者"
+    },
+    {
+      "name": "柠版泰拉启动器",
+      "role": "移动版汉化与维护"
+    }
+  ],
+  "summary": "供其他模组使用的光效前置库，提供粒子、轨迹、着色器、滤镜和渲染目标接口。",
+  "license": "MIT",
+  "description": "供其他模组使用的光效前置库，提供粒子、轨迹、着色器、滤镜和渲染目标接口。",
+  "localizedSummaries": {
+    "zh-Hans": "供其他模组使用的光效前置库，提供粒子、轨迹、着色器、滤镜和渲染目标接口。"
+  },
+  "updated": "2026-11-19",
+  "modRuntime": "csharp"
+}

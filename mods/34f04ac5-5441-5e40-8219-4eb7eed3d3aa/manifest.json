@@ -1,0 +1,41 @@
+{
+  "uid": "34f04ac5-5441-5e40-8219-4eb7eed3d3aa",
+  "id": "AutoTrash",
+  "name": "智能垃圾桶（C#）",
+  "version": "0.8.1.1-ningcs.1.fix.20261117.2.mobilefix.1",
+  "blVersion": 3,
+  "entry": "AutoTrash.cs",
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "dependencies": [],
+  "authors": [
+    {
+      "name": "jopojelly",
+      "role": "原模组作者"
+    },
+    {
+      "name": "柠版泰拉启动器",
+      "role": "移动版汉化与维护"
+    }
+  ],
+  "summary": "按名单自动丢弃或出售指定物品，提供无价值过滤、搜索和最近一次物品恢复。恢复记录仅在当前游戏内有效。",
+  "category": "便利",
+  "links": [
+    {
+      "title": "Steam 原作",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2565540604"
+    }
+  ],
+  "localizedNames": {
+    "zh-Hans": "智能垃圾桶（C#）",
+    "en-US": "Auto Trash (C# port)"
+  },
+  "description": "按名单自动丢弃或出售指定物品，提供无价值过滤、搜索和最近一次物品恢复。恢复记录仅在当前游戏内有效。",
+  "updated": "2026-11-19",
+  "localizedSummaries": {
+    "zh-Hans": "按名单自动丢弃或出售指定物品，提供无价值过滤、搜索和最近一次物品恢复。恢复记录仅在当前游戏内有效。"
+  },
+  "modRuntime": "csharp"
+}

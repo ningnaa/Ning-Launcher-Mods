@@ -1,0 +1,41 @@
+{
+  "uid": "ecbbaf18-1a03-5750-bcf6-51f5c35a9a10",
+  "id": "LifeSourcesLight",
+  "name": "生命水晶与生命果发光（C#）",
+  "version": "1.3.0-ningcs.1.fix.1",
+  "blVersion": 3,
+  "entry": "LifeSourcesLight.cs",
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "dependencies": [],
+  "authors": [
+    {
+      "name": "Chev",
+      "role": "原模组作者"
+    },
+    {
+      "name": "柠版泰拉启动器",
+      "role": "移动版汉化与维护"
+    }
+  ],
+  "summary": "生命水晶发粉红光，生命果发黄色光，两项可分别开启。",
+  "category": "便利",
+  "links": [
+    {
+      "title": "Steam 原作",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2853619836"
+    }
+  ],
+  "localizedNames": {
+    "zh-Hans": "生命水晶与生命果发光（C#）",
+    "en-US": "Heart Crystal & Life Fruit Glow (C# port)"
+  },
+  "description": "生命水晶发粉红光，生命果发黄色光，两项可分别开启。",
+  "localizedSummaries": {
+    "zh-Hans": "生命水晶发粉红光，生命果发黄色光，两项可分别开启。"
+  },
+  "updated": "2026-11-19",
+  "modRuntime": "csharp"
+}

@@ -1,0 +1,50 @@
+{
+  "uid": "5fe1f7de-4d4d-5d7d-aeac-f59b113bfd37",
+  "id": "Autofish",
+  "name": "自动钓鱼",
+  "version": "1.2.3-ningcs.1",
+  "blVersion": 3,
+  "entry": "Autofish.cs",
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "dependencies": [],
+  "authors": [
+    {
+      "name": "Cyrilly",
+      "role": "原模组作者"
+    },
+    {
+      "name": "柠版泰拉启动器",
+      "role": "移动版汉化与维护"
+    }
+  ],
+  "summary": "咬钩后自动收竿并再次抛竿。可固定抛点、按声呐分类过滤并续用钓鱼药水。首次仍需手动抛竿。",
+  "links": [
+    {
+      "title": "Steam原作",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2621687273"
+    }
+  ],
+  "description": "咬钩后自动收竿并再次抛竿。可固定抛点、按声呐分类过滤并续用钓鱼药水。首次仍需手动抛竿。",
+  "updated": "2026-11-19",
+  "pages": [
+    {
+      "title": "更新日志",
+      "file": "changelog.md"
+    },
+    {
+      "title": "来源与署名",
+      "file": "credits.md"
+    }
+  ],
+  "license": "MIT",
+  "localizedNames": {
+    "zh-Hans": "自动钓鱼"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "咬钩后自动收竿并再次抛竿。可固定抛点、按声呐分类过滤并续用钓鱼药水。首次仍需手动抛竿。"
+  },
+  "modRuntime": "csharp"
+}

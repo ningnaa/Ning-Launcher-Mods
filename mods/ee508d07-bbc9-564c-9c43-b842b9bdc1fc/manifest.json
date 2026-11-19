@@ -1,0 +1,49 @@
+{
+  "uid": "ee508d07-bbc9-564c-9c43-b842b9bdc1fc",
+  "id": "RecipeBrowser",
+  "name": "合成表（C#）",
+  "version": "0.12.0.3-ningcs.2.fix.20261117.6.mobile3.mobilefix.1",
+  "blVersion": 3,
+  "entry": "RecipeBrowser.cs",
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "dependencies": [],
+  "authors": [
+    {
+      "name": "jopojelly",
+      "role": "原模组作者"
+    },
+    {
+      "name": "柠版泰拉启动器",
+      "role": "移动版汉化与维护"
+    }
+  ],
+  "summary": "搜索物品与配方，查询制作路径、制作站、掉落和收藏。搜索框支持手机键盘。",
+  "links": [
+    {
+      "title": "Steam原作",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2619954303"
+    }
+  ],
+  "description": "搜索物品与配方，查询制作路径、制作站、掉落和收藏。搜索框支持手机键盘。",
+  "updated": "2026-11-19",
+  "pages": [
+    {
+      "title": "更新日志",
+      "file": "changelog.md"
+    },
+    {
+      "title": "来源与署名",
+      "file": "credits.md"
+    }
+  ],
+  "localizedNames": {
+    "zh-Hans": "合成表（C#）"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "搜索物品与配方，查询制作路径、制作站、掉落和收藏。搜索框支持手机键盘。"
+  },
+  "modRuntime": "csharp"
+}

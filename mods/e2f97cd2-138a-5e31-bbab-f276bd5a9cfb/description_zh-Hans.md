@@ -1,3 +1,7 @@
-# Boss 彩色圣物
+# Boss 彩色圣物（重制版）
 
-Boss-Colored Relics 的重制版资源包，为 Boss 圣物提供对应配色。
+按原版 Boss 外观重绘圣物，覆盖 28 张物品图标和摆放后的悬浮雕像图集。
+
+适用于柠版泰拉启动器 0.5.1（410）与 Terraria Build 1720。
+
+The Wise Willow（原作者与美术）、柠娜（此前汉化维护者）。

@@ -1,0 +1,41 @@
+{
+  "uid": "7ac6559e-6c48-5dc2-aa96-432cf366faeb",
+  "id": "ImproveGame",
+  "name": "更好的体验",
+  "version": "1.8.2-ningcs.1.fix.20261119.1",
+  "blVersion": 3,
+  "entry": "ImproveGame.cs",
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "dependencies": [
+    "ffacb771-9540-5b79-bf9d-f28d8a3e705e"
+  ],
+  "authors": [
+    {
+      "name": "局长, Cyril, 夜谷紫幽, delete, Kaelis, Lacewing, Lastprismer, 合作一号, Reits, 中学生, 错数螺线, Zavarski, Pengolin",
+      "role": "原模组作者"
+    },
+    {
+      "name": "柠版泰拉启动器",
+      "role": "移动版汉化与维护"
+    }
+  ],
+  "summary": "提供储存管理器、钓鱼机、药水袋、旗帜盒和多种建造工具。部分功能需在模组配置中开启。需要配套的 SilkyUI。",
+  "links": [
+    {
+      "title": "Steam 原作",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2797518634"
+    }
+  ],
+  "description": "提供储存管理器、钓鱼机、药水袋、旗帜盒和多种建造工具。部分功能需在模组配置中开启。需要配套的 SilkyUI。",
+  "updated": "2026-11-19",
+  "localizedNames": {
+    "zh-Hans": "更好的体验"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "提供储存管理器、钓鱼机、药水袋、旗帜盒和多种建造工具。部分功能需在模组配置中开启。需要配套的 SilkyUI。"
+  },
+  "modRuntime": "csharp"
+}

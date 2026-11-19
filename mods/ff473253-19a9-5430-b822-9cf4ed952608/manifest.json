@@ -1,0 +1,44 @@
+{
+  "uid": "ff473253-19a9-5430-b822-9cf4ed952608",
+  "id": "DPSExtreme",
+  "name": "DPS 统计",
+  "version": "0.5.3-ningcs.1.mobilefix.1",
+  "blVersion": 3,
+  "entry": "DPSExtreme.cs",
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "category": "便利",
+  "authors": [
+    {
+      "name": "jopojelly",
+      "role": "原作者",
+      "link": "https://github.com/JavidPack/DPSExtreme"
+    },
+    {
+      "name": "Hankan",
+      "role": "原作者"
+    },
+    {
+      "name": "柠版泰拉启动器",
+      "role": "移动版汉化与维护"
+    }
+  ],
+  "updated": "2026-11-19",
+  "summary": "查看每秒伤害、伤害来源、击杀与历史战斗数据。可用 /teamdps 或触控绑定打开面板。",
+  "portEdition": {
+    "originalName": "DPSExtreme",
+    "sourceVersion": "0.5.3",
+    "sourceSha256": "cd2aa2f97dcf4e14522ad2944ba20fbc7ab4e870cdcd287926cd4e26e224a07c",
+    "revision": 1
+  },
+  "description": "查看每秒伤害、伤害来源、击杀与历史战斗数据。可用 /teamdps 或触控绑定打开面板。",
+  "localizedNames": {
+    "zh-Hans": "DPS 统计"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "查看每秒伤害、伤害来源、击杀与历史战斗数据。可用 /teamdps 或触控绑定打开面板。"
+  },
+  "modRuntime": "csharp"
+}

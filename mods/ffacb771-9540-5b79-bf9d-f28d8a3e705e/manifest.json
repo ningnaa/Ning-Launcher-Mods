@@ -1,0 +1,39 @@
+{
+  "uid": "ffacb771-9540-5b79-bf9d-f28d8a3e705e",
+  "id": "SilkyUIFramework",
+  "name": "SilkyUI",
+  "version": "0.3.0-ningcs.1.fix.6",
+  "blVersion": 3,
+  "entry": "SilkyUIFramework.cs",
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "dependencies": [],
+  "authors": [
+    {
+      "name": "太阳照常升起",
+      "role": "原模组作者"
+    },
+    {
+      "name": "柠版泰拉启动器",
+      "role": "移动版汉化与维护"
+    }
+  ],
+  "summary": "供更好的体验等模组使用的界面前置库，提供布局、控件和绘制接口。",
+  "links": [
+    {
+      "title": "Steam 原作",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3403460014"
+    }
+  ],
+  "description": "供更好的体验等模组使用的界面前置库，提供布局、控件和绘制接口。",
+  "localizedNames": {
+    "zh-Hans": "SilkyUI"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "供更好的体验等模组使用的界面前置库，提供布局、控件和绘制接口。"
+  },
+  "updated": "2026-11-19",
+  "modRuntime": "csharp"
+}

@@ -1,0 +1,41 @@
+{
+  "uid": "b126964a-bf9f-5958-abff-d4dadca9133e",
+  "id": "Census",
+  "name": "城镇居民清单（C#）",
+  "version": "0.5.2.8-ningcs.1.fix.20261117.2",
+  "blVersion": 3,
+  "entry": "Census.cs",
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "dependencies": [],
+  "authors": [
+    {
+      "name": "jopojelly",
+      "role": "原模组作者"
+    },
+    {
+      "name": "柠版泰拉启动器",
+      "role": "移动版汉化与维护"
+    }
+  ],
+  "summary": "在住房面板查看城镇居民、入住条件和居民位置，也可用 /TownProgress 查看进度。",
+  "category": "便利",
+  "links": [
+    {
+      "title": "Steam 原作",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2687866031"
+    }
+  ],
+  "localizedNames": {
+    "zh-Hans": "城镇居民清单（C#）",
+    "en-US": "Census - Town NPC Checklist (C# port)"
+  },
+  "description": "在住房面板查看城镇居民、入住条件和居民位置，也可用 /TownProgress 查看进度。",
+  "updated": "2026-11-19",
+  "localizedSummaries": {
+    "zh-Hans": "在住房面板查看城镇居民、入住条件和居民位置，也可用 /TownProgress 查看进度。"
+  },
+  "modRuntime": "csharp"
+}

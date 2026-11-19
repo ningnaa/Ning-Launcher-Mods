@@ -1,0 +1,42 @@
+{
+  "uid": "cb3513c4-d791-5bff-bd50-a25e4b168bb5",
+  "id": "InstantPlatformFallthrough",
+  "name": "快速穿过平台（C#）",
+  "version": "1.4-ningcs.1",
+  "blVersion": 3,
+  "entry": "InstantPlatformFallthrough.cs",
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "category": "便利",
+  "author": "diniamo",
+  "authors": [
+    {
+      "name": "diniamo",
+      "role": "原作者",
+      "link": "https://github.com/diniamo/InstantPlatformFallthrough"
+    },
+    {
+      "name": "柠版泰拉启动器",
+      "role": "移动版汉化与维护"
+    }
+  ],
+  "license": "MIT",
+  "updated": "2026-11-19",
+  "summary": "按住移动摇杆向下，连续穿过多层平台，松开后恢复站立。",
+  "portEdition": {
+    "originalName": "Instant Platform Fallthrough",
+    "sourceVersion": "1.4",
+    "sourceSha256": "a3602e92960e6843d02fe0a01731903072d528a9326fe65488a96f45d68e47aa",
+    "revision": 1
+  },
+  "description": "按住移动摇杆向下，连续穿过多层平台，松开后恢复站立。",
+  "localizedNames": {
+    "zh-Hans": "快速穿过平台（C#）"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "按住移动摇杆向下，连续穿过多层平台，松开后恢复站立。"
+  },
+  "modRuntime": "csharp"
+}

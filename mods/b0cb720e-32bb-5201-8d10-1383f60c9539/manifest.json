@@ -1,0 +1,49 @@
+{
+  "uid": "b0cb720e-32bb-5201-8d10-1383f60c9539",
+  "id": "WingSlotExtra",
+  "name": "额外翅膀栏（C#）",
+  "version": "1.4.9-ningcs.1.fix.20261117",
+  "blVersion": 3,
+  "entry": "WingSlotExtra.cs",
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "dependencies": [],
+  "authors": [
+    {
+      "name": "Aitherix",
+      "role": "原模组作者"
+    },
+    {
+      "name": "柠版泰拉启动器",
+      "role": "移动版汉化与维护"
+    }
+  ],
+  "summary": "增加独立翅膀功能栏、时装栏与染料栏，支持装备方案和可选的多翅膀配置。",
+  "links": [
+    {
+      "title": "Steam原作",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2597324266"
+    }
+  ],
+  "description": "增加独立翅膀功能栏、时装栏与染料栏，支持装备方案和可选的多翅膀配置。",
+  "updated": "2026-11-19",
+  "pages": [
+    {
+      "title": "更新日志",
+      "file": "changelog.md"
+    },
+    {
+      "title": "来源与署名",
+      "file": "credits.md"
+    }
+  ],
+  "localizedNames": {
+    "zh-Hans": "额外翅膀栏（C#）"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "增加独立翅膀功能栏、时装栏与染料栏，支持装备方案和可选的多翅膀配置。"
+  },
+  "modRuntime": "csharp"
+}

@@ -1,0 +1,41 @@
+{
+  "uid": "1fc8cd8c-16f5-58b5-88bb-0c5af9e4b27b",
+  "id": "BossCursor",
+  "name": "Boss 方位指示（C#）",
+  "version": "3.0.1-ningcs.1.fix.20261117.2",
+  "blVersion": 3,
+  "entry": "BossCursor.cs",
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "dependencies": [],
+  "authors": [
+    {
+      "name": "kgoyo",
+      "role": "原模组作者"
+    },
+    {
+      "name": "柠版泰拉启动器",
+      "role": "移动版汉化与维护"
+    }
+  ],
+  "summary": "在屏幕上指示 Boss 所在方向，方便追踪离开视野的目标。",
+  "category": "便利",
+  "links": [
+    {
+      "title": "Steam 原作",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2816694149"
+    }
+  ],
+  "localizedNames": {
+    "zh-Hans": "Boss 方位指示（C#）",
+    "en-US": "Boss Cursor (C# port)"
+  },
+  "description": "在屏幕上指示 Boss 所在方向，方便追踪离开视野的目标。",
+  "updated": "2026-11-19",
+  "localizedSummaries": {
+    "zh-Hans": "在屏幕上指示 Boss 所在方向，方便追踪离开视野的目标。"
+  },
+  "modRuntime": "csharp"
+}

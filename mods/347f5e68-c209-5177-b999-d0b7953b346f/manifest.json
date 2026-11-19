@@ -1,0 +1,39 @@
+{
+  "uid": "347f5e68-c209-5177-b999-d0b7953b346f",
+  "id": "LookMod",
+  "name": "动作视觉增强",
+  "version": "1.3.4.1-ningcs.1.zh.1.fix.20261117",
+  "blVersion": 3,
+  "entry": "LookMod.cs",
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "dependencies": [],
+  "authors": [
+    {
+      "name": "Orion",
+      "role": "原模组作者"
+    },
+    {
+      "name": "柠版泰拉启动器",
+      "role": "移动版汉化与维护"
+    }
+  ],
+  "summary": "增加人物朝向、移动倾斜以及部分 NPC 的动作表现，可在配置中调整。",
+  "links": [
+    {
+      "title": "Steam 原作",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2816557864"
+    }
+  ],
+  "description": "增加人物朝向、移动倾斜以及部分 NPC 的动作表现，可在配置中调整。",
+  "updated": "2026-11-19",
+  "localizedNames": {
+    "zh-Hans": "动作视觉增强"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "增加人物朝向、移动倾斜以及部分 NPC 的动作表现，可在配置中调整。"
+  },
+  "modRuntime": "csharp"
+}

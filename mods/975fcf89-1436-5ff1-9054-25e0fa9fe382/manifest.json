@@ -1,0 +1,49 @@
+{
+  "uid": "975fcf89-1436-5ff1-9054-25e0fa9fe382",
+  "id": "HPAware",
+  "name": "生命感知（C#）",
+  "version": "1.0.6.1-ningcs.1.zh.1.fix.1",
+  "blVersion": 3,
+  "entry": "HPAware.cs",
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "dependencies": [],
+  "authors": [
+    {
+      "name": "Core",
+      "role": "原模组作者"
+    },
+    {
+      "name": "柠版泰拉启动器",
+      "role": "移动版汉化与维护"
+    }
+  ],
+  "summary": "显示受伤和低生命值提示、生命条、减益图标及声音效果。可按需开启灰度和音乐衰减。",
+  "links": [
+    {
+      "title": "Steam原作",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2564503881"
+    }
+  ],
+  "description": "显示受伤和低生命值提示、生命条、减益图标及声音效果。可按需开启灰度和音乐衰减。",
+  "updated": "2026-11-19",
+  "pages": [
+    {
+      "title": "更新日志",
+      "file": "changelog.md"
+    },
+    {
+      "title": "来源与署名",
+      "file": "credits.md"
+    }
+  ],
+  "localizedNames": {
+    "zh-Hans": "生命感知（C#）"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "显示受伤和低生命值提示、生命条、减益图标及声音效果。可按需开启灰度和音乐衰减。"
+  },
+  "modRuntime": "csharp"
+}

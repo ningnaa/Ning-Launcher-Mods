@@ -1,0 +1,49 @@
+{
+  "uid": "083e57c8-3d2a-5da6-abbc-0cda2f57ad2f",
+  "id": "AlchemistNPCLite",
+  "name": "炼金术师 NPC 精简版（C#）",
+  "version": "1.9.9-ningcs.1.fix.20261117",
+  "blVersion": 3,
+  "entry": "AlchemistNPCLite.cs",
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "dependencies": [],
+  "authors": [
+    {
+      "name": "Gregg/VVV101, b2mauler, Rockman Zeta, somebody0214, RebooT, drh",
+      "role": "原模组作者"
+    },
+    {
+      "name": "柠版泰拉启动器",
+      "role": "移动版汉化与维护"
+    }
+  ],
+  "summary": "加入炼金术师等城镇居民，按游戏进度提供药剂、材料、制作站和传送服务。",
+  "links": [
+    {
+      "title": "Steam原作",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2599842771"
+    }
+  ],
+  "description": "加入炼金术师等城镇居民，按游戏进度提供药剂、材料、制作站和传送服务。",
+  "updated": "2026-11-19",
+  "pages": [
+    {
+      "title": "更新日志",
+      "file": "changelog.md"
+    },
+    {
+      "title": "来源与署名",
+      "file": "credits.md"
+    }
+  ],
+  "localizedNames": {
+    "zh-Hans": "炼金术师 NPC 精简版（C#）"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "加入炼金术师等城镇居民，按游戏进度提供药剂、材料、制作站和传送服务。"
+  },
+  "modRuntime": "csharp"
+}

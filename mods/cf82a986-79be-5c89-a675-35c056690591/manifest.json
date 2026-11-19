@@ -1,0 +1,39 @@
+{
+  "uid": "cf82a986-79be-5c89-a675-35c056690591",
+  "id": "BossChecklist",
+  "name": "Boss 清单（C#）",
+  "version": "2.2.4-ningcs.1.fix.20261117.2.mobilefix.2",
+  "blVersion": 3,
+  "entry": "BossChecklist.cs",
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "dependencies": [],
+  "authors": [
+    {
+      "name": "SheepishShepherd, jopojelly",
+      "role": "原模组作者"
+    },
+    {
+      "name": "柠版泰拉启动器",
+      "role": "移动版汉化与维护"
+    }
+  ],
+  "summary": "在书本里查看 Boss、事件、击败记录、召唤条件和战利品。轻点背包中的书本打开清单，按住滑动可更改位置。",
+  "links": [
+    {
+      "title": "Steam 原作",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2669644269"
+    }
+  ],
+  "description": "在书本里查看 Boss、事件、击败记录、召唤条件和战利品。轻点背包中的书本打开清单，按住滑动可更改位置。",
+  "updated": "2026-11-19",
+  "localizedNames": {
+    "zh-Hans": "Boss 清单（C#）"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "在书本里查看 Boss、事件、击败记录、召唤条件和战利品。轻点背包中的书本打开清单，按住滑动可更改位置。"
+  },
+  "modRuntime": "csharp"
+}

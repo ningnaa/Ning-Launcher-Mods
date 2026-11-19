@@ -1,0 +1,49 @@
+{
+  "uid": "88185e1f-b5e9-540a-85d5-03f73ff919aa",
+  "id": "GravityDontFlipScreen",
+  "name": "反重力不翻屏",
+  "version": "1.4-ningcs.1",
+  "blVersion": 3,
+  "entry": "GravityDontFlipScreen.cs",
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "dependencies": [],
+  "authors": [
+    {
+      "name": "Cyrilly",
+      "role": "原模组作者"
+    },
+    {
+      "name": "柠版泰拉启动器",
+      "role": "移动版汉化与维护"
+    }
+  ],
+  "summary": "反转重力时保持画面方向，并适配瞄准、智能光标、抓钩与其他互动。",
+  "links": [
+    {
+      "title": "Steam原作",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2793971101"
+    }
+  ],
+  "description": "反转重力时保持画面方向，并适配瞄准、智能光标、抓钩与其他互动。",
+  "updated": "2026-11-19",
+  "pages": [
+    {
+      "title": "更新日志",
+      "file": "changelog.md"
+    },
+    {
+      "title": "来源与署名",
+      "file": "credits.md"
+    }
+  ],
+  "localizedNames": {
+    "zh-Hans": "反重力不翻屏"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "反转重力时保持画面方向，并适配瞄准、智能光标、抓钩与其他互动。"
+  },
+  "modRuntime": "csharp"
+}

@@ -1,0 +1,49 @@
+{
+  "uid": "1ce07241-de75-5cb4-a0c5-11cc3007fdaa",
+  "id": "OreExcavator",
+  "name": "连锁挖矿",
+  "version": "0.8.9-ningcs.1.fix.20261117.mobile1.quiet1",
+  "blVersion": 3,
+  "entry": "OreExcavator.cs",
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "dependencies": [],
+  "authors": [
+    {
+      "name": "CrazyContraption",
+      "role": "原模组作者"
+    },
+    {
+      "name": "柠版泰拉启动器",
+      "role": "移动版汉化与维护"
+    }
+  ],
+  "summary": "提供连锁采矿、挖墙、播种和连锁放置。默认可用镐或钻头直接触发白名单方块的连锁采矿。",
+  "links": [
+    {
+      "title": "Steam原作",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2565639705"
+    }
+  ],
+  "description": "提供连锁采矿、挖墙、播种和连锁放置。默认可用镐或钻头直接触发白名单方块的连锁采矿。",
+  "updated": "2026-11-19",
+  "pages": [
+    {
+      "title": "更新日志",
+      "file": "changelog.md"
+    },
+    {
+      "title": "来源与署名",
+      "file": "credits.md"
+    }
+  ],
+  "localizedNames": {
+    "zh-Hans": "连锁挖矿"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "提供连锁采矿、挖墙、播种和连锁放置。默认可用镐或钻头直接触发白名单方块的连锁采矿。"
+  },
+  "modRuntime": "csharp"
+}

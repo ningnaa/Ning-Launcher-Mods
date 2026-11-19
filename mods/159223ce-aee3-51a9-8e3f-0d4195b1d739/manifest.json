@@ -1,0 +1,53 @@
+{
+  "uid": "159223ce-aee3-51a9-8e3f-0d4195b1d739",
+  "id": "NoFishingQuests",
+  "name": "渔夫商店",
+  "version": "3.2.0.5-ningcs.1",
+  "blVersion": 3,
+  "entry": "NoFishingQuests.cs",
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "category": "便利",
+  "authors": [
+    {
+      "name": "NotLe0n",
+      "role": "原作者",
+      "link": "https://github.com/NotLe0n/AnglerShop"
+    },
+    {
+      "name": "Æterna",
+      "role": "渔夫硬币贴图"
+    },
+    {
+      "name": "Crapsky233",
+      "role": "原版对话界面联动"
+    },
+    {
+      "name": "RighteousRyan",
+      "role": "原版硬币栏支持"
+    },
+    {
+      "name": "柠版泰拉启动器",
+      "role": "移动版汉化与维护"
+    }
+  ],
+  "license": "GPL-3.0",
+  "updated": "2026-11-19",
+  "summary": "渔夫提供实用品和装饰两家商店，同时保留钓鱼任务。可配置钓鱼任务硬币。",
+  "portEdition": {
+    "originalName": "Angler Shop",
+    "sourceVersion": "3.2.0.5",
+    "sourceSha256": "ceafeb36d239ccee0b6af0c9b502651f09bbbca1c123a90163452341e051d713",
+    "revision": 1
+  },
+  "description": "渔夫提供实用品和装饰两家商店，同时保留钓鱼任务。可配置钓鱼任务硬币。",
+  "localizedNames": {
+    "zh-Hans": "渔夫商店"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "渔夫提供实用品和装饰两家商店，同时保留钓鱼任务。可配置钓鱼任务硬币。"
+  },
+  "modRuntime": "csharp"
+}

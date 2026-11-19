@@ -1,0 +1,50 @@
+{
+  "uid": "d30bf135-6abd-586d-b1be-25212bffb475",
+  "id": "AutoReroll",
+  "name": "自动重铸",
+  "version": "2024.8.31-ningcs.1.fix.20261117.2.mobile2",
+  "blVersion": 3,
+  "entry": "AutoReroll.cs",
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "dependencies": [],
+  "authors": [
+    {
+      "name": "Sad Onion",
+      "role": "原模组作者"
+    },
+    {
+      "name": "柠版泰拉启动器",
+      "role": "移动版汉化与维护"
+    }
+  ],
+  "summary": "与哥布林工匠交谈后可按目标词缀自动重铸，设置保留金额并查看最近一次属性变化。",
+  "links": [
+    {
+      "title": "Steam原作",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2707400823"
+    }
+  ],
+  "description": "与哥布林工匠交谈后可按目标词缀自动重铸，设置保留金额并查看最近一次属性变化。",
+  "updated": "2026-11-19",
+  "pages": [
+    {
+      "title": "更新日志",
+      "file": "changelog.md"
+    },
+    {
+      "title": "来源与署名",
+      "file": "credits.md"
+    }
+  ],
+  "license": "MIT",
+  "localizedNames": {
+    "zh-Hans": "自动重铸"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "与哥布林工匠交谈后可按目标词缀自动重铸，设置保留金额并查看最近一次属性变化。"
+  },
+  "modRuntime": "csharp"
+}

@@ -458,40 +458,44 @@
     {
       "uid": "e2f97cd2-138a-5e31-bbab-f276bd5a9cfb",
       "id": "boss-colored-relics",
-      "name": "Boss-Colored Relics",
-      "version": "1.0-ningzh.1",
+      "name": "Boss 彩色圣物（重制版）",
+      "version": "1.1.0-ningzh.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-boss-colored-relics-v1.0-ningzh.1/boss-colored-relics-1.0-ningzh.1.bl",
-        "sha256": "ed608728885e0d6385d151a10e6e7a5427ab5875688d03db525b304e41b77c48",
-        "size": 187885
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-boss-colored-relics-v1.1.0-ningzh.1/boss-colored-relics-1.1.0-ningzh.1.bl",
+        "size": 187147,
+        "sha256": "2bbdc811fedae116da1f4ab50218693bd4672562d261bf0687247e7180d545e5"
       },
       "files": [
         "manifest.json",
         "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
         "description_zh-Hans.md"
       ],
       "manifest": {
         "uid": "e2f97cd2-138a-5e31-bbab-f276bd5a9cfb",
         "id": "boss-colored-relics",
-        "name": "Boss-Colored Relics",
-        "version": "1.0-ningzh.1",
+        "name": "Boss 彩色圣物（重制版）",
+        "version": "1.1.0-ningzh.1",
         "author": "The Wise Willow",
-        "description": "Boss-Colored Relics(Remastered Edition)",
+        "description": "按原版 Boss 外观重绘圣物，覆盖 28 张物品图标和摆放后的悬浮雕像图集。",
         "type": "texture",
         "category": "材质",
         "blVersion": 2,
         "links": [
           {
-            "title": "原版泰拉瑞亚资源包",
+            "title": "Steam 创意工坊原版",
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3661349204"
           }
         ],
-        "notes": "Original resource pack by The Wise Willow",
+        "notes": "使用 The Wise Willow 的原版 1.1 素材。",
         "localizedNames": {
-          "zh-Hans": "Boss 彩色圣物"
+          "en-US": "Boss-Colored Relics (Remastered Edition!)",
+          "zh-Hans": "Boss 彩色圣物（重制版）"
         },
         "localizedSummaries": {
-          "zh-Hans": "为 Boss 圣物赋予对应的色彩，采用重制版资源。"
+          "zh-Hans": "按原版 Boss 外观重绘圣物，覆盖 28 张物品图标和摆放后的悬浮雕像图集。"
         },
         "localizationEdition": {
           "language": "zh-Hans",
@@ -500,11 +504,25 @@
         },
         "authors": [
           {
-            "name": "柠版泰拉启动器",
-            "role": "移动版汉化与维护"
+            "name": "The Wise Willow",
+            "role": "原作者与美术",
+            "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3661349204"
+          },
+          {
+            "name": "柠娜",
+            "role": "此前汉化维护者"
           }
-        ]
-      }
+        ],
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "updated": "2026-11-19",
+        "summary": "按原版 Boss 外观重绘圣物，覆盖 28 张物品图标和摆放后的悬浮雕像图集。",
+        "sourceVersion": "1.1"
+      },
+      "updatedAt": "2026-11-19T00:00:00Z",
+      "publishedAt": "2026-11-19T00:00:00Z"
     },
     {
       "uid": "c7257a97-0552-4aa5-bc55-95f102b0e230",
@@ -841,25 +859,27 @@
     {
       "uid": "9b4f2a1c-3d5e-4b6a-9c8d-1e2f3a4b5c6d",
       "id": "defaultdash",
-      "name": "Default Dash",
-      "version": "1.0.0-ningzh.1.fix.1",
+      "name": "基础冲刺",
+      "version": "1.0.0-ningzh.1.fix.1.release.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-defaultdash-v1.0.0-ningzh.1.fix.1/defaultdash-1.0.0-ningzh.1.fix.1.bl",
-        "sha256": "27402978a0f033cafdae6715cd4f74ba276c3216672643353fdacb3431b772b5",
-        "size": 82373
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-defaultdash-v1.0.0-ningzh.1.fix.1.release.1/defaultdash-1.0.0-ningzh.1.fix.1.release.1.bl",
+        "size": 85417,
+        "sha256": "0774e45797538504730d06839f890450ef9641beaadb0f724cb0f6d000300455"
       },
       "files": [
         "manifest.json",
         "icon.png",
-        "description_zh-Hans.md",
-        "changelog_zh-Hans.md"
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md"
       ],
       "manifest": {
         "uid": "9b4f2a1c-3d5e-4b6a-9c8d-1e2f3a4b5c6d",
         "id": "defaultdash",
-        "name": "Default Dash",
+        "name": "基础冲刺",
         "type": "mod",
-        "version": "1.0.0-ningzh.1.fix.1",
+        "version": "1.0.0-ningzh.1.fix.1.release.1",
         "authors": [
           {
             "name": "VowTz"
@@ -869,10 +889,10 @@
             "role": "移动版汉化与维护"
           }
         ],
-        "category": "玩法",
-        "summary": "Gives the player a basic dash without needing any dashing accessory.",
+        "category": "Jogabilidade",
+        "summary": "无需装备冲刺饰品即可使用基础冲刺。",
         "license": "no license",
-        "updated": "2026-10-31",
+        "updated": "2026-11-19",
         "blVersion": 2,
         "gameVersion": [
           301720,
@@ -884,7 +904,7 @@
           "zh-Hans": "基础冲刺"
         },
         "localizedSummaries": {
-          "zh-Hans": "无需装备冲刺饰品，也能使用基础冲刺。"
+          "zh-Hans": "无需装备冲刺饰品即可使用基础冲刺。"
         },
         "localizationEdition": {
           "language": "zh-Hans",
@@ -895,10 +915,13 @@
           "revision": 1,
           "parentVersion": "1.0.0-ningzh.1",
           "parentSha256": "c5cf0fb83e0f7141705fb06b25d1ae1eedbe703229b03a1ffcab42f16e39bd3f"
-        }
+        },
+        "description": "无需装备冲刺饰品即可使用基础冲刺。",
+        "modRuntime": "csharp"
       },
       "publishedAt": "2026-10-29T10:39:17Z",
-      "runtime": "csharp"
+      "runtime": "csharp",
+      "updatedAt": "2026-11-19T00:00:00Z"
     },
     {
       "uid": "cece9409-844d-476a-8953-1a59de78db92",
@@ -5076,40 +5099,48 @@
       "publishedAt": "2026-11-01T16:33:20.721224Z",
       "uid": "b1241e97-de9b-479f-a5cc-41fddc33aa83",
       "id": "a1",
-      "name": "成长型武器",
-      "version": "1.0.2-ningzh.2",
+      "name": "成长型武器：渊海之息",
+      "version": "2.1.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-a1-v1.0.2-ningzh.2/a1-1.0.2-ningzh.2.bl",
-        "sha256": "284448e4e2599c750bfab10de3bb8931ccbf1feec93e05abc0edd1477f79ee8c",
-        "size": 28196
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-a1-v2.1.1/a1-2.1.1.bl",
+        "size": 150668,
+        "sha256": "1dae44752a9c089967f02547b6f605ca23c469404542766e48d4eb3d72dae0a3"
       },
       "files": [
         "manifest.json",
         "icon.png",
+        "description.md",
+        "changelog.md",
         "changelog_zh-Hans.md",
         "description_zh-Hans.md"
       ],
       "manifest": {
         "uid": "b1241e97-de9b-479f-a5cc-41fddc33aa83",
         "id": "a1",
-        "name": "成长型武器",
-        "version": "1.0.2-ningzh.2",
+        "name": "成长型武器：渊海之息",
+        "version": "2.1.1",
         "author": "阮汐月",
         "authors": [
           {
             "name": "阮汐月",
-            "role": "作者",
+            "role": "主创/代码",
             "color": "#8FB8FF"
           },
           {
-            "name": "柠版泰拉启动器",
-            "role": "移动版汉化与维护"
+            "name": "茉灵",
+            "role": "翻译/修bug",
+            "color": "#FFD966"
+          },
+          {
+            "name": "冷雨",
+            "role": "协同开发",
+            "color": "#DDA0DD"
           }
         ],
-        "category": "武器",
+        "category": "Weapons",
         "type": "mod",
-        "summary": "伴随泰拉旅程成长的召唤神器；包含原初核心、残影挑战和成长型泰拉棱镜。",
-        "description": "# 成长型武器\n\n作者：阮汐月；维护者：柠娜。\n\n成长型召唤武器会随泰拉瑞亚旅程推进，从原初核心与原初残影的获取，到逐步成长的泰拉棱镜。包含原初核心、原初残影、原初碎片和成长型泰拉棱镜的完整流程，并保留原版召唤动作与音效。\n\n作者提供的 1.0.2 内容重新调整伤害公式与召唤数量上限，增加世吞/克脑成长阶段，并修复飞剑攻击假人、小动物和攻击停滞问题。安装或更新后请完全退出并重启游戏；联机兼容性尚未充分验证。\n\n许可：MIT。\n",
+        "summary": "包含星空、暗星、成长棱镜、深海剑和深渊法杖，支持进度成长、武器等级和专属技能。",
+        "description": "【v2.1.0】\n1.重置了暗星的武器贴图。\n2. 全部武器配方改用代码名称引用（原初核心 / 坠落之星 / 铁锭组 / 水桶 /工作台），不再依赖硬编码 id，更新游戏后不会失效。\n3. 所有 Leveled（真·）武器改为『原武器 + 原武器配方（去掉原初核心）』升级合成。\n4. 补全暗星、星空的介绍与世界进度指引（tooltip）。\n5. 深海剑统一为 DeepSea。\n\n【内容】\n一、神兵体系\n1. 『星空』射手步枪：高射速高暴击，技能【日星隐曜】【黑洞】【白洞】【恒星】。\n2. 『暗星』重型狙击枪：极慢拉栓、极高单发伤害、无限穿透，技能【星蚀】【陨星】【星链】【奇点降临】。\n3. 『成长棱镜』：击杀怪物获取经验，等级越高召唤越多棱镜神剑。\n4. 『深海剑』：挥动释放深海礁石，半空分裂为三枚追踪碎岩。\n5. 『深渊法杖』：持续激光，命中叠能量、概率附加减益与回蓝。\n\n二、原初体系\n1. 【原初残影】夜晚生成，击败掉落原初碎片。\n2. 8 个原初碎片合成【原初核心】；月后用 5 个夜明锭在远古操纵机无限量产。\n\n三、等级与能量\n1. 命中积攒星空能量（上限 100），需在设置里拖出 8 个技能键。\n2. Leveled 版武器拥有独立经验池与称号。\n\n本模组参考了 tModLoader 的部分模组与启动器上的部分模组代码制作。",
         "license": "MIT",
         "links": [],
         "pages": [],
@@ -5125,7 +5156,7 @@
           "backgroundScale": null,
           "backgroundDim": null
         },
-        "updated": "2026-11-05",
+        "updated": "2026-11-19",
         "featured": false,
         "blVersion": 2,
         "gameVersion": [
@@ -5135,12 +5166,12 @@
         "entry": "main.js",
         "dependencies": [],
         "localizedNames": {
-          "zh-Hans": "成长型武器",
-          "en-US": "Growth-oriented weapon"
+          "zh-Hans": "成长型武器：渊海之息",
+          "en-US": "Growth Arsenal: Deep Sea & Abyss"
         },
         "localizedSummaries": {
-          "zh-Hans": "伴随泰拉旅程成长的召唤神器；包含原初核心、残影挑战和成长型泰拉棱镜。",
-          "en-US": "A summoning artifact that grows with your Terraria journey. Featuring the choice of the Primordial Core, the challenge of the Phantoms, and a fully upgraded Terraprisma with authentic animations and sounds."
+          "zh-Hans": "包含星空、暗星、成长棱镜、深海剑和深渊法杖，支持进度成长、武器等级和专属技能。",
+          "en-US": "Merged pack of Sky, Dark Star, Prisma, Deep Sea and Abyss Wand."
         },
         "sourceEdition": {
           "baseVersion": "1.0.2",
@@ -5150,9 +5181,10 @@
           "language": "zh-Hans",
           "revision": 2,
           "baseVersion": "1.0.2"
-        }
+        },
+        "modRuntime": "js"
       },
-      "updatedAt": "2026-11-05T00:00:00Z",
+      "updatedAt": "2026-11-19T00:00:00Z",
       "runtime": "js"
     },
     {
@@ -6961,6 +6993,2036 @@
       "runtime": "js",
       "updatedAt": "2026-11-18T16:38:00Z",
       "publishedAt": "2026-11-18T16:38:00Z"
+    },
+    {
+      "uid": "cf82a986-79be-5c89-a675-35c056690591",
+      "id": "BossChecklist",
+      "name": "Boss 清单（C#）",
+      "version": "2.2.4-ningcs.1.fix.20261117.2.mobilefix.2",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-BossChecklist-v2.2.4-ningcs.1.fix.20261117.2.mobilefix.2/BossChecklist-2.2.4-ningcs.1.fix.20261117.2.mobilefix.2.bl",
+        "size": 1206285,
+        "sha256": "8aae8044993e5a18bd5bc4100f27788770afce8843b16e158f8cf31aaa61c3b2"
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "credits.md"
+      ],
+      "manifest": {
+        "uid": "cf82a986-79be-5c89-a675-35c056690591",
+        "id": "BossChecklist",
+        "name": "Boss 清单（C#）",
+        "version": "2.2.4-ningcs.1.fix.20261117.2.mobilefix.2",
+        "blVersion": 3,
+        "entry": "BossChecklist.cs",
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "dependencies": [],
+        "authors": [
+          {
+            "name": "SheepishShepherd, jopojelly",
+            "role": "原模组作者"
+          },
+          {
+            "name": "柠版泰拉启动器",
+            "role": "移动版汉化与维护"
+          }
+        ],
+        "summary": "在书本里查看 Boss、事件、击败记录、召唤条件和战利品。轻点背包中的书本打开清单，按住滑动可更改位置。",
+        "links": [
+          {
+            "title": "Steam 原作",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2669644269"
+          }
+        ],
+        "description": "在书本里查看 Boss、事件、击败记录、召唤条件和战利品。轻点背包中的书本打开清单，按住滑动可更改位置。",
+        "updated": "2026-11-19",
+        "localizedNames": {
+          "zh-Hans": "Boss 清单（C#）"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "在书本里查看 Boss、事件、击败记录、召唤条件和战利品。轻点背包中的书本打开清单，按住滑动可更改位置。"
+        },
+        "modRuntime": "csharp"
+      },
+      "updatedAt": "2026-11-19T00:00:00Z",
+      "runtime": "csharp",
+      "publishedAt": "2026-11-19T00:00:00Z"
+    },
+    {
+      "uid": "5fe1f7de-4d4d-5d7d-aeac-f59b113bfd37",
+      "id": "Autofish",
+      "name": "自动钓鱼",
+      "version": "1.2.3-ningcs.1",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-Autofish-v1.2.3-ningcs.1/Autofish-1.2.3-ningcs.1.bl",
+        "size": 30050,
+        "sha256": "f88c10c001c149dbeaba14271b047753a2861b218e1be8db66c779a565eb6d16"
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "credits.md",
+        "LICENSE"
+      ],
+      "manifest": {
+        "uid": "5fe1f7de-4d4d-5d7d-aeac-f59b113bfd37",
+        "id": "Autofish",
+        "name": "自动钓鱼",
+        "version": "1.2.3-ningcs.1",
+        "blVersion": 3,
+        "entry": "Autofish.cs",
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "dependencies": [],
+        "authors": [
+          {
+            "name": "Cyrilly",
+            "role": "原模组作者"
+          },
+          {
+            "name": "柠版泰拉启动器",
+            "role": "移动版汉化与维护"
+          }
+        ],
+        "summary": "咬钩后自动收竿并再次抛竿。可固定抛点、按声呐分类过滤并续用钓鱼药水。首次仍需手动抛竿。",
+        "links": [
+          {
+            "title": "Steam原作",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2621687273"
+          }
+        ],
+        "description": "咬钩后自动收竿并再次抛竿。可固定抛点、按声呐分类过滤并续用钓鱼药水。首次仍需手动抛竿。",
+        "updated": "2026-11-19",
+        "pages": [
+          {
+            "title": "更新日志",
+            "file": "changelog.md"
+          },
+          {
+            "title": "来源与署名",
+            "file": "credits.md"
+          }
+        ],
+        "license": "MIT",
+        "localizedNames": {
+          "zh-Hans": "自动钓鱼"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "咬钩后自动收竿并再次抛竿。可固定抛点、按声呐分类过滤并续用钓鱼药水。首次仍需手动抛竿。"
+        },
+        "modRuntime": "csharp"
+      },
+      "updatedAt": "2026-11-19T00:00:00Z",
+      "runtime": "csharp",
+      "publishedAt": "2026-11-19T00:00:00Z"
+    },
+    {
+      "uid": "d30bf135-6abd-586d-b1be-25212bffb475",
+      "id": "AutoReroll",
+      "name": "自动重铸",
+      "version": "2024.8.31-ningcs.1.fix.20261117.2.mobile2",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-AutoReroll-v2024.8.31-ningcs.1.fix.20261117.2.mobile2/AutoReroll-2024.8.31-ningcs.1.fix.20261117.2.mobile2.bl",
+        "size": 73114,
+        "sha256": "8286ba2480be089e9658433f88a5b36650d6d7a5ba0443b881fe1d190624ed31"
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "credits.md",
+        "LICENSE.md"
+      ],
+      "manifest": {
+        "uid": "d30bf135-6abd-586d-b1be-25212bffb475",
+        "id": "AutoReroll",
+        "name": "自动重铸",
+        "version": "2024.8.31-ningcs.1.fix.20261117.2.mobile2",
+        "blVersion": 3,
+        "entry": "AutoReroll.cs",
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "dependencies": [],
+        "authors": [
+          {
+            "name": "Sad Onion",
+            "role": "原模组作者"
+          },
+          {
+            "name": "柠版泰拉启动器",
+            "role": "移动版汉化与维护"
+          }
+        ],
+        "summary": "与哥布林工匠交谈后可按目标词缀自动重铸，设置保留金额并查看最近一次属性变化。",
+        "links": [
+          {
+            "title": "Steam原作",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2707400823"
+          }
+        ],
+        "description": "与哥布林工匠交谈后可按目标词缀自动重铸，设置保留金额并查看最近一次属性变化。",
+        "updated": "2026-11-19",
+        "pages": [
+          {
+            "title": "更新日志",
+            "file": "changelog.md"
+          },
+          {
+            "title": "来源与署名",
+            "file": "credits.md"
+          }
+        ],
+        "license": "MIT",
+        "localizedNames": {
+          "zh-Hans": "自动重铸"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "与哥布林工匠交谈后可按目标词缀自动重铸，设置保留金额并查看最近一次属性变化。"
+        },
+        "modRuntime": "csharp"
+      },
+      "updatedAt": "2026-11-19T00:00:00Z",
+      "runtime": "csharp",
+      "publishedAt": "2026-11-19T00:00:00Z"
+    },
+    {
+      "uid": "7ac6559e-6c48-5dc2-aa96-432cf366faeb",
+      "id": "ImproveGame",
+      "name": "更好的体验",
+      "version": "1.8.2-ningcs.1.fix.20261119.1",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-ImproveGame-v1.8.2-ningcs.1.fix.20261119.1/ImproveGame-1.8.2-ningcs.1.fix.20261119.1.bl",
+        "size": 9174460,
+        "sha256": "d15bafff50cc1bb15c4fd11fc27d1bbef3198a606097780ac13e5f4ac7df4226"
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "credits.md"
+      ],
+      "manifest": {
+        "uid": "7ac6559e-6c48-5dc2-aa96-432cf366faeb",
+        "id": "ImproveGame",
+        "name": "更好的体验",
+        "version": "1.8.2-ningcs.1.fix.20261119.1",
+        "blVersion": 3,
+        "entry": "ImproveGame.cs",
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "dependencies": [
+          "ffacb771-9540-5b79-bf9d-f28d8a3e705e"
+        ],
+        "authors": [
+          {
+            "name": "局长, Cyril, 夜谷紫幽, delete, Kaelis, Lacewing, Lastprismer, 合作一号, Reits, 中学生, 错数螺线, Zavarski, Pengolin",
+            "role": "原模组作者"
+          },
+          {
+            "name": "柠版泰拉启动器",
+            "role": "移动版汉化与维护"
+          }
+        ],
+        "summary": "提供储存管理器、钓鱼机、药水袋、旗帜盒和多种建造工具。部分功能需在模组配置中开启。需要配套的 SilkyUI。",
+        "links": [
+          {
+            "title": "Steam 原作",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2797518634"
+          }
+        ],
+        "description": "提供储存管理器、钓鱼机、药水袋、旗帜盒和多种建造工具。部分功能需在模组配置中开启。需要配套的 SilkyUI。",
+        "updated": "2026-11-19",
+        "localizedNames": {
+          "zh-Hans": "更好的体验"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "提供储存管理器、钓鱼机、药水袋、旗帜盒和多种建造工具。部分功能需在模组配置中开启。需要配套的 SilkyUI。"
+        },
+        "modRuntime": "csharp"
+      },
+      "updatedAt": "2026-11-19T00:00:00Z",
+      "runtime": "csharp",
+      "publishedAt": "2026-11-19T00:00:00Z"
+    },
+    {
+      "uid": "8efefc72-63f9-5044-a2ff-406be830cd15",
+      "id": "MagicStorage",
+      "name": "魔法存储",
+      "version": "0.7.0.11-ningcs.1.fix.20261117.2.mobile4.draw3",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-MagicStorage-v0.7.0.11-ningcs.1.fix.20261117.2.mobile4.draw3/MagicStorage-0.7.0.11-ningcs.1.fix.20261117.2.mobile4.draw3.bl",
+        "size": 1325350,
+        "sha256": "51e36c43db607fd6b6bd7e317aadafc26d0a3f1c3a7c1ec7f5e3d63679fe2569"
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "LICENSE",
+        "credits.md"
+      ],
+      "manifest": {
+        "uid": "8efefc72-63f9-5044-a2ff-406be830cd15",
+        "id": "MagicStorage",
+        "name": "魔法存储",
+        "version": "0.7.0.11-ningcs.1.fix.20261117.2.mobile4.draw3",
+        "blVersion": 3,
+        "entry": "MagicStorage.cs",
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "dependencies": [
+          "48ca24c7-5faf-599d-b624-5c08939c28f7"
+        ],
+        "authors": [
+          {
+            "name": "absoluteAquarian & Contributors",
+            "role": "原模组作者"
+          },
+          {
+            "name": "柠版泰拉启动器",
+            "role": "移动版汉化与维护"
+          },
+          {
+            "name": "Bloa",
+            "role": "JS 版移动界面参考"
+          },
+          {
+            "name": "Titan camera",
+            "role": "JS 版移植与界面参考"
+          }
+        ],
+        "summary": "用存储核心和存储单元集中管理物品，并通过制作界面查询和制作配方。需要 absoluteAquarian Utilities。",
+        "links": [
+          {
+            "title": "Steam 原作",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2563309347"
+          }
+        ],
+        "description": "用存储核心和存储单元集中管理物品，并通过制作界面查询和制作配方。需要 absoluteAquarian Utilities。",
+        "updated": "2026-11-19",
+        "localizedNames": {
+          "zh-Hans": "魔法存储"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "用存储核心和存储单元集中管理物品，并通过制作界面查询和制作配方。需要 absoluteAquarian Utilities。"
+        },
+        "modRuntime": "csharp"
+      },
+      "updatedAt": "2026-11-19T00:00:00Z",
+      "runtime": "csharp",
+      "publishedAt": "2026-11-19T00:00:00Z"
+    },
+    {
+      "uid": "1ce07241-de75-5cb4-a0c5-11cc3007fdaa",
+      "id": "OreExcavator",
+      "name": "连锁挖矿",
+      "version": "0.8.9-ningcs.1.fix.20261117.mobile1.quiet1",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-OreExcavator-v0.8.9-ningcs.1.fix.20261117.mobile1.quiet1/OreExcavator-0.8.9-ningcs.1.fix.20261117.mobile1.quiet1.bl",
+        "size": 224898,
+        "sha256": "c6c695c3e1fa24f276b4e3e4153ac4b59e06f3d31e0ffaf085e6e20c90ebf228"
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "credits.md"
+      ],
+      "manifest": {
+        "uid": "1ce07241-de75-5cb4-a0c5-11cc3007fdaa",
+        "id": "OreExcavator",
+        "name": "连锁挖矿",
+        "version": "0.8.9-ningcs.1.fix.20261117.mobile1.quiet1",
+        "blVersion": 3,
+        "entry": "OreExcavator.cs",
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "dependencies": [],
+        "authors": [
+          {
+            "name": "CrazyContraption",
+            "role": "原模组作者"
+          },
+          {
+            "name": "柠版泰拉启动器",
+            "role": "移动版汉化与维护"
+          }
+        ],
+        "summary": "提供连锁采矿、挖墙、播种和连锁放置。默认可用镐或钻头直接触发白名单方块的连锁采矿。",
+        "links": [
+          {
+            "title": "Steam原作",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2565639705"
+          }
+        ],
+        "description": "提供连锁采矿、挖墙、播种和连锁放置。默认可用镐或钻头直接触发白名单方块的连锁采矿。",
+        "updated": "2026-11-19",
+        "pages": [
+          {
+            "title": "更新日志",
+            "file": "changelog.md"
+          },
+          {
+            "title": "来源与署名",
+            "file": "credits.md"
+          }
+        ],
+        "localizedNames": {
+          "zh-Hans": "连锁挖矿"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "提供连锁采矿、挖墙、播种和连锁放置。默认可用镐或钻头直接触发白名单方块的连锁采矿。"
+        },
+        "modRuntime": "csharp"
+      },
+      "updatedAt": "2026-11-19T00:00:00Z",
+      "runtime": "csharp",
+      "publishedAt": "2026-11-19T00:00:00Z"
+    },
+    {
+      "uid": "b220e16f-63d6-5e25-bfcc-ddd5758616d6",
+      "id": "WeaponDisplay",
+      "name": "武器展示",
+      "version": "1.20.1-ningcs.1.fix.6.defaults1.mobile1.quiet1",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-WeaponDisplay-v1.20.1-ningcs.1.fix.6.defaults1.mobile1.quiet1/WeaponDisplay-1.20.1-ningcs.1.fix.6.defaults1.mobile1.quiet1.bl",
+        "size": 380642,
+        "sha256": "68310b824492411ef44b2b4ea34ec548483ee39538d21f26e7e9075c7b4dbae7"
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "credits.md"
+      ],
+      "manifest": {
+        "uid": "b220e16f-63d6-5e25-bfcc-ddd5758616d6",
+        "id": "WeaponDisplay",
+        "name": "武器展示",
+        "version": "1.20.1-ningcs.1.fix.6.defaults1.mobile1.quiet1",
+        "blVersion": 3,
+        "entry": "WeaponDisplay.cs",
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "dependencies": [],
+        "authors": [
+          {
+            "name": "逆风而行的信鸽, 阿汪, Cyril",
+            "role": "原模组作者"
+          },
+          {
+            "name": "柠版泰拉启动器",
+            "role": "移动版汉化与维护"
+          }
+        ],
+        "summary": "显示手持武器，可配置武器发光、挥砍和掉落特效。部分自定义武器有独立绘制，效果取决于其适配。",
+        "links": [
+          {
+            "title": "Steam 原作",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2763158325"
+          }
+        ],
+        "description": "显示手持武器，可配置武器发光、挥砍和掉落特效。部分自定义武器有独立绘制，效果取决于其适配。",
+        "updated": "2026-11-19",
+        "localizedNames": {
+          "zh-Hans": "武器展示"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "显示手持武器，可配置武器发光、挥砍和掉落特效。部分自定义武器有独立绘制，效果取决于其适配。"
+        },
+        "modRuntime": "csharp"
+      },
+      "updatedAt": "2026-11-19T00:00:00Z",
+      "runtime": "csharp",
+      "publishedAt": "2026-11-19T00:00:00Z"
+    },
+    {
+      "uid": "a5ac9379-8ea2-5f80-8b0f-d2d07e919533",
+      "id": "Luminance",
+      "name": "Luminance 光效前置库",
+      "version": "1.0.14-ningcs.1.dev1",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-Luminance-v1.0.14-ningcs.1.dev1/Luminance-1.0.14-ningcs.1.dev1.bl",
+        "size": 2514140,
+        "sha256": "6724b43c150dd6a0a78389987595bc03315cbeb6e10f46818c50456c30f78518"
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "LICENSE"
+      ],
+      "manifest": {
+        "uid": "a5ac9379-8ea2-5f80-8b0f-d2d07e919533",
+        "id": "Luminance",
+        "name": "Luminance 光效前置库",
+        "author": "Lucille Karma",
+        "version": "1.0.14-ningcs.1.dev1",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "Luminance.dll",
+        "dependencies": [],
+        "localizedNames": {
+          "zh-Hans": "Luminance 光效前置库"
+        },
+        "authors": [
+          {
+            "name": "Lucille Karma",
+            "role": "原作者"
+          },
+          {
+            "name": "柠版泰拉启动器",
+            "role": "移动版汉化与维护"
+          }
+        ],
+        "summary": "供其他模组使用的光效前置库，提供粒子、轨迹、着色器、滤镜和渲染目标接口。",
+        "license": "MIT",
+        "description": "供其他模组使用的光效前置库，提供粒子、轨迹、着色器、滤镜和渲染目标接口。",
+        "localizedSummaries": {
+          "zh-Hans": "供其他模组使用的光效前置库，提供粒子、轨迹、着色器、滤镜和渲染目标接口。"
+        },
+        "updated": "2026-11-19",
+        "modRuntime": "csharp"
+      },
+      "updatedAt": "2026-11-19T00:00:00Z",
+      "runtime": "csharp",
+      "publishedAt": "2026-11-19T00:00:00Z"
+    },
+    {
+      "uid": "48ca24c7-5faf-599d-b624-5c08939c28f7",
+      "id": "SerousCommonLib",
+      "name": "absoluteAquarian Utilities",
+      "version": "1.0.6.2-ningcs.1.fix.20261117",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-SerousCommonLib-v1.0.6.2-ningcs.1.fix.20261117/SerousCommonLib-1.0.6.2-ningcs.1.fix.20261117.bl",
+        "size": 426436,
+        "sha256": "7b582ae74bd422c82d55651ea629f46d379f2f0c28fa9951423fe5d65bf9f124"
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "LICENSE.txt",
+        "credits.md"
+      ],
+      "manifest": {
+        "uid": "48ca24c7-5faf-599d-b624-5c08939c28f7",
+        "id": "SerousCommonLib",
+        "name": "absoluteAquarian Utilities",
+        "version": "1.0.6.2-ningcs.1.fix.20261117",
+        "blVersion": 3,
+        "entry": "SerousCommonLib.cs",
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "dependencies": [],
+        "authors": [
+          {
+            "name": "absoluteAquarian",
+            "role": "原模组作者"
+          },
+          {
+            "name": "柠版泰拉启动器",
+            "role": "移动版汉化与维护"
+          }
+        ],
+        "summary": "供魔法存储等模组使用的通用工具前置库，提供界面、文本输入与其他辅助接口。",
+        "links": [
+          {
+            "title": "Steam 原作",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2908170107"
+          }
+        ],
+        "description": "供魔法存储等模组使用的通用工具前置库，提供界面、文本输入与其他辅助接口。",
+        "updated": "2026-11-19",
+        "localizedNames": {
+          "zh-Hans": "absoluteAquarian Utilities"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "供魔法存储等模组使用的通用工具前置库，提供界面、文本输入与其他辅助接口。"
+        },
+        "modRuntime": "csharp"
+      },
+      "updatedAt": "2026-11-19T00:00:00Z",
+      "runtime": "csharp",
+      "publishedAt": "2026-11-19T00:00:00Z"
+    },
+    {
+      "uid": "ffacb771-9540-5b79-bf9d-f28d8a3e705e",
+      "id": "SilkyUIFramework",
+      "name": "SilkyUI",
+      "version": "0.3.0-ningcs.1.fix.6",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-SilkyUIFramework-v0.3.0-ningcs.1.fix.6/SilkyUIFramework-0.3.0-ningcs.1.fix.6.bl",
+        "size": 1203251,
+        "sha256": "7690614bef9995780a3fbb3cc900107affc1e3a47761199b92f580a4b7fb19a6"
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "credits.md"
+      ],
+      "manifest": {
+        "uid": "ffacb771-9540-5b79-bf9d-f28d8a3e705e",
+        "id": "SilkyUIFramework",
+        "name": "SilkyUI",
+        "version": "0.3.0-ningcs.1.fix.6",
+        "blVersion": 3,
+        "entry": "SilkyUIFramework.cs",
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "dependencies": [],
+        "authors": [
+          {
+            "name": "太阳照常升起",
+            "role": "原模组作者"
+          },
+          {
+            "name": "柠版泰拉启动器",
+            "role": "移动版汉化与维护"
+          }
+        ],
+        "summary": "供更好的体验等模组使用的界面前置库，提供布局、控件和绘制接口。",
+        "links": [
+          {
+            "title": "Steam 原作",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3403460014"
+          }
+        ],
+        "description": "供更好的体验等模组使用的界面前置库，提供布局、控件和绘制接口。",
+        "localizedNames": {
+          "zh-Hans": "SilkyUI"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "供更好的体验等模组使用的界面前置库，提供布局、控件和绘制接口。"
+        },
+        "updated": "2026-11-19",
+        "modRuntime": "csharp"
+      },
+      "updatedAt": "2026-11-19T00:00:00Z",
+      "runtime": "csharp",
+      "publishedAt": "2026-11-19T00:00:00Z"
+    },
+    {
+      "uid": "06d3ecd1-1f04-4925-a886-35c7c5120906",
+      "id": "ExampleMod",
+      "name": "C# 开发示例",
+      "version": "0.43.1-ning.2",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-ExampleMod-v0.43.1-ning.2/ExampleMod-0.43.1-ning.2.bl",
+        "size": 8148201,
+        "sha256": "72fb85bf758327f150b102c518ce2c6422a6a83dbde1bd8600327ce7df123fba"
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "license.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "authors/animatak.png",
+        "authors/potato.png"
+      ],
+      "manifest": {
+        "uid": "06d3ecd1-1f04-4925-a886-35c7c5120906",
+        "id": "ExampleMod",
+        "name": "C# 开发示例",
+        "localizedSummaries": {
+          "en-US": "The tModLoader ExampleMod in C#, ported as the C# loaders arrive. For now: the Example Item, the Sword, the recipes, the Example armor with its set bonus, the Example robe, the Example life fruit and mana crystal, the Example immunity accessory, the Example buffs and buff potion, wings and shield, the Example damage class with its weapon and stat bonus accessory, the Example shotgun, minigun, sword and magic weapon.",
+          "zh-Hans": "C# 模组开发示例，包含示例竞技场子世界、智能光标高亮、内容注册及 API 用法。"
+        },
+        "version": "0.43.1-ning.2",
+        "authors": [
+          {
+            "name": "Potato",
+            "role": "Port para o Bunny Loader",
+            "avatar": "potato.png",
+            "color": "#E8C170",
+            "link": "https://github.com/JonataOliveiraa"
+          },
+          {
+            "name": "tModLoader Team",
+            "role": "O ExampleMod original",
+            "color": "#7FC8FF",
+            "link": "https://github.com/tModLoader/tModLoader"
+          },
+          {
+            "name": "Animatak_",
+            "role": "ModInvasion: design, Paladin Crusade and Grave Legion, icons and texts",
+            "avatar": "animatak.png",
+            "color": "#841FFF",
+            "link": "https://discord.gg/lemon-studio-1422278971227115532"
+          },
+          {
+            "name": "柠版泰拉启动器",
+            "role": "移动版汉化与维护"
+          }
+        ],
+        "category": "Itens",
+        "summary": "C# 模组开发示例，包含示例竞技场子世界、智能光标高亮、内容注册及 API 用法。",
+        "license": "MIT",
+        "updated": "2026-11-19",
+        "blVersion": 3,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "dependencies": [],
+        "links": [
+          {
+            "title": "ExampleMod original",
+            "url": "https://github.com/tModLoader/tModLoader/tree/stable/ExampleMod"
+          },
+          {
+            "title": "Mods em C#",
+            "url": "https://github.com/JonataOliveiraa/Bunny-Loader/wiki/Making-Mods"
+          }
+        ],
+        "entry": "ExampleMod.cs",
+        "featured": true,
+        "description": "C# 模组开发示例，包含示例竞技场子世界、智能光标高亮、内容注册及 API 用法。",
+        "localizedNames": {
+          "zh-Hans": "C# 开发示例"
+        },
+        "modRuntime": "csharp"
+      },
+      "updatedAt": "2026-11-19T00:00:00Z",
+      "runtime": "csharp",
+      "publishedAt": "2026-11-19T00:00:00Z"
+    },
+    {
+      "uid": "ee508d07-bbc9-564c-9c43-b842b9bdc1fc",
+      "id": "RecipeBrowser",
+      "name": "合成表（C#）",
+      "version": "0.12.0.3-ningcs.2.fix.20261117.6.mobile3.mobilefix.1",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-RecipeBrowser-v0.12.0.3-ningcs.2.fix.20261117.6.mobile3.mobilefix.1/RecipeBrowser-0.12.0.3-ningcs.2.fix.20261117.6.mobile3.mobilefix.1.bl",
+        "size": 552689,
+        "sha256": "9f699781e98a28af6c59bf84c25ac08008fa6e236aa4c770b6993bcac8db99ec"
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "credits.md"
+      ],
+      "manifest": {
+        "uid": "ee508d07-bbc9-564c-9c43-b842b9bdc1fc",
+        "id": "RecipeBrowser",
+        "name": "合成表（C#）",
+        "version": "0.12.0.3-ningcs.2.fix.20261117.6.mobile3.mobilefix.1",
+        "blVersion": 3,
+        "entry": "RecipeBrowser.cs",
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "dependencies": [],
+        "authors": [
+          {
+            "name": "jopojelly",
+            "role": "原模组作者"
+          },
+          {
+            "name": "柠版泰拉启动器",
+            "role": "移动版汉化与维护"
+          }
+        ],
+        "summary": "搜索物品与配方，查询制作路径、制作站、掉落和收藏。搜索框支持手机键盘。",
+        "links": [
+          {
+            "title": "Steam原作",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2619954303"
+          }
+        ],
+        "description": "搜索物品与配方，查询制作路径、制作站、掉落和收藏。搜索框支持手机键盘。",
+        "updated": "2026-11-19",
+        "pages": [
+          {
+            "title": "更新日志",
+            "file": "changelog.md"
+          },
+          {
+            "title": "来源与署名",
+            "file": "credits.md"
+          }
+        ],
+        "localizedNames": {
+          "zh-Hans": "合成表（C#）"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "搜索物品与配方，查询制作路径、制作站、掉落和收藏。搜索框支持手机键盘。"
+        },
+        "modRuntime": "csharp"
+      },
+      "updatedAt": "2026-11-19T00:00:00Z",
+      "runtime": "csharp",
+      "publishedAt": "2026-11-19T00:00:00Z"
+    },
+    {
+      "uid": "34f04ac5-5441-5e40-8219-4eb7eed3d3aa",
+      "id": "AutoTrash",
+      "name": "智能垃圾桶（C#）",
+      "version": "0.8.1.1-ningcs.1.fix.20261117.2.mobilefix.1",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-AutoTrash-v0.8.1.1-ningcs.1.fix.20261117.2.mobilefix.1/AutoTrash-0.8.1.1-ningcs.1.fix.20261117.2.mobilefix.1.bl",
+        "size": 61282,
+        "sha256": "b4e8ce86e8d70cc7b18f037605769337066fc762b8115e46fa86561e7c5d352c"
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "credits.md"
+      ],
+      "manifest": {
+        "uid": "34f04ac5-5441-5e40-8219-4eb7eed3d3aa",
+        "id": "AutoTrash",
+        "name": "智能垃圾桶（C#）",
+        "version": "0.8.1.1-ningcs.1.fix.20261117.2.mobilefix.1",
+        "blVersion": 3,
+        "entry": "AutoTrash.cs",
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "dependencies": [],
+        "authors": [
+          {
+            "name": "jopojelly",
+            "role": "原模组作者"
+          },
+          {
+            "name": "柠版泰拉启动器",
+            "role": "移动版汉化与维护"
+          }
+        ],
+        "summary": "按名单自动丢弃或出售指定物品，提供无价值过滤、搜索和最近一次物品恢复。恢复记录仅在当前游戏内有效。",
+        "category": "便利",
+        "links": [
+          {
+            "title": "Steam 原作",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2565540604"
+          }
+        ],
+        "localizedNames": {
+          "zh-Hans": "智能垃圾桶（C#）",
+          "en-US": "Auto Trash (C# port)"
+        },
+        "description": "按名单自动丢弃或出售指定物品，提供无价值过滤、搜索和最近一次物品恢复。恢复记录仅在当前游戏内有效。",
+        "updated": "2026-11-19",
+        "localizedSummaries": {
+          "zh-Hans": "按名单自动丢弃或出售指定物品，提供无价值过滤、搜索和最近一次物品恢复。恢复记录仅在当前游戏内有效。"
+        },
+        "modRuntime": "csharp"
+      },
+      "updatedAt": "2026-11-19T00:00:00Z",
+      "runtime": "csharp",
+      "publishedAt": "2026-11-19T00:00:00Z"
+    },
+    {
+      "uid": "b126964a-bf9f-5958-abff-d4dadca9133e",
+      "id": "Census",
+      "name": "城镇居民清单（C#）",
+      "version": "0.5.2.8-ningcs.1.fix.20261117.2",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-Census-v0.5.2.8-ningcs.1.fix.20261117.2/Census-0.5.2.8-ningcs.1.fix.20261117.2.bl",
+        "size": 51129,
+        "sha256": "8d8c1ced082c3e116a94f094af2c8d9559a7d4ceed9c67186c94c4f7d49ff9a4"
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "credits.md"
+      ],
+      "manifest": {
+        "uid": "b126964a-bf9f-5958-abff-d4dadca9133e",
+        "id": "Census",
+        "name": "城镇居民清单（C#）",
+        "version": "0.5.2.8-ningcs.1.fix.20261117.2",
+        "blVersion": 3,
+        "entry": "Census.cs",
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "dependencies": [],
+        "authors": [
+          {
+            "name": "jopojelly",
+            "role": "原模组作者"
+          },
+          {
+            "name": "柠版泰拉启动器",
+            "role": "移动版汉化与维护"
+          }
+        ],
+        "summary": "在住房面板查看城镇居民、入住条件和居民位置，也可用 /TownProgress 查看进度。",
+        "category": "便利",
+        "links": [
+          {
+            "title": "Steam 原作",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2687866031"
+          }
+        ],
+        "localizedNames": {
+          "zh-Hans": "城镇居民清单（C#）",
+          "en-US": "Census - Town NPC Checklist (C# port)"
+        },
+        "description": "在住房面板查看城镇居民、入住条件和居民位置，也可用 /TownProgress 查看进度。",
+        "updated": "2026-11-19",
+        "localizedSummaries": {
+          "zh-Hans": "在住房面板查看城镇居民、入住条件和居民位置，也可用 /TownProgress 查看进度。"
+        },
+        "modRuntime": "csharp"
+      },
+      "updatedAt": "2026-11-19T00:00:00Z",
+      "runtime": "csharp",
+      "publishedAt": "2026-11-19T00:00:00Z"
+    },
+    {
+      "uid": "1fc8cd8c-16f5-58b5-88bb-0c5af9e4b27b",
+      "id": "BossCursor",
+      "name": "Boss 方位指示（C#）",
+      "version": "3.0.1-ningcs.1.fix.20261117.2",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-BossCursor-v3.0.1-ningcs.1.fix.20261117.2/BossCursor-3.0.1-ningcs.1.fix.20261117.2.bl",
+        "size": 32030,
+        "sha256": "852012a94b2ad8c9d7051f1a7e8468ad30bfbae479ef2d9dad0230186817edc8"
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "LICENSE",
+        "credits.md"
+      ],
+      "manifest": {
+        "uid": "1fc8cd8c-16f5-58b5-88bb-0c5af9e4b27b",
+        "id": "BossCursor",
+        "name": "Boss 方位指示（C#）",
+        "version": "3.0.1-ningcs.1.fix.20261117.2",
+        "blVersion": 3,
+        "entry": "BossCursor.cs",
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "dependencies": [],
+        "authors": [
+          {
+            "name": "kgoyo",
+            "role": "原模组作者"
+          },
+          {
+            "name": "柠版泰拉启动器",
+            "role": "移动版汉化与维护"
+          }
+        ],
+        "summary": "在屏幕上指示 Boss 所在方向，方便追踪离开视野的目标。",
+        "category": "便利",
+        "links": [
+          {
+            "title": "Steam 原作",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2816694149"
+          }
+        ],
+        "localizedNames": {
+          "zh-Hans": "Boss 方位指示（C#）",
+          "en-US": "Boss Cursor (C# port)"
+        },
+        "description": "在屏幕上指示 Boss 所在方向，方便追踪离开视野的目标。",
+        "updated": "2026-11-19",
+        "localizedSummaries": {
+          "zh-Hans": "在屏幕上指示 Boss 所在方向，方便追踪离开视野的目标。"
+        },
+        "modRuntime": "csharp"
+      },
+      "updatedAt": "2026-11-19T00:00:00Z",
+      "runtime": "csharp",
+      "publishedAt": "2026-11-19T00:00:00Z"
+    },
+    {
+      "uid": "083e57c8-3d2a-5da6-abbc-0cda2f57ad2f",
+      "id": "AlchemistNPCLite",
+      "name": "炼金术师 NPC 精简版（C#）",
+      "version": "1.9.9-ningcs.1.fix.20261117",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-AlchemistNPCLite-v1.9.9-ningcs.1.fix.20261117/AlchemistNPCLite-1.9.9-ningcs.1.fix.20261117.bl",
+        "size": 433154,
+        "sha256": "97cb1ba1a4283969fce26e485d675c37e1057edd13ff8480d1b235b9f2ec3fab"
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "credits.md"
+      ],
+      "manifest": {
+        "uid": "083e57c8-3d2a-5da6-abbc-0cda2f57ad2f",
+        "id": "AlchemistNPCLite",
+        "name": "炼金术师 NPC 精简版（C#）",
+        "version": "1.9.9-ningcs.1.fix.20261117",
+        "blVersion": 3,
+        "entry": "AlchemistNPCLite.cs",
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "dependencies": [],
+        "authors": [
+          {
+            "name": "Gregg/VVV101, b2mauler, Rockman Zeta, somebody0214, RebooT, drh",
+            "role": "原模组作者"
+          },
+          {
+            "name": "柠版泰拉启动器",
+            "role": "移动版汉化与维护"
+          }
+        ],
+        "summary": "加入炼金术师等城镇居民，按游戏进度提供药剂、材料、制作站和传送服务。",
+        "links": [
+          {
+            "title": "Steam原作",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2599842771"
+          }
+        ],
+        "description": "加入炼金术师等城镇居民，按游戏进度提供药剂、材料、制作站和传送服务。",
+        "updated": "2026-11-19",
+        "pages": [
+          {
+            "title": "更新日志",
+            "file": "changelog.md"
+          },
+          {
+            "title": "来源与署名",
+            "file": "credits.md"
+          }
+        ],
+        "localizedNames": {
+          "zh-Hans": "炼金术师 NPC 精简版（C#）"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "加入炼金术师等城镇居民，按游戏进度提供药剂、材料、制作站和传送服务。"
+        },
+        "modRuntime": "csharp"
+      },
+      "updatedAt": "2026-11-19T00:00:00Z",
+      "runtime": "csharp",
+      "publishedAt": "2026-11-19T00:00:00Z"
+    },
+    {
+      "uid": "b0cb720e-32bb-5201-8d10-1383f60c9539",
+      "id": "WingSlotExtra",
+      "name": "额外翅膀栏（C#）",
+      "version": "1.4.9-ningcs.1.fix.20261117",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-WingSlotExtra-v1.4.9-ningcs.1.fix.20261117/WingSlotExtra-1.4.9-ningcs.1.fix.20261117.bl",
+        "size": 81823,
+        "sha256": "11b28903bf2361f5a36529416548bd6d38d5d1e73632e6f235fc1adcb2432cc8"
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "credits.md"
+      ],
+      "manifest": {
+        "uid": "b0cb720e-32bb-5201-8d10-1383f60c9539",
+        "id": "WingSlotExtra",
+        "name": "额外翅膀栏（C#）",
+        "version": "1.4.9-ningcs.1.fix.20261117",
+        "blVersion": 3,
+        "entry": "WingSlotExtra.cs",
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "dependencies": [],
+        "authors": [
+          {
+            "name": "Aitherix",
+            "role": "原模组作者"
+          },
+          {
+            "name": "柠版泰拉启动器",
+            "role": "移动版汉化与维护"
+          }
+        ],
+        "summary": "增加独立翅膀功能栏、时装栏与染料栏，支持装备方案和可选的多翅膀配置。",
+        "links": [
+          {
+            "title": "Steam原作",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2597324266"
+          }
+        ],
+        "description": "增加独立翅膀功能栏、时装栏与染料栏，支持装备方案和可选的多翅膀配置。",
+        "updated": "2026-11-19",
+        "pages": [
+          {
+            "title": "更新日志",
+            "file": "changelog.md"
+          },
+          {
+            "title": "来源与署名",
+            "file": "credits.md"
+          }
+        ],
+        "localizedNames": {
+          "zh-Hans": "额外翅膀栏（C#）"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "增加独立翅膀功能栏、时装栏与染料栏，支持装备方案和可选的多翅膀配置。"
+        },
+        "modRuntime": "csharp"
+      },
+      "updatedAt": "2026-11-19T00:00:00Z",
+      "runtime": "csharp",
+      "publishedAt": "2026-11-19T00:00:00Z"
+    },
+    {
+      "uid": "6e06c101-1ba8-59de-9c81-85e624dff471",
+      "id": "Antisocial",
+      "name": "时装栏生效",
+      "version": "1.7-ningcs.1",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-Antisocial-v1.7-ningcs.1/Antisocial-1.7-ningcs.1.bl",
+        "size": 43907,
+        "sha256": "b7d7e973cf0f37d9d71fb331a720573815d48af80c9dcb994052105c8695bd5b"
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "credits.md"
+      ],
+      "manifest": {
+        "uid": "6e06c101-1ba8-59de-9c81-85e624dff471",
+        "id": "Antisocial",
+        "name": "时装栏生效",
+        "version": "1.7-ningcs.1",
+        "blVersion": 3,
+        "entry": "Antisocial.cs",
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "dependencies": [],
+        "authors": [
+          {
+            "name": "jopojelly",
+            "role": "原模组作者"
+          },
+          {
+            "name": "柠版泰拉启动器",
+            "role": "移动版汉化与维护"
+          }
+        ],
+        "summary": "让配置指定的时装饰品栏提供属性，可选时装盔甲与套装加成。时装盔甲效果默认关闭。",
+        "links": [
+          {
+            "title": "Steam原作",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2564872136"
+          }
+        ],
+        "description": "让配置指定的时装饰品栏提供属性，可选时装盔甲与套装加成。时装盔甲效果默认关闭。",
+        "updated": "2026-11-19",
+        "pages": [
+          {
+            "title": "更新日志",
+            "file": "changelog.md"
+          },
+          {
+            "title": "来源与署名",
+            "file": "credits.md"
+          }
+        ],
+        "localizedNames": {
+          "zh-Hans": "时装栏生效"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "让配置指定的时装饰品栏提供属性，可选时装盔甲与套装加成。时装盔甲效果默认关闭。"
+        },
+        "modRuntime": "csharp"
+      },
+      "updatedAt": "2026-11-19T00:00:00Z",
+      "runtime": "csharp",
+      "publishedAt": "2026-11-19T00:00:00Z"
+    },
+    {
+      "uid": "599f7475-8fdb-5a4b-ba1c-78979b800798",
+      "id": "ShopExpander",
+      "name": "商店翻页（C#）",
+      "version": "1.8.1-ningcs.1",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-ShopExpander-v1.8.1-ningcs.1/ShopExpander-1.8.1-ningcs.1.bl",
+        "size": 33967,
+        "sha256": "fd34d902010daa1b85108b01659069e65a03bcd9e6ee6e65d87c48e10b3b1435"
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "LICENSE",
+        "credits.md"
+      ],
+      "manifest": {
+        "uid": "599f7475-8fdb-5a4b-ba1c-78979b800798",
+        "id": "ShopExpander",
+        "name": "商店翻页（C#）",
+        "version": "1.8.1-ningcs.1",
+        "blVersion": 3,
+        "entry": "ShopExpander.cs",
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "dependencies": [],
+        "authors": [
+          {
+            "name": "DRKV and Exterminator",
+            "role": "原模组作者"
+          },
+          {
+            "name": "柠版泰拉启动器",
+            "role": "移动版汉化与维护"
+          }
+        ],
+        "summary": "商店每页显示 40 件商品，商品超出一页才显示翻页按钮，长按可跳到首尾并保留回购队列。",
+        "category": "便利",
+        "links": [
+          {
+            "title": "Steam 原作",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2828370879"
+          }
+        ],
+        "localizedNames": {
+          "zh-Hans": "商店翻页（C#）",
+          "en-US": "Shop Expander (C# port)"
+        },
+        "description": "商店每页显示 40 件商品，商品超出一页才显示翻页按钮，长按可跳到首尾并保留回购队列。",
+        "localizedSummaries": {
+          "zh-Hans": "商店每页显示 40 件商品，商品超出一页才显示翻页按钮，长按可跳到首尾并保留回购队列。"
+        },
+        "updated": "2026-11-19",
+        "modRuntime": "csharp"
+      },
+      "updatedAt": "2026-11-19T00:00:00Z",
+      "runtime": "csharp",
+      "publishedAt": "2026-11-19T00:00:00Z"
+    },
+    {
+      "uid": "347f5e68-c209-5177-b999-d0b7953b346f",
+      "id": "LookMod",
+      "name": "动作视觉增强",
+      "version": "1.3.4.1-ningcs.1.zh.1.fix.20261117",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-LookMod-v1.3.4.1-ningcs.1.zh.1.fix.20261117/LookMod-1.3.4.1-ningcs.1.zh.1.fix.20261117.bl",
+        "size": 53300,
+        "sha256": "940a496a63e8b0b3246cb3fb4d51aee594f6e8bc9279724f6e25954f6b9cfe1d"
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "credits.md"
+      ],
+      "manifest": {
+        "uid": "347f5e68-c209-5177-b999-d0b7953b346f",
+        "id": "LookMod",
+        "name": "动作视觉增强",
+        "version": "1.3.4.1-ningcs.1.zh.1.fix.20261117",
+        "blVersion": 3,
+        "entry": "LookMod.cs",
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "dependencies": [],
+        "authors": [
+          {
+            "name": "Orion",
+            "role": "原模组作者"
+          },
+          {
+            "name": "柠版泰拉启动器",
+            "role": "移动版汉化与维护"
+          }
+        ],
+        "summary": "增加人物朝向、移动倾斜以及部分 NPC 的动作表现，可在配置中调整。",
+        "links": [
+          {
+            "title": "Steam 原作",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2816557864"
+          }
+        ],
+        "description": "增加人物朝向、移动倾斜以及部分 NPC 的动作表现，可在配置中调整。",
+        "updated": "2026-11-19",
+        "localizedNames": {
+          "zh-Hans": "动作视觉增强"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "增加人物朝向、移动倾斜以及部分 NPC 的动作表现，可在配置中调整。"
+        },
+        "modRuntime": "csharp"
+      },
+      "updatedAt": "2026-11-19T00:00:00Z",
+      "runtime": "csharp",
+      "publishedAt": "2026-11-19T00:00:00Z"
+    },
+    {
+      "uid": "88185e1f-b5e9-540a-85d5-03f73ff919aa",
+      "id": "GravityDontFlipScreen",
+      "name": "反重力不翻屏",
+      "version": "1.4-ningcs.1",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-GravityDontFlipScreen-v1.4-ningcs.1/GravityDontFlipScreen-1.4-ningcs.1.bl",
+        "size": 21549,
+        "sha256": "7b3b22b0861ceef0db69d078246c5c16153f28c0634172ef9ba4df3b3f7d9418"
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "credits.md"
+      ],
+      "manifest": {
+        "uid": "88185e1f-b5e9-540a-85d5-03f73ff919aa",
+        "id": "GravityDontFlipScreen",
+        "name": "反重力不翻屏",
+        "version": "1.4-ningcs.1",
+        "blVersion": 3,
+        "entry": "GravityDontFlipScreen.cs",
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "dependencies": [],
+        "authors": [
+          {
+            "name": "Cyrilly",
+            "role": "原模组作者"
+          },
+          {
+            "name": "柠版泰拉启动器",
+            "role": "移动版汉化与维护"
+          }
+        ],
+        "summary": "反转重力时保持画面方向，并适配瞄准、智能光标、抓钩与其他互动。",
+        "links": [
+          {
+            "title": "Steam原作",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2793971101"
+          }
+        ],
+        "description": "反转重力时保持画面方向，并适配瞄准、智能光标、抓钩与其他互动。",
+        "updated": "2026-11-19",
+        "pages": [
+          {
+            "title": "更新日志",
+            "file": "changelog.md"
+          },
+          {
+            "title": "来源与署名",
+            "file": "credits.md"
+          }
+        ],
+        "localizedNames": {
+          "zh-Hans": "反重力不翻屏"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "反转重力时保持画面方向，并适配瞄准、智能光标、抓钩与其他互动。"
+        },
+        "modRuntime": "csharp"
+      },
+      "updatedAt": "2026-11-19T00:00:00Z",
+      "runtime": "csharp",
+      "publishedAt": "2026-11-19T00:00:00Z"
+    },
+    {
+      "uid": "975fcf89-1436-5ff1-9054-25e0fa9fe382",
+      "id": "HPAware",
+      "name": "生命感知（C#）",
+      "version": "1.0.6.1-ningcs.1.zh.1.fix.1",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-HPAware-v1.0.6.1-ningcs.1.zh.1.fix.1/HPAware-1.0.6.1-ningcs.1.zh.1.fix.1.bl",
+        "size": 45128,
+        "sha256": "0225060bdf769201f42b84f7281c3f948c082ae42666fff1d4c4be006d86e672"
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "credits.md"
+      ],
+      "manifest": {
+        "uid": "975fcf89-1436-5ff1-9054-25e0fa9fe382",
+        "id": "HPAware",
+        "name": "生命感知（C#）",
+        "version": "1.0.6.1-ningcs.1.zh.1.fix.1",
+        "blVersion": 3,
+        "entry": "HPAware.cs",
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "dependencies": [],
+        "authors": [
+          {
+            "name": "Core",
+            "role": "原模组作者"
+          },
+          {
+            "name": "柠版泰拉启动器",
+            "role": "移动版汉化与维护"
+          }
+        ],
+        "summary": "显示受伤和低生命值提示、生命条、减益图标及声音效果。可按需开启灰度和音乐衰减。",
+        "links": [
+          {
+            "title": "Steam原作",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2564503881"
+          }
+        ],
+        "description": "显示受伤和低生命值提示、生命条、减益图标及声音效果。可按需开启灰度和音乐衰减。",
+        "updated": "2026-11-19",
+        "pages": [
+          {
+            "title": "更新日志",
+            "file": "changelog.md"
+          },
+          {
+            "title": "来源与署名",
+            "file": "credits.md"
+          }
+        ],
+        "localizedNames": {
+          "zh-Hans": "生命感知（C#）"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "显示受伤和低生命值提示、生命条、减益图标及声音效果。可按需开启灰度和音乐衰减。"
+        },
+        "modRuntime": "csharp"
+      },
+      "updatedAt": "2026-11-19T00:00:00Z",
+      "runtime": "csharp",
+      "publishedAt": "2026-11-19T00:00:00Z"
+    },
+    {
+      "uid": "ecbbaf18-1a03-5750-bcf6-51f5c35a9a10",
+      "id": "LifeSourcesLight",
+      "name": "生命水晶与生命果发光（C#）",
+      "version": "1.3.0-ningcs.1.fix.1",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-LifeSourcesLight-v1.3.0-ningcs.1.fix.1/LifeSourcesLight-1.3.0-ningcs.1.fix.1.bl",
+        "size": 28131,
+        "sha256": "eab738dfb5734d27d290c10e965ee45cf60c6b4f3db53a736b69c7421df27ed6"
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "LICENSE",
+        "credits.md"
+      ],
+      "manifest": {
+        "uid": "ecbbaf18-1a03-5750-bcf6-51f5c35a9a10",
+        "id": "LifeSourcesLight",
+        "name": "生命水晶与生命果发光（C#）",
+        "version": "1.3.0-ningcs.1.fix.1",
+        "blVersion": 3,
+        "entry": "LifeSourcesLight.cs",
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "dependencies": [],
+        "authors": [
+          {
+            "name": "Chev",
+            "role": "原模组作者"
+          },
+          {
+            "name": "柠版泰拉启动器",
+            "role": "移动版汉化与维护"
+          }
+        ],
+        "summary": "生命水晶发粉红光，生命果发黄色光，两项可分别开启。",
+        "category": "便利",
+        "links": [
+          {
+            "title": "Steam 原作",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2853619836"
+          }
+        ],
+        "localizedNames": {
+          "zh-Hans": "生命水晶与生命果发光（C#）",
+          "en-US": "Heart Crystal & Life Fruit Glow (C# port)"
+        },
+        "description": "生命水晶发粉红光，生命果发黄色光，两项可分别开启。",
+        "localizedSummaries": {
+          "zh-Hans": "生命水晶发粉红光，生命果发黄色光，两项可分别开启。"
+        },
+        "updated": "2026-11-19",
+        "modRuntime": "csharp"
+      },
+      "updatedAt": "2026-11-19T00:00:00Z",
+      "runtime": "csharp",
+      "publishedAt": "2026-11-19T00:00:00Z"
+    },
+    {
+      "uid": "b712d722-c62c-5dbb-a770-c9bc5d0b7024",
+      "id": "Lights",
+      "name": "光影",
+      "version": "1.5-ningcs.1.fix.2",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-Lights-v1.5-ningcs.1.fix.2/Lights-1.5-ningcs.1.fix.2.bl",
+        "size": 51981,
+        "sha256": "3a94fbe2cd1847c90e87144f75b27282012814ac0833526ef15800ea2f759e77"
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "credits.md"
+      ],
+      "manifest": {
+        "uid": "b712d722-c62c-5dbb-a770-c9bc5d0b7024",
+        "id": "Lights",
+        "name": "光影",
+        "version": "1.5-ningcs.1.fix.2",
+        "blVersion": 3,
+        "entry": "Lights.cs",
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "dependencies": [],
+        "authors": [
+          {
+            "name": "yiyang233",
+            "role": "原模组作者"
+          },
+          {
+            "name": "柠版泰拉启动器",
+            "role": "移动版汉化与维护"
+          }
+        ],
+        "summary": "提供可配置的光照和阴影效果。",
+        "links": [
+          {
+            "title": "Steam 原作",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2670628346"
+          }
+        ],
+        "description": "提供可配置的光照和阴影效果。",
+        "localizedNames": {
+          "zh-Hans": "光影"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "提供可配置的光照和阴影效果。"
+        },
+        "updated": "2026-11-19",
+        "modRuntime": "csharp"
+      },
+      "updatedAt": "2026-11-19T00:00:00Z",
+      "runtime": "csharp",
+      "publishedAt": "2026-11-19T00:00:00Z"
+    },
+    {
+      "uid": "fcdb0fd4-ff58-5e43-a81e-bed6b3bf11fc",
+      "id": "LootBeams",
+      "name": "掉落光柱（C#）",
+      "version": "1.9.4.5-ningcs.1.fix.3",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-LootBeams-v1.9.4.5-ningcs.1.fix.3/LootBeams-1.9.4.5-ningcs.1.fix.3.bl",
+        "size": 71612,
+        "sha256": "a4a0c5edfc178f004b2f50e63b6108148827816c097da0c9717d8a80f83abdd5"
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "credits.md"
+      ],
+      "manifest": {
+        "uid": "fcdb0fd4-ff58-5e43-a81e-bed6b3bf11fc",
+        "id": "LootBeams",
+        "name": "掉落光柱（C#）",
+        "version": "1.9.4.5-ningcs.1.fix.3",
+        "blVersion": 3,
+        "entry": "LootBeams.cs",
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "dependencies": [],
+        "authors": [
+          {
+            "name": "ChemAtDark",
+            "role": "原模组作者"
+          },
+          {
+            "name": "柠版泰拉启动器",
+            "role": "移动版汉化与维护"
+          }
+        ],
+        "summary": "按掉落物稀有度、价值和配置名单显示光柱、光晕与颜色。可关闭叠加绘制。",
+        "category": "便利",
+        "links": [
+          {
+            "title": "Steam 原作",
+            "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2847872897"
+          }
+        ],
+        "localizedNames": {
+          "zh-Hans": "掉落光柱（C#）",
+          "en-US": "Loot Beams (C# port)"
+        },
+        "description": "按掉落物稀有度、价值和配置名单显示光柱、光晕与颜色。可关闭叠加绘制。",
+        "localizedSummaries": {
+          "zh-Hans": "按掉落物稀有度、价值和配置名单显示光柱、光晕与颜色。可关闭叠加绘制。"
+        },
+        "updated": "2026-11-19",
+        "modRuntime": "csharp"
+      },
+      "updatedAt": "2026-11-19T00:00:00Z",
+      "runtime": "csharp",
+      "publishedAt": "2026-11-19T00:00:00Z"
+    },
+    {
+      "uid": "cb3513c4-d791-5bff-bd50-a25e4b168bb5",
+      "id": "InstantPlatformFallthrough",
+      "name": "快速穿过平台（C#）",
+      "version": "1.4-ningcs.1",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-InstantPlatformFallthrough-v1.4-ningcs.1/InstantPlatformFallthrough-1.4-ningcs.1.bl",
+        "size": 9048,
+        "sha256": "d4d963deefe68126515d910e94471e03ac7a8c0f65f9fcfe1132ea085b942001"
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "LICENSE"
+      ],
+      "manifest": {
+        "uid": "cb3513c4-d791-5bff-bd50-a25e4b168bb5",
+        "id": "InstantPlatformFallthrough",
+        "name": "快速穿过平台（C#）",
+        "version": "1.4-ningcs.1",
+        "blVersion": 3,
+        "entry": "InstantPlatformFallthrough.cs",
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "category": "便利",
+        "author": "diniamo",
+        "authors": [
+          {
+            "name": "diniamo",
+            "role": "原作者",
+            "link": "https://github.com/diniamo/InstantPlatformFallthrough"
+          },
+          {
+            "name": "柠版泰拉启动器",
+            "role": "移动版汉化与维护"
+          }
+        ],
+        "license": "MIT",
+        "updated": "2026-11-19",
+        "summary": "按住移动摇杆向下，连续穿过多层平台，松开后恢复站立。",
+        "portEdition": {
+          "originalName": "Instant Platform Fallthrough",
+          "sourceVersion": "1.4",
+          "sourceSha256": "a3602e92960e6843d02fe0a01731903072d528a9326fe65488a96f45d68e47aa",
+          "revision": 1
+        },
+        "description": "按住移动摇杆向下，连续穿过多层平台，松开后恢复站立。",
+        "localizedNames": {
+          "zh-Hans": "快速穿过平台（C#）"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "按住移动摇杆向下，连续穿过多层平台，松开后恢复站立。"
+        },
+        "modRuntime": "csharp"
+      },
+      "updatedAt": "2026-11-19T00:00:00Z",
+      "runtime": "csharp",
+      "publishedAt": "2026-11-19T00:00:00Z"
+    },
+    {
+      "uid": "52a2ed03-1471-513b-b3f2-b522e3491e0b",
+      "id": "BetterZoom",
+      "name": "更好的缩放",
+      "version": "5.3.0-ningcs.1.fix.1",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-BetterZoom-v5.3.0-ningcs.1.fix.1/BetterZoom-5.3.0-ningcs.1.fix.1.bl",
+        "size": 41782,
+        "sha256": "2d3acd979ccbf349bbe6fa841e7e54a0c27bc6be835703ebd3bf97eeebdf90d7"
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "LICENSE"
+      ],
+      "manifest": {
+        "uid": "52a2ed03-1471-513b-b3f2-b522e3491e0b",
+        "id": "BetterZoom",
+        "name": "更好的缩放",
+        "version": "5.3.0-ningcs.1.fix.1",
+        "blVersion": 3,
+        "entry": "BetterZoom.cs",
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "category": "便利",
+        "authors": [
+          {
+            "name": "NotLe0n",
+            "role": "原作者",
+            "link": "https://github.com/NotLe0n/BetterZoom"
+          },
+          {
+            "name": "DogeRoll",
+            "role": "原版绘制范围实现"
+          },
+          {
+            "name": "Zoe",
+            "role": "模组图标"
+          },
+          {
+            "name": "柠版泰拉启动器",
+            "role": "移动版汉化与维护"
+          }
+        ],
+        "license": "GPL-3.0",
+        "updated": "2026-11-19",
+        "summary": "用双指缩放世界画面，界面缩放可单独调整。视野过远时可配置方块绘制范围。",
+        "portEdition": {
+          "originalName": "Better Zoom",
+          "sourceVersion": "5.3.0",
+          "sourceSha256": "b659cd5958003d4f8128a4557fba5c727fdad16886e57fcbea82a45bc49d7d6d",
+          "revision": 1
+        },
+        "description": "用双指缩放世界画面，界面缩放可单独调整。视野过远时可配置方块绘制范围。",
+        "localizedNames": {
+          "zh-Hans": "更好的缩放"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "用双指缩放世界画面，界面缩放可单独调整。视野过远时可配置方块绘制范围。"
+        },
+        "modRuntime": "csharp"
+      },
+      "updatedAt": "2026-11-19T00:00:00Z",
+      "runtime": "csharp",
+      "publishedAt": "2026-11-19T00:00:00Z"
+    },
+    {
+      "uid": "159223ce-aee3-51a9-8e3f-0d4195b1d739",
+      "id": "NoFishingQuests",
+      "name": "渔夫商店",
+      "version": "3.2.0.5-ningcs.1",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-NoFishingQuests-v3.2.0.5-ningcs.1/NoFishingQuests-3.2.0.5-ningcs.1.bl",
+        "size": 32778,
+        "sha256": "3eb287f2b3ba4b11cf722032699a4ab9e6f785c77f739ae7ee3c0288c308b6a3"
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "LICENSE"
+      ],
+      "manifest": {
+        "uid": "159223ce-aee3-51a9-8e3f-0d4195b1d739",
+        "id": "NoFishingQuests",
+        "name": "渔夫商店",
+        "version": "3.2.0.5-ningcs.1",
+        "blVersion": 3,
+        "entry": "NoFishingQuests.cs",
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "category": "便利",
+        "authors": [
+          {
+            "name": "NotLe0n",
+            "role": "原作者",
+            "link": "https://github.com/NotLe0n/AnglerShop"
+          },
+          {
+            "name": "Æterna",
+            "role": "渔夫硬币贴图"
+          },
+          {
+            "name": "Crapsky233",
+            "role": "原版对话界面联动"
+          },
+          {
+            "name": "RighteousRyan",
+            "role": "原版硬币栏支持"
+          },
+          {
+            "name": "柠版泰拉启动器",
+            "role": "移动版汉化与维护"
+          }
+        ],
+        "license": "GPL-3.0",
+        "updated": "2026-11-19",
+        "summary": "渔夫提供实用品和装饰两家商店，同时保留钓鱼任务。可配置钓鱼任务硬币。",
+        "portEdition": {
+          "originalName": "Angler Shop",
+          "sourceVersion": "3.2.0.5",
+          "sourceSha256": "ceafeb36d239ccee0b6af0c9b502651f09bbbca1c123a90163452341e051d713",
+          "revision": 1
+        },
+        "description": "渔夫提供实用品和装饰两家商店，同时保留钓鱼任务。可配置钓鱼任务硬币。",
+        "localizedNames": {
+          "zh-Hans": "渔夫商店"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "渔夫提供实用品和装饰两家商店，同时保留钓鱼任务。可配置钓鱼任务硬币。"
+        },
+        "modRuntime": "csharp"
+      },
+      "updatedAt": "2026-11-19T00:00:00Z",
+      "runtime": "csharp",
+      "publishedAt": "2026-11-19T00:00:00Z"
+    },
+    {
+      "uid": "ff473253-19a9-5430-b822-9cf4ed952608",
+      "id": "DPSExtreme",
+      "name": "DPS 统计",
+      "version": "0.5.3-ningcs.1.mobilefix.1",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-DPSExtreme-v0.5.3-ningcs.1.mobilefix.1/DPSExtreme-0.5.3-ningcs.1.mobilefix.1.bl",
+        "size": 126350,
+        "sha256": "702cf6f673afa513304ebaa7f4a650d6168dbc1e4154a809b3063ff72e3f59a4"
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md"
+      ],
+      "manifest": {
+        "uid": "ff473253-19a9-5430-b822-9cf4ed952608",
+        "id": "DPSExtreme",
+        "name": "DPS 统计",
+        "version": "0.5.3-ningcs.1.mobilefix.1",
+        "blVersion": 3,
+        "entry": "DPSExtreme.cs",
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "category": "便利",
+        "authors": [
+          {
+            "name": "jopojelly",
+            "role": "原作者",
+            "link": "https://github.com/JavidPack/DPSExtreme"
+          },
+          {
+            "name": "Hankan",
+            "role": "原作者"
+          },
+          {
+            "name": "柠版泰拉启动器",
+            "role": "移动版汉化与维护"
+          }
+        ],
+        "updated": "2026-11-19",
+        "summary": "查看每秒伤害、伤害来源、击杀与历史战斗数据。可用 /teamdps 或触控绑定打开面板。",
+        "portEdition": {
+          "originalName": "DPSExtreme",
+          "sourceVersion": "0.5.3",
+          "sourceSha256": "cd2aa2f97dcf4e14522ad2944ba20fbc7ab4e870cdcd287926cd4e26e224a07c",
+          "revision": 1
+        },
+        "description": "查看每秒伤害、伤害来源、击杀与历史战斗数据。可用 /teamdps 或触控绑定打开面板。",
+        "localizedNames": {
+          "zh-Hans": "DPS 统计"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "查看每秒伤害、伤害来源、击杀与历史战斗数据。可用 /teamdps 或触控绑定打开面板。"
+        },
+        "modRuntime": "csharp"
+      },
+      "updatedAt": "2026-11-19T00:00:00Z",
+      "runtime": "csharp",
+      "publishedAt": "2026-11-19T00:00:00Z"
+    },
+    {
+      "uid": "b7c4e9f2-6d1a-4c8b-9e3f-202611190007",
+      "id": "chromatic_arcana",
+      "name": "虹光七曜 · 棱镜魔导",
+      "version": "1.0.0",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-chromatic_arcana-v1.0.0/chromatic_arcana-1.0.0.bl",
+        "size": 798555,
+        "sha256": "b30ddcffb90756d068c7e572c4dbca7dae6d1cf79c977ef395784aa3c8d5fadb"
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md"
+      ],
+      "manifest": {
+        "uid": "b7c4e9f2-6d1a-4c8b-9e3f-202611190007",
+        "id": "chromatic_arcana",
+        "name": "虹光七曜 · 棱镜魔导",
+        "author": "力力丝, 哈基米",
+        "authors": [
+          {
+            "name": "力力丝",
+            "role": "主创设计 / 美术统筹"
+          },
+          {
+            "name": "哈基米",
+            "role": "程序实现 / 光学特效与音效合成"
+          }
+        ],
+        "version": "1.0.0",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": [],
+        "summary": "成长型七彩法杖，随 Boss 进度解锁镶嵌槽。可自由插拔七曜宝石，集齐后可切换蓄力虹炮。",
+        "description": "【虹光七曜 · 棱镜魔导 v1.0.0】\n作者：力力丝 & 哈基米\n\n■ 核心武器与获取方式\n1. 《虹光棱镜法杖》：开局在工作台使用【木材 ×8 + 坠落之星 ×3】合成。\n2. 七曜实体宝石（均在工作台使用对应原版宝石 ×8 + 坠落之星 ×2 直接合成，不消耗，可自由插拔）：\n   · 红曜·绯红聚能石（红玉）：主导轰出穿屏高能激光枪；重叠增伤+12%并触发绯红十字斩与灼烧。\n   · 橙曜·琥珀日冕石（琥珀）：主导绽放扩张太阳日冕火环；重叠暴击+8%并爆开扩散烈焰环。\n   · 黄曜·煌金雷晶（黄玉）：主导零延迟瞬发5连弹跳分形高压天雷；重叠提速+10%并折射电弧。\n   · 绿曜·翠玉森灵石（翡翠）：主导展开极坐标玫瑰光刃法阵切割回蓝；重叠省蓝-18%并生命虹吸。\n   · 青曜·沧澜棱镜石（蓝玉）：主导部署3D空间棱镜折返织网；重叠额外折射青色追踪副光束。\n   · 蓝曜·苍穹奇点石（钻石）：主导张开对数螺线黑洞聚怪并坍缩星爆；重叠施加灵液破甲与减速。\n   · 紫曜·紫微终焉石（紫晶）：主导撕开虚空裂隙齐射6柄紫晶星芒剑；重叠暴击+6%并协射星矢。\n\n■ 七曜星盘与 127 种自由组合\n手持《虹光棱镜法杖》时，屏幕正上方会出现旋转的八芒棱镜徽章，点击打开「七曜星盘镶嵌台」：\n· 点击空槽从背包嵌入实体宝石，点击已嵌槽切换主导色，点击「拆下宝石」完整退还背包。\n· 法杖外观（背包/星盘/挥舞）会随 127 种组合实时点亮对应凹槽，集齐 7 颗蜕变为「七彩光翼觉醒圣冠」！\n· 所有已镶嵌宝石的特效自动重叠生效！\n\n■ 11 阶 Boss 成长与 7 槽解锁路线\n· 开局（1槽）→ 克苏鲁之眼（2槽）→ 世吞/克脑（3槽）→ 骷髅王（4槽）→ 血肉墙/肉后（5槽）→ 任意机械王（6槽）→ 机械三王全破 → 世纪之花（全 7 槽圆满！）→ 石巨人 → 拜月/光女/猪鲨 → 月亮领主（终焉解封，面板与 3D 立式旋转彩虹巨炮全面对标天顶剑！）。\n\n■ 终焉必杀：3D 立式七彩大法阵 & 360° 螺旋彩虹巨炮\n集齐全部 7 颗宝石后，点击星盘正中央「虹炮」切换终焉模式：长按攻击键在身前展开唯一 3D 立体竖立旋转七彩大法阵，蓄满后持续按住即可 360° 丝滑跟随光标横扫全屏螺旋彩虹巨炮，全套配备 12 个专属定制音效！\n\n■ 跨模组专属联动：《至尊长袍》（仅在同时穿戴长袍并手持法杖时激活显示！）\n· 共同使用【七彩长袍】：觉醒「虹曜圣咏 · 至尊共鸣」——角色背后浮现旋转七彩圣环与 7 颗浮游晶球，伤害+15% / 暴击+10% / 魔力消耗-25%，施法协射双翼折光束！\n· 共同使用【侵染の饮血之袍】：觉醒「猩红蚀日 · 血曜共鸣」——角色背后浮现暗红血曜魔阵，伤害+22% / 暴击+15%，攻击附带血曜虹吸回血！",
+        "localizedNames": {
+          "zh-Hans": "虹光七曜 · 棱镜魔导"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "成长型七彩法杖，随 Boss 进度解锁镶嵌槽。可自由插拔七曜宝石，集齐后可切换蓄力虹炮。"
+        },
+        "updated": "2026-11-19",
+        "modRuntime": "js"
+      },
+      "updatedAt": "2026-11-19T00:00:00Z",
+      "runtime": "js",
+      "publishedAt": "2026-11-19T00:00:00Z"
     }
   ],
   "featured": [

@@ -1,0 +1,41 @@
+{
+  "uid": "599f7475-8fdb-5a4b-ba1c-78979b800798",
+  "id": "ShopExpander",
+  "name": "商店翻页（C#）",
+  "version": "1.8.1-ningcs.1",
+  "blVersion": 3,
+  "entry": "ShopExpander.cs",
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "dependencies": [],
+  "authors": [
+    {
+      "name": "DRKV and Exterminator",
+      "role": "原模组作者"
+    },
+    {
+      "name": "柠版泰拉启动器",
+      "role": "移动版汉化与维护"
+    }
+  ],
+  "summary": "商店每页显示 40 件商品，商品超出一页才显示翻页按钮，长按可跳到首尾并保留回购队列。",
+  "category": "便利",
+  "links": [
+    {
+      "title": "Steam 原作",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2828370879"
+    }
+  ],
+  "localizedNames": {
+    "zh-Hans": "商店翻页（C#）",
+    "en-US": "Shop Expander (C# port)"
+  },
+  "description": "商店每页显示 40 件商品，商品超出一页才显示翻页按钮，长按可跳到首尾并保留回购队列。",
+  "localizedSummaries": {
+    "zh-Hans": "商店每页显示 40 件商品，商品超出一页才显示翻页按钮，长按可跳到首尾并保留回购队列。"
+  },
+  "updated": "2026-11-19",
+  "modRuntime": "csharp"
+}

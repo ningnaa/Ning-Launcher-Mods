@@ -1,0 +1,39 @@
+{
+  "uid": "b712d722-c62c-5dbb-a770-c9bc5d0b7024",
+  "id": "Lights",
+  "name": "光影",
+  "version": "1.5-ningcs.1.fix.2",
+  "blVersion": 3,
+  "entry": "Lights.cs",
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "dependencies": [],
+  "authors": [
+    {
+      "name": "yiyang233",
+      "role": "原模组作者"
+    },
+    {
+      "name": "柠版泰拉启动器",
+      "role": "移动版汉化与维护"
+    }
+  ],
+  "summary": "提供可配置的光照和阴影效果。",
+  "links": [
+    {
+      "title": "Steam 原作",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2670628346"
+    }
+  ],
+  "description": "提供可配置的光照和阴影效果。",
+  "localizedNames": {
+    "zh-Hans": "光影"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "提供可配置的光照和阴影效果。"
+  },
+  "updated": "2026-11-19",
+  "modRuntime": "csharp"
+}

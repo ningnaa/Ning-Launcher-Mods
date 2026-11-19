@@ -1,0 +1,49 @@
+{
+  "uid": "52a2ed03-1471-513b-b3f2-b522e3491e0b",
+  "id": "BetterZoom",
+  "name": "更好的缩放",
+  "version": "5.3.0-ningcs.1.fix.1",
+  "blVersion": 3,
+  "entry": "BetterZoom.cs",
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "category": "便利",
+  "authors": [
+    {
+      "name": "NotLe0n",
+      "role": "原作者",
+      "link": "https://github.com/NotLe0n/BetterZoom"
+    },
+    {
+      "name": "DogeRoll",
+      "role": "原版绘制范围实现"
+    },
+    {
+      "name": "Zoe",
+      "role": "模组图标"
+    },
+    {
+      "name": "柠版泰拉启动器",
+      "role": "移动版汉化与维护"
+    }
+  ],
+  "license": "GPL-3.0",
+  "updated": "2026-11-19",
+  "summary": "用双指缩放世界画面，界面缩放可单独调整。视野过远时可配置方块绘制范围。",
+  "portEdition": {
+    "originalName": "Better Zoom",
+    "sourceVersion": "5.3.0",
+    "sourceSha256": "b659cd5958003d4f8128a4557fba5c727fdad16886e57fcbea82a45bc49d7d6d",
+    "revision": 1
+  },
+  "description": "用双指缩放世界画面，界面缩放可单独调整。视野过远时可配置方块绘制范围。",
+  "localizedNames": {
+    "zh-Hans": "更好的缩放"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "用双指缩放世界画面，界面缩放可单独调整。视野过远时可配置方块绘制范围。"
+  },
+  "modRuntime": "csharp"
+}

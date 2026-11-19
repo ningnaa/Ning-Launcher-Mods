@@ -1,3 +1,11 @@
+## 异世界 RPG 系统 1.0.1-ningzh.4 · 2026-11-19
+
+修复信仰加点后受击免疫反复延长的问题。每次有效受击只延长一次普通免疫计时，信仰对增益和减益持续时间的效果照常生效。
+
+适用于柠版泰拉启动器 0.5.1 与 Terraria 运行库 301720。
+
+作者：Zayah。维护者：柠娜。原许可见包内许可证。
+
 ## 1.0.1-ningzh.3 (2026-11-17)
 
 Completed Simplified Chinese text for the title, attribute descriptions, cancel button, and class selection.

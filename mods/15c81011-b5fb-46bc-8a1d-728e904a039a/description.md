@@ -20,3 +20,7 @@ Isekaid RPG System adiciona progressão de personagem ao Terraria com experiênc
 O projeto está sob **licença de uso restrito — todos os direitos reservados**. Cópia, redistribuição, modificação, publicação de versões derivadas ou reutilização de código/assets exigem autorização prévia e expressa por escrito do titular. Consulte `license.md` para os termos completos.
 
 **1.0.1-ningzh.3** · Completed Simplified Chinese text for the title, attribute descriptions, cancel button, and class selection.
+
+本移植版模组由柠娜维护。
+
+**1.0.1-ningzh.4** · Fixed repeated extension of post-hit immunity from the Faith attribute.

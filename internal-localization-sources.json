@@ -1373,12 +1373,12 @@
       "uid": "15c81011-b5fb-46bc-8a1d-728e904a039a",
       "id": "isekaid",
       "name": "异世界 RPG 系统",
-      "version": "1.0.1-ningzh.3",
-      "file": "isekaid-1.0.1-ningzh.3.bl",
-      "sha256": "d51382fd6346c2852861dd2fee0aeca6a1f7213e191124f8428262915df661ab",
-      "size": 59195,
+      "version": "1.0.1-ningzh.4",
+      "file": "isekaid-1.0.1-ningzh.4.bl",
+      "sha256": "b5bea6183893b842373b9de6e9dd3e7cdaa27ca273421c88df4fa01850b598da",
+      "size": 59628,
       "originalSha256": "f9ec2b1029d285455cf71561bedf4db679b4332d097c3401ba4069113f945e44",
-      "tag": "mod-isekaid-v1.0.1-ningzh.3",
+      "tag": "mod-isekaid-v1.0.1-ningzh.4",
       "changedFiles": [
         "manifest.json",
         "content/Localization/zh-Hans.json",
@@ -1388,7 +1388,10 @@
         "content/Common/Commands/ExpCommand.js",
         "content/Common/GlobalNPCs/ExpNPC.js",
         "description_zh-Hans.md",
-        "changelog_zh-Hans.md"
+        "changelog_zh-Hans.md",
+        "content/Common/Players/ExpPlayer.js",
+        "changelog.md",
+        "description.md"
       ],
       "baseVersion": "1.0.1",
       "englishKeys": 10,
@@ -1421,7 +1424,7 @@
           "author": "Zayah"
         }
       ],
-      "note": "修订版补齐代码内角色菜单、职业、属性、升级和 Boss 进度提示的中文文本。",
+      "note": "修复信仰受击免疫反复延长；保留简体中文、原作者和原许可。",
       "previousReleases": [
         {
           "tag": "mod-isekaid-v1.0.1-ningzh.2",
@@ -1429,6 +1432,13 @@
           "version": "1.0.1-ningzh.2",
           "sha256": "d211d9f3f3bf1fc83c22855eea738b055200c97cc920201eb5675074a2915b65",
           "size": 58337
+        },
+        {
+          "tag": "mod-isekaid-v1.0.1-ningzh.3",
+          "file": "isekaid-1.0.1-ningzh.3.bl",
+          "version": "1.0.1-ningzh.3",
+          "sha256": "d51382fd6346c2852861dd2fee0aeca6a1f7213e191124f8428262915df661ab",
+          "size": 59195
         }
       ]
     },

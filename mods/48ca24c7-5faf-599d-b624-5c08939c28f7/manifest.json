@@ -35,5 +35,6 @@
   "localizedSummaries": {
     "zh-Hans": "供魔法存储等模组使用的通用工具前置库，提供界面、文本输入与其他辅助接口。"
   },
-  "modRuntime": "csharp"
+  "modRuntime": "csharp",
+  "license": "MIT"
 }

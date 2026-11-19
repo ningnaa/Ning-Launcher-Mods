@@ -539,7 +539,8 @@
         "icon.png",
         "description.md",
         "description_zh-Hans.md",
-        "changelog_zh-Hans.md"
+        "changelog_zh-Hans.md",
+        "license.md"
       ],
       "manifest": {
         "uid": "c7257a97-0552-4aa5-bc55-95f102b0e230",
@@ -938,7 +939,8 @@
         "icon.png",
         "description.md",
         "description_zh-Hans.md",
-        "changelog_zh-Hans.md"
+        "changelog_zh-Hans.md",
+        "license.md"
       ],
       "manifest": {
         "uid": "cece9409-844d-476a-8953-1a59de78db92",
@@ -2842,7 +2844,8 @@
         "manifest.json",
         "icon.png",
         "description.md",
-        "description_zh-Hans.md"
+        "description_zh-Hans.md",
+        "license.md"
       ],
       "manifest": {
         "uid": "a26a4992-e895-4120-a903-0e23b376c8a1",
@@ -3234,7 +3237,8 @@
         "icon.png",
         "description.md",
         "authors/potato.png",
-        "description_zh-Hans.md"
+        "description_zh-Hans.md",
+        "license.md"
       ],
       "manifest": {
         "uid": "8539e254-45e2-4519-8381-e38c7806f19a",
@@ -4398,7 +4402,8 @@
         "manifest.json",
         "icon.png",
         "description.md",
-        "description_zh-Hans.md"
+        "description_zh-Hans.md",
+        "license.md"
       ],
       "manifest": {
         "uid": "67770d24-4d80-41b4-bde9-9a1840caf2c8",
@@ -4793,7 +4798,8 @@
         "description.md",
         "changelog.md",
         "changelog_zh-Hans.md",
-        "description_zh-Hans.md"
+        "description_zh-Hans.md",
+        "license.md"
       ],
       "manifest": {
         "uid": "cd65cef1-9f13-55f7-b871-4030eb64f770",
@@ -5112,7 +5118,8 @@
         "description.md",
         "changelog.md",
         "changelog_zh-Hans.md",
-        "description_zh-Hans.md"
+        "description_zh-Hans.md",
+        "license.md"
       ],
       "manifest": {
         "uid": "b1241e97-de9b-479f-a5cc-41fddc33aa83",
@@ -5272,7 +5279,8 @@
         "description.md",
         "changelog_zh-Hans.md",
         "description_zh-Hans.md",
-        "authors/Zayah.png"
+        "authors/Zayah.png",
+        "license.md"
       ],
       "manifest": {
         "uid": "8a8e7a80-b608-4280-a137-57469459f0b4",
@@ -5955,7 +5963,8 @@
         "description.md",
         "changelog.md",
         "changelog_zh-Hans.md",
-        "description_zh-Hans.md"
+        "description_zh-Hans.md",
+        "license.md"
       ],
       "manifest": {
         "uid": "3f4a2442-23f6-58be-ae18-3aa1ac0e405f",
@@ -6025,7 +6034,8 @@
         "changelog_zh-Hans.md",
         "description_zh-Hans.md",
         "icon.png",
-        "manifest.json"
+        "manifest.json",
+        "license.md"
       ],
       "manifest": {
         "uid": "e9fcf815-a05d-4e36-9303-e30a1d9a02fd",
@@ -6067,7 +6077,8 @@
           "revision": 1,
           "baseVersion": "0.1.0-test1"
         },
-        "updated": "2026-11-01"
+        "updated": "2026-11-01",
+        "license": "MIT"
       },
       "publishedAt": "2026-11-01T07:38:36Z",
       "runtime": "js"
@@ -6946,7 +6957,8 @@
         "description.md",
         "changelog.md",
         "changelog_zh-Hans.md",
-        "description_zh-Hans.md"
+        "description_zh-Hans.md",
+        "license.md"
       ],
       "manifest": {
         "uid": "a8e41c92-3b7d-4e9a-9f12-7c5b8d402310",
@@ -7074,7 +7086,8 @@
         "changelog_zh-Hans.md",
         "description_zh-Hans.md",
         "credits.md",
-        "LICENSE"
+        "LICENSE",
+        "license.md"
       ],
       "manifest": {
         "uid": "5fe1f7de-4d4d-5d7d-aeac-f59b113bfd37",
@@ -7148,7 +7161,7 @@
         "changelog_zh-Hans.md",
         "description_zh-Hans.md",
         "credits.md",
-        "LICENSE.md"
+        "license.md"
       ],
       "manifest": {
         "uid": "d30bf135-6abd-586d-b1be-25212bffb475",
@@ -7208,11 +7221,11 @@
       "uid": "7ac6559e-6c48-5dc2-aa96-432cf366faeb",
       "id": "ImproveGame",
       "name": "更好的体验",
-      "version": "1.8.2-ningcs.1.fix.20261119.1",
+      "version": "1.8.2-ningcs.1.fix.20261119.1.license.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-ImproveGame-v1.8.2-ningcs.1.fix.20261119.1/ImproveGame-1.8.2-ningcs.1.fix.20261119.1.bl",
-        "size": 9174460,
-        "sha256": "d15bafff50cc1bb15c4fd11fc27d1bbef3198a606097780ac13e5f4ac7df4226"
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-ImproveGame-v1.8.2-ningcs.1.fix.20261119.1.license.1/ImproveGame-1.8.2-ningcs.1.fix.20261119.1.license.1.bl",
+        "size": 9180450,
+        "sha256": "bbaea6bd621847eb8c2756be4c01b9a4f5ed2052246a218f89945cdee7d37912"
       },
       "files": [
         "manifest.json",
@@ -7221,13 +7234,15 @@
         "changelog.md",
         "changelog_zh-Hans.md",
         "description_zh-Hans.md",
-        "credits.md"
+        "credits.md",
+        "license.md",
+        "LICENSE"
       ],
       "manifest": {
         "uid": "7ac6559e-6c48-5dc2-aa96-432cf366faeb",
         "id": "ImproveGame",
         "name": "更好的体验",
-        "version": "1.8.2-ningcs.1.fix.20261119.1",
+        "version": "1.8.2-ningcs.1.fix.20261119.1.license.1",
         "blVersion": 3,
         "entry": "ImproveGame.cs",
         "gameVersion": [
@@ -7255,16 +7270,17 @@
           }
         ],
         "description": "提供储存管理器、钓鱼机、药水袋、旗帜盒和多种建造工具。部分功能需在模组配置中开启。需要配套的 SilkyUI。",
-        "updated": "2026-11-19",
+        "updated": "2026-11-20",
         "localizedNames": {
           "zh-Hans": "更好的体验"
         },
         "localizedSummaries": {
           "zh-Hans": "提供储存管理器、钓鱼机、药水袋、旗帜盒和多种建造工具。部分功能需在模组配置中开启。需要配套的 SilkyUI。"
         },
-        "modRuntime": "csharp"
+        "modRuntime": "csharp",
+        "license": "MIT"
       },
-      "updatedAt": "2026-11-19T00:00:00Z",
+      "updatedAt": "2026-11-20T00:00:00Z",
       "runtime": "csharp",
       "publishedAt": "2026-11-19T00:00:00Z"
     },
@@ -7286,7 +7302,8 @@
         "changelog_zh-Hans.md",
         "description_zh-Hans.md",
         "LICENSE",
-        "credits.md"
+        "credits.md",
+        "license.md"
       ],
       "manifest": {
         "uid": "8efefc72-63f9-5044-a2ff-406be830cd15",
@@ -7335,7 +7352,8 @@
         "localizedSummaries": {
           "zh-Hans": "用存储核心和存储单元集中管理物品，并通过制作界面查询和制作配方。需要 absoluteAquarian Utilities。"
         },
-        "modRuntime": "csharp"
+        "modRuntime": "csharp",
+        "license": "MIT"
       },
       "updatedAt": "2026-11-19T00:00:00Z",
       "runtime": "csharp",
@@ -7492,7 +7510,8 @@
         "changelog.md",
         "changelog_zh-Hans.md",
         "description_zh-Hans.md",
-        "LICENSE"
+        "LICENSE",
+        "license.md"
       ],
       "manifest": {
         "uid": "a5ac9379-8ea2-5f80-8b0f-d2d07e919533",
@@ -7551,7 +7570,8 @@
         "changelog_zh-Hans.md",
         "description_zh-Hans.md",
         "LICENSE.txt",
-        "credits.md"
+        "credits.md",
+        "license.md"
       ],
       "manifest": {
         "uid": "48ca24c7-5faf-599d-b624-5c08939c28f7",
@@ -7590,7 +7610,8 @@
         "localizedSummaries": {
           "zh-Hans": "供魔法存储等模组使用的通用工具前置库，提供界面、文本输入与其他辅助接口。"
         },
-        "modRuntime": "csharp"
+        "modRuntime": "csharp",
+        "license": "MIT"
       },
       "updatedAt": "2026-11-19T00:00:00Z",
       "runtime": "csharp",
@@ -7964,7 +7985,8 @@
         "changelog_zh-Hans.md",
         "description_zh-Hans.md",
         "LICENSE",
-        "credits.md"
+        "credits.md",
+        "license.md"
       ],
       "manifest": {
         "uid": "1fc8cd8c-16f5-58b5-88bb-0c5af9e4b27b",
@@ -8005,7 +8027,8 @@
         "localizedSummaries": {
           "zh-Hans": "在屏幕上指示 Boss 所在方向，方便追踪离开视野的目标。"
         },
-        "modRuntime": "csharp"
+        "modRuntime": "csharp",
+        "license": "GPL-3.0"
       },
       "updatedAt": "2026-11-19T00:00:00Z",
       "runtime": "csharp",
@@ -8245,7 +8268,8 @@
         "changelog_zh-Hans.md",
         "description_zh-Hans.md",
         "LICENSE",
-        "credits.md"
+        "credits.md",
+        "license.md"
       ],
       "manifest": {
         "uid": "599f7475-8fdb-5a4b-ba1c-78979b800798",
@@ -8286,7 +8310,8 @@
           "zh-Hans": "商店每页显示 40 件商品，商品超出一页才显示翻页按钮，长按可跳到首尾并保留回购队列。"
         },
         "updated": "2026-11-19",
-        "modRuntime": "csharp"
+        "modRuntime": "csharp",
+        "license": "MIT"
       },
       "updatedAt": "2026-11-19T00:00:00Z",
       "runtime": "csharp",
@@ -8516,7 +8541,8 @@
         "changelog_zh-Hans.md",
         "description_zh-Hans.md",
         "LICENSE",
-        "credits.md"
+        "credits.md",
+        "license.md"
       ],
       "manifest": {
         "uid": "ecbbaf18-1a03-5750-bcf6-51f5c35a9a10",
@@ -8557,7 +8583,8 @@
           "zh-Hans": "生命水晶发粉红光，生命果发黄色光，两项可分别开启。"
         },
         "updated": "2026-11-19",
-        "modRuntime": "csharp"
+        "modRuntime": "csharp",
+        "license": "GPL-3.0"
       },
       "updatedAt": "2026-11-19T00:00:00Z",
       "runtime": "csharp",
@@ -8706,7 +8733,8 @@
         "changelog.md",
         "changelog_zh-Hans.md",
         "description_zh-Hans.md",
-        "LICENSE"
+        "LICENSE",
+        "license.md"
       ],
       "manifest": {
         "uid": "cb3513c4-d791-5bff-bd50-a25e4b168bb5",
@@ -8771,7 +8799,8 @@
         "changelog.md",
         "changelog_zh-Hans.md",
         "description_zh-Hans.md",
-        "LICENSE"
+        "LICENSE",
+        "license.md"
       ],
       "manifest": {
         "uid": "52a2ed03-1471-513b-b3f2-b522e3491e0b",
@@ -8843,7 +8872,8 @@
         "changelog.md",
         "changelog_zh-Hans.md",
         "description_zh-Hans.md",
-        "LICENSE"
+        "LICENSE",
+        "license.md"
       ],
       "manifest": {
         "uid": "159223ce-aee3-51a9-8e3f-0d4195b1d739",

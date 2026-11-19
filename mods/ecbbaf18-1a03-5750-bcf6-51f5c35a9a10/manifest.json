@@ -37,5 +37,6 @@
     "zh-Hans": "生命水晶发粉红光，生命果发黄色光，两项可分别开启。"
   },
   "updated": "2026-11-19",
-  "modRuntime": "csharp"
+  "modRuntime": "csharp",
+  "license": "GPL-3.0"
 }

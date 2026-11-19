@@ -2216,6 +2216,19 @@
       "sha256": "1dae44752a9c089967f02547b6f605ca23c469404542766e48d4eb3d72dae0a3",
       "size": 150668,
       "scope": "catalog-release-copy-and-mobile-catalog"
+    },
+    {
+      "uid": "7ac6559e-6c48-5dc2-aa96-432cf366faeb",
+      "id": "ImproveGame",
+      "tag": "mod-ImproveGame-v1.8.2-ningcs.1.fix.20261119.1.license.1",
+      "file": "ImproveGame-1.8.2-ningcs.1.fix.20261119.1.license.1.bl",
+      "version": "1.8.2-ningcs.1.fix.20261119.1.license.1",
+      "baseVersion": "1.8.2-ningcs.1.fix.20261119.1",
+      "originalSha256": "d15bafff50cc1bb15c4fd11fc27d1bbef3198a606097780ac13e5f4ac7df4226",
+      "sha256": "bbaea6bd621847eb8c2756be4c01b9a4f5ed2052246a218f89945cdee7d37912",
+      "size": 9180450,
+      "scope": "license-and-attribution",
+      "licenseSource": "https://github.com/487666123/ImproveGame/blob/b623c9437cd40b335a17ff5d7fb48f1d82483de0/LICENSE"
     }
   ],
   "authorChineseSources": {

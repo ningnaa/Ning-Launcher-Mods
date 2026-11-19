@@ -2,7 +2,7 @@
   "uid": "7ac6559e-6c48-5dc2-aa96-432cf366faeb",
   "id": "ImproveGame",
   "name": "更好的体验",
-  "version": "1.8.2-ningcs.1.fix.20261119.1",
+  "version": "1.8.2-ningcs.1.fix.20261119.1.license.1",
   "blVersion": 3,
   "entry": "ImproveGame.cs",
   "gameVersion": [
@@ -30,12 +30,13 @@
     }
   ],
   "description": "提供储存管理器、钓鱼机、药水袋、旗帜盒和多种建造工具。部分功能需在模组配置中开启。需要配套的 SilkyUI。",
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "localizedNames": {
     "zh-Hans": "更好的体验"
   },
   "localizedSummaries": {
     "zh-Hans": "提供储存管理器、钓鱼机、药水袋、旗帜盒和多种建造工具。部分功能需在模组配置中开启。需要配套的 SilkyUI。"
   },
-  "modRuntime": "csharp"
+  "modRuntime": "csharp",
+  "license": "MIT"
 }

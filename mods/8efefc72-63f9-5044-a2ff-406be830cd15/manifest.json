@@ -45,5 +45,6 @@
   "localizedSummaries": {
     "zh-Hans": "用存储核心和存储单元集中管理物品，并通过制作界面查询和制作配方。需要 absoluteAquarian Utilities。"
   },
-  "modRuntime": "csharp"
+  "modRuntime": "csharp",
+  "license": "MIT"
 }

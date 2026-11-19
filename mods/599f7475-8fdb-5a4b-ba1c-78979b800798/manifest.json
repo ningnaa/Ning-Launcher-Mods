@@ -37,5 +37,6 @@
     "zh-Hans": "商店每页显示 40 件商品，商品超出一页才显示翻页按钮，长按可跳到首尾并保留回购队列。"
   },
   "updated": "2026-11-19",
-  "modRuntime": "csharp"
+  "modRuntime": "csharp",
+  "license": "MIT"
 }

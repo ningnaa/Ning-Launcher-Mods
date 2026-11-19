@@ -37,5 +37,6 @@
   "localizedSummaries": {
     "zh-Hans": "在屏幕上指示 Boss 所在方向，方便追踪离开视野的目标。"
   },
-  "modRuntime": "csharp"
+  "modRuntime": "csharp",
+  "license": "GPL-3.0"
 }

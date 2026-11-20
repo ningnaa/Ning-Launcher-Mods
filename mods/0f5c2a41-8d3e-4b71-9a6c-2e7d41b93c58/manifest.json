@@ -1,0 +1,33 @@
+{
+  "uid": "0f5c2a41-8d3e-4b71-9a6c-2e7d41b93c58",
+  "id": "growthhermesboots",
+  "name": "遗魂",
+  "localizedNames": {
+    "zh-Hans": "遗魂",
+    "en-US": "Relic Soul"
+  },
+  "version": "3.0.4",
+  "authors": [
+    {
+      "name": "p03",
+      "color": "#B8A1FF"
+    }
+  ],
+  "category": "Itens",
+  "summary": "【使用须知】严禁商用、倒卖。接受二创、魔改、流传，作者名只能加、不能改。\n\n【获取】瓶子 ×1 + 钻石 ×10 合成「苍白容器」，丢进微光湖转化为遗魂；佩戴后，已击败 BOSS 的魂球环绕头顶。\n\n【设置】每个魂都有独立开关；「显示全部 boss 之魂」只影响显示，不影响效果。\n\n【伤害规则】所有魂与召唤物伤害只吃「全体伤害」加成，不吃近战/远程/魔法/召唤的单职业加成。\n\n【各魂效果】\n· 史莱姆王：受伤召唤尖刺史莱姆（20）\n· 克苏鲁之眼：半血召唤 5 只小眼球（20），死亡每 3 秒补 1\n· 克脑/世吞：攻击冲出世界吞噬者（100，穿透，冷却 20 秒）\n· 蜂王：攻击射出毒刺（30）\n· 骷髅王：两侧骨臂抡击（50）\n· 机械骷髅王：取代骷髅王；爪 200 / 电锯 10 / 激光 200 / 炮弹 500\n· 独眼巨鹿：攻击召唤鬼手，最多 10 只（50）\n· 血肉墙：肠道恶鬼最多 3 只（70，并回血 2）\n· 史莱姆女皇：取代史莱姆王；受伤召唤飞翔史莱姆（500 血，撞击 50），受击散射 8 颗明胶（40）\n· 双子魔眼：取代克眼；背后装置 + 三眼激光（20），附灵液与诅咒焰\n· 毁灭者：取代世吞；巨型毁灭者贯穿屏幕（5000，穿墙，冷却 20 秒）\n· 世纪之花：四条花钩抓住方块，勾住时悬停、可自由飞行，钩全断才下坠\n· 石巨人：取代蜂王；每次攻击两道激光（40）\n· 光之女皇：屏幕内 BOSS 血量低于 30% 时，空灵长枪从屏幕外射入；5 支后散开、停 1 秒再穿透（300/支，两发一轮）\n· 猪龙鱼公爵：冲刺时朝轮盘方向冲出（800，穿墙，无敌）\n· 拜月邪教徒：累计 100000 伤害后，屏幕中心出现远古厄运，2 秒后对 100 格内造成 30000\n· 月球领主：真眼在头顶持续激光（800/0.5 秒）；单手抓住敌人，使其减速 90%、受伤 +100%\n\n适用于柠版泰拉启动器0.5.1 (410) 与 Terraria Build 1720。\n作者：p03\n特别鸣谢：科比·布莱恩特（技术指导）",
+  "localizedSummaries": {
+    "zh-Hans": "【使用须知】严禁商用、倒卖。接受二创、魔改、流传，作者名只能加、不能改。\n\n【获取】瓶子 ×1 + 钻石 ×10 合成「苍白容器」，丢进微光湖转化为遗魂；佩戴后，已击败 BOSS 的魂球环绕头顶。\n\n【设置】每个魂都有独立开关；「显示全部 boss 之魂」只影响显示，不影响效果。\n\n【伤害规则】所有魂与召唤物伤害只吃「全体伤害」加成，不吃近战/远程/魔法/召唤的单职业加成。\n\n【各魂效果】\n· 史莱姆王：受伤召唤尖刺史莱姆（20）\n· 克苏鲁之眼：半血召唤 5 只小眼球（20），死亡每 3 秒补 1\n· 克脑/世吞：攻击冲出世界吞噬者（100，穿透，冷却 20 秒）\n· 蜂王：攻击射出毒刺（30）\n· 骷髅王：两侧骨臂抡击（50）\n· 机械骷髅王：取代骷髅王；爪 200 / 电锯 10 / 激光 200 / 炮弹 500\n· 独眼巨鹿：攻击召唤鬼手，最多 10 只（50）\n· 血肉墙：肠道恶鬼最多 3 只（70，并回血 2）\n· 史莱姆女皇：取代史莱姆王；受伤召唤飞翔史莱姆（500 血，撞击 50），受击散射 8 颗明胶（40）\n· 双子魔眼：取代克眼；背后装置 + 三眼激光（20），附灵液与诅咒焰\n· 毁灭者：取代世吞；巨型毁灭者贯穿屏幕（5000，穿墙，冷却 20 秒）\n· 世纪之花：四条花钩抓住方块，勾住时悬停、可自由飞行，钩全断才下坠\n· 石巨人：取代蜂王；每次攻击两道激光（40）\n· 光之女皇：屏幕内 BOSS 血量低于 30% 时，空灵长枪从屏幕外射入；5 支后散开、停 1 秒再穿透（300/支，两发一轮）\n· 猪龙鱼公爵：冲刺时朝轮盘方向冲出（800，穿墙，无敌）\n· 拜月邪教徒：累计 100000 伤害后，屏幕中心出现远古厄运，2 秒后对 100 格内造成 30000\n· 月球领主：真眼在头顶持续激光（800/0.5 秒）；单手抓住敌人，使其减速 90%、受伤 +100%\n\n适用于柠版泰拉启动器0.5.1 (410) 与 Terraria Build 1720。\n作者：p03\n特别鸣谢：科比·布莱恩特（技术指导）",
+    "en-US": "Notice: commercial use or resale is forbidden. Modding and redistribution are welcome; you may add author names but not change them.\n\nObtain: 1 Bottle + 10 Diamonds -> Pale Vessel, drop into shimmer. Equipped relic lets defeated bosses' souls orbit above you.\n\nConfig: every soul has its own toggle; \"Show all boss souls\" only affects display.\n\nDamage: all soul/summon damage scales with generic bonuses only.\n\nSoul effects:\n- King Slime: spiky slime on hurt (20)\n- Eye of Cthulhu: 5 mini eyes below half HP (20), respawn every 3s\n- Brain/Eater: World Eater charge (100, pierce, 20s cd)\n- Queen Bee: stingers (30)\n- Skeletron: bone arms (50)\n- Skeletron Prime: replaces Skeletron; claw 200 / saw 10 / laser 200 / bomb 500\n- Deerclops: ghost hands, max 10 (50)\n- Wall of Flesh: up to 3 gut demons (70, heal 2)\n- Queen Slime: replaces King Slime; flying slime (500 HP, hit 50), scatters 8 gel (40)\n- Twins: replaces Eye; back device + 3 eye lasers (20), Ichor/Cursed Inferno\n- Destroyer: replaces Eater; giant pierce (5000, walls, 20s cd)\n- Plantera: four hooks, hover while hooked, fall when all break\n- Golem: replaces Queen Bee; two lasers (40)\n- Empress: on-screen boss below 30% HP -> ethereal lances (300 each, 5 stick then pierce, two per volley)\n- Duke Fishron: dash in input direction (800, walls, invincible)\n- Lunatic Cultist: every 100,000 damage -> Ancient Doom, 30,000 in 100 tiles after 2s\n- Moon Lord: True Eye continuous laser (800 per 0.5s); one hand grabs, slows 90%, +100% damage taken\n\nFor Bunny Terraria Launcher 0.5.1 (410) and Terraria Build 1720.\nAuthor: p03\nSpecial thanks: Kobe Bryant (technical guidance)"
+  },
+  "license": "MIT",
+  "updated": "2026-11-17",
+  "blVersion": 2,
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "entry": "main.js",
+  "dependencies": [],
+  "description": "# 遗魂（Relic Soul）\n\n【使用须知】严禁商用、倒卖。接受二创、魔改、流传，作者名只能加、不能改。\n\n【获取】瓶子 ×1 + 钻石 ×10 合成「苍白容器」，丢进微光湖转化为遗魂；佩戴后，已击败 BOSS 的魂球环绕头顶。\n\n【设置】每个魂都有独立开关；「显示全部 boss 之魂」只影响显示，不影响效果。\n\n【伤害规则】所有魂与召唤物伤害只吃「全体伤害」加成，不吃近战/远程/魔法/召唤的单职业加成。\n\n【各魂效果】\n· 史莱姆王：受伤召唤尖刺史莱姆（20）\n· 克苏鲁之眼：半血召唤 5 只小眼球（20），死亡每 3 秒补 1\n· 克脑/世吞：攻击冲出世界吞噬者（100，穿透，冷却 20 秒）\n· 蜂王：攻击射出毒刺（30）\n· 骷髅王：两侧骨臂抡击（50）\n· 机械骷髅王：取代骷髅王；爪 200 / 电锯 10 / 激光 200 / 炮弹 500\n· 独眼巨鹿：攻击召唤鬼手，最多 10 只（50）\n· 血肉墙：肠道恶鬼最多 3 只（70，并回血 2）\n· 史莱姆女皇：取代史莱姆王；受伤召唤飞翔史莱姆（500 血，撞击 50），受击散射 8 颗明胶（40）\n· 双子魔眼：取代克眼；背后装置 + 三眼激光（20），附灵液与诅咒焰\n· 毁灭者：取代世吞；巨型毁灭者贯穿屏幕（5000，穿墙，冷却 20 秒）\n· 世纪之花：四条花钩抓住方块，勾住时悬停、可自由飞行，钩全断才下坠\n· 石巨人：取代蜂王；每次攻击两道激光（40）\n· 光之女皇：屏幕内 BOSS 血量低于 30% 时，空灵长枪从屏幕外射入；5 支后散开、停 1 秒再穿透（300/支，两发一轮）\n· 猪龙鱼公爵：冲刺时朝轮盘方向冲出（800，穿墙，无敌）\n· 拜月邪教徒：累计 100000 伤害后，屏幕中心出现远古厄运，2 秒后对 100 格内造成 30000\n· 月球领主：真眼在头顶持续激光（800/0.5 秒）；单手抓住敌人，使其减速 90%、受伤 +100%\n\n适用于柠版泰拉启动器0.5.1 (410) 与 Terraria Build 1720。\n作者：p03\n特别鸣谢：科比·布莱恩特（技术指导）\n",
+  "changelog": "## 遗魂 3.0.4（2026-11-20）\n\n- 首次收录到在线模组目录。饰品「遗魂」可汇聚已击败 Boss 的魂球。各魂的效果可分别开关。\n- 用 1 个瓶子和 10 颗钻石合成「苍白容器」，再投入微光转化为遗魂。\n- 适用于支持 JS 模组的柠版泰拉启动器及 Terraria Build 1720。无需额外前置。\n\n作者为 p03。特别鸣谢科比·布莱恩特提供技术指导。\n\n作者随包说明允许二创和传播，要求保留作者名，并禁止商用及倒卖。\n"
+}

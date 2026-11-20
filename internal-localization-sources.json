@@ -2409,6 +2409,30 @@
       "sha256": "148aa1a2a00bc5adfd3dd89efaba321c019844355a2890d99037ea8f00bf948a",
       "size": 722366,
       "scope": "author-supplied-mobile-catalog"
+    },
+    {
+      "uid": "7ac6559e-6c48-5dc2-aa96-432cf366faeb",
+      "id": "ImproveGame",
+      "tag": "mod-ImproveGame-v1.8.2-r.2",
+      "file": "ImproveGame-1.8.2-r.2.bl",
+      "version": "1.8.2-r.2",
+      "baseVersion": "1.8.2-ningcs.1.fix.20261119.1.license.1.ui.1.logfix.1.treefix.1.colorfix.1.pylonfix.1",
+      "originalSha256": "de3bb3aa5b516a7c7497bbb3317295c500c56b052bbce0528534b2c0df69477b",
+      "sha256": "2fb6b96de87742970f2efd13c1c9bc1dcea327a48b07919f9000994fa286d519",
+      "size": 9183035,
+      "scope": "improvegame-automatic-deposit-player-save"
+    },
+    {
+      "uid": "0f5c2a41-8d3e-4b71-9a6c-2e7d41b93c58",
+      "id": "growthhermesboots",
+      "version": "3.0.4",
+      "tag": "mod-growthhermesboots-v3.0.4",
+      "file": "growthhermesboots-3.0.4.bl",
+      "baseVersion": "3.0.4",
+      "originalSha256": "8d2691afb9bebf6917991c93c7ad1b8a92602fbbb34f0787b30156cdb6d36af7",
+      "sha256": "f64a451fbdbaf9c17cdf4ce4f4e0ab2fc0a39f8371abd3a5897b12481f901026",
+      "size": 562566,
+      "scope": "author-supplied-mobile-catalog"
     }
   ],
   "authorChineseSources": {

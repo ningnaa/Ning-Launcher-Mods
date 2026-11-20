@@ -1943,7 +1943,8 @@
           "language": "zh-Hans",
           "revision": 1,
           "baseVersion": "1.0.0"
-        }
+        },
+        "license": "MIT"
       },
       "runtime": "js"
     },
@@ -4083,7 +4084,8 @@
           "language": "zh-Hans",
           "revision": 1,
           "baseVersion": "1.1.1"
-        }
+        },
+        "license": "MIT"
       },
       "runtime": "js"
     },
@@ -4151,7 +4153,8 @@
           "language": "zh-Hans",
           "revision": 1,
           "baseVersion": "1.0.0"
-        }
+        },
+        "license": "MIT"
       },
       "runtime": "js"
     },

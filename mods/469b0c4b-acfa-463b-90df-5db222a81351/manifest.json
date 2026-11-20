@@ -3,6 +3,7 @@
   "id": "instantplatformfallthrough",
   "name": "Instant Platform Fallthrough",
   "version": "1.0.0-ningzh.1",
+  "license": "MIT",
   "authors": [
     {
       "name": "diniamo",

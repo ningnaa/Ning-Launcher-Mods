@@ -412,7 +412,8 @@
         "changelog.md",
         "authors/animatak.png",
         "description_zh-Hans.md",
-        "changelog_zh-Hans.md"
+        "changelog_zh-Hans.md",
+        "license.md"
       ],
       "manifest": {
         "uid": "dbe76e93-a141-4b42-9bbe-13e5b6984e19",
@@ -3295,7 +3296,8 @@
         "changelog.md",
         "authors/animatak.png",
         "description_zh-Hans.md",
-        "changelog_zh-Hans.md"
+        "changelog_zh-Hans.md",
+        "license.md"
       ],
       "manifest": {
         "uid": "8de902a2-3816-4a6b-91f8-ab80a0ce0f57",
@@ -3792,7 +3794,8 @@
         "icon.png",
         "description.md",
         "authors/animatak.png",
-        "description_zh-Hans.md"
+        "description_zh-Hans.md",
+        "license.md"
       ],
       "manifest": {
         "uid": "77b38952-98d6-4e18-a301-638d54c4bfd0",
@@ -6249,7 +6252,8 @@
         "changelog_zh-Hans.md",
         "description_zh-Hans.md",
         "authors/mantovani.jpg",
-        "authors/nyacro.jpg"
+        "authors/nyacro.jpg",
+        "license.md"
       ],
       "manifest": {
         "uid": "628fa4c5-8211-4b39-a7d6-ac827426a3fd",

@@ -2385,6 +2385,30 @@
       "sha256": "de3bb3aa5b516a7c7497bbb3317295c500c56b052bbce0528534b2c0df69477b",
       "size": 9182463,
       "scope": "improvegame-color-picker-and-pylon-range"
+    },
+    {
+      "uid": "c57ce405-d5f2-447a-81e7-7180f0d6236e",
+      "id": "QianLongStar",
+      "version": "1.16.71",
+      "tag": "mod-QianLongStar-v1.16.71",
+      "file": "QianLongStar-1.16.71.bl",
+      "baseVersion": "1.16.71",
+      "originalSha256": "d2ee9d5e12b1d9a21c0f6c1a1383c46881241d952b892c6a5616287483b268e8",
+      "sha256": "d1418ba0515fd3f04134048aa6477ed64bc6ac092233c47927e609de14ffd376",
+      "size": 297762,
+      "scope": "author-supplied-mobile-catalog"
+    },
+    {
+      "uid": "25dc986e-4c1b-496c-8679-eb599b3a2ce1",
+      "id": "SupremeRobe",
+      "version": "1.0",
+      "tag": "mod-SupremeRobe-v1.0",
+      "file": "SupremeRobe-1.0.bl",
+      "baseVersion": "1.0",
+      "originalSha256": "ea1bfcee75a852145239ead3eac4c937143fc9708c03a030c20897e61a56f720",
+      "sha256": "148aa1a2a00bc5adfd3dd89efaba321c019844355a2890d99037ea8f00bf948a",
+      "size": 722366,
+      "scope": "author-supplied-mobile-catalog"
     }
   ],
   "authorChineseSources": {

@@ -1,0 +1,41 @@
+{
+  "uid": "c57ce405-d5f2-447a-81e7-7180f0d6236e",
+  "id": "QianLongStar",
+  "name": "星星家族",
+  "localizedNames": {
+    "zh-Hans": "星星家族",
+    "en-US": "QianLongStar"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "佩戴潜龙之星可逐步增强属性，并用五种 Boss 遗物解锁能力。另有四件星族武器。",
+    "en-US": "An accessory that grows stronger while you stay online, with a small star floating above your head; craft it with five boss relics to unlock powers, plus four star weapons."
+  },
+  "version": "1.16.71",
+  "authors": [
+    {
+      "name": "Z菌大人",
+      "role": "作者",
+      "color": "#7FE3FF"
+    }
+  ],
+  "category": "Itens",
+  "summary": "佩戴潜龙之星可逐步增强属性，并用五种 Boss 遗物解锁能力。另有四件星族武器。",
+  "featured": false,
+  "updated": "2026-11-20",
+  "blVersion": 2,
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "entry": "main.js",
+  "dependencies": [],
+  "links": [],
+  "pages": [
+    {
+      "title": "玩法说明",
+      "file": "docs/guide.md"
+    }
+  ],
+  "description": "# 星星家族\n\n**潜龙出渊，厚积薄发。**\n\n一件随在线时间慢慢变强的饰品，佩戴后头顶跟着一颗青蓝色小悬浮星。\n\n- 在线越久，防御、伤害、速度、免伤和仆从/哨兵位越高。\n- 与史莱姆王、克苏鲁之眼、蜂王、世界吞噬者、克苏鲁之脑遗物合成，可解锁五种能力，顺序随意。\n- 另附四件星系武器。\n\n适用于 Terraria 1.4.5.8.6（Build 1720），无需额外前置。\n\n制作：Z菌大人。\n",
+  "changelog": "## 星星家族 1.16.71（2026-11-20）\n\n- 收录成长饰品「潜龙之星」、五种 Boss 遗物能力与四件星族武器。\n- 适用于 Terraria 1.4.5.8.6（Build 1720），无需额外前置。\n\n制作：Z菌大人。\n"
+}

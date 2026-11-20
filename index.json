@@ -9189,6 +9189,147 @@
       },
       "updatedAt": "2026-11-20T00:00:00Z",
       "publishedAt": "2026-11-20T00:00:00Z"
+    },
+    {
+      "uid": "c57ce405-d5f2-447a-81e7-7180f0d6236e",
+      "id": "QianLongStar",
+      "name": "星星家族",
+      "version": "1.16.71",
+      "manifest": {
+        "uid": "c57ce405-d5f2-447a-81e7-7180f0d6236e",
+        "id": "QianLongStar",
+        "name": "星星家族",
+        "localizedNames": {
+          "zh-Hans": "星星家族",
+          "en-US": "QianLongStar"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "佩戴潜龙之星可逐步增强属性，并用五种 Boss 遗物解锁能力。另有四件星族武器。",
+          "en-US": "An accessory that grows stronger while you stay online, with a small star floating above your head; craft it with five boss relics to unlock powers, plus four star weapons."
+        },
+        "version": "1.16.71",
+        "authors": [
+          {
+            "name": "Z菌大人",
+            "role": "作者",
+            "color": "#7FE3FF"
+          }
+        ],
+        "category": "Itens",
+        "summary": "佩戴潜龙之星可逐步增强属性，并用五种 Boss 遗物解锁能力。另有四件星族武器。",
+        "featured": false,
+        "updated": "2026-11-20",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": [],
+        "links": [],
+        "pages": [
+          {
+            "title": "玩法说明",
+            "file": "docs/guide.md"
+          }
+        ],
+        "description": "# 星星家族\n\n**潜龙出渊，厚积薄发。**\n\n一件随在线时间慢慢变强的饰品，佩戴后头顶跟着一颗青蓝色小悬浮星。\n\n- 在线越久，防御、伤害、速度、免伤和仆从/哨兵位越高。\n- 与史莱姆王、克苏鲁之眼、蜂王、世界吞噬者、克苏鲁之脑遗物合成，可解锁五种能力，顺序随意。\n- 另附四件星系武器。\n\n适用于 Terraria 1.4.5.8.6（Build 1720），无需额外前置。\n\n制作：Z菌大人。\n",
+        "changelog": "## 星星家族 1.16.71（2026-11-20）\n\n- 收录成长饰品「潜龙之星」、五种 Boss 遗物能力与四件星族武器。\n- 适用于 Terraria 1.4.5.8.6（Build 1720），无需额外前置。\n\n制作：Z菌大人。\n"
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "banner.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "thumbnails/QianLongStar.png",
+        "docs/guide.md"
+      ],
+      "runtime": "js",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-QianLongStar-v1.16.71/QianLongStar-1.16.71.bl",
+        "size": 297762,
+        "sha256": "d1418ba0515fd3f04134048aa6477ed64bc6ac092233c47927e609de14ffd376"
+      },
+      "publishedAt": "2026-11-20T11:26:38Z",
+      "updatedAt": "2026-11-20T11:26:38Z"
+    },
+    {
+      "uid": "25dc986e-4c1b-496c-8679-eb599b3a2ce1",
+      "id": "SupremeRobe",
+      "name": "至尊长袍（C#）",
+      "version": "1.0",
+      "manifest": {
+        "uid": "25dc986e-4c1b-496c-8679-eb599b3a2ce1",
+        "id": "SupremeRobe",
+        "name": "至尊长袍（C#）",
+        "localizedNames": {
+          "zh-Hans": "至尊长袍（C#）"
+        },
+        "version": "1.0",
+        "blVersion": 3,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "SupremeRobe.cs",
+        "category": "装备",
+        "summary": "收录七彩长袍与侵染の饮血之袍，可通过「七彩」面板选用宝石效果或血术。",
+        "description": "# 至尊长袍（C#）\n\n七色流动的法师长袍，以及可自选的宝石与血术词条。\n\n这是至尊长袍的 C# 适配版，部分细节与 JS 版存在差异。\n\n【七彩长袍】胸甲，防御 6；魔法伤害 +15%、魔法暴击 +10%、魔力恢复速度 +5%。\n物品图标与穿戴效果均为七彩流动；配同套头盔护腿时，额外吃到那一套的套装加成。\n获取：七种原版宝石长袍 → 恶魔祭坛。\n\n【侵染の饮血之袍】胸甲，防御 8；魔法伤害 +12%、魔法暴击率 +18%。\n获取：七彩长袍 + 血泪 ×15 → 恶魔祭坛，且必须进入困难模式。\n与七彩长袍一样能继承原版套装加成；受到攻击有概率将伤害变成两倍。\n\n【面板】手机界面按「七彩」按钮打开：点两下选两种，再点一次取消，选择按角色保存；装备栏按 ★ 可在不同配装间共享。\n分两页：第一页为七色宝石，第二页为各长袍的特殊加成。两页共用同一组选择，全场最多两条生效。\n\n宝石词条：\n紫晶=弹幕追踪（三秒后消失）\n红玉=额外一发（0.5 秒后出现，伤害 85%）\n蓝玉=两枚弹幕（各 60%，合计 120%）\n黄玉=命中爆炸（25% 伤害，最多 3 个目标）\n翡翠=弹速 +30%、穿透 +1、碰地贴住\n琥珀=碰地反弹、穿透 +1\n钻石=体积 +15%、穿透 +1、破甲 15 点\n\n血术词条（仅饮血之袍）：\n泣血=对方受到的 3% 魔法伤害转化为自身回血（每秒回复上限 60hp），附带 8 点破甲\n血怒=生命低于 40% 时，魔法伤害 +50%、魔法暴击率 +25%；每 1.25 秒扣除 8% 最大生命，剩余 10% 时停止\n战魂=血量越低伤害越高，共五档：90% 以上 -45%/-30、70% -20%/-10、50% +5%/+5、30% +30%/+20、10% +50%/+50；低于 10% 时被攻击有 5% 概率被斩杀\n\n效果只作用在「发射弹幕」这一层：任何时期、任何来源的弹幕类法师武器都能吃到；非弹幕类武器不适配。\n\n\n\n跨模组专属联动：《虹光七曜-魔导棱镜》（仅在同时穿戴长袍并手持法杖时激活显示！）· 共同使用【七彩长袍】：觉醒「虹曜圣咏·至尊共鸣」——角色背后浮现旋转七彩圣环与 7 颗浮游晶球，伤害+15% / 暴击+10% / 魔力消耗-25%，施法协射双翼折光束！· 共同使用【侵染の饮血之袍】：觉醒「猩红蚀日·血曜共鸣」——角色背后浮现暗红血曜魔阵，伤害+22% / 暴击+15%，攻击附带血曜虹吸回血！\n\n原作者：木木Mokuzai。设计与检修：尘俞名。技术支持：p03。\n\n适用于支持 C# 模组的柠版泰拉启动器及 Terraria 1.4.5.8.6（Build 1720）。无需额外前置。词条作用于发射弹幕的魔法武器。\n\n许可禁止商用及倒卖。许可正文见包内说明。\n",
+        "authors": [
+          {
+            "name": "木木Mokuzai",
+            "role": "原作者",
+            "avatar": "avatar.png",
+            "color": "#E8C170"
+          },
+          {
+            "name": "尘俞名",
+            "role": "设计&检修",
+            "avatar": "avatar_chen.png",
+            "color": "#7FC8FF"
+          },
+          {
+            "name": "p03",
+            "role": "技术支持",
+            "avatar": "avatar_p03.png",
+            "color": "#B6E3A8"
+          }
+        ],
+        "license": "自定义（源码开放，禁止商用）",
+        "dependencies": [],
+        "updated": "2026-11-20",
+        "icon": "icon.png",
+        "localizedSummaries": {
+          "zh-Hans": "收录七彩长袍与侵染の饮血之袍，可通过「七彩」面板选用宝石效果或血术。"
+        },
+        "changelog": "## 至尊长袍（C#） 1.0（2026-11-20）\n\n- 收录 C# 正式版，两件长袍、宝石效果、泣血／血怒／战魂、七彩面板、触屏按钮与套装继承。\n- 适用于支持 C# 模组的柠版泰拉启动器及 Terraria 1.4.5.8.6（Build 1720）。无需额外前置。词条作用于发射弹幕的魔法武器。\n\n原作者：木木Mokuzai。设计与检修：尘俞名。技术支持：p03。\n\n许可禁止商用及倒卖。\n"
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "license.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
+        "authors/avatar.png",
+        "authors/avatar_chen.png",
+        "authors/avatar_p03.png",
+        "avatar.png",
+        "avatar_chen.png",
+        "avatar_p03.png"
+      ],
+      "runtime": "csharp",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-SupremeRobe-v1.0/SupremeRobe-1.0.bl",
+        "size": 722366,
+        "sha256": "148aa1a2a00bc5adfd3dd89efaba321c019844355a2890d99037ea8f00bf948a"
+      },
+      "publishedAt": "2026-11-20T11:26:38Z",
+      "updatedAt": "2026-11-20T11:26:38Z"
     }
   ],
   "featured": [

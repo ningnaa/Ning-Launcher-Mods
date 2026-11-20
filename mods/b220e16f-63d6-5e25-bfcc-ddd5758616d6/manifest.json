@@ -2,7 +2,7 @@
   "uid": "b220e16f-63d6-5e25-bfcc-ddd5758616d6",
   "id": "WeaponDisplay",
   "name": "武器展示",
-  "version": "1.20.1-ningcs.1.fix.6.defaults1.mobile1.quiet1",
+  "version": "1.20.1-ningcs.1.fix.6.defaults1.mobile1.quiet1.logfix.1",
   "blVersion": 3,
   "entry": "WeaponDisplay.cs",
   "gameVersion": [
@@ -20,20 +20,20 @@
       "role": "移动版汉化与维护"
     }
   ],
-  "summary": "显示手持武器，可配置武器发光、挥砍和掉落特效。部分自定义武器有独立绘制，效果取决于其适配。",
+  "summary": "显示手持武器，可配置武器发光、挥砍和掉落特效。部分自定义武器的显示效果取决于其适配。",
   "links": [
     {
       "title": "Steam 原作",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2763158325"
     }
   ],
-  "description": "显示手持武器，可配置武器发光、挥砍和掉落特效。部分自定义武器有独立绘制，效果取决于其适配。",
-  "updated": "2026-11-19",
+  "description": "显示手持武器，可配置武器发光、挥砍和掉落特效。部分自定义武器的显示效果取决于其适配。\n\n本版修复：修复手持其他模组物品时招架检查反复报错。原版及配置中指定的招架武器仍可使用。\n\n适用于柠版泰拉启动器 0.5.2（411）及 Terraria Build 1720。本移植版严禁商用及倒卖。",
+  "updated": "2026-11-20",
   "localizedNames": {
     "zh-Hans": "武器展示"
   },
   "localizedSummaries": {
-    "zh-Hans": "显示手持武器，可配置武器发光、挥砍和掉落特效。部分自定义武器有独立绘制，效果取决于其适配。"
+    "zh-Hans": "显示手持武器，可配置武器发光、挥砍和掉落特效。部分自定义武器的显示效果取决于其适配。"
   },
   "modRuntime": "csharp"
 }

@@ -2313,6 +2313,42 @@
       "sha256": "96a1f9ae73c9b654fa37402fa632376ff0864573c15b895ada396d6558af00cf",
       "size": 553549,
       "scope": "mobile-ui-compatibility"
+    },
+    {
+      "uid": "06d3ecd1-1f04-4925-a886-35c7c5120906",
+      "id": "ExampleMod",
+      "tag": "mod-ExampleMod-v0.43.1-ning.2.logfix.1",
+      "file": "ExampleMod-0.43.1-ning.2.logfix.1.bl",
+      "version": "0.43.1-ning.2.logfix.1",
+      "baseVersion": "0.43.1-ning.2",
+      "originalSha256": "72fb85bf758327f150b102c518ce2c6422a6a83dbde1bd8600327ce7df123fba",
+      "sha256": "c7b0e3ceaee4fab5ae47416af59516aca2f172d5392704bcaede1427124e25aa",
+      "size": 8149259,
+      "scope": "0.5.2-mod-repairs"
+    },
+    {
+      "uid": "7ac6559e-6c48-5dc2-aa96-432cf366faeb",
+      "id": "ImproveGame",
+      "tag": "mod-ImproveGame-v1.8.2-ningcs.1.fix.20261119.1.license.1.ui.1.logfix.1",
+      "file": "ImproveGame-1.8.2-ningcs.1.fix.20261119.1.license.1.ui.1.logfix.1.bl",
+      "version": "1.8.2-ningcs.1.fix.20261119.1.license.1.ui.1.logfix.1",
+      "baseVersion": "1.8.2-ningcs.1.fix.20261119.1.license.1.ui.1",
+      "originalSha256": "7688d6fdc2fa7c0c5c22cba7b9ca9d0462ea8e29bbabcb638db026cd7b0d8b82",
+      "sha256": "0400e68009ce94aed2db6f62cda2d52aeee85d70829020f662ab39a46ad6a4d4",
+      "size": 9181408,
+      "scope": "0.5.2-mod-repairs"
+    },
+    {
+      "uid": "b220e16f-63d6-5e25-bfcc-ddd5758616d6",
+      "id": "WeaponDisplay",
+      "tag": "mod-WeaponDisplay-v1.20.1-ningcs.1.fix.6.defaults1.mobile1.quiet1.logfix.1",
+      "file": "WeaponDisplay-1.20.1-ningcs.1.fix.6.defaults1.mobile1.quiet1.logfix.1.bl",
+      "version": "1.20.1-ningcs.1.fix.6.defaults1.mobile1.quiet1.logfix.1",
+      "baseVersion": "1.20.1-ningcs.1.fix.6.defaults1.mobile1.quiet1",
+      "originalSha256": "68310b824492411ef44b2b4ea34ec548483ee39538d21f26e7e9075c7b4dbae7",
+      "sha256": "e496d1136f2ada3592c184a11e0ba5e7adad659439669fb377277d69008f8adf",
+      "size": 381430,
+      "scope": "0.5.2-mod-repairs"
     }
   ],
   "authorChineseSources": {

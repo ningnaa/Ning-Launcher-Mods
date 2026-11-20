@@ -7226,11 +7226,11 @@
       "uid": "7ac6559e-6c48-5dc2-aa96-432cf366faeb",
       "id": "ImproveGame",
       "name": "更好的体验",
-      "version": "1.8.2-ningcs.1.fix.20261119.1.license.1.ui.1",
+      "version": "1.8.2-ningcs.1.fix.20261119.1.license.1.ui.1.logfix.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-ImproveGame-v1.8.2-ningcs.1.fix.20261119.1.license.1.ui.1/ImproveGame-1.8.2-ningcs.1.fix.20261119.1.license.1.ui.1.bl",
-        "size": 9181136,
-        "sha256": "7688d6fdc2fa7c0c5c22cba7b9ca9d0462ea8e29bbabcb638db026cd7b0d8b82"
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-ImproveGame-v1.8.2-ningcs.1.fix.20261119.1.license.1.ui.1.logfix.1/ImproveGame-1.8.2-ningcs.1.fix.20261119.1.license.1.ui.1.logfix.1.bl",
+        "size": 9181408,
+        "sha256": "0400e68009ce94aed2db6f62cda2d52aeee85d70829020f662ab39a46ad6a4d4"
       },
       "files": [
         "manifest.json",
@@ -7247,7 +7247,7 @@
         "uid": "7ac6559e-6c48-5dc2-aa96-432cf366faeb",
         "id": "ImproveGame",
         "name": "更好的体验",
-        "version": "1.8.2-ningcs.1.fix.20261119.1.license.1.ui.1",
+        "version": "1.8.2-ningcs.1.fix.20261119.1.license.1.ui.1.logfix.1",
         "blVersion": 3,
         "entry": "ImproveGame.cs",
         "gameVersion": [
@@ -7274,7 +7274,7 @@
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2797518634"
           }
         ],
-        "description": "提供储存管理器、钓鱼机、药水袋、旗帜盒和多种建造工具。部分功能需在模组配置中开启。需要配套的 SilkyUI。",
+        "description": "提供储存管理器、钓鱼机、药水袋、旗帜盒和多种建造工具。部分功能需在模组配置中开启。需要配套的 SilkyUI。\n\n本版修复：修复手持其他模组物品时放置加速黑名单查找报错，以及配置页拼音搜索无法使用的问题。\n\n适用于柠版泰拉启动器 0.5.2（411）及 Terraria Build 1720。需要 SilkyUI。",
         "updated": "2026-11-20",
         "localizedNames": {
           "zh-Hans": "更好的体验"
@@ -7285,9 +7285,10 @@
         "modRuntime": "csharp",
         "license": "MIT"
       },
-      "updatedAt": "2026-11-20T00:46:16Z",
+      "updatedAt": "2026-11-20T06:25:36Z",
       "runtime": "csharp",
-      "publishedAt": "2026-11-19T00:00:00Z"
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "summary": "提供储存管理器、钓鱼机、药水袋、旗帜盒和多种建造工具。部分功能需在模组配置中开启。需要配套的 SilkyUI。"
     },
     {
       "uid": "8efefc72-63f9-5044-a2ff-406be830cd15",
@@ -7440,11 +7441,11 @@
       "uid": "b220e16f-63d6-5e25-bfcc-ddd5758616d6",
       "id": "WeaponDisplay",
       "name": "武器展示",
-      "version": "1.20.1-ningcs.1.fix.6.defaults1.mobile1.quiet1",
+      "version": "1.20.1-ningcs.1.fix.6.defaults1.mobile1.quiet1.logfix.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-WeaponDisplay-v1.20.1-ningcs.1.fix.6.defaults1.mobile1.quiet1/WeaponDisplay-1.20.1-ningcs.1.fix.6.defaults1.mobile1.quiet1.bl",
-        "size": 380642,
-        "sha256": "68310b824492411ef44b2b4ea34ec548483ee39538d21f26e7e9075c7b4dbae7"
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-WeaponDisplay-v1.20.1-ningcs.1.fix.6.defaults1.mobile1.quiet1.logfix.1/WeaponDisplay-1.20.1-ningcs.1.fix.6.defaults1.mobile1.quiet1.logfix.1.bl",
+        "size": 381430,
+        "sha256": "e496d1136f2ada3592c184a11e0ba5e7adad659439669fb377277d69008f8adf"
       },
       "files": [
         "manifest.json",
@@ -7459,7 +7460,7 @@
         "uid": "b220e16f-63d6-5e25-bfcc-ddd5758616d6",
         "id": "WeaponDisplay",
         "name": "武器展示",
-        "version": "1.20.1-ningcs.1.fix.6.defaults1.mobile1.quiet1",
+        "version": "1.20.1-ningcs.1.fix.6.defaults1.mobile1.quiet1.logfix.1",
         "blVersion": 3,
         "entry": "WeaponDisplay.cs",
         "gameVersion": [
@@ -7477,26 +7478,27 @@
             "role": "移动版汉化与维护"
           }
         ],
-        "summary": "显示手持武器，可配置武器发光、挥砍和掉落特效。部分自定义武器有独立绘制，效果取决于其适配。",
+        "summary": "显示手持武器，可配置武器发光、挥砍和掉落特效。部分自定义武器的显示效果取决于其适配。",
         "links": [
           {
             "title": "Steam 原作",
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2763158325"
           }
         ],
-        "description": "显示手持武器，可配置武器发光、挥砍和掉落特效。部分自定义武器有独立绘制，效果取决于其适配。",
-        "updated": "2026-11-19",
+        "description": "显示手持武器，可配置武器发光、挥砍和掉落特效。部分自定义武器的显示效果取决于其适配。\n\n本版修复：修复手持其他模组物品时招架检查反复报错。原版及配置中指定的招架武器仍可使用。\n\n适用于柠版泰拉启动器 0.5.2（411）及 Terraria Build 1720。本移植版严禁商用及倒卖。",
+        "updated": "2026-11-20",
         "localizedNames": {
           "zh-Hans": "武器展示"
         },
         "localizedSummaries": {
-          "zh-Hans": "显示手持武器，可配置武器发光、挥砍和掉落特效。部分自定义武器有独立绘制，效果取决于其适配。"
+          "zh-Hans": "显示手持武器，可配置武器发光、挥砍和掉落特效。部分自定义武器的显示效果取决于其适配。"
         },
         "modRuntime": "csharp"
       },
-      "updatedAt": "2026-11-19T00:00:00Z",
+      "updatedAt": "2026-11-20T06:25:36Z",
       "runtime": "csharp",
-      "publishedAt": "2026-11-19T00:00:00Z"
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "summary": "显示手持武器，可配置武器发光、挥砍和掉落特效。部分自定义武器的显示效果取决于其适配。"
     },
     {
       "uid": "a5ac9379-8ea2-5f80-8b0f-d2d07e919533",
@@ -7688,11 +7690,11 @@
       "uid": "06d3ecd1-1f04-4925-a886-35c7c5120906",
       "id": "ExampleMod",
       "name": "C# 开发示例",
-      "version": "0.43.1-ning.2",
+      "version": "0.43.1-ning.2.logfix.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-ExampleMod-v0.43.1-ning.2/ExampleMod-0.43.1-ning.2.bl",
-        "size": 8148201,
-        "sha256": "72fb85bf758327f150b102c518ce2c6422a6a83dbde1bd8600327ce7df123fba"
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-ExampleMod-v0.43.1-ning.2.logfix.1/ExampleMod-0.43.1-ning.2.logfix.1.bl",
+        "size": 8149259,
+        "sha256": "c7b0e3ceaee4fab5ae47416af59516aca2f172d5392704bcaede1427124e25aa"
       },
       "files": [
         "manifest.json",
@@ -7713,7 +7715,7 @@
           "en-US": "The tModLoader ExampleMod in C#, ported as the C# loaders arrive. For now: the Example Item, the Sword, the recipes, the Example armor with its set bonus, the Example robe, the Example life fruit and mana crystal, the Example immunity accessory, the Example buffs and buff potion, wings and shield, the Example damage class with its weapon and stat bonus accessory, the Example shotgun, minigun, sword and magic weapon.",
           "zh-Hans": "C# 模组开发示例，包含示例竞技场子世界、智能光标高亮、内容注册及 API 用法。"
         },
-        "version": "0.43.1-ning.2",
+        "version": "0.43.1-ning.2.logfix.1",
         "authors": [
           {
             "name": "Potato",
@@ -7743,7 +7745,7 @@
         "category": "Itens",
         "summary": "C# 模组开发示例，包含示例竞技场子世界、智能光标高亮、内容注册及 API 用法。",
         "license": "MIT",
-        "updated": "2026-11-19",
+        "updated": "2026-11-20",
         "blVersion": 3,
         "gameVersion": [
           301720,
@@ -7762,15 +7764,16 @@
         ],
         "entry": "ExampleMod.cs",
         "featured": true,
-        "description": "C# 模组开发示例，包含示例竞技场子世界、智能光标高亮、内容注册及 API 用法。",
+        "description": "C# 模组开发示例，包含示例竞技场子世界、智能光标高亮、内容注册及 API 用法。\n\n本版修复：修复示例物品的提示颜色在保存后丢失的问题，并修复商人缺少部分商品时的商店回调报错。\n\n适用于柠版泰拉启动器 0.5.2（411）及 Terraria Build 1720。",
         "localizedNames": {
           "zh-Hans": "C# 开发示例"
         },
         "modRuntime": "csharp"
       },
-      "updatedAt": "2026-11-19T00:00:00Z",
+      "updatedAt": "2026-11-20T06:25:36Z",
       "runtime": "csharp",
-      "publishedAt": "2026-11-19T00:00:00Z"
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "summary": "C# 模组开发示例，包含示例竞技场子世界、智能光标高亮、内容注册及 API 用法。"
     },
     {
       "uid": "ee508d07-bbc9-564c-9c43-b842b9bdc1fc",

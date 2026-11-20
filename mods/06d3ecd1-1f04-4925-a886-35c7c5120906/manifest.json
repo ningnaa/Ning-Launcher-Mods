@@ -6,7 +6,7 @@
     "en-US": "The tModLoader ExampleMod in C#, ported as the C# loaders arrive. For now: the Example Item, the Sword, the recipes, the Example armor with its set bonus, the Example robe, the Example life fruit and mana crystal, the Example immunity accessory, the Example buffs and buff potion, wings and shield, the Example damage class with its weapon and stat bonus accessory, the Example shotgun, minigun, sword and magic weapon.",
     "zh-Hans": "C# 模组开发示例，包含示例竞技场子世界、智能光标高亮、内容注册及 API 用法。"
   },
-  "version": "0.43.1-ning.2",
+  "version": "0.43.1-ning.2.logfix.1",
   "authors": [
     {
       "name": "Potato",
@@ -36,7 +36,7 @@
   "category": "Itens",
   "summary": "C# 模组开发示例，包含示例竞技场子世界、智能光标高亮、内容注册及 API 用法。",
   "license": "MIT",
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "blVersion": 3,
   "gameVersion": [
     301720,
@@ -55,7 +55,7 @@
   ],
   "entry": "ExampleMod.cs",
   "featured": true,
-  "description": "C# 模组开发示例，包含示例竞技场子世界、智能光标高亮、内容注册及 API 用法。",
+  "description": "C# 模组开发示例，包含示例竞技场子世界、智能光标高亮、内容注册及 API 用法。\n\n本版修复：修复示例物品的提示颜色在保存后丢失的问题，并修复商人缺少部分商品时的商店回调报错。\n\n适用于柠版泰拉启动器 0.5.2（411）及 Terraria Build 1720。",
   "localizedNames": {
     "zh-Hans": "C# 开发示例"
   },

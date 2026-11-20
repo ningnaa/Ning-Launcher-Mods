@@ -2433,6 +2433,18 @@
       "sha256": "f64a451fbdbaf9c17cdf4ce4f4e0ab2fc0a39f8371abd3a5897b12481f901026",
       "size": 562566,
       "scope": "author-supplied-mobile-catalog"
+    },
+    {
+      "uid": "7ac6559e-6c48-5dc2-aa96-432cf366faeb",
+      "id": "ImproveGame",
+      "tag": "mod-ImproveGame-v1.8.2-r.3",
+      "file": "ImproveGame-1.8.2-r.3.bl",
+      "version": "1.8.2-r.3",
+      "baseVersion": "1.8.2-r.2",
+      "originalSha256": "2fb6b96de87742970f2efd13c1c9bc1dcea327a48b07919f9000994fa286d519",
+      "sha256": "e554c35ce6df8ab1ce63c56e1de5a61e38cbc496171560543a3ab4cc40f0421d",
+      "size": 9184157,
+      "scope": "improvegame-tall-gem-tree-chop"
     }
   ],
   "authorChineseSources": {

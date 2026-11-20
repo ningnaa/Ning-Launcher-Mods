@@ -2,7 +2,7 @@
   "uid": "7ac6559e-6c48-5dc2-aa96-432cf366faeb",
   "id": "ImproveGame",
   "name": "更好的体验",
-  "version": "1.8.2-r.2",
+  "version": "1.8.2-r.3",
   "blVersion": 3,
   "entry": "ImproveGame.cs",
   "gameVersion": [
@@ -29,7 +29,7 @@
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2797518634"
     }
   ],
-  "description": "提供储存管理器、钓鱼机、药水袋、旗帜盒和多种建造工具。部分功能需在模组配置中开启。需要配套的 SilkyUI。\n\n修复解锁自动存钱后，人物存档在退出、重进和再次保存时可能损坏的问题。\n\n自动存钱的三个档位和过滤设置继续可用，档位会随人物的模组数据保存。\n\n已损坏的人物可用修复后的存档副本或备份恢复。\n\n适用于柠版泰拉启动器 0.5.3（412）及 Terraria Build 1720。需要 SilkyUI。",
+  "description": "提供储存管理器、钓鱼机、药水袋、旗帜盒和多种建造工具。部分功能需在模组配置中开启。需要配套的 SilkyUI。\n\n修复单人世界中从树底砍伐超高宝石树时，可能导致游戏退出的问题。\n\n保留宝石树高度设置和原有掉落规则。\n\n此前已长成并保存在世界里的高宝石树可以继续砍伐。\n\n适用于柠版泰拉启动器 0.5.3（412）及 Terraria Build 1720。需要 SilkyUI。",
   "updated": "2026-11-20",
   "localizedNames": {
     "zh-Hans": "更好的体验"

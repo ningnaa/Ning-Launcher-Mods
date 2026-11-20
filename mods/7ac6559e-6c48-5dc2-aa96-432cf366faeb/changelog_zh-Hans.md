@@ -1,3 +1,11 @@
+## 更好的体验 1.8.2-ningcs.1.fix.20261119.1.license.1.ui.1.logfix.1.treefix.1.colorfix.1.pylonfix.1（2026-11-20）
+
+- 修复配置页颜色条的绘制报错，保留颜色渐变和纹理循环。
+- 修复晶塔「无视距离」开启后仍可能无法远距离传送。生物群系、NPC 数量和危险检查继续由各自的开关控制。
+- 适用于柠版泰拉启动器 0.5.2（411）及 Terraria Build 1720。需要 SilkyUI。
+
+制作人员为局长、Cyril、夜谷紫幽、delete、Kaelis、Lacewing、Lastprismer、合作一号、Reits、中学生、错数螺线、Zavarski、Pengolin。移动版汉化与维护为柠版泰拉启动器。
+
 ## 更好的体验 1.8.2-ningcs.1.fix.20261119.1.license.1.ui.1.logfix.1.treefix.1（2026-11-20）
 
 - 修复旧树高设置导致更好的体验无法加载的问题。普通树、棕榈和宝石树会在读取配置和更改配置时校正高度范围，合法设置保留原值。

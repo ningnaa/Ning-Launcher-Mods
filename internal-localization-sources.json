@@ -2373,6 +2373,18 @@
       "sha256": "de01a424dee00ca4c5c2a24c179ae95a94f377266ad9c7fcef0ab3be38a24e85",
       "size": 9181866,
       "scope": "improvegame-tree-height-config"
+    },
+    {
+      "uid": "7ac6559e-6c48-5dc2-aa96-432cf366faeb",
+      "id": "ImproveGame",
+      "tag": "mod-ImproveGame-v1.8.2-ningcs.1.fix.20261119.1.license.1.ui.1.logfix.1.treefix.1.colorfix.1.pylonfix.1",
+      "file": "ImproveGame-1.8.2-ningcs.1.fix.20261119.1.license.1.ui.1.logfix.1.treefix.1.colorfix.1.pylonfix.1.bl",
+      "version": "1.8.2-ningcs.1.fix.20261119.1.license.1.ui.1.logfix.1.treefix.1.colorfix.1.pylonfix.1",
+      "baseVersion": "1.8.2-ningcs.1.fix.20261119.1.license.1.ui.1.logfix.1.treefix.1",
+      "originalSha256": "de01a424dee00ca4c5c2a24c179ae95a94f377266ad9c7fcef0ab3be38a24e85",
+      "sha256": "de3bb3aa5b516a7c7497bbb3317295c500c56b052bbce0528534b2c0df69477b",
+      "size": 9182463,
+      "scope": "improvegame-color-picker-and-pylon-range"
     }
   ],
   "authorChineseSources": {

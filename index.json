@@ -7019,11 +7019,11 @@
       "uid": "cf82a986-79be-5c89-a675-35c056690591",
       "id": "BossChecklist",
       "name": "Boss 清单（C#）",
-      "version": "2.2.4-ningcs.1.fix.20261117.2.mobilefix.2.ui.1",
+      "version": "2.2.4-ningcs.1.fix.20261117.2.mobilefix.2.ui.1.bagfix.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-BossChecklist-v2.2.4-ningcs.1.fix.20261117.2.mobilefix.2.ui.1/BossChecklist-2.2.4-ningcs.1.fix.20261117.2.mobilefix.2.ui.1.bl",
-        "size": 1207092,
-        "sha256": "ef0a2b7457b3a24bc8e08fcdf94d73037a5acd13a9b470b1d57d59ba94b9553f"
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-BossChecklist-v2.2.4-ningcs.1.fix.20261117.2.mobilefix.2.ui.1.bagfix.1/BossChecklist-2.2.4-ningcs.1.fix.20261117.2.mobilefix.2.ui.1.bagfix.1.bl",
+        "size": 1207398,
+        "sha256": "f19dd3bfffea458fa9b45b2358e3f8c3ff4c54b2068ab97e3bd63c110d858bb8"
       },
       "files": [
         "manifest.json",
@@ -7038,7 +7038,7 @@
         "uid": "cf82a986-79be-5c89-a675-35c056690591",
         "id": "BossChecklist",
         "name": "Boss 清单（C#）",
-        "version": "2.2.4-ningcs.1.fix.20261117.2.mobilefix.2.ui.1",
+        "version": "2.2.4-ningcs.1.fix.20261117.2.mobilefix.2.ui.1.bagfix.1",
         "blVersion": 3,
         "entry": "BossChecklist.cs",
         "gameVersion": [
@@ -7063,7 +7063,7 @@
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2669644269"
           }
         ],
-        "description": "在书本里查看 Boss、事件、击败记录、召唤条件和战利品。轻点背包中的书本打开清单，按住滑动可更改位置。",
+        "description": "在书本里查看 Boss、事件、击败记录、召唤条件和战利品。轻点背包中的书本打开清单，按住滑动可更改位置。\n\n修复打开 Boss 清单战利品页面时，绘制静态宝藏袋报错的问题。静态宝藏袋显示完整贴图，带动画的宝藏袋继续播放原有动画。\n\n适用于柠版泰拉启动器 0.5.2（411）及 Terraria Build 1720。与同功能 JS 版二选一启用。",
         "updated": "2026-11-20",
         "localizedNames": {
           "zh-Hans": "Boss 清单（C#）"
@@ -7073,7 +7073,7 @@
         },
         "modRuntime": "csharp"
       },
-      "updatedAt": "2026-11-20T00:46:16Z",
+      "updatedAt": "2026-11-20T08:39:17Z",
       "runtime": "csharp",
       "publishedAt": "2026-11-19T00:00:00Z"
     },

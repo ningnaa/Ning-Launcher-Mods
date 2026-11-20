@@ -2349,6 +2349,18 @@
       "sha256": "e496d1136f2ada3592c184a11e0ba5e7adad659439669fb377277d69008f8adf",
       "size": 381430,
       "scope": "0.5.2-mod-repairs"
+    },
+    {
+      "uid": "cf82a986-79be-5c89-a675-35c056690591",
+      "id": "BossChecklist",
+      "tag": "mod-BossChecklist-v2.2.4-ningcs.1.fix.20261117.2.mobilefix.2.ui.1.bagfix.1",
+      "file": "BossChecklist-2.2.4-ningcs.1.fix.20261117.2.mobilefix.2.ui.1.bagfix.1.bl",
+      "version": "2.2.4-ningcs.1.fix.20261117.2.mobilefix.2.ui.1.bagfix.1",
+      "baseVersion": "2.2.4-ningcs.1.fix.20261117.2.mobilefix.2.ui.1",
+      "originalSha256": "ef0a2b7457b3a24bc8e08fcdf94d73037a5acd13a9b470b1d57d59ba94b9553f",
+      "sha256": "f19dd3bfffea458fa9b45b2358e3f8c3ff4c54b2068ab97e3bd63c110d858bb8",
+      "size": 1207398,
+      "scope": "boss-treasure-bag-draw"
     }
   ],
   "authorChineseSources": {

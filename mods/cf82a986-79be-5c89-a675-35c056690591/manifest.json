@@ -2,7 +2,7 @@
   "uid": "cf82a986-79be-5c89-a675-35c056690591",
   "id": "BossChecklist",
   "name": "Boss 清单（C#）",
-  "version": "2.2.4-ningcs.1.fix.20261117.2.mobilefix.2.ui.1",
+  "version": "2.2.4-ningcs.1.fix.20261117.2.mobilefix.2.ui.1.bagfix.1",
   "blVersion": 3,
   "entry": "BossChecklist.cs",
   "gameVersion": [
@@ -27,7 +27,7 @@
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2669644269"
     }
   ],
-  "description": "在书本里查看 Boss、事件、击败记录、召唤条件和战利品。轻点背包中的书本打开清单，按住滑动可更改位置。",
+  "description": "在书本里查看 Boss、事件、击败记录、召唤条件和战利品。轻点背包中的书本打开清单，按住滑动可更改位置。\n\n修复打开 Boss 清单战利品页面时，绘制静态宝藏袋报错的问题。静态宝藏袋显示完整贴图，带动画的宝藏袋继续播放原有动画。\n\n适用于柠版泰拉启动器 0.5.2（411）及 Terraria Build 1720。与同功能 JS 版二选一启用。",
   "updated": "2026-11-20",
   "localizedNames": {
     "zh-Hans": "Boss 清单（C#）"

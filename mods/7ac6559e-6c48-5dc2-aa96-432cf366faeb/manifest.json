@@ -2,7 +2,7 @@
   "uid": "7ac6559e-6c48-5dc2-aa96-432cf366faeb",
   "id": "ImproveGame",
   "name": "更好的体验",
-  "version": "1.8.2-ningcs.1.fix.20261119.1.license.1",
+  "version": "1.8.2-ningcs.1.fix.20261119.1.license.1.ui.1",
   "blVersion": 3,
   "entry": "ImproveGame.cs",
   "gameVersion": [

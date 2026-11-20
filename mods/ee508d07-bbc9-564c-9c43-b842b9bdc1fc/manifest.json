@@ -2,7 +2,7 @@
   "uid": "ee508d07-bbc9-564c-9c43-b842b9bdc1fc",
   "id": "RecipeBrowser",
   "name": "合成表（C#）",
-  "version": "0.12.0.3-ningcs.2.fix.20261117.6.mobile3.mobilefix.1",
+  "version": "0.12.0.3-ningcs.2.fix.20261117.6.mobile3.mobilefix.1.ui.1",
   "blVersion": 3,
   "entry": "RecipeBrowser.cs",
   "gameVersion": [
@@ -28,7 +28,7 @@
     }
   ],
   "description": "搜索物品与配方，查询制作路径、制作站、掉落和收藏。搜索框支持手机键盘。",
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "pages": [
     {
       "title": "更新日志",

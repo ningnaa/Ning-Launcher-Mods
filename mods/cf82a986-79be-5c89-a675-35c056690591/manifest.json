@@ -2,7 +2,7 @@
   "uid": "cf82a986-79be-5c89-a675-35c056690591",
   "id": "BossChecklist",
   "name": "Boss 清单（C#）",
-  "version": "2.2.4-ningcs.1.fix.20261117.2.mobilefix.2",
+  "version": "2.2.4-ningcs.1.fix.20261117.2.mobilefix.2.ui.1",
   "blVersion": 3,
   "entry": "BossChecklist.cs",
   "gameVersion": [
@@ -28,7 +28,7 @@
     }
   ],
   "description": "在书本里查看 Boss、事件、击败记录、召唤条件和战利品。轻点背包中的书本打开清单，按住滑动可更改位置。",
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "localizedNames": {
     "zh-Hans": "Boss 清单（C#）"
   },

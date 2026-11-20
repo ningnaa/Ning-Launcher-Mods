@@ -2,7 +2,7 @@
   "uid": "8efefc72-63f9-5044-a2ff-406be830cd15",
   "id": "MagicStorage",
   "name": "魔法存储",
-  "version": "0.7.0.11-ningcs.1.fix.20261117.2.mobile4.draw3",
+  "version": "0.7.0.11-ningcs.1.fix.20261117.2.mobile4.draw3.ui.1",
   "blVersion": 3,
   "entry": "MagicStorage.cs",
   "gameVersion": [
@@ -38,7 +38,7 @@
     }
   ],
   "description": "用存储核心和存储单元集中管理物品，并通过制作界面查询和制作配方。需要 absoluteAquarian Utilities。",
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "localizedNames": {
     "zh-Hans": "魔法存储"
   },

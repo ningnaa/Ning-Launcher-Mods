@@ -7012,11 +7012,11 @@
       "uid": "cf82a986-79be-5c89-a675-35c056690591",
       "id": "BossChecklist",
       "name": "Boss 清单（C#）",
-      "version": "2.2.4-ningcs.1.fix.20261117.2.mobilefix.2",
+      "version": "2.2.4-ningcs.1.fix.20261117.2.mobilefix.2.ui.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-BossChecklist-v2.2.4-ningcs.1.fix.20261117.2.mobilefix.2/BossChecklist-2.2.4-ningcs.1.fix.20261117.2.mobilefix.2.bl",
-        "size": 1206285,
-        "sha256": "8aae8044993e5a18bd5bc4100f27788770afce8843b16e158f8cf31aaa61c3b2"
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-BossChecklist-v2.2.4-ningcs.1.fix.20261117.2.mobilefix.2.ui.1/BossChecklist-2.2.4-ningcs.1.fix.20261117.2.mobilefix.2.ui.1.bl",
+        "size": 1207092,
+        "sha256": "ef0a2b7457b3a24bc8e08fcdf94d73037a5acd13a9b470b1d57d59ba94b9553f"
       },
       "files": [
         "manifest.json",
@@ -7031,7 +7031,7 @@
         "uid": "cf82a986-79be-5c89-a675-35c056690591",
         "id": "BossChecklist",
         "name": "Boss 清单（C#）",
-        "version": "2.2.4-ningcs.1.fix.20261117.2.mobilefix.2",
+        "version": "2.2.4-ningcs.1.fix.20261117.2.mobilefix.2.ui.1",
         "blVersion": 3,
         "entry": "BossChecklist.cs",
         "gameVersion": [
@@ -7057,7 +7057,7 @@
           }
         ],
         "description": "在书本里查看 Boss、事件、击败记录、召唤条件和战利品。轻点背包中的书本打开清单，按住滑动可更改位置。",
-        "updated": "2026-11-19",
+        "updated": "2026-11-20",
         "localizedNames": {
           "zh-Hans": "Boss 清单（C#）"
         },
@@ -7066,7 +7066,7 @@
         },
         "modRuntime": "csharp"
       },
-      "updatedAt": "2026-11-19T00:00:00Z",
+      "updatedAt": "2026-11-20T00:46:16Z",
       "runtime": "csharp",
       "publishedAt": "2026-11-19T00:00:00Z"
     },
@@ -7223,11 +7223,11 @@
       "uid": "7ac6559e-6c48-5dc2-aa96-432cf366faeb",
       "id": "ImproveGame",
       "name": "更好的体验",
-      "version": "1.8.2-ningcs.1.fix.20261119.1.license.1",
+      "version": "1.8.2-ningcs.1.fix.20261119.1.license.1.ui.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-ImproveGame-v1.8.2-ningcs.1.fix.20261119.1.license.1/ImproveGame-1.8.2-ningcs.1.fix.20261119.1.license.1.bl",
-        "size": 9180450,
-        "sha256": "bbaea6bd621847eb8c2756be4c01b9a4f5ed2052246a218f89945cdee7d37912"
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-ImproveGame-v1.8.2-ningcs.1.fix.20261119.1.license.1.ui.1/ImproveGame-1.8.2-ningcs.1.fix.20261119.1.license.1.ui.1.bl",
+        "size": 9181136,
+        "sha256": "7688d6fdc2fa7c0c5c22cba7b9ca9d0462ea8e29bbabcb638db026cd7b0d8b82"
       },
       "files": [
         "manifest.json",
@@ -7244,7 +7244,7 @@
         "uid": "7ac6559e-6c48-5dc2-aa96-432cf366faeb",
         "id": "ImproveGame",
         "name": "更好的体验",
-        "version": "1.8.2-ningcs.1.fix.20261119.1.license.1",
+        "version": "1.8.2-ningcs.1.fix.20261119.1.license.1.ui.1",
         "blVersion": 3,
         "entry": "ImproveGame.cs",
         "gameVersion": [
@@ -7282,7 +7282,7 @@
         "modRuntime": "csharp",
         "license": "MIT"
       },
-      "updatedAt": "2026-11-20T00:00:00Z",
+      "updatedAt": "2026-11-20T00:46:16Z",
       "runtime": "csharp",
       "publishedAt": "2026-11-19T00:00:00Z"
     },
@@ -7290,11 +7290,11 @@
       "uid": "8efefc72-63f9-5044-a2ff-406be830cd15",
       "id": "MagicStorage",
       "name": "魔法存储",
-      "version": "0.7.0.11-ningcs.1.fix.20261117.2.mobile4.draw3",
+      "version": "0.7.0.11-ningcs.1.fix.20261117.2.mobile4.draw3.ui.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-MagicStorage-v0.7.0.11-ningcs.1.fix.20261117.2.mobile4.draw3/MagicStorage-0.7.0.11-ningcs.1.fix.20261117.2.mobile4.draw3.bl",
-        "size": 1325350,
-        "sha256": "51e36c43db607fd6b6bd7e317aadafc26d0a3f1c3a7c1ec7f5e3d63679fe2569"
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-MagicStorage-v0.7.0.11-ningcs.1.fix.20261117.2.mobile4.draw3.ui.1/MagicStorage-0.7.0.11-ningcs.1.fix.20261117.2.mobile4.draw3.ui.1.bl",
+        "size": 1326226,
+        "sha256": "107939fc3c6ce831c14e7e9a2e2e2d7acc53344891772b51be3cf43c9a63be09"
       },
       "files": [
         "manifest.json",
@@ -7311,7 +7311,7 @@
         "uid": "8efefc72-63f9-5044-a2ff-406be830cd15",
         "id": "MagicStorage",
         "name": "魔法存储",
-        "version": "0.7.0.11-ningcs.1.fix.20261117.2.mobile4.draw3",
+        "version": "0.7.0.11-ningcs.1.fix.20261117.2.mobile4.draw3.ui.1",
         "blVersion": 3,
         "entry": "MagicStorage.cs",
         "gameVersion": [
@@ -7347,7 +7347,7 @@
           }
         ],
         "description": "用存储核心和存储单元集中管理物品，并通过制作界面查询和制作配方。需要 absoluteAquarian Utilities。",
-        "updated": "2026-11-19",
+        "updated": "2026-11-20",
         "localizedNames": {
           "zh-Hans": "魔法存储"
         },
@@ -7357,7 +7357,7 @@
         "modRuntime": "csharp",
         "license": "MIT"
       },
-      "updatedAt": "2026-11-19T00:00:00Z",
+      "updatedAt": "2026-11-20T00:46:16Z",
       "runtime": "csharp",
       "publishedAt": "2026-11-19T00:00:00Z"
     },
@@ -7773,11 +7773,11 @@
       "uid": "ee508d07-bbc9-564c-9c43-b842b9bdc1fc",
       "id": "RecipeBrowser",
       "name": "合成表（C#）",
-      "version": "0.12.0.3-ningcs.2.fix.20261117.6.mobile3.mobilefix.1",
+      "version": "0.12.0.3-ningcs.2.fix.20261117.6.mobile3.mobilefix.1.ui.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-RecipeBrowser-v0.12.0.3-ningcs.2.fix.20261117.6.mobile3.mobilefix.1/RecipeBrowser-0.12.0.3-ningcs.2.fix.20261117.6.mobile3.mobilefix.1.bl",
-        "size": 552689,
-        "sha256": "9f699781e98a28af6c59bf84c25ac08008fa6e236aa4c770b6993bcac8db99ec"
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-RecipeBrowser-v0.12.0.3-ningcs.2.fix.20261117.6.mobile3.mobilefix.1.ui.1/RecipeBrowser-0.12.0.3-ningcs.2.fix.20261117.6.mobile3.mobilefix.1.ui.1.bl",
+        "size": 553549,
+        "sha256": "96a1f9ae73c9b654fa37402fa632376ff0864573c15b895ada396d6558af00cf"
       },
       "files": [
         "manifest.json",
@@ -7792,7 +7792,7 @@
         "uid": "ee508d07-bbc9-564c-9c43-b842b9bdc1fc",
         "id": "RecipeBrowser",
         "name": "合成表（C#）",
-        "version": "0.12.0.3-ningcs.2.fix.20261117.6.mobile3.mobilefix.1",
+        "version": "0.12.0.3-ningcs.2.fix.20261117.6.mobile3.mobilefix.1.ui.1",
         "blVersion": 3,
         "entry": "RecipeBrowser.cs",
         "gameVersion": [
@@ -7818,7 +7818,7 @@
           }
         ],
         "description": "搜索物品与配方，查询制作路径、制作站、掉落和收藏。搜索框支持手机键盘。",
-        "updated": "2026-11-19",
+        "updated": "2026-11-20",
         "pages": [
           {
             "title": "更新日志",
@@ -7837,7 +7837,7 @@
         },
         "modRuntime": "csharp"
       },
-      "updatedAt": "2026-11-19T00:00:00Z",
+      "updatedAt": "2026-11-20T00:46:16Z",
       "runtime": "csharp",
       "publishedAt": "2026-11-19T00:00:00Z"
     },

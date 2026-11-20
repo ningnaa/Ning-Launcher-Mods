@@ -1,3 +1,10 @@
+## 更好的体验 1.8.2-ningcs.1.fix.20261119.1.license.1.ui.1（2026-11-20）
+
+- 修复 Radial Hotbars 图层临时缺失时的界面排序报错。图层恢复后会重新参与排序。
+- 弹窗关闭后恢复游戏界面需搭配柠版泰拉启动器 0.5.2（411）或更新版本。适用 Terraria Build 1720。需要 SilkyUI。
+
+制作人员：局长, Cyril, 夜谷紫幽, delete, Kaelis, Lacewing, Lastprismer, 合作一号, Reits, 中学生, 错数螺线, Zavarski, Pengolin（原模组作者）、柠版泰拉启动器（移动版汉化与维护）。
+
 ## 更好的体验 1.8.2-ningcs.1.fix.20261119.1.license.1（2026-11-20）
 
 - 补收 1.8.2 上游 MIT 许可证正文和第三方组件许可说明。

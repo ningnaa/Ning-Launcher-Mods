@@ -1,3 +1,10 @@
+## 更好的体验 1.8.2-ningcs.1.fix.20261119.1.license.1.ui.1.logfix.1.treefix.1（2026-11-20）
+
+- 修复旧树高设置导致更好的体验无法加载的问题。普通树、棕榈和宝石树会在读取配置和更改配置时校正高度范围，合法设置保留原值。
+- 适用于柠版泰拉启动器 0.5.2（411）及 Terraria Build 1720。需要 SilkyUI。
+
+制作人员为局长、Cyril、夜谷紫幽、delete、Kaelis、Lacewing、Lastprismer、合作一号、Reits、中学生、错数螺线、Zavarski、Pengolin。移动版汉化与维护为柠版泰拉启动器。
+
 ## 更好的体验 1.8.2-ningcs.1.fix.20261119.1.license.1.ui.1.logfix.1（2026-11-20）
 
 - 修复手持其他模组物品时放置加速黑名单查找报错，以及配置页拼音搜索无法使用的问题。

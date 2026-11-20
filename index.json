@@ -7230,11 +7230,11 @@
       "uid": "7ac6559e-6c48-5dc2-aa96-432cf366faeb",
       "id": "ImproveGame",
       "name": "更好的体验",
-      "version": "1.8.2-ningcs.1.fix.20261119.1.license.1.ui.1.logfix.1",
+      "version": "1.8.2-ningcs.1.fix.20261119.1.license.1.ui.1.logfix.1.treefix.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-ImproveGame-v1.8.2-ningcs.1.fix.20261119.1.license.1.ui.1.logfix.1/ImproveGame-1.8.2-ningcs.1.fix.20261119.1.license.1.ui.1.logfix.1.bl",
-        "size": 9181408,
-        "sha256": "0400e68009ce94aed2db6f62cda2d52aeee85d70829020f662ab39a46ad6a4d4"
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-ImproveGame-v1.8.2-ningcs.1.fix.20261119.1.license.1.ui.1.logfix.1.treefix.1/ImproveGame-1.8.2-ningcs.1.fix.20261119.1.license.1.ui.1.logfix.1.treefix.1.bl",
+        "size": 9181866,
+        "sha256": "de01a424dee00ca4c5c2a24c179ae95a94f377266ad9c7fcef0ab3be38a24e85"
       },
       "files": [
         "manifest.json",
@@ -7251,7 +7251,7 @@
         "uid": "7ac6559e-6c48-5dc2-aa96-432cf366faeb",
         "id": "ImproveGame",
         "name": "更好的体验",
-        "version": "1.8.2-ningcs.1.fix.20261119.1.license.1.ui.1.logfix.1",
+        "version": "1.8.2-ningcs.1.fix.20261119.1.license.1.ui.1.logfix.1.treefix.1",
         "blVersion": 3,
         "entry": "ImproveGame.cs",
         "gameVersion": [
@@ -7278,7 +7278,7 @@
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2797518634"
           }
         ],
-        "description": "提供储存管理器、钓鱼机、药水袋、旗帜盒和多种建造工具。部分功能需在模组配置中开启。需要配套的 SilkyUI。\n\n本版修复：修复手持其他模组物品时放置加速黑名单查找报错，以及配置页拼音搜索无法使用的问题。\n\n适用于柠版泰拉启动器 0.5.2（411）及 Terraria Build 1720。需要 SilkyUI。",
+        "description": "提供储存管理器、钓鱼机、药水袋、旗帜盒和多种建造工具。部分功能需在模组配置中开启。需要配套的 SilkyUI。\n\n修复旧树高设置导致更好的体验无法加载的问题。普通树、棕榈和宝石树会在读取配置和更改配置时校正高度范围，合法设置保留原值。\n\n适用于柠版泰拉启动器 0.5.2（411）及 Terraria Build 1720。需要 SilkyUI。",
         "updated": "2026-11-20",
         "localizedNames": {
           "zh-Hans": "更好的体验"
@@ -7289,7 +7289,7 @@
         "modRuntime": "csharp",
         "license": "MIT"
       },
-      "updatedAt": "2026-11-20T06:25:36Z",
+      "updatedAt": "2026-11-20T09:25:53Z",
       "runtime": "csharp",
       "publishedAt": "2026-11-19T00:00:00Z",
       "summary": "提供储存管理器、钓鱼机、药水袋、旗帜盒和多种建造工具。部分功能需在模组配置中开启。需要配套的 SilkyUI。"

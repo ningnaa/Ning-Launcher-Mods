@@ -2361,6 +2361,18 @@
       "sha256": "f19dd3bfffea458fa9b45b2358e3f8c3ff4c54b2068ab97e3bd63c110d858bb8",
       "size": 1207398,
       "scope": "boss-treasure-bag-draw"
+    },
+    {
+      "uid": "7ac6559e-6c48-5dc2-aa96-432cf366faeb",
+      "id": "ImproveGame",
+      "tag": "mod-ImproveGame-v1.8.2-ningcs.1.fix.20261119.1.license.1.ui.1.logfix.1.treefix.1",
+      "file": "ImproveGame-1.8.2-ningcs.1.fix.20261119.1.license.1.ui.1.logfix.1.treefix.1.bl",
+      "version": "1.8.2-ningcs.1.fix.20261119.1.license.1.ui.1.logfix.1.treefix.1",
+      "baseVersion": "1.8.2-ningcs.1.fix.20261119.1.license.1.ui.1.logfix.1",
+      "originalSha256": "0400e68009ce94aed2db6f62cda2d52aeee85d70829020f662ab39a46ad6a4d4",
+      "sha256": "de01a424dee00ca4c5c2a24c179ae95a94f377266ad9c7fcef0ab3be38a24e85",
+      "size": 9181866,
+      "scope": "improvegame-tree-height-config"
     }
   ],
   "authorChineseSources": {

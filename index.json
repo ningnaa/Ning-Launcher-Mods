@@ -8668,11 +8668,11 @@
       "uid": "fcdb0fd4-ff58-5e43-a81e-bed6b3bf11fc",
       "id": "LootBeams",
       "name": "掉落光柱（C#）",
-      "version": "1.9.4.5-ningcs.1.fix.3",
+      "version": "1.9.4.5-r.2",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-LootBeams-v1.9.4.5-ningcs.1.fix.3/LootBeams-1.9.4.5-ningcs.1.fix.3.bl",
-        "size": 71612,
-        "sha256": "a4a0c5edfc178f004b2f50e63b6108148827816c097da0c9717d8a80f83abdd5"
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-LootBeams-v1.9.4.5-r.2/LootBeams-1.9.4.5-r.2.bl",
+        "size": 72455,
+        "sha256": "d8b9bd4473a4dd641ff2e40ae47e1edab10ece0014a01691198f2060bd57e1a0"
       },
       "files": [
         "manifest.json",
@@ -8687,7 +8687,7 @@
         "uid": "fcdb0fd4-ff58-5e43-a81e-bed6b3bf11fc",
         "id": "LootBeams",
         "name": "掉落光柱（C#）",
-        "version": "1.9.4.5-ningcs.1.fix.3",
+        "version": "1.9.4.5-r.2",
         "blVersion": 3,
         "entry": "LootBeams.cs",
         "gameVersion": [
@@ -8717,14 +8717,14 @@
           "zh-Hans": "掉落光柱（C#）",
           "en-US": "Loot Beams (C# port)"
         },
-        "description": "按掉落物稀有度、价值和配置名单显示光柱、光晕与颜色。可关闭叠加绘制。",
+        "description": "按掉落物稀有度、价值和配置名单显示光柱、光晕与颜色。可关闭叠加绘制。\n\n修复为 JS 模组掉落物绘制光柱时查找物品编号报错。颜色、允许名单和屏蔽名单按稳定物品名称匹配。\n\n适用于柠版泰拉启动器 0.5.4 和 Terraria Build 1720。与同功能 JS 版可按需选用。",
         "localizedSummaries": {
           "zh-Hans": "按掉落物稀有度、价值和配置名单显示光柱、光晕与颜色。可关闭叠加绘制。"
         },
-        "updated": "2026-11-19",
+        "updated": "2026-11-21",
         "modRuntime": "csharp"
       },
-      "updatedAt": "2026-11-19T00:00:00Z",
+      "updatedAt": "2026-11-21T04:16:13Z",
       "runtime": "csharp",
       "publishedAt": "2026-11-19T00:00:00Z"
     },

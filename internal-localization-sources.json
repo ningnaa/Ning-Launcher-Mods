@@ -2469,6 +2469,18 @@
       "sha256": "af4d3f755fe540842bbee9cec655fb6c113d6eb8d3929f7a8c0c8cd1dbfe00c3",
       "size": 1153148,
       "scope": "author-supplied-mobile-catalog"
+    },
+    {
+      "uid": "fcdb0fd4-ff58-5e43-a81e-bed6b3bf11fc",
+      "id": "LootBeams",
+      "tag": "mod-LootBeams-v1.9.4.5-r.2",
+      "file": "LootBeams-1.9.4.5-r.2.bl",
+      "version": "1.9.4.5-r.2",
+      "baseVersion": "1.9.4.5-ningcs.1.fix.3",
+      "originalSha256": "a4a0c5edfc178f004b2f50e63b6108148827816c097da0c9717d8a80f83abdd5",
+      "sha256": "d8b9bd4473a4dd641ff2e40ae47e1edab10ece0014a01691198f2060bd57e1a0",
+      "size": 72455,
+      "scope": "loot-beams-js-item-identity"
     }
   ],
   "authorChineseSources": {

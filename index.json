@@ -1651,28 +1651,29 @@
     {
       "uid": "4ef70487-0ffd-4b37-adbd-9e9a403d5307",
       "id": "gorilla",
-      "name": "Gorilla",
-      "version": "1.0.0-ningzh.1",
+      "name": "大猩猩 Boss",
+      "version": "1.0.0-r.2",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-gorilla-v1.0.0-ningzh.1/gorilla-1.0.0-ningzh.1.bl",
-        "sha256": "9a87282693bb2256fc05303b8873e23967a1cfd9d53cd2c6dd37252aa9a46134",
-        "size": 120108
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-gorilla-v1.0.0-r.2/gorilla-1.0.0-r.2.bl",
+        "sha256": "b7d4a154648f11602fed288af21677005938a543091a2f01b27a659f46598548",
+        "size": 115901
       },
       "files": [
         "manifest.json",
         "icon.png",
-        "description_zh-Hans.md"
+        "description_zh-Hans.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "4ef70487-0ffd-4b37-adbd-9e9a403d5307",
         "id": "gorilla",
-        "name": "Gorilla",
-        "version": "1.0.0-ningzh.1",
+        "name": "大猩猩 Boss",
+        "version": "1.0.0-r.2",
         "author": "ported by Animatak",
         "category": "趣味",
-        "summary": "Enfrente o Gorila. Talvez você precise de 100 homens para derrotar essa coisa... e não espere sair vivo.",
-        "description": "Enfrente o Gorila, um chefe ridiculamente poderoso e brutal. Talvez você precise de 100 homens para derrotar essa coisa... e mesmo assim, não espere sobreviver.\nMod original desenvolvido por GabeHasWon.",
-        "updated": "2026-09-30",
+        "summary": "挑战强大而凶暴的大猩猩。也许需要一百个人才能打倒它……即便如此，也别指望能活下来。",
+        "description": "挑战强大而凶暴的大猩猩。专家和大师模式下，Boss 血量随玩家人数调整。本版修复联机血量计算报错。适用于柠版泰拉启动器 0.5.4（413）及 Terraria Build 1720。",
+        "updated": "2026-11-21",
         "blVersion": 2,
         "gameVersion": [
           301720,
@@ -1681,7 +1682,8 @@
         "entry": "main.js",
         "dependencies": [],
         "localizedNames": {
-          "zh-Hans": "大猩猩 Boss"
+          "zh-Hans": "大猩猩 Boss",
+          "en-US": "Gorilla"
         },
         "localizedSummaries": {
           "zh-Hans": "挑战强大而凶暴的大猩猩。也许需要一百个人才能打倒它……即便如此，也别指望能活下来。"
@@ -1693,12 +1695,21 @@
         },
         "authors": [
           {
+            "name": "GabeHasWon",
+            "role": "原模组作者"
+          },
+          {
+            "name": "Animatak",
+            "role": "移植者"
+          },
+          {
             "name": "柠版泰拉启动器",
             "role": "移动版汉化与维护"
           }
         ]
       },
-      "runtime": "js"
+      "runtime": "js",
+      "updatedAt": "2026-11-21T13:37:10Z"
     },
     {
       "uid": "12754257-00fe-4c58-b21b-7af0c5faf7b3",
@@ -7230,11 +7241,11 @@
       "uid": "7ac6559e-6c48-5dc2-aa96-432cf366faeb",
       "id": "ImproveGame",
       "name": "更好的体验",
-      "version": "1.8.2-r.3",
+      "version": "1.8.2-r.4",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-ImproveGame-v1.8.2-r.3/ImproveGame-1.8.2-r.3.bl",
-        "size": 9184157,
-        "sha256": "e554c35ce6df8ab1ce63c56e1de5a61e38cbc496171560543a3ab4cc40f0421d"
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-ImproveGame-v1.8.2-r.4/ImproveGame-1.8.2-r.4.bl",
+        "sha256": "d31d7acfec418a6cbcdcf870608bf47e9035933eec1397f896c19fd942c11b23",
+        "size": 9184453
       },
       "files": [
         "manifest.json",
@@ -7251,7 +7262,7 @@
         "uid": "7ac6559e-6c48-5dc2-aa96-432cf366faeb",
         "id": "ImproveGame",
         "name": "更好的体验",
-        "version": "1.8.2-r.3",
+        "version": "1.8.2-r.4",
         "blVersion": 3,
         "entry": "ImproveGame.cs",
         "gameVersion": [
@@ -7278,8 +7289,8 @@
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2797518634"
           }
         ],
-        "description": "提供储存管理器、钓鱼机、药水袋、旗帜盒和多种建造工具。部分功能需在模组配置中开启。需要配套的 SilkyUI。\n\n修复单人世界中从树底砍伐超高宝石树时，可能导致游戏退出的问题。\n\n保留宝石树高度设置和原有掉落规则。\n\n此前已长成并保存在世界里的高宝石树可以继续砍伐。\n\n适用于柠版泰拉启动器 0.5.3（412）及 Terraria Build 1720。需要 SilkyUI。",
-        "updated": "2026-11-20",
+        "description": "提供储存管理器、钓鱼机、药水袋、旗帜盒和多种建造工具。部分功能需在模组配置中开启。需要配套的 SilkyUI。\n\n超级背包支持在联机时同步 JS 模组物品，保留数量、收藏及模组自定义数据。修复手机房主拒绝超级背包同步、房主更改背包格子后客户端收不到更新的问题。\n\n联机时房主和玩家需要同时使用配套的 0.5.4 联机兼容 APK，并启用同版本的更好的体验、SilkyUI 和提供物品的模组。",
+        "updated": "2026-11-21",
         "localizedNames": {
           "zh-Hans": "更好的体验"
         },
@@ -7289,7 +7300,7 @@
         "modRuntime": "csharp",
         "license": "MIT"
       },
-      "updatedAt": "2026-11-20T15:19:04Z",
+      "updatedAt": "2026-11-21T13:37:11Z",
       "runtime": "csharp",
       "publishedAt": "2026-11-19T00:00:00Z",
       "summary": "提供储存管理器、钓鱼机、药水袋、旗帜盒和多种建造工具。部分功能需在模组配置中开启。需要配套的 SilkyUI。"
@@ -7298,11 +7309,11 @@
       "uid": "8efefc72-63f9-5044-a2ff-406be830cd15",
       "id": "MagicStorage",
       "name": "魔法存储",
-      "version": "0.7.0.11-r.2",
+      "version": "0.7.0.11-r.4",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-MagicStorage-v0.7.0.11-r.2/MagicStorage-0.7.0.11-r.2.bl",
-        "size": 1326607,
-        "sha256": "85347e0d040dae977bfb453fbf09b407c3a4eba32ffdfbcf38355728d68dd409"
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-MagicStorage-v0.7.0.11-r.4/MagicStorage-0.7.0.11-r.4.bl",
+        "sha256": "602153f44c4afefd1f5564a319188bda8c81c2823107403fcfdb373a20a7d25a",
+        "size": 1328152
       },
       "files": [
         "manifest.json",
@@ -7319,7 +7330,7 @@
         "uid": "8efefc72-63f9-5044-a2ff-406be830cd15",
         "id": "MagicStorage",
         "name": "魔法存储",
-        "version": "0.7.0.11-r.2",
+        "version": "0.7.0.11-r.4",
         "blVersion": 3,
         "entry": "MagicStorage.cs",
         "gameVersion": [
@@ -7354,7 +7365,7 @@
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2563309347"
           }
         ],
-        "description": "用存储核心和存储单元集中管理物品，并通过制作界面查询和制作配方。需要 absoluteAquarian Utilities。\n\n修复世界加载后，储存核心和远程入口解析已有连接时可能发生的索引越界。\n\n适用于柠版泰拉启动器 0.5.3（412）及更新版本和 Terraria Build 1720，需要 absoluteAquarian Utilities。",
+        "description": "用存储核心和存储单元集中管理物品，并通过制作界面查询和制作配方。需要 absoluteAquarian Utilities。\n\n修复联机首次进房或重新加入时，魔法存储在接收初始地图期间提前请求区块、库存和单元外观导致掉线的问题。进入世界后会按权限补齐完整库存，库存同步期间保留已接收的物品。\n\n适用于柠版泰拉启动器 0.5.4（413）及 Terraria Build 1720，需要 absoluteAquarian Utilities。联机房主和玩家使用相同版本。",
         "updated": "2026-11-21",
         "localizedNames": {
           "zh-Hans": "魔法存储"
@@ -7365,7 +7376,7 @@
         "modRuntime": "csharp",
         "license": "MIT"
       },
-      "updatedAt": "2026-11-21T03:10:34Z",
+      "updatedAt": "2026-11-21T13:37:10Z",
       "runtime": "csharp",
       "publishedAt": "2026-11-19T00:00:00Z"
     },

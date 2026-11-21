@@ -2481,6 +2481,42 @@
       "sha256": "d8b9bd4473a4dd641ff2e40ae47e1edab10ece0014a01691198f2060bd57e1a0",
       "size": 72455,
       "scope": "loot-beams-js-item-identity"
+    },
+    {
+      "uid": "8efefc72-63f9-5044-a2ff-406be830cd15",
+      "id": "MagicStorage",
+      "tag": "mod-MagicStorage-v0.7.0.11-r.4",
+      "file": "MagicStorage-0.7.0.11-r.4.bl",
+      "version": "0.7.0.11-r.4",
+      "baseVersion": "0.7.0.11-r.3",
+      "originalSha256": "f11c9a6a8383adde79b4d34ab36a48cf4f4e9bbaaaa8c2f73e7e023818204e3f",
+      "sha256": "602153f44c4afefd1f5564a319188bda8c81c2823107403fcfdb373a20a7d25a",
+      "size": 1328152,
+      "scope": "mobile-multiplayer-compatibility"
+    },
+    {
+      "uid": "4ef70487-0ffd-4b37-adbd-9e9a403d5307",
+      "id": "gorilla",
+      "tag": "mod-gorilla-v1.0.0-r.2",
+      "file": "gorilla-1.0.0-r.2.bl",
+      "version": "1.0.0-r.2",
+      "baseVersion": "1.0.0-ningzh.1",
+      "originalSha256": "9a87282693bb2256fc05303b8873e23967a1cfd9d53cd2c6dd37252aa9a46134",
+      "sha256": "b7d4a154648f11602fed288af21677005938a543091a2f01b27a659f46598548",
+      "size": 115901,
+      "scope": "mobile-multiplayer-compatibility"
+    },
+    {
+      "uid": "7ac6559e-6c48-5dc2-aa96-432cf366faeb",
+      "id": "ImproveGame",
+      "tag": "mod-ImproveGame-v1.8.2-r.4",
+      "file": "ImproveGame-1.8.2-r.4.bl",
+      "version": "1.8.2-r.4",
+      "baseVersion": "1.8.2-r.3",
+      "originalSha256": "e554c35ce6df8ab1ce63c56e1de5a61e38cbc496171560543a3ab4cc40f0421d",
+      "sha256": "d31d7acfec418a6cbcdcf870608bf47e9035933eec1397f896c19fd942c11b23",
+      "size": 9184453,
+      "scope": "mobile-multiplayer-compatibility"
     }
   ],
   "authorChineseSources": {

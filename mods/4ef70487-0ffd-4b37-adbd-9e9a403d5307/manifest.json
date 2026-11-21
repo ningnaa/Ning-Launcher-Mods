@@ -1,13 +1,13 @@
 {
   "uid": "4ef70487-0ffd-4b37-adbd-9e9a403d5307",
   "id": "gorilla",
-  "name": "Gorilla",
-  "version": "1.0.0-ningzh.1",
+  "name": "大猩猩 Boss",
+  "version": "1.0.0-r.2",
   "author": "ported by Animatak",
   "category": "趣味",
-  "summary": "Enfrente o Gorila. Talvez você precise de 100 homens para derrotar essa coisa... e não espere sair vivo.",
-  "description": "Enfrente o Gorila, um chefe ridiculamente poderoso e brutal. Talvez você precise de 100 homens para derrotar essa coisa... e mesmo assim, não espere sobreviver.\nMod original desenvolvido por GabeHasWon.\n",
-  "updated": "2026-09-30",
+  "summary": "挑战强大而凶暴的大猩猩。也许需要一百个人才能打倒它……即便如此，也别指望能活下来。",
+  "description": "挑战强大而凶暴的大猩猩。专家和大师模式下，Boss 血量随玩家人数调整。本版修复联机血量计算报错。适用于柠版泰拉启动器 0.5.4（413）及 Terraria Build 1720。",
+  "updated": "2026-11-21",
   "blVersion": 2,
   "gameVersion": [
     301720,
@@ -16,7 +16,8 @@
   "entry": "main.js",
   "dependencies": [],
   "localizedNames": {
-    "zh-Hans": "大猩猩 Boss"
+    "zh-Hans": "大猩猩 Boss",
+    "en-US": "Gorilla"
   },
   "localizedSummaries": {
     "zh-Hans": "挑战强大而凶暴的大猩猩。也许需要一百个人才能打倒它……即便如此，也别指望能活下来。"
@@ -27,6 +28,14 @@
     "baseVersion": "1.0.0"
   },
   "authors": [
+    {
+      "name": "GabeHasWon",
+      "role": "原模组作者"
+    },
+    {
+      "name": "Animatak",
+      "role": "移植者"
+    },
     {
       "name": "柠版泰拉启动器",
       "role": "移动版汉化与维护"

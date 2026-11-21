@@ -9385,6 +9385,64 @@
       },
       "publishedAt": "2026-11-20T13:28:53Z",
       "updatedAt": "2026-11-20T13:28:53Z"
+    },
+    {
+      "uid": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+      "id": "gojo",
+      "name": "咒术回战·先行版",
+      "version": "1.0.44-e",
+      "manifest": {
+        "uid": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+        "id": "gojo",
+        "name": "咒术回战·先行版",
+        "type": "mod",
+        "version": "1.0.44-e",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "GojoMod.cs",
+        "dependencies": [],
+        "localizedNames": {
+          "zh-Hans": "咒术回战·先行版",
+          "en-US": "Jujutsu Kaisen Preview"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "加入五条悟 Boss 和咒力系统，可解锁咒力附魔、简易领域和领域展延。"
+        },
+        "description": "# 咒术回战·先行版\n\n加入五条悟 Boss 和咒力系统，可解锁咒力附魔、简易领域和领域展延。\n\n在石巨人后使用「狱门疆」召唤五条悟。随着世界进度可解锁玩家咒力能力，移动端提供咒力附魔、简易领域和领域展延的触屏按钮。\n\n## 咒术回战·先行版 1.0.44-e（作者版本 1.0.44e，2026-11-21）\n\n- 五条悟的「无量空处」改为由 80%、60%、50%、30%、10% 五档生命值触发。战斗中每档最多展开一次，仍受术式熔断和当前行动状态限制。\n- 适用于支持 C# 模组的柠版泰拉启动器和 Terraria 1.4.5.8.6（Build 1720），无需额外前置。\n\n模组作者为冬霖茆˶╸▵╺˶。领域背景图来源为抖音「勺鸽ovo」。原包未声明独立许可证。\n",
+        "summary": "加入五条悟 Boss 和咒力系统，可解锁咒力附魔、简易领域和领域展延。",
+        "changelog": "## 咒术回战·先行版 1.0.44-e（作者版本 1.0.44e，2026-11-21）\n\n- 五条悟的「无量空处」改为由 80%、60%、50%、30%、10% 五档生命值触发。战斗中每档最多展开一次，仍受术式熔断和当前行动状态限制。\n- 适用于支持 C# 模组的柠版泰拉启动器和 Terraria 1.4.5.8.6（Build 1720），无需额外前置。\n\n模组作者为冬霖茆˶╸▵╺˶。领域背景图来源为抖音「勺鸽ovo」。原包未声明独立许可证。\n",
+        "updated": "2026-11-21",
+        "modRuntime": "csharp",
+        "authors": [
+          {
+            "name": "冬霖茆˶╸▵╺˶",
+            "role": "模组作者"
+          },
+          {
+            "name": "勺鸽ovo",
+            "role": "领域背景图来源（抖音）"
+          }
+        ]
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md"
+      ],
+      "runtime": "csharp",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-gojo-v1.0.44-e/gojo-1.0.44-e.bl",
+        "size": 1153148,
+        "sha256": "af4d3f755fe540842bbee9cec655fb6c113d6eb8d3929f7a8c0c8cd1dbfe00c3"
+      },
+      "publishedAt": "2026-11-21T03:16:39Z",
+      "updatedAt": "2026-11-21T03:16:39Z"
     }
   ],
   "featured": [

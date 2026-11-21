@@ -2457,6 +2457,18 @@
       "sha256": "85347e0d040dae977bfb453fbf09b407c3a4eba32ffdfbcf38355728d68dd409",
       "size": 1326607,
       "scope": "magic-storage-component-indices"
+    },
+    {
+      "uid": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+      "id": "gojo",
+      "version": "1.0.44-e",
+      "tag": "mod-gojo-v1.0.44-e",
+      "file": "gojo-1.0.44-e.bl",
+      "baseVersion": "1.0.44e",
+      "originalSha256": "94f1a2412ef51224f217ac864e09f8330406157ef37fcce8ae07557ca18d4ed2",
+      "sha256": "af4d3f755fe540842bbee9cec655fb6c113d6eb8d3929f7a8c0c8cd1dbfe00c3",
+      "size": 1153148,
+      "scope": "author-supplied-mobile-catalog"
     }
   ],
   "authorChineseSources": {

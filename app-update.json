@@ -1,8 +1,8 @@
 {
   "format": 1,
   "applicationId": "com.ningloader.mods",
-  "versionCode": 413,
-  "versionName": "0.5.4",
+  "versionCode": 414,
+  "versionName": "0.5.4.2",
   "enabled": true,
-  "description": "大量bug修复与兼容更新"
+  "description": "修复大量bug"
 }

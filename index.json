@@ -7298,11 +7298,11 @@
       "uid": "8efefc72-63f9-5044-a2ff-406be830cd15",
       "id": "MagicStorage",
       "name": "魔法存储",
-      "version": "0.7.0.11-ningcs.1.fix.20261117.2.mobile4.draw3.ui.1",
+      "version": "0.7.0.11-r.2",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-MagicStorage-v0.7.0.11-ningcs.1.fix.20261117.2.mobile4.draw3.ui.1/MagicStorage-0.7.0.11-ningcs.1.fix.20261117.2.mobile4.draw3.ui.1.bl",
-        "size": 1326226,
-        "sha256": "107939fc3c6ce831c14e7e9a2e2e2d7acc53344891772b51be3cf43c9a63be09"
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-MagicStorage-v0.7.0.11-r.2/MagicStorage-0.7.0.11-r.2.bl",
+        "size": 1326607,
+        "sha256": "85347e0d040dae977bfb453fbf09b407c3a4eba32ffdfbcf38355728d68dd409"
       },
       "files": [
         "manifest.json",
@@ -7319,7 +7319,7 @@
         "uid": "8efefc72-63f9-5044-a2ff-406be830cd15",
         "id": "MagicStorage",
         "name": "魔法存储",
-        "version": "0.7.0.11-ningcs.1.fix.20261117.2.mobile4.draw3.ui.1",
+        "version": "0.7.0.11-r.2",
         "blVersion": 3,
         "entry": "MagicStorage.cs",
         "gameVersion": [
@@ -7354,8 +7354,8 @@
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2563309347"
           }
         ],
-        "description": "用存储核心和存储单元集中管理物品，并通过制作界面查询和制作配方。需要 absoluteAquarian Utilities。",
-        "updated": "2026-11-20",
+        "description": "用存储核心和存储单元集中管理物品，并通过制作界面查询和制作配方。需要 absoluteAquarian Utilities。\n\n修复世界加载后，储存核心和远程入口解析已有连接时可能发生的索引越界。\n\n适用于柠版泰拉启动器 0.5.3（412）及更新版本和 Terraria Build 1720，需要 absoluteAquarian Utilities。",
+        "updated": "2026-11-21",
         "localizedNames": {
           "zh-Hans": "魔法存储"
         },
@@ -7365,7 +7365,7 @@
         "modRuntime": "csharp",
         "license": "MIT"
       },
-      "updatedAt": "2026-11-20T00:46:16Z",
+      "updatedAt": "2026-11-21T03:10:34Z",
       "runtime": "csharp",
       "publishedAt": "2026-11-19T00:00:00Z"
     },

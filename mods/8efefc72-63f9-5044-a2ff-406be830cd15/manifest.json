@@ -2,7 +2,7 @@
   "uid": "8efefc72-63f9-5044-a2ff-406be830cd15",
   "id": "MagicStorage",
   "name": "魔法存储",
-  "version": "0.7.0.11-ningcs.1.fix.20261117.2.mobile4.draw3.ui.1",
+  "version": "0.7.0.11-r.2",
   "blVersion": 3,
   "entry": "MagicStorage.cs",
   "gameVersion": [
@@ -37,8 +37,8 @@
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2563309347"
     }
   ],
-  "description": "用存储核心和存储单元集中管理物品，并通过制作界面查询和制作配方。需要 absoluteAquarian Utilities。",
-  "updated": "2026-11-20",
+  "description": "用存储核心和存储单元集中管理物品，并通过制作界面查询和制作配方。需要 absoluteAquarian Utilities。\n\n修复世界加载后，储存核心和远程入口解析已有连接时可能发生的索引越界。\n\n适用于柠版泰拉启动器 0.5.3（412）及更新版本和 Terraria Build 1720，需要 absoluteAquarian Utilities。",
+  "updated": "2026-11-21",
   "localizedNames": {
     "zh-Hans": "魔法存储"
   },

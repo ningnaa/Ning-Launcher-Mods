@@ -2445,6 +2445,18 @@
       "sha256": "e554c35ce6df8ab1ce63c56e1de5a61e38cbc496171560543a3ab4cc40f0421d",
       "size": 9184157,
       "scope": "improvegame-tall-gem-tree-chop"
+    },
+    {
+      "uid": "8efefc72-63f9-5044-a2ff-406be830cd15",
+      "id": "MagicStorage",
+      "tag": "mod-MagicStorage-v0.7.0.11-r.2",
+      "file": "MagicStorage-0.7.0.11-r.2.bl",
+      "version": "0.7.0.11-r.2",
+      "baseVersion": "0.7.0.11-ningcs.1.fix.20261117.2.mobile4.draw3.ui.1",
+      "originalSha256": "107939fc3c6ce831c14e7e9a2e2e2d7acc53344891772b51be3cf43c9a63be09",
+      "sha256": "85347e0d040dae977bfb453fbf09b407c3a4eba32ffdfbcf38355728d68dd409",
+      "size": 1326607,
+      "scope": "magic-storage-component-indices"
     }
   ],
   "authorChineseSources": {

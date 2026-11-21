@@ -1,8 +1,8 @@
 {
   "format": 1,
   "applicationId": "com.ningloader.mods",
-  "versionCode": 412,
-  "versionName": "0.5.3",
+  "versionCode": 413,
+  "versionName": "0.5.4",
   "enabled": true,
-  "description": "0.5.3 更新内容\n1. 分享日志按游戏会话归档，Android 12 及以上可导出可用的系统原生崩溃堆栈。\n2. 补充读档和进世界阶段记录，分享时可选附上已完成的性能采样。\n3. 修复角色列表缺名报错、全屏地图传送偏移，以及部分读档音效和世界事件兼容问题。\n\n点击「前往频道更新」获取新版安装包。更新前请保存并退出游戏。"
+  "description": "大量bug修复与兼容更新"
 }

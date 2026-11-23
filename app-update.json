@@ -4,5 +4,5 @@
   "versionCode": 415,
   "versionName": "0.5.4.3",
   "enabled": true,
-  "description": "重做游戏内模组菜单。底部统一切换能力、物品、NPC、增益和模组，右侧可直接调整倍率、数量与持续时间。"
+  "description": "大量bug修复"
 }

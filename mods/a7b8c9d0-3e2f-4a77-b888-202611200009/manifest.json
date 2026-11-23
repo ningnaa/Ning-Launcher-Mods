@@ -1,0 +1,38 @@
+{
+  "uid": "a7b8c9d0-3e2f-4a77-b888-202611200009",
+  "id": "MusicBox",
+  "name": "哈基米的随身音乐盒",
+  "version": "0.1.2",
+  "blVersion": 3,
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "dependencies": [],
+  "summary": "提供游戏内音乐播放器，可在原版曲目和自定义歌单之间切换。",
+  "localizedSummaries": {
+    "zh-Hans": "提供游戏内音乐播放器，可在原版曲目和自定义歌单之间切换。"
+  },
+  "category": "Gameplay",
+  "license": "MIT-NC (禁止商用)",
+  "authors": [
+    {
+      "name": "哈基米",
+      "role": "程序实现",
+      "color": "#7AF0FF"
+    },
+    {
+      "name": "力力丝",
+      "role": "策划与歌单",
+      "color": "#E2A6FF"
+    }
+  ],
+  "localizedNames": {
+    "zh-Hans": "哈基米的随身音乐盒"
+  },
+  "updated": "2026-11-23",
+  "description": "# 哈基米的随身音乐盒\n\n提供游戏内音乐播放器，可在原版曲目和自定义歌单之间切换。\n\n在游戏内点击「音乐」打开播放器。可把自己的 OGG 音频放入模组的 `Assets/Music/` 文件夹，重新进入游戏后在本地歌单选择。\n\n适用于支持 C# 模组（Format 3）的柠版泰拉启动器及 Terraria Build 1720。包内声明许可为 MIT-NC (禁止商用)。\n\n制作人员为哈基米（程序实现）、力力丝（策划与歌单）。\n",
+  "localizedDescriptions": {
+    "zh-Hans": "# 哈基米的随身音乐盒\n\n提供游戏内音乐播放器，可在原版曲目和自定义歌单之间切换。\n\n在游戏内点击「音乐」打开播放器。可把自己的 OGG 音频放入模组的 `Assets/Music/` 文件夹，重新进入游戏后在本地歌单选择。\n\n适用于支持 C# 模组（Format 3）的柠版泰拉启动器及 Terraria Build 1720。包内声明许可为 MIT-NC (禁止商用)。\n\n制作人员为哈基米（程序实现）、力力丝（策划与歌单）。\n"
+  }
+}

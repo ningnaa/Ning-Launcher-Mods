@@ -1,0 +1,45 @@
+{
+  "source": "作者包附件",
+  "packages": [
+    {
+      "uid": "a7b8c9d0-3e2f-4a77-b888-202611200009",
+      "id": "MusicBox",
+      "version": "0.1.2",
+      "sourceSha": "250b667c91bb57afb33e0bd489227d246790372d96e252418f1115b9398c2eb1",
+      "sha256": "212fd87f5037154b9f7d1a4e3e889502e2e44e511c1a15ae8adbe95854212a78",
+      "size": 8497683
+    },
+    {
+      "uid": "b7c4e2f1-9a3d-4e58-8c21-6f0d5a9b3e74",
+      "id": "starblessing",
+      "version": "0.7.8",
+      "sourceSha": "5647f64f29dea9a756a52f934f805a615fb25b447c88e0e1152acb52270bd3f7",
+      "sha256": "e8d59f21192b7a03ac50a75a2416be7d22fd50c3d7de01b61301c61b6d5c3a60",
+      "size": 7796431
+    },
+    {
+      "uid": "d224fff2-6731-4fe5-a726-ad3b8eb3c89a",
+      "id": "MeleeWeaponEffects",
+      "version": "1.8.34",
+      "sourceSha": "a6574019fa92eb60d981dc04bf79c050f44be207b1e1225dd36778ab4b560e0c",
+      "sha256": "09ef4e4ed9547b638ba23dbe7c1fd0d6b0a3417fa456e445b1739cd1c32f4daf",
+      "size": 835447
+    },
+    {
+      "uid": "4b9e63eb-842f-44ed-8469-9df609c69645",
+      "id": "cursedledger",
+      "version": "2.7.38",
+      "sourceSha": "5f2cb556b49807cac078bd4021fc051ab0ae94505b8bed5aadbb5414c8a8c35d",
+      "sha256": "d5e6aa6e50bd4e47f479f8cbc4ad65b3eea9c00a099b3ed03bb55e7b1924f6c3",
+      "size": 1393169
+    },
+    {
+      "uid": "d27d11c1-b4b5-4bda-870c-34fc1906b3d8",
+      "id": "xiaofeiuyupet",
+      "version": "2.2.1",
+      "sourceSha": "4f47fba50ba6a6e71b9eebb6ebe953409925f9f5957a3b12718420af9206a826",
+      "sha256": "1e2c3eed463179bd10fc0ae605ef5a2e9314e05d2ff32633cd222091e65c9482",
+      "size": 1216147
+    }
+  ]
+}

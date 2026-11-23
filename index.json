@@ -4660,84 +4660,62 @@
       "publishedAt": "2026-11-01T08:57:11Z",
       "uid": "b7c4e2f1-9a3d-4e58-8c21-6f0d5a9b3e74",
       "id": "starblessing",
-      "name": "泰拉瑞亚扩展",
-      "version": "0.2.5-ningzh.1",
+      "name": "哈基米的泰拉瑞亚扩展",
+      "version": "0.7.8",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-starblessing-v0.2.5-ningzh.1/starblessing-0.2.5-ningzh.1.bl",
-        "sha256": "f3603278b79ff7d4f7794309b7b5122c3b017375cb550bd2fc689ed076b0dcd4",
-        "size": 257932
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-starblessing-v0.7.8/starblessing-0.7.8.bl",
+        "sha256": "e8d59f21192b7a03ac50a75a2416be7d22fd50c3d7de01b61301c61b6d5c3a60",
+        "size": 7796431
       },
       "files": [
         "manifest.json",
         "icon.png",
-        "banner.png",
         "description.md",
+        "description_zh-Hans.md",
         "changelog.md",
-        "license.md",
         "changelog_zh-Hans.md",
-        "description_zh-Hans.md"
+        "banner.png"
       ],
       "manifest": {
         "uid": "b7c4e2f1-9a3d-4e58-8c21-6f0d5a9b3e74",
         "id": "starblessing",
-        "name": "泰拉瑞亚扩展",
-        "version": "0.2.5-ningzh.1",
-        "author": "力力丝",
-        "authors": [
-          {
-            "name": "力力丝",
-            "role": "原作者",
-            "color": "#8FB8FF"
-          },
-          {
-            "name": "柠版泰拉启动器",
-            "role": "移动版汉化与维护"
-          }
-        ],
-        "category": "玩法扩展",
-        "type": "mod",
-        "summary": "为泰拉瑞亚补充成长饰品、藤蔓/邪恶/蜂巢护符、史莱姆法杖路线、粉色史莱姆法杖和完整小雪怪皮毛套装。",
-        "description": "# 泰拉瑞亚扩展\n\n为泰拉瑞亚补充召唤师装备和成长路线。\n\n- 星之庇佑会按当前世界的 Boss 进度成长。\n- 藤蔓护符、腐化/猩红坠饰和蜂巢护符补足前中期召唤师的栏位、伤害和回复选择。\n- 史莱姆法杖新增稳定合成路径，并提供粉色史莱姆法杖路线。\n- 小雪怪兜帽与靴子补全小雪怪皮毛套装。\n\n原作者：力力丝；移植者：逐邺；维护者：柠娜。保留 MIT 许可。安装或更新后请完全退出并重启游戏；联机兼容性尚未充分验证。\n",
-        "license": "MIT",
-        "links": [],
-        "pages": [],
-        "theme": {
-          "accent": "#8FB8FF",
-          "panel": "#1E2233",
-          "text": "#D8E2F0",
-          "heading": "#8FB8FF",
-          "button": "#3A4A6B",
-          "buttonText": "#EAF2FF",
-          "background": "",
-          "backgroundMode": "",
-          "backgroundScale": null,
-          "backgroundDim": null
-        },
-        "updated": "2026-11-05",
-        "featured": false,
-        "blVersion": 2,
+        "name": "哈基米的泰拉瑞亚扩展",
+        "version": "0.7.8",
+        "blVersion": 3,
         "gameVersion": [
           301720,
           301720
         ],
-        "entry": "main.js",
         "dependencies": [],
-        "localizedNames": {
-          "zh-Hans": "泰拉瑞亚扩展",
-          "en-US": "Summoner Expanded"
-        },
+        "summary": "包含四职业成长饰品、召唤师装备与霜晶猫头鹰、深渊吞噬者两位首领。",
         "localizedSummaries": {
-          "zh-Hans": "为泰拉瑞亚补充成长饰品、藤蔓/邪恶/蜂巢护符、史莱姆法杖路线、粉色史莱姆法杖和完整小雪怪皮毛套装。",
-          "en-US": "Four summoner accessories (Star's Blessing, Vine Charm, Corrupt/Crimson Pendant, Hive Charm), two Slime Staff paths (including a pink variant), and the pieces that complete the Flinx Fur set."
+          "zh-Hans": "包含四职业成长饰品、召唤师装备与霜晶猫头鹰、深渊吞噬者两位首领。"
         },
-        "sourceEdition": {
-          "baseVersion": "0.2.5",
-          "previousPublishedVersion": "1.4.0-ningzh.2",
-          "revision": 1
+        "category": "Itens",
+        "license": "MIT-NC (禁止商用)",
+        "authors": [
+          {
+            "name": "哈基米",
+            "role": "C# 重构与程序",
+            "color": "#7AF0FF"
+          },
+          {
+            "name": "力力丝",
+            "role": "策划与统筹",
+            "color": "#E2A6FF"
+          }
+        ],
+        "localizedNames": {
+          "zh-Hans": "哈基米的泰拉瑞亚扩展"
+        },
+        "updated": "2026-11-23",
+        "description": "# 哈基米的泰拉瑞亚扩展\n\n包含四职业成长饰品、召唤师装备与霜晶猫头鹰、深渊吞噬者两位首领。\n\n冰封羽铃可在工作台合成，深渊晶须可在铁砧合成。由旧 JS 版更新前请备份存档。\n\n适用于支持 C# 模组（Format 3）的柠版泰拉启动器及 Terraria Build 1720。包内声明许可为 MIT-NC (禁止商用)。\n\n制作人员为哈基米（C# 重构与程序）、力力丝（策划与统筹）。\n",
+        "localizedDescriptions": {
+          "zh-Hans": "# 哈基米的泰拉瑞亚扩展\n\n包含四职业成长饰品、召唤师装备与霜晶猫头鹰、深渊吞噬者两位首领。\n\n冰封羽铃可在工作台合成，深渊晶须可在铁砧合成。由旧 JS 版更新前请备份存档。\n\n适用于支持 C# 模组（Format 3）的柠版泰拉启动器及 Terraria Build 1720。包内声明许可为 MIT-NC (禁止商用)。\n\n制作人员为哈基米（C# 重构与程序）、力力丝（策划与统筹）。\n"
         }
       },
       "updatedAt": "2026-11-05T00:00:00Z",
-      "runtime": "js"
+      "runtime": "csharp"
     },
     {
       "uid": "008a4524-a7c4-54ec-b814-ec7924905407",
@@ -7289,7 +7267,7 @@
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2797518634"
           }
         ],
-        "description": "提供储存管理器、钓鱼机、药水袋、旗帜盒和多种建造工具。部分功能需在模组配置中开启。需要配套的 SilkyUI。\n\n超级背包支持在联机时同步 JS 模组物品，保留数量、收藏及模组自定义数据。修复手机房主拒绝超级背包同步、房主更改背包格子后客户端收不到更新的问题。\n\n联机时房主和玩家需要同时使用配套的 0.5.4 联机兼容 APK，并启用同版本的更好的体验、SilkyUI 和提供物品的模组。",
+        "description": "重要！本模组目前为测试版！可能导致闪退等问题！谨慎使用！\n\n提供储存管理器、钓鱼机、药水袋、旗帜盒和多种建造工具。部分功能需在模组配置中开启。需要配套的 SilkyUI。\n\n超级背包支持在联机时同步 JS 模组物品，保留数量、收藏及模组自定义数据。修复手机房主拒绝超级背包同步、房主更改背包格子后客户端收不到更新的问题。\n\n联机时房主和玩家需要同时使用配套的 0.5.4 联机兼容 APK，并启用同版本的更好的体验、SilkyUI 和提供物品的模组。",
         "updated": "2026-11-21",
         "localizedNames": {
           "zh-Hans": "更好的体验"
@@ -9454,6 +9432,236 @@
       },
       "publishedAt": "2026-11-21T03:16:39Z",
       "updatedAt": "2026-11-21T03:16:39Z"
+    },
+    {
+      "uid": "a7b8c9d0-3e2f-4a77-b888-202611200009",
+      "id": "MusicBox",
+      "name": "哈基米的随身音乐盒",
+      "version": "0.1.2",
+      "runtime": "csharp",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-MusicBox-v0.1.2/MusicBox-0.1.2.bl",
+        "sha256": "212fd87f5037154b9f7d1a4e3e889502e2e44e511c1a15ae8adbe95854212a78",
+        "size": 8497683
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "description_zh-Hans.md",
+        "changelog.md",
+        "changelog_zh-Hans.md"
+      ],
+      "manifest": {
+        "uid": "a7b8c9d0-3e2f-4a77-b888-202611200009",
+        "id": "MusicBox",
+        "name": "哈基米的随身音乐盒",
+        "version": "0.1.2",
+        "blVersion": 3,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "dependencies": [],
+        "summary": "提供游戏内音乐播放器，可在原版曲目和自定义歌单之间切换。",
+        "localizedSummaries": {
+          "zh-Hans": "提供游戏内音乐播放器，可在原版曲目和自定义歌单之间切换。"
+        },
+        "category": "Gameplay",
+        "license": "MIT-NC (禁止商用)",
+        "authors": [
+          {
+            "name": "哈基米",
+            "role": "程序实现",
+            "color": "#7AF0FF"
+          },
+          {
+            "name": "力力丝",
+            "role": "策划与歌单",
+            "color": "#E2A6FF"
+          }
+        ],
+        "localizedNames": {
+          "zh-Hans": "哈基米的随身音乐盒"
+        },
+        "updated": "2026-11-23",
+        "description": "# 哈基米的随身音乐盒\n\n提供游戏内音乐播放器，可在原版曲目和自定义歌单之间切换。\n\n在游戏内点击「音乐」打开播放器。可把自己的 OGG 音频放入模组的 `Assets/Music/` 文件夹，重新进入游戏后在本地歌单选择。\n\n适用于支持 C# 模组（Format 3）的柠版泰拉启动器及 Terraria Build 1720。包内声明许可为 MIT-NC (禁止商用)。\n\n制作人员为哈基米（程序实现）、力力丝（策划与歌单）。\n",
+        "localizedDescriptions": {
+          "zh-Hans": "# 哈基米的随身音乐盒\n\n提供游戏内音乐播放器，可在原版曲目和自定义歌单之间切换。\n\n在游戏内点击「音乐」打开播放器。可把自己的 OGG 音频放入模组的 `Assets/Music/` 文件夹，重新进入游戏后在本地歌单选择。\n\n适用于支持 C# 模组（Format 3）的柠版泰拉启动器及 Terraria Build 1720。包内声明许可为 MIT-NC (禁止商用)。\n\n制作人员为哈基米（程序实现）、力力丝（策划与歌单）。\n"
+        }
+      }
+    },
+    {
+      "uid": "d224fff2-6731-4fe5-a726-ad3b8eb3c89a",
+      "id": "MeleeWeaponEffects",
+      "name": "近战特效修改",
+      "version": "1.8.34",
+      "runtime": "csharp",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-MeleeWeaponEffects-v1.8.34/MeleeWeaponEffects-1.8.34.bl",
+        "sha256": "09ef4e4ed9547b638ba23dbe7c1fd0d6b0a3417fa456e445b1739cd1c32f4daf",
+        "size": 835447
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "description_zh-Hans.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "authors/avatar_xiaolv.png"
+      ],
+      "manifest": {
+        "uid": "d224fff2-6731-4fe5-a726-ad3b8eb3c89a",
+        "id": "MeleeWeaponEffects",
+        "name": "近战特效修改",
+        "localizedNames": {
+          "zh-Hans": "近战特效修改"
+        },
+        "summary": "为近战武器增加刀光、命中反馈和触屏蓄力斩，提供轻量模式。",
+        "localizedSummaries": {
+          "zh-Hans": "为近战武器增加刀光、命中反馈和触屏蓄力斩，提供轻量模式。"
+        },
+        "description": "# 近战特效修改\n\n为近战武器增加刀光、命中反馈和触屏蓄力斩，提供轻量模式。\n\n长按屏幕上的「蓄力斩」后松手发动蓄力斩。需要气浪时可在模组设置中开启。\n\n适用于支持 C# 模组（Format 3）的柠版泰拉启动器及 Terraria Build 1720。包内声明许可为 MIT。\n\n制作人员为WindMind（原版作者 / Original author）、小绿（手机端移植 / Mobile port）。\n",
+        "version": "1.8.34",
+        "authors": [
+          {
+            "name": "WindMind",
+            "role": "原版作者 / Original author",
+            "color": "#7FC8FF"
+          },
+          {
+            "name": "小绿",
+            "role": "手机端移植 / Mobile port",
+            "color": "#6FE38A",
+            "avatar": "avatar_xiaolv.png"
+          }
+        ],
+        "category": "玩法",
+        "license": "MIT",
+        "updated": "2026-11-23",
+        "blVersion": 3,
+        "dependencies": [],
+        "links": [
+          {
+            "title": "Bunny Loader",
+            "url": "https://github.com/JonataOliveiraa/Bunny-Loader"
+          }
+        ],
+        "localizedDescriptions": {
+          "zh-Hans": "# 近战特效修改\n\n为近战武器增加刀光、命中反馈和触屏蓄力斩，提供轻量模式。\n\n长按屏幕上的「蓄力斩」后松手发动蓄力斩。需要气浪时可在模组设置中开启。\n\n适用于支持 C# 模组（Format 3）的柠版泰拉启动器及 Terraria Build 1720。包内声明许可为 MIT。\n\n制作人员为WindMind（原版作者 / Original author）、小绿（手机端移植 / Mobile port）。\n"
+        }
+      }
+    },
+    {
+      "uid": "4b9e63eb-842f-44ed-8469-9df609c69645",
+      "id": "cursedledger",
+      "name": "咒术账",
+      "version": "2.7.38",
+      "runtime": "js",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-cursedledger-v2.7.38/cursedledger-2.7.38.bl",
+        "sha256": "d5e6aa6e50bd4e47f479f8cbc4ad65b3eea9c00a099b3ed03bb55e7b1924f6c3",
+        "size": 1393169
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "description_zh-Hans.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "authors/OMO.jpg"
+      ],
+      "manifest": {
+        "uid": "4b9e63eb-842f-44ed-8469-9df609c69645",
+        "id": "cursedledger",
+        "name": "咒术账",
+        "version": "2.7.38",
+        "authors": [
+          {
+            "name": "OMO",
+            "role": "作者"
+          }
+        ],
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": [],
+        "summary": "以首领进度成长的六眼饰品，可使用苍、赫、茈和无量空处。",
+        "description": "# 咒术账\n\n以首领进度成长的六眼饰品，可使用苍、赫、茈和无量空处。\n\n合成并佩戴六眼后，通过触屏术式按钮施放能力，随击败原版首领解锁术式。详细配方与数值见包内指南。\n\n适用于支持 JS 模组的柠版泰拉启动器及 Terraria Build 1720。原包未声明独立许可证。\n\n制作人员为OMO（作者）。\n\n数值平衡模式默认开启。六眼与觉醒饰品、术式解锁以及领域续耗以包内配方表和游戏设置为准。\n",
+        "localizedSummaries": {
+          "zh-Hans": "以首领进度成长的六眼饰品，可使用苍、赫、茈和无量空处。",
+          "en-US": "A ten-tier Six Eyes accessory, four technique buttons (Blue, Red, Purple and Domain), Unlimited Void crowd-freezing with a ramping cost, a circuit-breaker lockout and percent-based damage. The Sukuna line is currently disabled."
+        },
+        "localizedNames": {
+          "zh-Hans": "咒术账",
+          "en-US": "Cursed Ledger"
+        },
+        "updated": "2026-11-23",
+        "localizedDescriptions": {
+          "zh-Hans": "# 咒术账\n\n以首领进度成长的六眼饰品，可使用苍、赫、茈和无量空处。\n\n合成并佩戴六眼后，通过触屏术式按钮施放能力，随击败原版首领解锁术式。详细配方与数值见包内指南。\n\n适用于支持 JS 模组的柠版泰拉启动器及 Terraria Build 1720。原包未声明独立许可证。\n\n制作人员为OMO（作者）。\n\n数值平衡模式默认开启。六眼与觉醒饰品、术式解锁以及领域续耗以包内配方表和游戏设置为准。\n"
+        }
+      }
+    },
+    {
+      "uid": "d27d11c1-b4b5-4bda-870c-34fc1906b3d8",
+      "id": "xiaofeiuyupet",
+      "name": "小肥鱼随身宠物",
+      "version": "2.2.1",
+      "runtime": "js",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-xiaofeiuyupet-v2.2.1/xiaofeiuyupet-2.2.1.bl",
+        "sha256": "1e2c3eed463179bd10fc0ae605ef5a2e9314e05d2ff32633cd222091e65c9482",
+        "size": 1216147
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "description_zh-Hans.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "authors/creator.png",
+        "authors/sanfen.png"
+      ],
+      "manifest": {
+        "uid": "d27d11c1-b4b5-4bda-870c-34fc1906b3d8",
+        "id": "xiaofeiuyupet",
+        "name": "小肥鱼随身宠物",
+        "version": "2.2.1",
+        "authors": [
+          {
+            "name": "3分制作🤔",
+            "role": "模组制作",
+            "avatar": "sanfen.png",
+            "color": "#FFD23F"
+          }
+        ],
+        "category": "NPC",
+        "summary": "旅商有概率售卖召唤道具，可召唤小肥鱼随行。",
+        "updated": "2026-11-23",
+        "blVersion": 2,
+        "gameVersion": [
+          301720,
+          301720
+        ],
+        "entry": "main.js",
+        "dependencies": [],
+        "localizedNames": {
+          "zh-Hans": "小肥鱼随身宠物"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "旅商有概率售卖召唤道具，可召唤小肥鱼随行。"
+        },
+        "description": "# 小肥鱼随身宠物\n\n旅商有概率售卖召唤道具，可召唤小肥鱼随行。\n\n旅商有 50% 的概率售卖召唤道具「跨次元米饭」，可以装备到宠物栏。\n\n适用于支持 JS 模组的柠版泰拉启动器及 Terraria Build 1720。原包未声明独立许可证。\n\n制作人员为3分制作🤔（模组制作）。\n\n交流群 1134656798。\n",
+        "localizedDescriptions": {
+          "zh-Hans": "# 小肥鱼随身宠物\n\n旅商有概率售卖召唤道具，可召唤小肥鱼随行。\n\n旅商有 50% 的概率售卖召唤道具「跨次元米饭」，可以装备到宠物栏。\n\n适用于支持 JS 模组的柠版泰拉启动器及 Terraria Build 1720。原包未声明独立许可证。\n\n制作人员为3分制作🤔（模组制作）。\n\n交流群 1134656798。\n"
+        }
+      }
     }
   ],
   "featured": [

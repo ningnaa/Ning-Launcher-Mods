@@ -1,59 +1,38 @@
 {
   "uid": "b7c4e2f1-9a3d-4e58-8c21-6f0d5a9b3e74",
   "id": "starblessing",
-  "name": "泰拉瑞亚扩展",
-  "version": "0.2.5-ningzh.1",
-  "author": "力力丝",
-  "authors": [
-    {
-      "name": "力力丝",
-      "role": "原作者",
-      "color": "#8FB8FF"
-    },
-    {
-      "name": "柠版泰拉启动器",
-      "role": "移动版汉化与维护"
-    }
-  ],
-  "category": "玩法扩展",
-  "type": "mod",
-  "summary": "为泰拉瑞亚补充成长饰品、藤蔓/邪恶/蜂巢护符、史莱姆法杖路线、粉色史莱姆法杖和完整小雪怪皮毛套装。",
-  "description": "# 泰拉瑞亚扩展\n\n为泰拉瑞亚补充召唤师装备和成长路线。\n\n- 星之庇佑会按当前世界的 Boss 进度成长。\n- 藤蔓护符、腐化/猩红坠饰和蜂巢护符补足前中期召唤师的栏位、伤害和回复选择。\n- 史莱姆法杖新增稳定合成路径，并提供粉色史莱姆法杖路线。\n- 小雪怪兜帽与靴子补全小雪怪皮毛套装。\n\n原作者：力力丝；移植者：逐邺；维护者：柠娜。保留 MIT 许可。\n",
-  "license": "MIT",
-  "links": [],
-  "pages": [],
-  "theme": {
-    "accent": "#8FB8FF",
-    "panel": "#1E2233",
-    "text": "#D8E2F0",
-    "heading": "#8FB8FF",
-    "button": "#3A4A6B",
-    "buttonText": "#EAF2FF",
-    "background": "",
-    "backgroundMode": "",
-    "backgroundScale": null,
-    "backgroundDim": null
-  },
-  "updated": "2026-11-05",
-  "featured": false,
-  "blVersion": 2,
+  "name": "哈基米的泰拉瑞亚扩展",
+  "version": "0.7.8",
+  "blVersion": 3,
   "gameVersion": [
     301720,
     301720
   ],
-  "entry": "main.js",
   "dependencies": [],
-  "localizedNames": {
-    "zh-Hans": "泰拉瑞亚扩展",
-    "en-US": "Summoner Expanded"
-  },
+  "summary": "包含四职业成长饰品、召唤师装备与霜晶猫头鹰、深渊吞噬者两位首领。",
   "localizedSummaries": {
-    "zh-Hans": "为泰拉瑞亚补充成长饰品、藤蔓/邪恶/蜂巢护符、史莱姆法杖路线、粉色史莱姆法杖和完整小雪怪皮毛套装。",
-    "en-US": "Four summoner accessories (Star's Blessing, Vine Charm, Corrupt/Crimson Pendant, Hive Charm), two Slime Staff paths (including a pink variant), and the pieces that complete the Flinx Fur set."
+    "zh-Hans": "包含四职业成长饰品、召唤师装备与霜晶猫头鹰、深渊吞噬者两位首领。"
   },
-  "sourceEdition": {
-    "baseVersion": "0.2.5",
-    "previousPublishedVersion": "1.4.0-ningzh.2",
-    "revision": 1
+  "category": "Itens",
+  "license": "MIT-NC (禁止商用)",
+  "authors": [
+    {
+      "name": "哈基米",
+      "role": "C# 重构与程序",
+      "color": "#7AF0FF"
+    },
+    {
+      "name": "力力丝",
+      "role": "策划与统筹",
+      "color": "#E2A6FF"
+    }
+  ],
+  "localizedNames": {
+    "zh-Hans": "哈基米的泰拉瑞亚扩展"
+  },
+  "updated": "2026-11-23",
+  "description": "# 哈基米的泰拉瑞亚扩展\n\n包含四职业成长饰品、召唤师装备与霜晶猫头鹰、深渊吞噬者两位首领。\n\n冰封羽铃可在工作台合成，深渊晶须可在铁砧合成。由旧 JS 版更新前请备份存档。\n\n适用于支持 C# 模组（Format 3）的柠版泰拉启动器及 Terraria Build 1720。包内声明许可为 MIT-NC (禁止商用)。\n\n制作人员为哈基米（C# 重构与程序）、力力丝（策划与统筹）。\n",
+  "localizedDescriptions": {
+    "zh-Hans": "# 哈基米的泰拉瑞亚扩展\n\n包含四职业成长饰品、召唤师装备与霜晶猫头鹰、深渊吞噬者两位首领。\n\n冰封羽铃可在工作台合成，深渊晶须可在铁砧合成。由旧 JS 版更新前请备份存档。\n\n适用于支持 C# 模组（Format 3）的柠版泰拉启动器及 Terraria Build 1720。包内声明许可为 MIT-NC (禁止商用)。\n\n制作人员为哈基米（C# 重构与程序）、力力丝（策划与统筹）。\n"
   }
 }

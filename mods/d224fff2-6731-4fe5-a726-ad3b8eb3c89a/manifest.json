@@ -1,0 +1,41 @@
+{
+  "uid": "d224fff2-6731-4fe5-a726-ad3b8eb3c89a",
+  "id": "MeleeWeaponEffects",
+  "name": "近战特效修改",
+  "localizedNames": {
+    "zh-Hans": "近战特效修改"
+  },
+  "summary": "为近战武器增加刀光、命中反馈和触屏蓄力斩，提供轻量模式。",
+  "localizedSummaries": {
+    "zh-Hans": "为近战武器增加刀光、命中反馈和触屏蓄力斩，提供轻量模式。"
+  },
+  "description": "# 近战特效修改\n\n为近战武器增加刀光、命中反馈和触屏蓄力斩，提供轻量模式。\n\n长按屏幕上的「蓄力斩」后松手发动蓄力斩。需要气浪时可在模组设置中开启。\n\n适用于支持 C# 模组（Format 3）的柠版泰拉启动器及 Terraria Build 1720。包内声明许可为 MIT。\n\n制作人员为WindMind（原版作者 / Original author）、小绿（手机端移植 / Mobile port）。\n",
+  "version": "1.8.34",
+  "authors": [
+    {
+      "name": "WindMind",
+      "role": "原版作者 / Original author",
+      "color": "#7FC8FF"
+    },
+    {
+      "name": "小绿",
+      "role": "手机端移植 / Mobile port",
+      "color": "#6FE38A",
+      "avatar": "avatar_xiaolv.png"
+    }
+  ],
+  "category": "玩法",
+  "license": "MIT",
+  "updated": "2026-11-23",
+  "blVersion": 3,
+  "dependencies": [],
+  "links": [
+    {
+      "title": "Bunny Loader",
+      "url": "https://github.com/JonataOliveiraa/Bunny-Loader"
+    }
+  ],
+  "localizedDescriptions": {
+    "zh-Hans": "# 近战特效修改\n\n为近战武器增加刀光、命中反馈和触屏蓄力斩，提供轻量模式。\n\n长按屏幕上的「蓄力斩」后松手发动蓄力斩。需要气浪时可在模组设置中开启。\n\n适用于支持 C# 模组（Format 3）的柠版泰拉启动器及 Terraria Build 1720。包内声明许可为 MIT。\n\n制作人员为WindMind（原版作者 / Original author）、小绿（手机端移植 / Mobile port）。\n"
+  }
+}

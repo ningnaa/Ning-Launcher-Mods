@@ -1,0 +1,34 @@
+{
+  "uid": "d27d11c1-b4b5-4bda-870c-34fc1906b3d8",
+  "id": "xiaofeiuyupet",
+  "name": "小肥鱼随身宠物",
+  "version": "2.2.1",
+  "authors": [
+    {
+      "name": "3分制作🤔",
+      "role": "模组制作",
+      "avatar": "sanfen.png",
+      "color": "#FFD23F"
+    }
+  ],
+  "category": "NPC",
+  "summary": "旅商有概率售卖召唤道具，可召唤小肥鱼随行。",
+  "updated": "2026-11-23",
+  "blVersion": 2,
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "entry": "main.js",
+  "dependencies": [],
+  "localizedNames": {
+    "zh-Hans": "小肥鱼随身宠物"
+  },
+  "localizedSummaries": {
+    "zh-Hans": "旅商有概率售卖召唤道具，可召唤小肥鱼随行。"
+  },
+  "description": "# 小肥鱼随身宠物\n\n旅商有概率售卖召唤道具，可召唤小肥鱼随行。\n\n旅商有 50% 的概率售卖召唤道具「跨次元米饭」，可以装备到宠物栏。\n\n适用于支持 JS 模组的柠版泰拉启动器及 Terraria Build 1720。原包未声明独立许可证。\n\n制作人员为3分制作🤔（模组制作）。\n\n交流群 1134656798。\n",
+  "localizedDescriptions": {
+    "zh-Hans": "# 小肥鱼随身宠物\n\n旅商有概率售卖召唤道具，可召唤小肥鱼随行。\n\n旅商有 50% 的概率售卖召唤道具「跨次元米饭」，可以装备到宠物栏。\n\n适用于支持 JS 模组的柠版泰拉启动器及 Terraria Build 1720。原包未声明独立许可证。\n\n制作人员为3分制作🤔（模组制作）。\n\n交流群 1134656798。\n"
+  }
+}

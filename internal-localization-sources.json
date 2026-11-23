@@ -2517,6 +2517,30 @@
       "sha256": "d31d7acfec418a6cbcdcf870608bf47e9035933eec1397f896c19fd942c11b23",
       "size": 9184453,
       "scope": "mobile-multiplayer-compatibility"
+    },
+    {
+      "uid": "7ac6559e-6c48-5dc2-aa96-432cf366faeb",
+      "id": "ImproveGame",
+      "tag": "mod-ImproveGame-v1.8.2-r.5",
+      "file": "ImproveGame-1.8.2-r.5.bl",
+      "version": "1.8.2-r.5",
+      "baseVersion": "1.8.2-r.4",
+      "originalSha256": "d31d7acfec418a6cbcdcf870608bf47e9035933eec1397f896c19fd942c11b23",
+      "sha256": "098e78922b4a1d5a19e9aaa1e8c45e14c76969efd4a9f136327de2bc0314e7a1",
+      "size": 9190668,
+      "scope": "mobile-storage-and-gameplay-fixes"
+    },
+    {
+      "uid": "8efefc72-63f9-5044-a2ff-406be830cd15",
+      "id": "MagicStorage",
+      "tag": "mod-MagicStorage-v0.7.0.11-r.5",
+      "file": "MagicStorage-0.7.0.11-r.5.bl",
+      "version": "0.7.0.11-r.5",
+      "baseVersion": "0.7.0.11-r.4",
+      "originalSha256": "602153f44c4afefd1f5564a319188bda8c81c2823107403fcfdb373a20a7d25a",
+      "sha256": "c89daef24d8e50e57c68e840748000687b52dc1cca39e6e7d108aa2a31d93f9d",
+      "size": 1334806,
+      "scope": "mobile-storage-and-gameplay-fixes"
     }
   ],
   "authorChineseSources": {

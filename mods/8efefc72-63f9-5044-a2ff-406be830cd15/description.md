@@ -9,3 +9,11 @@
 适用于柠版泰拉启动器 0.5.4.3（415）及 Terraria Build 1720，需要 absoluteAquarian Utilities。联机请使用相同版本。递归合成烈焰箭可能卡住游戏，此问题仍在排查。
 
 absoluteAquarian & Contributors（原模组作者）；柠版泰拉启动器（移动版汉化与维护）；Bloa（JS 版移动界面参考）；Titan camera（JS 版移植与界面参考）。许可为 MIT。
+
+### 0.7.0.11-r.6 更新
+
+关闭存储界面时停止插入常驻界面图层，仍会完成界面关闭和鼠标状态恢复。
+
+此版本适用于柠版泰拉启动器 0.5.4.3（415）和 Terraria Build 1720。 需要 absoluteAquarian Utilities。
+
+递归合成烈焰箭仍可能卡住游戏。联机时请让房主和玩家使用相同版本。

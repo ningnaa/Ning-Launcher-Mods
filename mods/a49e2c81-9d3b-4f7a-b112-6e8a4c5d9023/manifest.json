@@ -2,7 +2,7 @@
   "uid": "a49e2c81-9d3b-4f7a-b112-6e8a4c5d9023",
   "id": "PrismTomeMod",
   "name": "哈基米的泰拉",
-  "version": "0.5.0",
+  "version": "0.5.0-r.2",
   "authors": [
     {
       "name": "哈基米 (Gemini)",
@@ -21,9 +21,9 @@
     }
   ],
   "category": "武器",
-  "summary": "包含法师武器「星棱翡翠法典」、召唤师武器「星棱律令权杖」和测伤靶偶。两把武器可随 Boss 进度成长。",
+  "summary": "含13位主线Boss平滑进化的双职业成长武器：法师《星棱翡翠法典》与召唤师《星棱律令权杖》（纳米激光炮/相位猎手/星穹环卫盾/量子奇点黑洞），附带DPS测伤靶偶。",
   "license": "MIT",
-  "updated": "2026-11-20",
+  "updated": "2026-11-24",
   "blVersion": 3,
   "gameVersion": [
     301720,
@@ -31,7 +31,7 @@
   ],
   "dependencies": [],
   "entry": "PrismTomeMod.cs",
-  "description": "包含法师武器「星棱翡翠法典」、召唤师武器「星棱律令权杖」和测伤靶偶。两把武器可随 Boss 进度成长。",
+  "description": "包含法师武器「星棱翡翠法典」、召唤师武器「星棱律令权杖」和测伤靶偶。两把武器可随 Boss 进度成长。\n\n### 0.5.0-r.2 更新\n\n只在手持棱镜漏斗法杖并激活选择器时绘制召唤界面。\n\n此版本适用于柠版泰拉启动器 0.5.4.3（415）和 Terraria Build 1720。",
   "localizedNames": {
     "zh-Hans": "哈基米的泰拉"
   },

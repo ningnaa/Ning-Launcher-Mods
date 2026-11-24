@@ -2,7 +2,7 @@
   "uid": "975fcf89-1436-5ff1-9054-25e0fa9fe382",
   "id": "HPAware",
   "name": "生命感知（C#）",
-  "version": "1.0.6.1-ningcs.1.zh.1.fix.1",
+  "version": "1.0.6.1-r.2",
   "blVersion": 3,
   "entry": "HPAware.cs",
   "gameVersion": [
@@ -27,8 +27,8 @@
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2564503881"
     }
   ],
-  "description": "显示受伤和低生命值提示、生命条、减益图标及声音效果。可按需开启灰度和音乐衰减。",
-  "updated": "2026-11-19",
+  "description": "显示受伤和低生命值提示、生命条、减益图标及声音效果。可按需开启灰度和音乐衰减。\n\n### 1.0.6.1-r.2 更新\n\n药水提示、减益提示和生命条显示时才各自插入绘制图层。\n\n此版本适用于柠版泰拉启动器 0.5.4.3（415）和 Terraria Build 1720。",
+  "updated": "2026-11-24",
   "pages": [
     {
       "title": "更新日志",

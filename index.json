@@ -10,16 +10,27 @@
         "uid": "ae638aa6-fef0-5958-9587-5ac35faa698c",
         "id": "CalamityMod",
         "name": "Calamity Mod",
-        "localizedNames": { "zh-Hans": "灾厄模组" },
+        "localizedNames": {
+          "zh-Hans": "灾厄模组"
+        },
         "version": "2.2.4-r.14",
         "category": "内容",
         "entry": "CalamityMod.dll",
         "blVersion": 2,
-        "gameVersion": [301720, 301720],
+        "gameVersion": [
+          301720,
+          301720
+        ],
         "license": "Azafure, LLC",
         "authors": [
-          { "name": "The Calamity Dev Team", "role": "原作" },
-          { "name": "柠版泰拉启动器", "role": "移动版汉化与维护" }
+          {
+            "name": "The Calamity Dev Team",
+            "role": "原作"
+          },
+          {
+            "name": "柠版泰拉启动器",
+            "role": "移动版汉化与维护"
+          }
         ],
         "updated": "2026-11-24",
         "summary": "从网盘下载后，在启动器中本地导入",
@@ -32,11 +43,11 @@
       "uid": "31b7ee57-73c8-4a66-ab91-c44440430ee7",
       "id": "abusegoblin",
       "name": "Abuse Goblin",
-      "version": "1.0.0-ningzh.1",
+      "version": "1.0.0-r.2",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-abusegoblin-v1.0.0-ningzh.1/abusegoblin-1.0.0-ningzh.1.bl",
-        "sha256": "85d810bc4a9e3ac9f2efee157826799844b9202417174987a67d6500c8548f65",
-        "size": 84672
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-abusegoblin-v1.0.0-r.2/abusegoblin-1.0.0-r.2.bl",
+        "sha256": "20af49e185c22c904bd9175a9b45fe748fef74e66df3187e71abf1492793358d",
+        "size": 86384
       },
       "files": [
         "manifest.json",
@@ -52,30 +63,26 @@
         "uid": "31b7ee57-73c8-4a66-ab91-c44440430ee7",
         "id": "abusegoblin",
         "name": "Abuse Goblin",
-        "version": "1.0.0-ningzh.1",
+        "version": "1.0.0-r.2",
         "authors": [
           {
             "name": "Animatak_",
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.gg/lemon-studio-1422278971227115532",
-            "role": "移植"
+            "role": "Port"
           },
           {
             "name": "al",
-            "role": "原作者",
+            "role": "Original Creator",
             "avatar": "steam.png",
             "color": "#F0F0F0",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3796173238"
-          },
-          {
-            "name": "柠版泰拉启动器",
-            "role": "移动版汉化与维护"
           }
         ],
-        "category": "玩法",
+        "category": "Gameplay",
         "summary": "Hit the Goblin Tinkerer with any weapon to lower his reforge prices.",
-        "updated": "2026-10-08",
+        "updated": "2026-11-24",
         "blVersion": 2,
         "entry": "main.js",
         "localizedNames": {
@@ -88,9 +95,11 @@
           "language": "zh-Hans",
           "revision": 1,
           "baseVersion": "1.0.0"
-        }
+        },
+        "description": "### 1.0.0-r.2 更新\n\n没有哥布林工匠时停止脚本的 NPC 槽位遍历，工匠出现后恢复弹幕判定。\n\n此版本适用于柠版泰拉启动器 0.5.4.3（415）和 Terraria Build 1720。"
       },
-      "runtime": "js"
+      "runtime": "js",
+      "updatedAt": "2026-11-24T14:24:43Z"
     },
     {
       "uid": "0c2e1d93-1149-4942-adb2-860ad8a9b965",
@@ -3821,11 +3830,11 @@
       "uid": "77b38952-98d6-4e18-a301-638d54c4bfd0",
       "id": "townnpchome",
       "name": "TownNPC Home",
-      "version": "1.0.0-ningzh.1",
+      "version": "1.0.0-r.2",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-townnpchome-v1.0.0-ningzh.1/townnpchome-1.0.0-ningzh.1.bl",
-        "sha256": "423b7bae612f6abf7ed34328eb91b921cabb93c908d58b18a36ef396372e02a9",
-        "size": 35710
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-townnpchome-v1.0.0-r.2/townnpchome-1.0.0-r.2.bl",
+        "sha256": "a2af1460af7ed67e1f46f9b3d5a40fe7915c6777076df4c9fe45c449ed3f8c90",
+        "size": 37866
       },
       "files": [
         "manifest.json",
@@ -3833,29 +3842,27 @@
         "description.md",
         "authors/animatak.png",
         "description_zh-Hans.md",
-        "license.md"
+        "license.md",
+        "changelog.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "77b38952-98d6-4e18-a301-638d54c4bfd0",
         "id": "townnpchome",
         "name": "TownNPC Home",
-        "version": "1.0.0-ningzh.1",
+        "version": "1.0.0-r.2",
         "authors": [
           {
             "name": "Animatak_",
             "avatar": "animatak.png",
             "color": "#841FFF",
             "link": "https://discord.com/invite/tl-pro-402880167737032705",
-            "role": "作者"
-          },
-          {
-            "name": "柠版泰拉启动器",
-            "role": "移动版汉化与维护"
+            "role": "Autor"
           }
         ],
-        "category": "实用工具",
+        "category": "Utilidade",
         "summary": "Teleporta NPCs de cidade para suas casas.",
-        "updated": "2026-09-27",
+        "updated": "2026-11-24",
         "blVersion": 2,
         "gameVersion": [
           301543,
@@ -3873,9 +3880,11 @@
           "language": "zh-Hans",
           "revision": 1,
           "baseVersion": "1.0.0"
-        }
+        },
+        "description": "### 1.0.0-r.2 更新\n\n只在实际运行城镇 NPC 行为时处理住房变更。使用回家指令时才遍历所有已入住的城镇 NPC。\n\n此版本适用于柠版泰拉启动器 0.5.4.3（415）和 Terraria Build 1720。"
       },
-      "runtime": "js"
+      "runtime": "js",
+      "updatedAt": "2026-11-24T14:24:44Z"
     },
     {
       "uid": "35117929-e61f-42bc-97c5-773228761b99",
@@ -4688,11 +4697,11 @@
       "uid": "b7c4e2f1-9a3d-4e58-8c21-6f0d5a9b3e74",
       "id": "starblessing",
       "name": "哈基米的泰拉瑞亚扩展",
-      "version": "0.7.8",
+      "version": "0.7.8-r.2",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-starblessing-v0.7.8/starblessing-0.7.8.bl",
-        "sha256": "e8d59f21192b7a03ac50a75a2416be7d22fd50c3d7de01b61301c61b6d5c3a60",
-        "size": 7796431
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-starblessing-v0.7.8-r.2/starblessing-0.7.8-r.2.bl",
+        "sha256": "2953bdcdab9c7d637a8c18292c29633d7bf6acb1ae5389573eb0f44de0226bb0",
+        "size": 7798874
       },
       "files": [
         "manifest.json",
@@ -4707,7 +4716,7 @@
         "uid": "b7c4e2f1-9a3d-4e58-8c21-6f0d5a9b3e74",
         "id": "starblessing",
         "name": "哈基米的泰拉瑞亚扩展",
-        "version": "0.7.8",
+        "version": "0.7.8-r.2",
         "blVersion": 3,
         "gameVersion": [
           301720,
@@ -4735,13 +4744,13 @@
         "localizedNames": {
           "zh-Hans": "哈基米的泰拉瑞亚扩展"
         },
-        "updated": "2026-11-23",
-        "description": "# 哈基米的泰拉瑞亚扩展\n\n包含四职业成长饰品、召唤师装备与霜晶猫头鹰、深渊吞噬者两位首领。\n\n冰封羽铃可在工作台合成，深渊晶须可在铁砧合成。由旧 JS 版更新前请备份存档。\n\n适用于支持 C# 模组（Format 3）的柠版泰拉启动器及 Terraria Build 1720。包内声明许可为 MIT-NC (禁止商用)。\n\n制作人员为哈基米（C# 重构与程序）、力力丝（策划与统筹）。\n",
+        "updated": "2026-11-24",
+        "description": "# 哈基米的泰拉瑞亚扩展\n\n包含四职业成长饰品、召唤师装备与霜晶猫头鹰、深渊吞噬者两位首领。\n\n冰封羽铃可在工作台合成，深渊晶须可在铁砧合成。由旧 JS 版更新前请备份存档。\n\n适用于支持 C# 模组（Format 3）的柠版泰拉启动器及 Terraria Build 1720。包内声明许可为 MIT-NC (禁止商用)。\n\n制作人员为哈基米（C# 重构与程序）、力力丝（策划与统筹）。\n\n### 0.7.8-r.2 更新\n\n只有霜羽枭或深渊吞噬者存活时才添加专用首领血条图层。\n\n此版本适用于柠版泰拉启动器 0.5.4.3（415）和 Terraria Build 1720。\n\n此更新基于 C# 版 0.7.8。旧 JS 版 1.4.0 系列的版本号较高，启动器不会自动提示升级。切换版本前请备份存档。",
         "localizedDescriptions": {
           "zh-Hans": "# 哈基米的泰拉瑞亚扩展\n\n包含四职业成长饰品、召唤师装备与霜晶猫头鹰、深渊吞噬者两位首领。\n\n冰封羽铃可在工作台合成，深渊晶须可在铁砧合成。由旧 JS 版更新前请备份存档。\n\n适用于支持 C# 模组（Format 3）的柠版泰拉启动器及 Terraria Build 1720。包内声明许可为 MIT-NC (禁止商用)。\n\n制作人员为哈基米（C# 重构与程序）、力力丝（策划与统筹）。\n"
         }
       },
-      "updatedAt": "2026-11-05T00:00:00Z",
+      "updatedAt": "2026-11-24T14:24:44Z",
       "runtime": "csharp"
     },
     {
@@ -7246,11 +7255,11 @@
       "uid": "7ac6559e-6c48-5dc2-aa96-432cf366faeb",
       "id": "ImproveGame",
       "name": "更好的体验",
-      "version": "1.8.2-r.6",
+      "version": "1.8.2-r.7",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-ImproveGame-v1.8.2-r.6/ImproveGame-1.8.2-r.6.bl",
-        "sha256": "3c3c3782ccbe5ed87846fca1ef2810af96df0ed7fd1b994435305e44d50dc215",
-        "size": 9184038
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-ImproveGame-v1.8.2-r.7/ImproveGame-1.8.2-r.7.bl",
+        "sha256": "a178ae5370f16de381ad26bda7022f655ad4a4b0914cced9cae7fac735e7ccef",
+        "size": 9199528
       },
       "files": [
         "manifest.json",
@@ -7267,7 +7276,7 @@
         "uid": "7ac6559e-6c48-5dc2-aa96-432cf366faeb",
         "id": "ImproveGame",
         "name": "更好的体验",
-        "version": "1.8.2-r.6",
+        "version": "1.8.2-r.7",
         "blVersion": 3,
         "entry": "ImproveGame.cs",
         "gameVersion": [
@@ -7294,7 +7303,7 @@
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2797518634"
           }
         ],
-        "description": "**重要：本模组为测试版，可能闪退。**\n\n提供储存管理器、钓鱼机、药水袋、旗帜盒和多种建造工具。部分功能可在模组配置中开启。\n\n### 1.8.2-r.6 更新\n\n- 优化探测无人机的手持电台绘制。仅在手持且使用动画结束时绘制电台，减少日常角色渲染的额外开销。\n- 减少机械蠕虫等多节 Boss 战斗中的弹幕命中检查。训练假人仍按实际近战和弹幕伤害统计。\n- 药草加速和生命果生长规则按设置生效。生命果间距默认沿用原版规则，已设置的自定义间距继续生效。\n\n### 此前更新\n\n- 修复弹药链触屏编辑、取消编辑时串改配置，以及弹药链不同的武器错误合堆。\n- 修复药水袋和旗帜盒的触屏存取、容量检查与联机设置同步。自动收纳和合成扣料现在会同步至对端。\n- 修复大型容器和超级背包在加入联机时数据不完整的问题，保留 JS 物品的独立自定义状态。\n\n适用于柠版泰拉启动器 0.5.4.3（415）及 Terraria Build 1720，需要 SilkyUI。涉及大容器的联机请让所有玩家使用相同的启动器与模组版本。测试版仍可能出现闪退。\n\n局长, Cyril, 夜谷紫幽, delete, Kaelis, Lacewing, Lastprismer, 合作一号, Reits, 中学生, 错数螺线, Zavarski, Pengolin（原模组作者）；柠版泰拉启动器（移动版汉化与维护）。许可为 MIT。",
+        "description": "**重要：本模组为测试版，可能闪退。**\n\n提供储存管理器、钓鱼机、药水袋、旗帜盒和多种建造工具。部分功能可在模组配置中开启。\n\n### 1.8.2-r.6 更新\n\n- 优化探测无人机的手持电台绘制。仅在手持且使用动画结束时绘制电台，减少日常角色渲染的额外开销。\n- 减少机械蠕虫等多节 Boss 战斗中的弹幕命中检查。训练假人仍按实际近战和弹幕伤害统计。\n- 药草加速和生命果生长规则按设置生效。生命果间距默认沿用原版规则，已设置的自定义间距继续生效。\n\n### 此前更新\n\n- 修复弹药链触屏编辑、取消编辑时串改配置，以及弹药链不同的武器错误合堆。\n- 修复药水袋和旗帜盒的触屏存取、容量检查与联机设置同步。自动收纳和合成扣料现在会同步至对端。\n- 修复大型容器和超级背包在加入联机时数据不完整的问题，保留 JS 物品的独立自定义状态。\n\n适用于柠版泰拉启动器 0.5.4.3（415）及 Terraria Build 1720，需要 SilkyUI。涉及大容器的联机请让所有玩家使用相同的启动器与模组版本。测试版仍可能出现闪退。\n\n局长, Cyril, 夜谷紫幽, delete, Kaelis, Lacewing, Lastprismer, 合作一号, Reits, 中学生, 错数螺线, Zavarski, Pengolin（原模组作者）；柠版泰拉启动器（移动版汉化与维护）。许可为 MIT。\n\n### 1.8.2-r.7 更新\n\n天气彩蛋只在播放期间监听 NPC 动画，训练假人存在时才启用命中统计和地图图标。减少界面和背包列表的每帧分配。\n\n此版本适用于柠版泰拉启动器 0.5.4.3（415）和 Terraria Build 1720。 需要 SilkyUI。",
         "updated": "2026-11-24",
         "localizedNames": {
           "zh-Hans": "更好的体验"
@@ -7305,7 +7314,7 @@
         "modRuntime": "csharp",
         "license": "MIT"
       },
-      "updatedAt": "2026-11-24T13:10:19Z",
+      "updatedAt": "2026-11-24T14:24:42Z",
       "runtime": "csharp",
       "publishedAt": "2026-11-19T00:00:00Z",
       "summary": "提供储存管理器、钓鱼机、药水袋、旗帜盒和多种建造工具。部分功能需在模组配置中开启。需要配套的 SilkyUI。"
@@ -7314,11 +7323,11 @@
       "uid": "8efefc72-63f9-5044-a2ff-406be830cd15",
       "id": "MagicStorage",
       "name": "魔法存储",
-      "version": "0.7.0.11-r.5",
+      "version": "0.7.0.11-r.6",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-MagicStorage-v0.7.0.11-r.5/MagicStorage-0.7.0.11-r.5.bl",
-        "sha256": "c89daef24d8e50e57c68e840748000687b52dc1cca39e6e7d108aa2a31d93f9d",
-        "size": 1334806
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-MagicStorage-v0.7.0.11-r.6/MagicStorage-0.7.0.11-r.6.bl",
+        "sha256": "1e150e6a0e353240a674da045c17f758db6eeb7b690269c86e5a60616b2a96c9",
+        "size": 1335794
       },
       "files": [
         "manifest.json",
@@ -7335,7 +7344,7 @@
         "uid": "8efefc72-63f9-5044-a2ff-406be830cd15",
         "id": "MagicStorage",
         "name": "魔法存储",
-        "version": "0.7.0.11-r.5",
+        "version": "0.7.0.11-r.6",
         "blVersion": 3,
         "entry": "MagicStorage.cs",
         "gameVersion": [
@@ -7370,8 +7379,8 @@
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2563309347"
           }
         ],
-        "description": "用存储核心和存储单元集中管理物品，通过制作界面使用库存合成，并可通过微光界面转化物品。\n\n- 修复联机物品提取、带自定义数据的大库存快照及存储核心升级和还原。修复私有存储的操作权限与创造单元状态同步。\n- 修复移动房主合成和微光操作后库存不变的问题，以及制作站装入或取回不同步、取回重复入包的问题。\n- 修复制作页容量显示、数量与稀有度升降序、微光结果区高度及普通物品预览报错。\n\n适用于柠版泰拉启动器 0.5.4.3（415）及 Terraria Build 1720，需要 absoluteAquarian Utilities。联机请使用相同版本。递归合成烈焰箭可能卡住游戏，此问题仍在排查。\n\nabsoluteAquarian & Contributors（原模组作者）；柠版泰拉启动器（移动版汉化与维护）；Bloa（JS 版移动界面参考）；Titan camera（JS 版移植与界面参考）。许可为 MIT。",
-        "updated": "2026-11-23",
+        "description": "用存储核心和存储单元集中管理物品，通过制作界面使用库存合成，并可通过微光界面转化物品。\n\n- 修复联机物品提取、带自定义数据的大库存快照及存储核心升级和还原。修复私有存储的操作权限与创造单元状态同步。\n- 修复移动房主合成和微光操作后库存不变的问题，以及制作站装入或取回不同步、取回重复入包的问题。\n- 修复制作页容量显示、数量与稀有度升降序、微光结果区高度及普通物品预览报错。\n\n适用于柠版泰拉启动器 0.5.4.3（415）及 Terraria Build 1720，需要 absoluteAquarian Utilities。联机请使用相同版本。递归合成烈焰箭可能卡住游戏，此问题仍在排查。\n\nabsoluteAquarian & Contributors（原模组作者）；柠版泰拉启动器（移动版汉化与维护）；Bloa（JS 版移动界面参考）；Titan camera（JS 版移植与界面参考）。许可为 MIT。\n\n### 0.7.0.11-r.6 更新\n\n关闭存储界面时停止插入常驻界面图层，仍会完成界面关闭和鼠标状态恢复。\n\n此版本适用于柠版泰拉启动器 0.5.4.3（415）和 Terraria Build 1720。 需要 absoluteAquarian Utilities。\n\n递归合成烈焰箭仍可能卡住游戏。联机时请让房主和玩家使用相同版本。",
+        "updated": "2026-11-24",
         "localizedNames": {
           "zh-Hans": "魔法存储"
         },
@@ -7381,7 +7390,7 @@
         "modRuntime": "csharp",
         "license": "MIT"
       },
-      "updatedAt": "2026-11-23T15:47:44Z",
+      "updatedAt": "2026-11-24T14:24:43Z",
       "runtime": "csharp",
       "publishedAt": "2026-11-19T00:00:00Z"
     },
@@ -7648,11 +7657,11 @@
       "uid": "ffacb771-9540-5b79-bf9d-f28d8a3e705e",
       "id": "SilkyUIFramework",
       "name": "SilkyUI",
-      "version": "0.3.0-ningcs.1.fix.6",
+      "version": "0.3.0-r.2",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-SilkyUIFramework-v0.3.0-ningcs.1.fix.6/SilkyUIFramework-0.3.0-ningcs.1.fix.6.bl",
-        "size": 1203251,
-        "sha256": "7690614bef9995780a3fbb3cc900107affc1e3a47761199b92f580a4b7fb19a6"
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-SilkyUIFramework-v0.3.0-r.2/SilkyUIFramework-0.3.0-r.2.bl",
+        "size": 1204615,
+        "sha256": "e6a986349b07fa2d597a89ca70e8df10c7fede0d6e2a4701bb65ec813b660c9d"
       },
       "files": [
         "manifest.json",
@@ -7667,7 +7676,7 @@
         "uid": "ffacb771-9540-5b79-bf9d-f28d8a3e705e",
         "id": "SilkyUIFramework",
         "name": "SilkyUI",
-        "version": "0.3.0-ningcs.1.fix.6",
+        "version": "0.3.0-r.2",
         "blVersion": 3,
         "entry": "SilkyUIFramework.cs",
         "gameVersion": [
@@ -7692,17 +7701,17 @@
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3403460014"
           }
         ],
-        "description": "供更好的体验等模组使用的界面前置库，提供布局、控件和绘制接口。",
+        "description": "供更好的体验等模组使用的界面前置库，提供布局、控件和绘制接口。\n\n### 0.3.0-r.2 更新\n\n关闭的面板暂不插入游戏绘制图层，无需切换绘制批次。打开后按原有顺序绘制。\n\n此版本适用于柠版泰拉启动器 0.5.4.3（415）和 Terraria Build 1720。",
         "localizedNames": {
           "zh-Hans": "SilkyUI"
         },
         "localizedSummaries": {
           "zh-Hans": "供更好的体验等模组使用的界面前置库，提供布局、控件和绘制接口。"
         },
-        "updated": "2026-11-19",
+        "updated": "2026-11-24",
         "modRuntime": "csharp"
       },
-      "updatedAt": "2026-11-19T00:00:00Z",
+      "updatedAt": "2026-11-24T14:24:42Z",
       "runtime": "csharp",
       "publishedAt": "2026-11-19T00:00:00Z"
     },
@@ -7999,11 +8008,11 @@
       "uid": "1fc8cd8c-16f5-58b5-88bb-0c5af9e4b27b",
       "id": "BossCursor",
       "name": "Boss 方位指示（C#）",
-      "version": "3.0.1-ningcs.1.fix.20261117.2",
+      "version": "3.0.1-r.2",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-BossCursor-v3.0.1-ningcs.1.fix.20261117.2/BossCursor-3.0.1-ningcs.1.fix.20261117.2.bl",
-        "size": 32030,
-        "sha256": "852012a94b2ad8c9d7051f1a7e8468ad30bfbae479ef2d9dad0230186817edc8"
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-BossCursor-v3.0.1-r.2/BossCursor-3.0.1-r.2.bl",
+        "size": 33215,
+        "sha256": "48258b9f60a8a63ae03b526d78c787d437ee931a1a2e097af7b3bc23aa93983c"
       },
       "files": [
         "manifest.json",
@@ -8020,7 +8029,7 @@
         "uid": "1fc8cd8c-16f5-58b5-88bb-0c5af9e4b27b",
         "id": "BossCursor",
         "name": "Boss 方位指示（C#）",
-        "version": "3.0.1-ningcs.1.fix.20261117.2",
+        "version": "3.0.1-r.2",
         "blVersion": 3,
         "entry": "BossCursor.cs",
         "gameVersion": [
@@ -8050,15 +8059,15 @@
           "zh-Hans": "Boss 方位指示（C#）",
           "en-US": "Boss Cursor (C# port)"
         },
-        "description": "在屏幕上指示 Boss 所在方向，方便追踪离开视野的目标。",
-        "updated": "2026-11-19",
+        "description": "在屏幕上指示 Boss 所在方向，方便追踪离开视野的目标。\n\n### 3.0.1-r.2 更新\n\n关闭指示器或找不到可显示的 Boss 时不再添加指示器图层。\n\n此版本适用于柠版泰拉启动器 0.5.4.3（415）和 Terraria Build 1720。",
+        "updated": "2026-11-24",
         "localizedSummaries": {
           "zh-Hans": "在屏幕上指示 Boss 所在方向，方便追踪离开视野的目标。"
         },
         "modRuntime": "csharp",
         "license": "GPL-3.0"
       },
-      "updatedAt": "2026-11-19T00:00:00Z",
+      "updatedAt": "2026-11-24T14:24:43Z",
       "runtime": "csharp",
       "publishedAt": "2026-11-19T00:00:00Z"
     },
@@ -8483,11 +8492,11 @@
       "uid": "975fcf89-1436-5ff1-9054-25e0fa9fe382",
       "id": "HPAware",
       "name": "生命感知（C#）",
-      "version": "1.0.6.1-ningcs.1.zh.1.fix.1",
+      "version": "1.0.6.1-r.2",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-HPAware-v1.0.6.1-ningcs.1.zh.1.fix.1/HPAware-1.0.6.1-ningcs.1.zh.1.fix.1.bl",
-        "size": 45128,
-        "sha256": "0225060bdf769201f42b84f7281c3f948c082ae42666fff1d4c4be006d86e672"
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-HPAware-v1.0.6.1-r.2/HPAware-1.0.6.1-r.2.bl",
+        "size": 46259,
+        "sha256": "380747069a07f85b7a68454ab7b4bdc571fe9e82c08a093a850819526b1fc09e"
       },
       "files": [
         "manifest.json",
@@ -8502,7 +8511,7 @@
         "uid": "975fcf89-1436-5ff1-9054-25e0fa9fe382",
         "id": "HPAware",
         "name": "生命感知（C#）",
-        "version": "1.0.6.1-ningcs.1.zh.1.fix.1",
+        "version": "1.0.6.1-r.2",
         "blVersion": 3,
         "entry": "HPAware.cs",
         "gameVersion": [
@@ -8527,8 +8536,8 @@
             "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2564503881"
           }
         ],
-        "description": "显示受伤和低生命值提示、生命条、减益图标及声音效果。可按需开启灰度和音乐衰减。",
-        "updated": "2026-11-19",
+        "description": "显示受伤和低生命值提示、生命条、减益图标及声音效果。可按需开启灰度和音乐衰减。\n\n### 1.0.6.1-r.2 更新\n\n药水提示、减益提示和生命条显示时才各自插入绘制图层。\n\n此版本适用于柠版泰拉启动器 0.5.4.3（415）和 Terraria Build 1720。",
+        "updated": "2026-11-24",
         "pages": [
           {
             "title": "更新日志",
@@ -8547,7 +8556,7 @@
         },
         "modRuntime": "csharp"
       },
-      "updatedAt": "2026-11-19T00:00:00Z",
+      "updatedAt": "2026-11-24T14:24:43Z",
       "runtime": "csharp",
       "publishedAt": "2026-11-19T00:00:00Z"
     },
@@ -8684,11 +8693,11 @@
       "uid": "fcdb0fd4-ff58-5e43-a81e-bed6b3bf11fc",
       "id": "LootBeams",
       "name": "掉落光柱（C#）",
-      "version": "1.9.4.5-r.2",
+      "version": "1.9.4.5-r.3",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-LootBeams-v1.9.4.5-r.2/LootBeams-1.9.4.5-r.2.bl",
-        "size": 72455,
-        "sha256": "d8b9bd4473a4dd641ff2e40ae47e1edab10ece0014a01691198f2060bd57e1a0"
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-LootBeams-v1.9.4.5-r.3/LootBeams-1.9.4.5-r.3.bl",
+        "size": 73611,
+        "sha256": "26564a522728816e6b1ff9e1433cecc61c633ee7751a74927f1c025d0324061f"
       },
       "files": [
         "manifest.json",
@@ -8703,7 +8712,7 @@
         "uid": "fcdb0fd4-ff58-5e43-a81e-bed6b3bf11fc",
         "id": "LootBeams",
         "name": "掉落光柱（C#）",
-        "version": "1.9.4.5-r.2",
+        "version": "1.9.4.5-r.3",
         "blVersion": 3,
         "entry": "LootBeams.cs",
         "gameVersion": [
@@ -8733,14 +8742,14 @@
           "zh-Hans": "掉落光柱（C#）",
           "en-US": "Loot Beams (C# port)"
         },
-        "description": "按掉落物稀有度、价值和配置名单显示光柱、光晕与颜色。可关闭叠加绘制。\n\n修复为 JS 模组掉落物绘制光柱时查找物品编号报错。颜色、允许名单和屏蔽名单按稳定物品名称匹配。\n\n适用于柠版泰拉启动器 0.5.4 和 Terraria Build 1720。与同功能 JS 版可按需选用。",
+        "description": "按掉落物稀有度、价值和配置名单显示光柱、光晕与颜色。可关闭叠加绘制。\n\n修复为 JS 模组掉落物绘制光柱时查找物品编号报错。颜色、允许名单和屏蔽名单按稳定物品名称匹配。\n\n适用于柠版泰拉启动器 0.5.4 和 Terraria Build 1720。与同功能 JS 版可按需选用。\n\n### 1.9.4.5-r.3 更新\n\n有实际掉落物时才初始化并更新光柱状态。拾取后再次掉落会重新播放渐入动画。\n\n此版本适用于柠版泰拉启动器 0.5.4.3（415）和 Terraria Build 1720。",
         "localizedSummaries": {
           "zh-Hans": "按掉落物稀有度、价值和配置名单显示光柱、光晕与颜色。可关闭叠加绘制。"
         },
-        "updated": "2026-11-21",
+        "updated": "2026-11-24",
         "modRuntime": "csharp"
       },
-      "updatedAt": "2026-11-21T04:16:13Z",
+      "updatedAt": "2026-11-24T14:24:43Z",
       "runtime": "csharp",
       "publishedAt": "2026-11-19T00:00:00Z"
     },
@@ -9086,12 +9095,12 @@
       "uid": "a49e2c81-9d3b-4f7a-b112-6e8a4c5d9023",
       "id": "PrismTomeMod",
       "name": "哈基米的泰拉",
-      "version": "0.5.0",
+      "version": "0.5.0-r.2",
       "manifest": {
         "uid": "a49e2c81-9d3b-4f7a-b112-6e8a4c5d9023",
         "id": "PrismTomeMod",
         "name": "哈基米的泰拉",
-        "version": "0.5.0",
+        "version": "0.5.0-r.2",
         "authors": [
           {
             "name": "哈基米 (Gemini)",
@@ -9110,9 +9119,9 @@
           }
         ],
         "category": "武器",
-        "summary": "包含法师武器「星棱翡翠法典」、召唤师武器「星棱律令权杖」和测伤靶偶。两把武器可随 Boss 进度成长。",
+        "summary": "含13位主线Boss平滑进化的双职业成长武器：法师《星棱翡翠法典》与召唤师《星棱律令权杖》（纳米激光炮/相位猎手/星穹环卫盾/量子奇点黑洞），附带DPS测伤靶偶。",
         "license": "MIT",
-        "updated": "2026-11-20",
+        "updated": "2026-11-24",
         "blVersion": 3,
         "gameVersion": [
           301720,
@@ -9120,7 +9129,7 @@
         ],
         "dependencies": [],
         "entry": "PrismTomeMod.cs",
-        "description": "包含法师武器「星棱翡翠法典」、召唤师武器「星棱律令权杖」和测伤靶偶。两把武器可随 Boss 进度成长。",
+        "description": "包含法师武器「星棱翡翠法典」、召唤师武器「星棱律令权杖」和测伤靶偶。两把武器可随 Boss 进度成长。\n\n### 0.5.0-r.2 更新\n\n只在手持棱镜漏斗法杖并激活选择器时绘制召唤界面。\n\n此版本适用于柠版泰拉启动器 0.5.4.3（415）和 Terraria Build 1720。",
         "localizedNames": {
           "zh-Hans": "哈基米的泰拉"
         },
@@ -9143,11 +9152,11 @@
       ],
       "runtime": "csharp",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-PrismTomeMod-v0.5.0/PrismTomeMod-0.5.0.bl",
-        "size": 881339,
-        "sha256": "3d4dfe7b37366c97ae61cd5f821e06d5d811c678afe8bfc0919ec0f06af4fda3"
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-PrismTomeMod-v0.5.0-r.2/PrismTomeMod-0.5.0-r.2.bl",
+        "size": 883182,
+        "sha256": "20bf7d27fe7a2f1a8c54d6bbae23ccb06212a1c6c3a3e691f02f4a6e62758afb"
       },
-      "updatedAt": "2026-11-20T00:00:00Z",
+      "updatedAt": "2026-11-24T14:24:43Z",
       "publishedAt": "2026-11-20T00:00:00Z"
     },
     {

@@ -20,3 +20,9 @@ Port of the tModLoader mod *Abuse Goblin*.
 
 Available in English, Portuguese, Spanish, French, German, Italian, Polish,
 Russian, Chinese (Simplified and Traditional), Japanese and Korean.
+
+### 1.0.0-r.2 更新
+
+没有哥布林工匠时停止脚本的 NPC 槽位遍历，工匠出现后恢复弹幕判定。
+
+此版本适用于柠版泰拉启动器 0.5.4.3（415）和 Terraria Build 1720。

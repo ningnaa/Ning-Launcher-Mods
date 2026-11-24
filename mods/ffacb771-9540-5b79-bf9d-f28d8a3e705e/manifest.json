@@ -2,7 +2,7 @@
   "uid": "ffacb771-9540-5b79-bf9d-f28d8a3e705e",
   "id": "SilkyUIFramework",
   "name": "SilkyUI",
-  "version": "0.3.0-ningcs.1.fix.6",
+  "version": "0.3.0-r.2",
   "blVersion": 3,
   "entry": "SilkyUIFramework.cs",
   "gameVersion": [
@@ -27,13 +27,13 @@
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3403460014"
     }
   ],
-  "description": "供更好的体验等模组使用的界面前置库，提供布局、控件和绘制接口。",
+  "description": "供更好的体验等模组使用的界面前置库，提供布局、控件和绘制接口。\n\n### 0.3.0-r.2 更新\n\n关闭的面板暂不插入游戏绘制图层，无需切换绘制批次。打开后按原有顺序绘制。\n\n此版本适用于柠版泰拉启动器 0.5.4.3（415）和 Terraria Build 1720。",
   "localizedNames": {
     "zh-Hans": "SilkyUI"
   },
   "localizedSummaries": {
     "zh-Hans": "供更好的体验等模组使用的界面前置库，提供布局、控件和绘制接口。"
   },
-  "updated": "2026-11-19",
+  "updated": "2026-11-24",
   "modRuntime": "csharp"
 }

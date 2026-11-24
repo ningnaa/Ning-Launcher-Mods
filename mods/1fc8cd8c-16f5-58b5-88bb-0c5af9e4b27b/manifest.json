@@ -2,7 +2,7 @@
   "uid": "1fc8cd8c-16f5-58b5-88bb-0c5af9e4b27b",
   "id": "BossCursor",
   "name": "Boss 方位指示（C#）",
-  "version": "3.0.1-ningcs.1.fix.20261117.2",
+  "version": "3.0.1-r.2",
   "blVersion": 3,
   "entry": "BossCursor.cs",
   "gameVersion": [
@@ -32,8 +32,8 @@
     "zh-Hans": "Boss 方位指示（C#）",
     "en-US": "Boss Cursor (C# port)"
   },
-  "description": "在屏幕上指示 Boss 所在方向，方便追踪离开视野的目标。",
-  "updated": "2026-11-19",
+  "description": "在屏幕上指示 Boss 所在方向，方便追踪离开视野的目标。\n\n### 3.0.1-r.2 更新\n\n关闭指示器或找不到可显示的 Boss 时不再添加指示器图层。\n\n此版本适用于柠版泰拉启动器 0.5.4.3（415）和 Terraria Build 1720。",
+  "updated": "2026-11-24",
   "localizedSummaries": {
     "zh-Hans": "在屏幕上指示 Boss 所在方向，方便追踪离开视野的目标。"
   },

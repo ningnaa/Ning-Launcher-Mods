@@ -2,23 +2,19 @@
   "uid": "77b38952-98d6-4e18-a301-638d54c4bfd0",
   "id": "townnpchome",
   "name": "TownNPC Home",
-  "version": "1.0.0-ningzh.1",
+  "version": "1.0.0-r.2",
   "authors": [
     {
       "name": "Animatak_",
       "avatar": "animatak.png",
       "color": "#841FFF",
       "link": "https://discord.com/invite/tl-pro-402880167737032705",
-      "role": "作者"
-    },
-    {
-      "name": "柠版泰拉启动器",
-      "role": "移动版汉化与维护"
+      "role": "Autor"
     }
   ],
-  "category": "实用工具",
+  "category": "Utilidade",
   "summary": "Teleporta NPCs de cidade para suas casas.",
-  "updated": "2026-09-27",
+  "updated": "2026-11-24",
   "blVersion": 2,
   "gameVersion": [
     301543,
@@ -36,5 +32,6 @@
     "language": "zh-Hans",
     "revision": 1,
     "baseVersion": "1.0.0"
-  }
+  },
+  "description": "### 1.0.0-r.2 更新\n\n只在实际运行城镇 NPC 行为时处理住房变更。使用回家指令时才遍历所有已入住的城镇 NPC。\n\n此版本适用于柠版泰拉启动器 0.5.4.3（415）和 Terraria Build 1720。"
 }

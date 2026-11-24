@@ -1,8 +1,8 @@
 {
   "format": 1,
   "applicationId": "com.ningloader.mods",
-  "versionCode": 415,
-  "versionName": "0.5.4.3",
+  "versionCode": 416,
+  "versionName": "0.5.4.4",
   "enabled": true,
-  "description": "大量bug修复"
+  "description": "新增首次启动声明，修复小地图保存、切换世界时的模组绘制报错和模组菜单搜索崩溃。"
 }

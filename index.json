@@ -1,5 +1,32 @@
 {
   "format": 1,
+  "externalMods": [
+    {
+      "uid": "ae638aa6-fef0-5958-9587-5ac35faa698c",
+      "version": "2.2.4-r.14",
+      "externalUrl": "https://pan.quark.cn/s/c5dc85957ede",
+      "runtime": "csharp",
+      "manifest": {
+        "uid": "ae638aa6-fef0-5958-9587-5ac35faa698c",
+        "id": "CalamityMod",
+        "name": "Calamity Mod",
+        "localizedNames": { "zh-Hans": "灾厄模组" },
+        "version": "2.2.4-r.14",
+        "category": "内容",
+        "entry": "CalamityMod.dll",
+        "blVersion": 2,
+        "gameVersion": [301720, 301720],
+        "license": "Azafure, LLC",
+        "authors": [
+          { "name": "The Calamity Dev Team", "role": "原作" },
+          { "name": "柠版泰拉启动器", "role": "移动版汉化与维护" }
+        ],
+        "updated": "2026-11-24",
+        "summary": "从网盘下载后，在启动器中本地导入",
+        "description": "本下载栏不提供灾厄下载 灾厄太大了实在没办法提供在线下载 故而你需要自行进入网盘下载更新\n\n请持续保持更新最新版 出现问题可带上日志到频道反馈"
+      }
+    }
+  ],
   "mods": [
     {
       "uid": "31b7ee57-73c8-4a66-ab91-c44440430ee7",

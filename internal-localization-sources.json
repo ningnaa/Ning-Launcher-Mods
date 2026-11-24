@@ -2541,6 +2541,19 @@
       "sha256": "c89daef24d8e50e57c68e840748000687b52dc1cca39e6e7d108aa2a31d93f9d",
       "size": 1334806,
       "scope": "mobile-storage-and-gameplay-fixes"
+    },
+    {
+      "uid": "7ac6559e-6c48-5dc2-aa96-432cf366faeb",
+      "id": "ImproveGame",
+      "tag": "mod-ImproveGame-v1.8.2-r.6",
+      "file": "ImproveGame-1.8.2-r.6.bl",
+      "version": "1.8.2-r.6",
+      "baseVersion": "1.8.2-r.5",
+      "originalSha256": "098e78922b4a1d5a19e9aaa1e8c45e14c76969efd4a9f136327de2bc0314e7a1",
+      "sha256": "3c3c3782ccbe5ed87846fca1ef2810af96df0ed7fd1b994435305e44d50dc215",
+      "size": 9184038,
+      "scope": "mobile-boss-and-drone-rendering-fixes",
+      "sourceCommit": "c2681fe7f17170a3c4713eb3fa6c3d9f9303504a"
     }
   ],
   "authorChineseSources": {

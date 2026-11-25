@@ -2684,6 +2684,18 @@
       "size": 37866,
       "scope": "mobile-idle-work-reduction",
       "sourceCommit": "2b6fb347"
+    },
+    {
+      "uid": "ffacb771-9540-5b79-bf9d-f28d8a3e705e",
+      "id": "SilkyUIFramework",
+      "tag": "mod-SilkyUIFramework-v0.3.0-r.3",
+      "file": "SilkyUIFramework-0.3.0-r.3.bl",
+      "version": "0.3.0-r.3",
+      "baseVersion": "0.3.0-r.2",
+      "originalSha256": "e6a986349b07fa2d597a89ca70e8df10c7fede0d6e2a4701bb65ec813b660c9d",
+      "sha256": "71b907442481ed5a2352d8e7d363d42c2ffcdd42d1479b1bda0db83237e8088a",
+      "size": 1205132,
+      "scope": "mobile-ui-render-target"
     }
   ],
   "authorChineseSources": {

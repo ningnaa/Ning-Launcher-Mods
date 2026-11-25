@@ -2696,6 +2696,19 @@
       "sha256": "71b907442481ed5a2352d8e7d363d42c2ffcdd42d1479b1bda0db83237e8088a",
       "size": 1205132,
       "scope": "mobile-ui-render-target"
+    },
+    {
+      "uid": "8f4c2a7e-1b3d-4a55-9c21-7d6b0f3a9e12",
+      "id": "TableForConversionProMax",
+      "version": "1.1.2.PE",
+      "tag": "mod-TableForConversionProMax-v1.1.2.PE",
+      "file": "TableForConversionProMax-1.1.2.PE.bl",
+      "sha256": "639706894ac90ae0ed65a254ab573e6365b8ccd7134fe6ce39d88742770bfd36",
+      "size": 91072,
+      "baseVersion": "1.1.2.PE",
+      "originalSha256": "4969b6e600516f62b2641b9e9ceeeb0be82639b23e74b23a904c04f3c55ee719",
+      "scope": "submitted-mobile-release-catalog-packaging",
+      "sourceUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3727789061"
     }
   ],
   "authorChineseSources": {

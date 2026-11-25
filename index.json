@@ -130,13 +130,17 @@
         "authors": [
           {
             "name": "Orion",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "steam.png",
             "color": "#F0F0F0",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2817496179"
+          },
+          {
+            "name": "柠版泰拉启动器",
+            "role": "移动版汉化与维护"
           }
         ],
-        "category": "Visual",
+        "category": "视觉效果",
         "updated": "2026-11-25",
         "blVersion": 2,
         "gameVersion": [
@@ -194,26 +198,30 @@
         "authors": [
           {
             "name": "Mantovani",
-            "role": "Bunny Loader port, fixes & optimization",
+            "role": "Bunny Loader 移植、修复与优化",
             "avatar": "mantovani.webp",
             "color": "#FFD700"
           },
           {
             "name": "jopojelly",
-            "role": "Original mod creator",
+            "role": "原模组作者",
             "avatar": "jopojelly.webp",
             "color": "#FFFFFF",
             "link": "https://forums.terraria.org/index.php?threads/begone-evil-disable-corruption-spread.72285/"
+          },
+          {
+            "name": "柠版泰拉启动器",
+            "role": "移动版汉化与维护"
           }
         ],
-        "category": "Utilidade",
+        "category": "实用工具",
         "summary": "Disables natural Corruption, Crimson and Hallow biome spread by default, with a per-world /spread toggle.",
         "updated": "2026-11-25",
         "blVersion": 2,
         "entry": "main.js",
         "links": [
           {
-            "title": "Original mod",
+            "title": "原模组",
             "url": "https://forums.terraria.org/index.php?threads/begone-evil-disable-corruption-spread.72285/"
           }
         ],
@@ -329,13 +337,17 @@
         "authors": [
           {
             "name": "GST378",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "lemon.webp",
             "color": "#FEFE00",
             "link": "https://youtube.com/@gst_378?si=-18HzRizRpiFJrEP"
+          },
+          {
+            "name": "柠版泰拉启动器",
+            "role": "移动版汉化与维护"
           }
         ],
-        "category": "Utilities",
+        "category": "实用工具",
         "summary": "Replaces the traditional Goblin Tinkerer interface with a new system that allows you to browse and select item prefixes directly.",
         "updated": "2026-11-25",
         "blVersion": 2,
@@ -603,11 +615,11 @@
             "role": "灵感来源"
           },
           {
-            "name": "柠娜",
-            "role": "维护者"
+            "name": "柠版泰拉启动器",
+            "role": "移动版汉化与维护"
           }
         ],
-        "category": "Itens",
+        "category": "物品",
         "summary": "Point at any container (chest, piggy bank, safe, forge, void vault) to see what is inside.",
         "license": "GPL-3.0",
         "updated": "2026-11-25",
@@ -838,13 +850,17 @@
         "authors": [
           {
             "name": "Gorffy, Ink of the Eternity, Litos the Litium",
-            "role": "Original Creator",
+            "role": "原作者",
             "avatar": "steam.png",
             "color": "#FFFFFF",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3331547573"
+          },
+          {
+            "name": "柠版泰拉启动器",
+            "role": "移动版汉化与维护"
           }
         ],
-        "category": "Gameplay",
+        "category": "玩法",
         "updated": "2026-11-25",
         "blVersion": 2,
         "gameVersion": [
@@ -4563,8 +4579,8 @@
             "role": "原作者"
           },
           {
-            "name": "柠娜",
-            "role": "Bunny Loader 移植者"
+            "name": "柠版泰拉启动器",
+            "role": "移动版汉化与维护"
           }
         ],
         "license": "",
@@ -5211,7 +5227,7 @@
         "category": "Weapons",
         "type": "mod",
         "summary": "包含星空、暗星、成长棱镜、深海剑和深渊法杖，支持进度成长、武器等级和专属技能。",
-        "description": "【v2.1.0】\n1.重置了暗星的武器贴图。\n2. 全部武器配方改用代码名称引用（原初核心 / 坠落之星 / 铁锭组 / 水桶 /工作台），不再依赖硬编码 id，更新游戏后不会失效。\n3. 所有 Leveled（真·）武器改为『原武器 + 原武器配方（去掉原初核心）』升级合成。\n4. 补全暗星、星空的介绍与世界进度指引（tooltip）。\n5. 深海剑统一为 DeepSea。\n\n【内容】\n一、神兵体系\n1. 『星空』射手步枪：高射速高暴击，技能【日星隐曜】【黑洞】【白洞】【恒星】。\n2. 『暗星』重型狙击枪：极慢拉栓、极高单发伤害、无限穿透，技能【星蚀】【陨星】【星链】【奇点降临】。\n3. 『成长棱镜』：击杀怪物获取经验，等级越高召唤越多棱镜神剑。\n4. 『深海剑』：挥动释放深海礁石，半空分裂为三枚追踪碎岩。\n5. 『深渊法杖』：持续激光，命中叠能量、概率附加减益与回蓝。\n\n二、原初体系\n1. 【原初残影】夜晚生成，击败掉落原初碎片。\n2. 8 个原初碎片合成【原初核心】；月后用 5 个夜明锭在远古操纵机无限量产。\n\n三、等级与能量\n1. 命中积攒星空能量（上限 100），需在设置里拖出 8 个技能键。\n2. Leveled 版武器拥有独立经验池与称号。\n\n本模组参考了 tModLoader 的部分模组与启动器上的部分模组代码制作。\n\n2.1.1-r.1 能量条和技能输入按手持条件运行。成长经验迁入角色模组数据，真·星空由本地角色的库存触发补经验。",
+        "description": "包含星空、暗星、成长棱镜、深海剑和深渊法杖，支持进度成长、武器等级和专属技能。",
         "license": "MIT",
         "links": [],
         "pages": [
@@ -5440,12 +5456,8 @@
             "link": "https://github.com/JavidPack/AutoTrash"
           },
           {
-            "name": "柠娜",
-            "role": "Bunny Loader 移植者"
-          },
-          {
-            "name": "柠娜",
-            "role": "维护者"
+            "name": "柠版泰拉启动器",
+            "role": "移动版汉化与维护"
           }
         ],
         "license": "",
@@ -6129,6 +6141,10 @@
           {
             "name": "顾楠骨",
             "role": "基于Bunny Loader移植"
+          },
+          {
+            "name": "柠版泰拉启动器",
+            "role": "移动版汉化与维护"
           }
         ],
         "links": [

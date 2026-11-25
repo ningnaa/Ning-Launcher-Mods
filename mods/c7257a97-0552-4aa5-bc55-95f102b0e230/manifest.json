@@ -9,11 +9,11 @@
       "role": "灵感来源"
     },
     {
-      "name": "柠娜",
-      "role": "维护者"
+      "name": "柠版泰拉启动器",
+      "role": "移动版汉化与维护"
     }
   ],
-  "category": "Itens",
+  "category": "物品",
   "summary": "Point at any container (chest, piggy bank, safe, forge, void vault) to see what is inside.",
   "license": "GPL-3.0",
   "updated": "2026-11-25",

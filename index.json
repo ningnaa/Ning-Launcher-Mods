@@ -105,11 +105,11 @@
       "uid": "0c2e1d93-1149-4942-adb2-860ad8a9b965",
       "id": "atmospheric-torches",
       "name": "Atmospheric Torches",
-      "version": "1.0.0-ningzh.1",
+      "version": "1.0.0-r.2",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-atmospheric-torches-v1.0.0-ningzh.1/atmospheric-torches-1.0.0-ningzh.1.bl",
-        "sha256": "b6c9c07163821a01f6e618c0f028a4b5bc493944b1b1846bc0b70aad23ea0121",
-        "size": 582939
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-atmospheric-torches-v1.0.0-r.2/atmospheric-torches-1.0.0-r.2.bl",
+        "size": 583643,
+        "sha256": "5dfbebfb325bb72c09652b320f806349fa9d4bf7363ecbb77d4a44ba7adace1a"
       },
       "files": [
         "manifest.json",
@@ -117,29 +117,27 @@
         "banner.gif",
         "description.md",
         "authors/steam.png",
-        "description_zh-Hans.md"
+        "description_zh-Hans.md",
+        "changelog.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "0c2e1d93-1149-4942-adb2-860ad8a9b965",
         "id": "atmospheric-torches",
         "name": "Atmospheric Torches",
         "summary": "This mod simply adds an orange tint to normal torches and tiki torches, with their placed tiles and biome torches getting a slight flicker for atmosphere.",
-        "version": "1.0.0-ningzh.1",
+        "version": "1.0.0-r.2",
         "authors": [
           {
             "name": "Orion",
-            "role": "原作者",
+            "role": "Original Creator",
             "avatar": "steam.png",
             "color": "#F0F0F0",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=2817496179"
-          },
-          {
-            "name": "柠版泰拉启动器",
-            "role": "移动版汉化与维护"
           }
         ],
-        "category": "视觉效果",
-        "updated": "2026-10-15",
+        "category": "Visual",
+        "updated": "2026-11-25",
         "blVersion": 2,
         "gameVersion": [
           301720,
@@ -157,19 +155,26 @@
           "language": "zh-Hans",
           "revision": 1,
           "baseVersion": "1.0.0"
-        }
+        },
+        "pages": [
+          {
+            "title": "更新日志",
+            "file": "changelog_zh-Hans.md"
+          }
+        ]
       },
-      "runtime": "js"
+      "runtime": "js",
+      "updatedAt": "2026-11-25T12:41:10Z"
     },
     {
       "uid": "6af3b741-65ee-4f5f-99b0-77018638d9fd",
       "id": "disablecorruptionspread",
       "name": "Begone, Evil! (Disable Evil Biome Spread)",
-      "version": "1.0-ningzh.1",
+      "version": "1.0-r.2",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-disablecorruptionspread-v1.0-ningzh.1/disablecorruptionspread-1.0-ningzh.1.bl",
-        "sha256": "67f02672f7f7a345b58634577931efca4acdcf2ffdc04dcf136ffe1ce5fd0cd5",
-        "size": 35320
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-disablecorruptionspread-v1.0-r.2/disablecorruptionspread-1.0-r.2.bl",
+        "size": 35948,
+        "sha256": "836facfb1e1fbd576bf02d3c354823b00606648af788d2fbc050d2ce4dddc88c"
       },
       "files": [
         "manifest.json",
@@ -185,34 +190,30 @@
         "uid": "6af3b741-65ee-4f5f-99b0-77018638d9fd",
         "id": "disablecorruptionspread",
         "name": "Begone, Evil! (Disable Evil Biome Spread)",
-        "version": "1.0-ningzh.1",
+        "version": "1.0-r.2",
         "authors": [
           {
             "name": "Mantovani",
-            "role": "Bunny Loader 移植、修复与优化",
+            "role": "Bunny Loader port, fixes & optimization",
             "avatar": "mantovani.webp",
             "color": "#FFD700"
           },
           {
             "name": "jopojelly",
-            "role": "原模组作者",
+            "role": "Original mod creator",
             "avatar": "jopojelly.webp",
             "color": "#FFFFFF",
             "link": "https://forums.terraria.org/index.php?threads/begone-evil-disable-corruption-spread.72285/"
-          },
-          {
-            "name": "柠版泰拉启动器",
-            "role": "移动版汉化与维护"
           }
         ],
-        "category": "实用工具",
+        "category": "Utilidade",
         "summary": "Disables natural Corruption, Crimson and Hallow biome spread by default, with a per-world /spread toggle.",
-        "updated": "2026-10-04",
+        "updated": "2026-11-25",
         "blVersion": 2,
         "entry": "main.js",
         "links": [
           {
-            "title": "原模组",
+            "title": "Original mod",
             "url": "https://forums.terraria.org/index.php?threads/begone-evil-disable-corruption-spread.72285/"
           }
         ],
@@ -226,9 +227,16 @@
           "language": "zh-Hans",
           "revision": 1,
           "baseVersion": "1.0"
-        }
+        },
+        "pages": [
+          {
+            "title": "更新日志",
+            "file": "changelog_zh-Hans.md"
+          }
+        ]
       },
-      "runtime": "js"
+      "runtime": "js",
+      "updatedAt": "2026-11-25T12:41:10Z"
     },
     {
       "uid": "c83a16d7-d5e8-459d-b5fa-d7ab63117102",
@@ -297,11 +305,11 @@
       "uid": "9c6ebfc9-4520-490d-942a-348c41648a4d",
       "id": "better-reforge",
       "name": "Better Reforge",
-      "version": "1.0.1-ningzh.1",
+      "version": "1.0.1-r.2",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-better-reforge-v1.0.1-ningzh.1/better-reforge-1.0.1-ningzh.1.bl",
-        "sha256": "4e2577288eefa7b5545dafabcfeb547359a2ba1574a41c25be546062c42a03c3",
-        "size": 1553908
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-better-reforge-v1.0.1-r.2/better-reforge-1.0.1-r.2.bl",
+        "size": 1554956,
+        "sha256": "b44c4309d3b200b5a2ad587eec9fc76f16a18c936312fac918035cbaac51034f"
       },
       "files": [
         "manifest.json",
@@ -309,29 +317,27 @@
         "description.md",
         "authors/lemon.webp",
         "assets/preview.png",
-        "description_zh-Hans.md"
+        "description_zh-Hans.md",
+        "changelog.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "9c6ebfc9-4520-490d-942a-348c41648a4d",
         "id": "better-reforge",
         "name": "Better Reforge",
-        "version": "1.0.1-ningzh.1",
+        "version": "1.0.1-r.2",
         "authors": [
           {
             "name": "GST378",
-            "role": "原作者",
+            "role": "Original Creator",
             "avatar": "lemon.webp",
             "color": "#FEFE00",
             "link": "https://youtube.com/@gst_378?si=-18HzRizRpiFJrEP"
-          },
-          {
-            "name": "柠版泰拉启动器",
-            "role": "移动版汉化与维护"
           }
         ],
-        "category": "实用工具",
+        "category": "Utilities",
         "summary": "Replaces the traditional Goblin Tinkerer interface with a new system that allows you to browse and select item prefixes directly.",
-        "updated": "2026-10-04",
+        "updated": "2026-11-25",
         "blVersion": 2,
         "gameVersion": [
           301720,
@@ -349,9 +355,16 @@
           "language": "zh-Hans",
           "revision": 1,
           "baseVersion": "1.0.1"
-        }
+        },
+        "pages": [
+          {
+            "title": "更新日志",
+            "file": "changelog_zh-Hans.md"
+          }
+        ]
       },
-      "runtime": "js"
+      "runtime": "js",
+      "updatedAt": "2026-11-25T12:41:10Z"
     },
     {
       "uid": "5bd9553e-8439-4ddb-a12c-805b34b855e8",
@@ -565,11 +578,11 @@
       "uid": "c7257a97-0552-4aa5-bc55-95f102b0e230",
       "id": "chestpeek",
       "name": "容器预览",
-      "version": "0.1.0-ningzh.1.fix.1",
+      "version": "0.1.0-r.2",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-chestpeek-v0.1.0-ningzh.1.fix.1/chestpeek-0.1.0-ningzh.1.fix.1.bl",
-        "sha256": "e9a93bcfc9189384a6dd40bdc50f6ae61f06f02b35924d16bd43829a59b8f2ec",
-        "size": 637650
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-chestpeek-v0.1.0-r.2/chestpeek-0.1.0-r.2.bl",
+        "size": 638138,
+        "sha256": "17efe1bbfc56fbe0ba2b80572f8bb4d522deaf04b622d5fcd8375e760ba58cf4"
       },
       "files": [
         "manifest.json",
@@ -583,21 +596,21 @@
         "uid": "c7257a97-0552-4aa5-bc55-95f102b0e230",
         "id": "chestpeek",
         "name": "容器预览",
-        "version": "0.1.0-ningzh.1.fix.1",
+        "version": "0.1.0-r.2",
         "authors": [
           {
             "name": "VowTz",
             "role": "灵感来源"
           },
           {
-            "name": "柠版泰拉启动器",
-            "role": "移动版汉化与维护"
+            "name": "柠娜",
+            "role": "维护者"
           }
         ],
-        "category": "物品",
+        "category": "Itens",
         "summary": "Point at any container (chest, piggy bank, safe, forge, void vault) to see what is inside.",
         "license": "GPL-3.0",
-        "updated": "2026-11-08",
+        "updated": "2026-11-25",
         "blVersion": 2,
         "gameVersion": [
           301720,
@@ -615,9 +628,16 @@
           "language": "zh-Hans",
           "revision": 1,
           "baseVersion": "0.1.0"
-        }
+        },
+        "pages": [
+          {
+            "title": "更新日志",
+            "file": "changelog_zh-Hans.md"
+          }
+        ]
       },
-      "runtime": "js"
+      "runtime": "js",
+      "updatedAt": "2026-11-25T12:41:10Z"
     },
     {
       "uid": "e613a447-d93c-49ca-8c74-f88accbfa996",
@@ -791,11 +811,11 @@
       "uid": "a4f0d04b-f2f0-499b-b4b8-6d89e4bcbd6a",
       "id": "coyote-frames",
       "name": "Coyote Frames",
-      "version": "1.0.0-ningzh.1",
+      "version": "1.0.0-r.2",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-coyote-frames-v1.0.0-ningzh.1/coyote-frames-1.0.0-ningzh.1.bl",
-        "sha256": "a962cc5b15a35ede69bb72144295269249a233838f2b3fa6399b5a699590fbfa",
-        "size": 346568
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-coyote-frames-v1.0.0-r.2/coyote-frames-1.0.0-r.2.bl",
+        "size": 347683,
+        "sha256": "132852be4ed59fcb999436d8326fe4a4165293f35047409cc19071858a0608e3"
       },
       "files": [
         "manifest.json",
@@ -804,30 +824,28 @@
         "description.md",
         "license.md",
         "authors/steam.png",
-        "description_zh-Hans.md"
+        "description_zh-Hans.md",
+        "changelog.md",
+        "changelog_zh-Hans.md"
       ],
       "manifest": {
         "uid": "a4f0d04b-f2f0-499b-b4b8-6d89e4bcbd6a",
         "id": "coyote-frames",
         "name": "Coyote Frames",
         "summary": "Mod that allows player to use Coyote frames that are presented in many other games.",
-        "version": "1.0.0-ningzh.1",
+        "version": "1.0.0-r.2",
         "license": "MIT",
         "authors": [
           {
             "name": "Gorffy, Ink of the Eternity, Litos the Litium",
-            "role": "原作者",
+            "role": "Original Creator",
             "avatar": "steam.png",
             "color": "#FFFFFF",
             "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3331547573"
-          },
-          {
-            "name": "柠版泰拉启动器",
-            "role": "移动版汉化与维护"
           }
         ],
-        "category": "玩法",
-        "updated": "2026-10-22",
+        "category": "Gameplay",
+        "updated": "2026-11-25",
         "blVersion": 2,
         "gameVersion": [
           301720,
@@ -845,9 +863,16 @@
           "language": "zh-Hans",
           "revision": 1,
           "baseVersion": "1.0.0"
-        }
+        },
+        "pages": [
+          {
+            "title": "更新日志",
+            "file": "changelog_zh-Hans.md"
+          }
+        ]
       },
-      "runtime": "js"
+      "runtime": "js",
+      "updatedAt": "2026-11-25T12:41:10Z"
     },
     {
       "uid": "62f7b9da-e712-5f22-b943-dbf5474d5b4c",
@@ -4504,11 +4529,11 @@
       "uid": "444a9868-3515-547a-b2db-f889023c76f3",
       "id": "census",
       "name": "人口普查：城镇居民清单",
-      "version": "0.5.2.8-ningzh.3",
+      "version": "0.5.2.8-r.4",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-census-v0.5.2.8-ningzh.3/census-0.5.2.8-ningzh.3.bl",
-        "sha256": "b9f1d509a63eed0765bddfc5b14c79a779d7fb67b45626809dc41077387ff3ed",
-        "size": 19951
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-census-v0.5.2.8-r.4/census-0.5.2.8-r.4.bl",
+        "size": 20577,
+        "sha256": "a6c02d0e2b10a475e68f354ed83c4d45f02d0369f3397ed1a48d9c7bdb24cb23"
       },
       "files": [
         "manifest.json",
@@ -4522,7 +4547,7 @@
         "uid": "444a9868-3515-547a-b2db-f889023c76f3",
         "id": "census",
         "name": "人口普查：城镇居民清单",
-        "version": "0.5.2.8-ningzh.3",
+        "version": "0.5.2.8-r.4",
         "blVersion": 2,
         "entry": "main.js",
         "gameVersion": [
@@ -4530,7 +4555,7 @@
           301720
         ],
         "category": "界面",
-        "updated": "2026-11-01",
+        "updated": "2026-11-25",
         "author": "jopojelly",
         "authors": [
           {
@@ -4538,8 +4563,8 @@
             "role": "原作者"
           },
           {
-            "name": "柠版泰拉启动器",
-            "role": "移动版汉化与维护"
+            "name": "柠娜",
+            "role": "Bunny Loader 移植者"
           }
         ],
         "license": "",
@@ -4563,9 +4588,15 @@
         "summary": "在背包居住界面查看居民入住条件和状态，并定位已入住居民。",
         "localizedSummaries": {
           "zh-Hans": "在背包居住界面查看居民入住条件和状态，并定位已入住居民。"
-        }
+        },
+        "pages": [
+          {
+            "title": "更新日志",
+            "file": "changelog_zh-Hans.md"
+          }
+        ]
       },
-      "updatedAt": "2026-11-02T18:42:56Z",
+      "updatedAt": "2026-11-25T12:41:10Z",
       "publishedAt": "2026-11-02T16:43:28Z",
       "runtime": "js"
     },
@@ -5139,11 +5170,11 @@
       "uid": "b1241e97-de9b-479f-a5cc-41fddc33aa83",
       "id": "a1",
       "name": "成长型武器：渊海之息",
-      "version": "2.1.1",
+      "version": "2.1.1-r.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-a1-v2.1.1/a1-2.1.1.bl",
-        "size": 150668,
-        "sha256": "1dae44752a9c089967f02547b6f605ca23c469404542766e48d4eb3d72dae0a3"
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-a1-v2.1.1-r.1/a1-2.1.1-r.1.bl",
+        "size": 153050,
+        "sha256": "98f36d515871151dccd07181239be90017b5b897739618da4b8f15898d29c235"
       },
       "files": [
         "manifest.json",
@@ -5158,7 +5189,7 @@
         "uid": "b1241e97-de9b-479f-a5cc-41fddc33aa83",
         "id": "a1",
         "name": "成长型武器：渊海之息",
-        "version": "2.1.1",
+        "version": "2.1.1-r.1",
         "author": "阮汐月",
         "authors": [
           {
@@ -5180,10 +5211,15 @@
         "category": "Weapons",
         "type": "mod",
         "summary": "包含星空、暗星、成长棱镜、深海剑和深渊法杖，支持进度成长、武器等级和专属技能。",
-        "description": "包含星空、暗星、成长棱镜、深海剑和深渊法杖，支持进度成长、武器等级和专属技能。",
+        "description": "【v2.1.0】\n1.重置了暗星的武器贴图。\n2. 全部武器配方改用代码名称引用（原初核心 / 坠落之星 / 铁锭组 / 水桶 /工作台），不再依赖硬编码 id，更新游戏后不会失效。\n3. 所有 Leveled（真·）武器改为『原武器 + 原武器配方（去掉原初核心）』升级合成。\n4. 补全暗星、星空的介绍与世界进度指引（tooltip）。\n5. 深海剑统一为 DeepSea。\n\n【内容】\n一、神兵体系\n1. 『星空』射手步枪：高射速高暴击，技能【日星隐曜】【黑洞】【白洞】【恒星】。\n2. 『暗星』重型狙击枪：极慢拉栓、极高单发伤害、无限穿透，技能【星蚀】【陨星】【星链】【奇点降临】。\n3. 『成长棱镜』：击杀怪物获取经验，等级越高召唤越多棱镜神剑。\n4. 『深海剑』：挥动释放深海礁石，半空分裂为三枚追踪碎岩。\n5. 『深渊法杖』：持续激光，命中叠能量、概率附加减益与回蓝。\n\n二、原初体系\n1. 【原初残影】夜晚生成，击败掉落原初碎片。\n2. 8 个原初碎片合成【原初核心】；月后用 5 个夜明锭在远古操纵机无限量产。\n\n三、等级与能量\n1. 命中积攒星空能量（上限 100），需在设置里拖出 8 个技能键。\n2. Leveled 版武器拥有独立经验池与称号。\n\n本模组参考了 tModLoader 的部分模组与启动器上的部分模组代码制作。\n\n2.1.1-r.1 能量条和技能输入按手持条件运行。成长经验迁入角色模组数据，真·星空由本地角色的库存触发补经验。",
         "license": "MIT",
         "links": [],
-        "pages": [],
+        "pages": [
+          {
+            "title": "更新日志",
+            "file": "changelog_zh-Hans.md"
+          }
+        ],
         "theme": {
           "accent": "#8FB8FF",
           "panel": "",
@@ -5196,7 +5232,7 @@
           "backgroundScale": null,
           "backgroundDim": null
         },
-        "updated": "2026-11-19",
+        "updated": "2026-11-25",
         "featured": false,
         "blVersion": 2,
         "gameVersion": [
@@ -5224,7 +5260,7 @@
         },
         "modRuntime": "js"
       },
-      "updatedAt": "2026-11-19T00:00:00Z",
+      "updatedAt": "2026-11-25T12:41:10Z",
       "runtime": "js"
     },
     {
@@ -5370,11 +5406,11 @@
       "uid": "52ed2234-aaf3-5d86-822c-70bc86225629",
       "id": "autotrash",
       "name": "智能垃圾桶",
-      "version": "0.8.1.1-ningzh.4",
+      "version": "0.8.1.1-r.5",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-autotrash-v0.8.1.1-ningzh.4/autotrash-0.8.1.1-ningzh.4.bl",
-        "sha256": "da1ef1a2df419d8b2a35bb3783911732c18dbf1a1fcc2db86a4cab127c2d25ec",
-        "size": 22446
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-autotrash-v0.8.1.1-r.5/autotrash-0.8.1.1-r.5.bl",
+        "size": 23196,
+        "sha256": "8fb2ecf61ec73577a1f0cdd45878ec1a8c252282f84b9ff89bab2c9d6234ad46"
       },
       "files": [
         "manifest.json",
@@ -5387,7 +5423,7 @@
         "uid": "52ed2234-aaf3-5d86-822c-70bc86225629",
         "id": "autotrash",
         "name": "智能垃圾桶",
-        "version": "0.8.1.1-ningzh.4",
+        "version": "0.8.1.1-r.5",
         "blVersion": 2,
         "entry": "main.js",
         "gameVersion": [
@@ -5395,7 +5431,7 @@
           301720
         ],
         "category": "玩法",
-        "updated": "2026-11-03",
+        "updated": "2026-11-25",
         "author": "jopojelly",
         "authors": [
           {
@@ -5404,8 +5440,12 @@
             "link": "https://github.com/JavidPack/AutoTrash"
           },
           {
-            "name": "柠版泰拉启动器",
-            "role": "移动版汉化与维护"
+            "name": "柠娜",
+            "role": "Bunny Loader 移植者"
+          },
+          {
+            "name": "柠娜",
+            "role": "维护者"
           }
         ],
         "license": "",
@@ -5429,9 +5469,15 @@
           "upstreamCommit": "55741cdabe08e58798e594ffc9341762840fa187",
           "porter": "柠娜",
           "revision": 4
-        }
+        },
+        "pages": [
+          {
+            "title": "更新日志",
+            "file": "changelog_zh-Hans.md"
+          }
+        ]
       },
-      "updatedAt": "2026-11-03T04:39:32Z",
+      "updatedAt": "2026-11-25T12:41:10Z",
       "publishedAt": "2026-11-01T06:10:08Z",
       "runtime": "js"
     },
@@ -6056,11 +6102,11 @@
       "uid": "e9fcf815-a05d-4e36-9303-e30a1d9a02fd",
       "id": "autofish_bunny_community",
       "name": "自动钓鱼",
-      "version": "0.1.0-test1.ningzh.1.fix.1",
+      "version": "0.1.0-r.1",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-autofish_bunny_community-v0.1.0-test1.ningzh.1.fix.1/autofish_bunny_community-0.1.0-test1.ningzh.1.fix.1.bl",
-        "sha256": "8feea6357077cce9991fdaf54322ac31602638332e46f672357073ab97bba18e",
-        "size": 30842
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-autofish_bunny_community-v0.1.0-r.1/autofish-bunny-0.1.0-r.1.bl",
+        "size": 31210,
+        "sha256": "e849c07d113cb82898cd9c9fa496bc22cc6dd9fd9789d7a061ea8357fe18ff63"
       },
       "files": [
         "CREDITS.md",
@@ -6074,7 +6120,7 @@
         "uid": "e9fcf815-a05d-4e36-9303-e30a1d9a02fd",
         "id": "autofish_bunny_community",
         "name": "自动钓鱼",
-        "version": "0.1.0-test1.ningzh.1.fix.1",
+        "version": "0.1.0-r.1",
         "authors": [
           {
             "name": "-Cyril-",
@@ -6083,10 +6129,6 @@
           {
             "name": "顾楠骨",
             "role": "基于Bunny Loader移植"
-          },
-          {
-            "name": "柠版泰拉启动器",
-            "role": "移动版汉化与维护"
           }
         ],
         "links": [
@@ -6110,11 +6152,18 @@
           "revision": 1,
           "baseVersion": "0.1.0-test1"
         },
-        "updated": "2026-11-01",
-        "license": "MIT"
+        "updated": "2026-11-25",
+        "license": "MIT",
+        "pages": [
+          {
+            "title": "更新日志",
+            "file": "changelog_zh-Hans.md"
+          }
+        ]
       },
       "publishedAt": "2026-11-01T07:38:36Z",
-      "runtime": "js"
+      "runtime": "js",
+      "updatedAt": "2026-11-25T12:41:10Z"
     },
     {
       "uid": "7c1e9b52-3f0a-4d8e-9a64-5b2d8c6e1f47",
@@ -7470,11 +7519,11 @@
       "uid": "b220e16f-63d6-5e25-bfcc-ddd5758616d6",
       "id": "WeaponDisplay",
       "name": "武器展示",
-      "version": "1.20.1-ningcs.1.fix.6.defaults1.mobile1.quiet1.logfix.1",
+      "version": "1.20.1-r.2",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-WeaponDisplay-v1.20.1-ningcs.1.fix.6.defaults1.mobile1.quiet1.logfix.1/WeaponDisplay-1.20.1-ningcs.1.fix.6.defaults1.mobile1.quiet1.logfix.1.bl",
-        "size": 381430,
-        "sha256": "e496d1136f2ada3592c184a11e0ba5e7adad659439669fb377277d69008f8adf"
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-WeaponDisplay-v1.20.1-r.2/WeaponDisplay-1.20.1-r.2.bl",
+        "size": 381657,
+        "sha256": "45eaf4ea8f29346e788c0d22cc5d1111aaf3f1cf2412293b806d2b33929826e0"
       },
       "files": [
         "manifest.json",
@@ -7489,7 +7538,7 @@
         "uid": "b220e16f-63d6-5e25-bfcc-ddd5758616d6",
         "id": "WeaponDisplay",
         "name": "武器展示",
-        "version": "1.20.1-ningcs.1.fix.6.defaults1.mobile1.quiet1.logfix.1",
+        "version": "1.20.1-r.2",
         "blVersion": 3,
         "entry": "WeaponDisplay.cs",
         "gameVersion": [
@@ -7515,16 +7564,22 @@
           }
         ],
         "description": "显示手持武器，可配置武器发光、挥砍和掉落特效。部分自定义武器的显示效果取决于其适配。\n\n本版修复：修复手持其他模组物品时招架检查反复报错。原版及配置中指定的招架武器仍可使用。\n\n适用于柠版泰拉启动器 0.5.2（411）及 Terraria Build 1720。本移植版严禁商用及倒卖。",
-        "updated": "2026-11-20",
+        "updated": "2026-11-25",
         "localizedNames": {
           "zh-Hans": "武器展示"
         },
         "localizedSummaries": {
           "zh-Hans": "显示手持武器，可配置武器发光、挥砍和掉落特效。部分自定义武器的显示效果取决于其适配。"
         },
-        "modRuntime": "csharp"
+        "modRuntime": "csharp",
+        "pages": [
+          {
+            "title": "更新日志",
+            "file": "changelog_zh-Hans.md"
+          }
+        ]
       },
-      "updatedAt": "2026-11-20T06:25:36Z",
+      "updatedAt": "2026-11-25T12:41:10Z",
       "runtime": "csharp",
       "publishedAt": "2026-11-19T00:00:00Z",
       "summary": "显示手持武器，可配置武器发光、挥砍和掉落特效。部分自定义武器的显示效果取决于其适配。"
@@ -7808,11 +7863,11 @@
       "uid": "ee508d07-bbc9-564c-9c43-b842b9bdc1fc",
       "id": "RecipeBrowser",
       "name": "合成表（C#）",
-      "version": "0.12.0.3-ningcs.2.fix.20261117.6.mobile3.mobilefix.1.ui.1",
+      "version": "0.12.0.3-r.3",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-RecipeBrowser-v0.12.0.3-ningcs.2.fix.20261117.6.mobile3.mobilefix.1.ui.1/RecipeBrowser-0.12.0.3-ningcs.2.fix.20261117.6.mobile3.mobilefix.1.ui.1.bl",
-        "size": 553549,
-        "sha256": "96a1f9ae73c9b654fa37402fa632376ff0864573c15b895ada396d6558af00cf"
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-RecipeBrowser-v0.12.0.3-r.3/RecipeBrowser-0.12.0.3-r.3.bl",
+        "size": 553720,
+        "sha256": "d695b74f77ee051aa8b64f0c5b533e009401afd28867a3eb88a95eccc2a9dcb3"
       },
       "files": [
         "manifest.json",
@@ -7827,7 +7882,7 @@
         "uid": "ee508d07-bbc9-564c-9c43-b842b9bdc1fc",
         "id": "RecipeBrowser",
         "name": "合成表（C#）",
-        "version": "0.12.0.3-ningcs.2.fix.20261117.6.mobile3.mobilefix.1.ui.1",
+        "version": "0.12.0.3-r.3",
         "blVersion": 3,
         "entry": "RecipeBrowser.cs",
         "gameVersion": [
@@ -7853,7 +7908,7 @@
           }
         ],
         "description": "搜索物品与配方，查询制作路径、制作站、掉落和收藏。搜索框支持手机键盘。",
-        "updated": "2026-11-20",
+        "updated": "2026-11-25",
         "pages": [
           {
             "title": "更新日志",
@@ -7862,6 +7917,10 @@
           {
             "title": "来源与署名",
             "file": "credits.md"
+          },
+          {
+            "title": "更新日志",
+            "file": "changelog_zh-Hans.md"
           }
         ],
         "localizedNames": {
@@ -7872,7 +7931,7 @@
         },
         "modRuntime": "csharp"
       },
-      "updatedAt": "2026-11-20T00:46:16Z",
+      "updatedAt": "2026-11-25T12:41:10Z",
       "runtime": "csharp",
       "publishedAt": "2026-11-19T00:00:00Z"
     },
@@ -8147,11 +8206,11 @@
       "uid": "b0cb720e-32bb-5201-8d10-1383f60c9539",
       "id": "WingSlotExtra",
       "name": "额外翅膀栏（C#）",
-      "version": "1.4.9-ningcs.1.fix.20261117",
+      "version": "1.4.9-r.2",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-WingSlotExtra-v1.4.9-ningcs.1.fix.20261117/WingSlotExtra-1.4.9-ningcs.1.fix.20261117.bl",
-        "size": 81823,
-        "sha256": "11b28903bf2361f5a36529416548bd6d38d5d1e73632e6f235fc1adcb2432cc8"
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-WingSlotExtra-v1.4.9-r.2/WingSlotExtra-1.4.9-r.2.bl",
+        "size": 82388,
+        "sha256": "ed9abaceb2edb0a61edc4561b606a563231244ade11a13ffecfbc5fcb0d38d43"
       },
       "files": [
         "manifest.json",
@@ -8166,7 +8225,7 @@
         "uid": "b0cb720e-32bb-5201-8d10-1383f60c9539",
         "id": "WingSlotExtra",
         "name": "额外翅膀栏（C#）",
-        "version": "1.4.9-ningcs.1.fix.20261117",
+        "version": "1.4.9-r.2",
         "blVersion": 3,
         "entry": "WingSlotExtra.cs",
         "gameVersion": [
@@ -8192,7 +8251,7 @@
           }
         ],
         "description": "增加独立翅膀功能栏、时装栏与染料栏，支持装备方案和可选的多翅膀配置。",
-        "updated": "2026-11-19",
+        "updated": "2026-11-25",
         "pages": [
           {
             "title": "更新日志",
@@ -8201,6 +8260,10 @@
           {
             "title": "来源与署名",
             "file": "credits.md"
+          },
+          {
+            "title": "更新日志",
+            "file": "changelog_zh-Hans.md"
           }
         ],
         "localizedNames": {
@@ -8211,7 +8274,7 @@
         },
         "modRuntime": "csharp"
       },
-      "updatedAt": "2026-11-19T00:00:00Z",
+      "updatedAt": "2026-11-25T12:41:10Z",
       "runtime": "csharp",
       "publishedAt": "2026-11-19T00:00:00Z"
     },
@@ -8219,11 +8282,11 @@
       "uid": "6e06c101-1ba8-59de-9c81-85e624dff471",
       "id": "Antisocial",
       "name": "时装栏生效",
-      "version": "1.7-ningcs.1",
+      "version": "1.7-r.2",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-Antisocial-v1.7-ningcs.1/Antisocial-1.7-ningcs.1.bl",
-        "size": 43907,
-        "sha256": "b7d7e973cf0f37d9d71fb331a720573815d48af80c9dcb994052105c8695bd5b"
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-Antisocial-v1.7-r.2/Antisocial-1.7-r.2.bl",
+        "size": 44585,
+        "sha256": "55d7bc7ae3188958e53b53bfb1723ce1d5741342637500e3f1602b1d221250c8"
       },
       "files": [
         "manifest.json",
@@ -8238,7 +8301,7 @@
         "uid": "6e06c101-1ba8-59de-9c81-85e624dff471",
         "id": "Antisocial",
         "name": "时装栏生效",
-        "version": "1.7-ningcs.1",
+        "version": "1.7-r.2",
         "blVersion": 3,
         "entry": "Antisocial.cs",
         "gameVersion": [
@@ -8264,7 +8327,7 @@
           }
         ],
         "description": "让配置指定的时装饰品栏提供属性，可选时装盔甲与套装加成。时装盔甲效果默认关闭。",
-        "updated": "2026-11-19",
+        "updated": "2026-11-25",
         "pages": [
           {
             "title": "更新日志",
@@ -8273,6 +8336,10 @@
           {
             "title": "来源与署名",
             "file": "credits.md"
+          },
+          {
+            "title": "更新日志",
+            "file": "changelog_zh-Hans.md"
           }
         ],
         "localizedNames": {
@@ -8283,7 +8350,7 @@
         },
         "modRuntime": "csharp"
       },
-      "updatedAt": "2026-11-19T00:00:00Z",
+      "updatedAt": "2026-11-25T12:41:10Z",
       "runtime": "csharp",
       "publishedAt": "2026-11-19T00:00:00Z"
     },
@@ -8420,11 +8487,11 @@
       "uid": "88185e1f-b5e9-540a-85d5-03f73ff919aa",
       "id": "GravityDontFlipScreen",
       "name": "反重力不翻屏",
-      "version": "1.4-ningcs.1",
+      "version": "1.4-r.2",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-GravityDontFlipScreen-v1.4-ningcs.1/GravityDontFlipScreen-1.4-ningcs.1.bl",
-        "size": 21549,
-        "sha256": "7b3b22b0861ceef0db69d078246c5c16153f28c0634172ef9ba4df3b3f7d9418"
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-GravityDontFlipScreen-v1.4-r.2/GravityDontFlipScreen-1.4-r.2.bl",
+        "size": 21986,
+        "sha256": "fbf3e3971d797203554742785698e85f3c8e66e875de3448c58d4d9e7fda4898"
       },
       "files": [
         "manifest.json",
@@ -8439,7 +8506,7 @@
         "uid": "88185e1f-b5e9-540a-85d5-03f73ff919aa",
         "id": "GravityDontFlipScreen",
         "name": "反重力不翻屏",
-        "version": "1.4-ningcs.1",
+        "version": "1.4-r.2",
         "blVersion": 3,
         "entry": "GravityDontFlipScreen.cs",
         "gameVersion": [
@@ -8465,7 +8532,7 @@
           }
         ],
         "description": "反转重力时保持画面方向，并适配瞄准、智能光标、抓钩与其他互动。",
-        "updated": "2026-11-19",
+        "updated": "2026-11-25",
         "pages": [
           {
             "title": "更新日志",
@@ -8474,6 +8541,10 @@
           {
             "title": "来源与署名",
             "file": "credits.md"
+          },
+          {
+            "title": "更新日志",
+            "file": "changelog_zh-Hans.md"
           }
         ],
         "localizedNames": {
@@ -8484,7 +8555,7 @@
         },
         "modRuntime": "csharp"
       },
-      "updatedAt": "2026-11-19T00:00:00Z",
+      "updatedAt": "2026-11-25T12:41:10Z",
       "runtime": "csharp",
       "publishedAt": "2026-11-19T00:00:00Z"
     },
@@ -9531,12 +9602,12 @@
       "uid": "d224fff2-6731-4fe5-a726-ad3b8eb3c89a",
       "id": "MeleeWeaponEffects",
       "name": "近战特效修改",
-      "version": "1.8.34",
+      "version": "1.8.34-r.1",
       "runtime": "csharp",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-MeleeWeaponEffects-v1.8.34/MeleeWeaponEffects-1.8.34.bl",
-        "sha256": "09ef4e4ed9547b638ba23dbe7c1fd0d6b0a3417fa456e445b1739cd1c32f4daf",
-        "size": 835447
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-MeleeWeaponEffects-v1.8.34-r.1/MeleeWeaponEffects-1.8.34-r.1.bl",
+        "size": 840019,
+        "sha256": "41720dcba232588f0dc8511293fe0b4e3d9aa95750b545551537223034b2716f"
       },
       "files": [
         "manifest.json",
@@ -9559,7 +9630,7 @@
           "zh-Hans": "为近战武器增加刀光、命中反馈和触屏蓄力斩，提供轻量模式。"
         },
         "description": "# 近战特效修改\n\n为近战武器增加刀光、命中反馈和触屏蓄力斩，提供轻量模式。\n\n长按屏幕上的「蓄力斩」后松手发动蓄力斩。需要气浪时可在模组设置中开启。\n\n适用于支持 C# 模组（Format 3）的柠版泰拉启动器及 Terraria Build 1720。包内声明许可为 MIT。\n\n制作人员为WindMind（原版作者 / Original author）、小绿（手机端移植 / Mobile port）。\n",
-        "version": "1.8.34",
+        "version": "1.8.34-r.1",
         "authors": [
           {
             "name": "WindMind",
@@ -9575,7 +9646,7 @@
         ],
         "category": "玩法",
         "license": "MIT",
-        "updated": "2026-11-23",
+        "updated": "2026-11-25",
         "blVersion": 3,
         "dependencies": [],
         "links": [
@@ -9586,8 +9657,15 @@
         ],
         "localizedDescriptions": {
           "zh-Hans": "# 近战特效修改\n\n为近战武器增加刀光、命中反馈和触屏蓄力斩，提供轻量模式。\n\n长按屏幕上的「蓄力斩」后松手发动蓄力斩。需要气浪时可在模组设置中开启。\n\n适用于支持 C# 模组（Format 3）的柠版泰拉启动器及 Terraria Build 1720。包内声明许可为 MIT。\n\n制作人员为WindMind（原版作者 / Original author）、小绿（手机端移植 / Mobile port）。\n"
-        }
-      }
+        },
+        "pages": [
+          {
+            "title": "更新日志",
+            "file": "changelog_zh-Hans.md"
+          }
+        ]
+      },
+      "updatedAt": "2026-11-25T12:41:10Z"
     },
     {
       "uid": "4b9e63eb-842f-44ed-8469-9df609c69645",

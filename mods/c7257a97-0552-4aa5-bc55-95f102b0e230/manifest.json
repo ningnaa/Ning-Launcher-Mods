@@ -2,21 +2,21 @@
   "uid": "c7257a97-0552-4aa5-bc55-95f102b0e230",
   "id": "chestpeek",
   "name": "容器预览",
-  "version": "0.1.0-ningzh.1.fix.1",
+  "version": "0.1.0-r.2",
   "authors": [
     {
       "name": "VowTz",
       "role": "灵感来源"
     },
     {
-      "name": "柠版泰拉启动器",
-      "role": "移动版汉化与维护"
+      "name": "柠娜",
+      "role": "维护者"
     }
   ],
-  "category": "物品",
+  "category": "Itens",
   "summary": "Point at any container (chest, piggy bank, safe, forge, void vault) to see what is inside.",
   "license": "GPL-3.0",
-  "updated": "2026-11-08",
+  "updated": "2026-11-25",
   "blVersion": 2,
   "gameVersion": [
     301720,
@@ -34,5 +34,11 @@
     "language": "zh-Hans",
     "revision": 1,
     "baseVersion": "0.1.0"
-  }
+  },
+  "pages": [
+    {
+      "title": "更新日志",
+      "file": "changelog_zh-Hans.md"
+    }
+  ]
 }

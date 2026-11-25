@@ -2,7 +2,7 @@
   "uid": "e9fcf815-a05d-4e36-9303-e30a1d9a02fd",
   "id": "autofish_bunny_community",
   "name": "自动钓鱼",
-  "version": "0.1.0-test1.ningzh.1.fix.1",
+  "version": "0.1.0-r.1",
   "authors": [
     {
       "name": "-Cyril-",
@@ -11,10 +11,6 @@
     {
       "name": "顾楠骨",
       "role": "基于Bunny Loader移植"
-    },
-    {
-      "name": "柠版泰拉启动器",
-      "role": "移动版汉化与维护"
     }
   ],
   "links": [
@@ -38,6 +34,12 @@
     "revision": 1,
     "baseVersion": "0.1.0-test1"
   },
-  "updated": "2026-11-01",
-  "license": "MIT"
+  "updated": "2026-11-25",
+  "license": "MIT",
+  "pages": [
+    {
+      "title": "更新日志",
+      "file": "changelog_zh-Hans.md"
+    }
+  ]
 }

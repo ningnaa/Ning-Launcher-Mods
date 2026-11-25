@@ -33,3 +33,5 @@ O mod não faz varreduras pesadas no mundo. O bloqueio acontece diretamente dura
 
 > [!IMPORTANT]
 > Este é um port para **Bunny Loader**. Todo o crédito pelo conceito e pelo mod original pertence ao seu autor original.
+
+1.0-r.2 改为在原版世界更新重置开关后执行禁蔓延，省去地表与地下的逐瓦片写入。

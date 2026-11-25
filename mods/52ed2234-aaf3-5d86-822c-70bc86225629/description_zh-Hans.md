@@ -25,3 +25,5 @@
 来源：https://steamcommunity.com/sharedfiles/filedetails/?id=2565540604
 源码：https://github.com/JavidPack/AutoTrash
 上游未附带明确许可证，本包未额外授予原作者代码或资源许可。
+
+0.8.1.1-r.5 本地角色开启自动处理且有过滤规则时才进入拾取过滤。开启阻止生成时才处理单机掉落。背包入口和面板都隐藏时停止界面更新。

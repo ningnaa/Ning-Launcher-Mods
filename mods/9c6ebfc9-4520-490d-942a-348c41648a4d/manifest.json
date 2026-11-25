@@ -2,23 +2,19 @@
   "uid": "9c6ebfc9-4520-490d-942a-348c41648a4d",
   "id": "better-reforge",
   "name": "Better Reforge",
-  "version": "1.0.1-ningzh.1",
+  "version": "1.0.1-r.2",
   "authors": [
     {
       "name": "GST378",
-      "role": "原作者",
+      "role": "Original Creator",
       "avatar": "lemon.webp",
       "color": "#FEFE00",
       "link": "https://youtube.com/@gst_378?si=-18HzRizRpiFJrEP"
-    },
-    {
-      "name": "柠版泰拉启动器",
-      "role": "移动版汉化与维护"
     }
   ],
-  "category": "实用工具",
+  "category": "Utilities",
   "summary": "Replaces the traditional Goblin Tinkerer interface with a new system that allows you to browse and select item prefixes directly.",
-  "updated": "2026-10-04",
+  "updated": "2026-11-25",
   "blVersion": 2,
   "gameVersion": [
     301720,
@@ -36,5 +32,11 @@
     "language": "zh-Hans",
     "revision": 1,
     "baseVersion": "1.0.1"
-  }
+  },
+  "pages": [
+    {
+      "title": "更新日志",
+      "file": "changelog_zh-Hans.md"
+    }
+  ]
 }

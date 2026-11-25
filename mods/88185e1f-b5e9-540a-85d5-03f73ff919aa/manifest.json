@@ -2,7 +2,7 @@
   "uid": "88185e1f-b5e9-540a-85d5-03f73ff919aa",
   "id": "GravityDontFlipScreen",
   "name": "反重力不翻屏",
-  "version": "1.4-ningcs.1",
+  "version": "1.4-r.2",
   "blVersion": 3,
   "entry": "GravityDontFlipScreen.cs",
   "gameVersion": [
@@ -28,7 +28,7 @@
     }
   ],
   "description": "反转重力时保持画面方向，并适配瞄准、智能光标、抓钩与其他互动。",
-  "updated": "2026-11-19",
+  "updated": "2026-11-25",
   "pages": [
     {
       "title": "更新日志",
@@ -37,6 +37,10 @@
     {
       "title": "来源与署名",
       "file": "credits.md"
+    },
+    {
+      "title": "更新日志",
+      "file": "changelog_zh-Hans.md"
     }
   ],
   "localizedNames": {

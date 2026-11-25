@@ -2,7 +2,7 @@
   "uid": "52ed2234-aaf3-5d86-822c-70bc86225629",
   "id": "autotrash",
   "name": "智能垃圾桶",
-  "version": "0.8.1.1-ningzh.4",
+  "version": "0.8.1.1-r.5",
   "blVersion": 2,
   "entry": "main.js",
   "gameVersion": [
@@ -10,7 +10,7 @@
     301720
   ],
   "category": "玩法",
-  "updated": "2026-11-03",
+  "updated": "2026-11-25",
   "author": "jopojelly",
   "authors": [
     {
@@ -19,12 +19,16 @@
       "link": "https://github.com/JavidPack/AutoTrash"
     },
     {
-      "name": "柠版泰拉启动器",
-      "role": "移动版汉化与维护"
+      "name": "柠娜",
+      "role": "Bunny Loader 移植者"
+    },
+    {
+      "name": "柠娜",
+      "role": "维护者"
     }
   ],
   "license": "",
-  "description": "按人物保存过滤名单，支持无价值过滤、自动售卖和最近 5 组物品分别取回。打开背包后，可从垃圾桶旁的小按钮进入图标设置面板。默认关闭自动处理；移植者柠娜。\n",
+  "description": "按人物保存过滤名单，支持无价值过滤、自动售卖和最近 5 组物品分别取回。打开背包后，可从垃圾桶旁的小按钮进入图标设置面板。默认关闭自动处理；移植者柠娜。",
   "localizedNames": {
     "zh-Hans": "智能垃圾桶"
   },
@@ -44,5 +48,11 @@
     "upstreamCommit": "55741cdabe08e58798e594ffc9341762840fa187",
     "porter": "柠娜",
     "revision": 4
-  }
+  },
+  "pages": [
+    {
+      "title": "更新日志",
+      "file": "changelog_zh-Hans.md"
+    }
+  ]
 }

@@ -2,7 +2,7 @@
   "uid": "444a9868-3515-547a-b2db-f889023c76f3",
   "id": "census",
   "name": "人口普查：城镇居民清单",
-  "version": "0.5.2.8-ningzh.3",
+  "version": "0.5.2.8-r.4",
   "blVersion": 2,
   "entry": "main.js",
   "gameVersion": [
@@ -10,7 +10,7 @@
     301720
   ],
   "category": "界面",
-  "updated": "2026-11-01",
+  "updated": "2026-11-25",
   "author": "jopojelly",
   "authors": [
     {
@@ -18,12 +18,12 @@
       "role": "原作者"
     },
     {
-      "name": "柠版泰拉启动器",
-      "role": "移动版汉化与维护"
+      "name": "柠娜",
+      "role": "Bunny Loader 移植者"
     }
   ],
   "license": "",
-  "description": "直接扩展背包内的 NPC 居住界面，显示未入住居民、入住条件与状态，并支持定位箭头。原作者 jopojelly；移植者柠娜。\n",
+  "description": "直接扩展背包内的 NPC 居住界面，显示未入住居民、入住条件与状态，并支持定位箭头。原作者 jopojelly；移植者柠娜。",
   "localizedNames": {
     "zh-Hans": "人口普查：城镇居民清单"
   },
@@ -43,5 +43,11 @@
   "summary": "在背包居住界面查看居民入住条件和状态，并定位已入住居民。",
   "localizedSummaries": {
     "zh-Hans": "在背包居住界面查看居民入住条件和状态，并定位已入住居民。"
-  }
+  },
+  "pages": [
+    {
+      "title": "更新日志",
+      "file": "changelog_zh-Hans.md"
+    }
+  ]
 }

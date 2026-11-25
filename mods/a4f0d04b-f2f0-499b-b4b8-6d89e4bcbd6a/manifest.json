@@ -3,23 +3,19 @@
   "id": "coyote-frames",
   "name": "Coyote Frames",
   "summary": "Mod that allows player to use Coyote frames that are presented in many other games.",
-  "version": "1.0.0-ningzh.1",
+  "version": "1.0.0-r.2",
   "license": "MIT",
   "authors": [
     {
       "name": "Gorffy, Ink of the Eternity, Litos the Litium",
-      "role": "原作者",
+      "role": "Original Creator",
       "avatar": "steam.png",
       "color": "#FFFFFF",
       "link": "https://steamcommunity.com/sharedfiles/filedetails/?id=3331547573"
-    },
-    {
-      "name": "柠版泰拉启动器",
-      "role": "移动版汉化与维护"
     }
   ],
-  "category": "玩法",
-  "updated": "2026-10-22",
+  "category": "Gameplay",
+  "updated": "2026-11-25",
   "blVersion": 2,
   "gameVersion": [
     301720,
@@ -37,5 +33,11 @@
     "language": "zh-Hans",
     "revision": 1,
     "baseVersion": "1.0.0"
-  }
+  },
+  "pages": [
+    {
+      "title": "更新日志",
+      "file": "changelog_zh-Hans.md"
+    }
+  ]
 }

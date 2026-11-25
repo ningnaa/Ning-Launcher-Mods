@@ -1,6 +1,11 @@
-## 星陨遗证 1.2.1（2026-11-20）
+## v1.2.2 · 2026-11-20
 
-- 收录 1.2.1 整合包。1.2.1 新增详情页顶部横幅。
-- 适用于柠版泰拉启动器 0.5.1（410）和 Terraria Build 1720。
+**Fixed: star tear no longer counts kills after a death**
 
-江南梦（代码与美术）。
+- Kill counting moved from player hit hooks to the NPC death event; the hit hooks
+  do not always fire on this loader, so a death (which zeroes progress) left the
+  accessory permanently stuck at zero.
+- Dropped the `NPCID.Sets.CountsAsCritter` lookup (the table can be unavailable in
+  the merged pack and the exception was swallowed). Now uses the same rule as loot:
+  skip units with <=5 max life or no attack.
+- Diagnostics now print `kills / lowest / equipped / tier` every 10 seconds.

@@ -2709,6 +2709,90 @@
       "originalSha256": "4969b6e600516f62b2641b9e9ceeeb0be82639b23e74b23a904c04f3c55ee719",
       "scope": "submitted-mobile-release-catalog-packaging",
       "sourceUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3727789061"
+    },
+    {
+      "uid": "d7a3c9e1-5b2f-4c8a-9e14-202611240a01",
+      "id": "thornlaurel",
+      "version": "1.0.2",
+      "baseVersion": "1.0.2",
+      "tag": "mod-thornlaurel-v1.0.2",
+      "file": "thornlaurel-1.0.2.bl",
+      "sha256": "ae50f8751259dd628c5cc0576114bb1a30a3b4b12de7a7c0fbf6e0b15843cd64",
+      "size": 39750,
+      "originalSha256": "8a068b11a3f42f5180b213284df2cf8d5798f6a3a7849ea477cfd5774e97c1da",
+      "scope": "author-supplied-mobile-release-catalog-packaging"
+    },
+    {
+      "uid": "8f4c2a7e-1b3d-4a55-9c21-7d6b0f3a9e12",
+      "id": "TableForConversionProMax",
+      "version": "1.1.3.PE",
+      "baseVersion": "1.1.3.PE",
+      "tag": "mod-TableForConversionProMax-v1.1.3.PE",
+      "file": "TableForConversionProMax-1.1.3.PE.bl",
+      "sha256": "ed592108c9192fe996a703da4c9ad3ede1eed0b32380f07ec1d84df1fb7a30bc",
+      "size": 92859,
+      "originalSha256": "ea400da4b3cc4534a97b61642185a926a0813832c73938f01c5d126a0777f3db",
+      "scope": "author-supplied-mobile-release-catalog-packaging"
+    },
+    {
+      "uid": "a8c4e2f0-7b19-4d3a-9e51-202611250002",
+      "id": "arcanearsenal",
+      "version": "1.8.0",
+      "baseVersion": "1.8.0",
+      "tag": "mod-arcanearsenal-v1.8.0",
+      "file": "arcanearsenal-1.8.0.bl",
+      "sha256": "91090453a25812ef043572a53a740af6883ed47805dc23fae5a11e7c2ed65bf8",
+      "size": 1126287,
+      "originalSha256": "5599772ce29036fd47fa5274abb38248dd01224020c94602d42dd61e073855bf",
+      "scope": "author-supplied-mobile-release-catalog-packaging"
+    },
+    {
+      "uid": "f7c2a9e4-3b81-4d62-a519-20261125c001",
+      "id": "crimsonscythe",
+      "version": "2.11.0",
+      "baseVersion": "2.11.0",
+      "tag": "mod-crimsonscythe-v2.11.0",
+      "file": "crimsonscythe-2.11.0.bl",
+      "sha256": "7b915c4754ef540655f00d70c00f41f1b68b6a72d6bb4751392dd82f16a3acb3",
+      "size": 1360599,
+      "originalSha256": "dfaaba9adc98850bc0dae2e7ef9c934e0c61bb58c426538238b909d105894e49",
+      "scope": "author-supplied-mobile-release-catalog-packaging"
+    },
+    {
+      "uid": "58c34cfc-01a3-4c97-92d8-c7c8a4e253c4",
+      "id": "StarBell",
+      "version": "1.16.2",
+      "baseVersion": "1.16.2",
+      "tag": "mod-StarBell-v1.16.2",
+      "file": "StarBell-1.16.2.bl",
+      "sha256": "67e5eada63eda58d68092d184c8e7e9256164e4448ed0dd7e54affb6ab6999fe",
+      "size": 81211,
+      "originalSha256": "67e5eada63eda58d68092d184c8e7e9256164e4448ed0dd7e54affb6ab6999fe",
+      "scope": "author-supplied-mobile-release-catalog-packaging"
+    },
+    {
+      "uid": "c57ce405-d5f2-447a-81e7-7180f0d6236e",
+      "id": "QianLongStar",
+      "version": "1.18.272",
+      "baseVersion": "1.18.272",
+      "tag": "mod-QianLongStar-v1.18.272",
+      "file": "QianLongStar-1.18.272.bl",
+      "sha256": "2ea2311eda8176cd0ed178b055032a2f47b854e4d2f67a8e92a9080f6a7e21f1",
+      "size": 1263836,
+      "originalSha256": "c0214fd24a2da2fe2cb7ab8d15b8be84f90ba663590df85e06235edd7bfbc043",
+      "scope": "author-supplied-mobile-release-catalog-packaging"
+    },
+    {
+      "uid": "0437fc60-ae93-43c6-af9f-56d107fce4a4",
+      "id": "starfallrelic",
+      "version": "1.2.7-ning.1",
+      "baseVersion": "1.2.7-ning.1",
+      "tag": "mod-starfallrelic-v1.2.7-ning.1",
+      "file": "starfallrelic-1.2.7-ning.1.bl",
+      "sha256": "7d18af2e642dc2b5e652e40eabfa23621af79e7e8cf48914dabec61f4541972c",
+      "size": 7792939,
+      "originalSha256": "7d18af2e642dc2b5e652e40eabfa23621af79e7e8cf48914dabec61f4541972c",
+      "scope": "author-supplied-mobile-release-catalog-packaging"
     }
   ],
   "authorChineseSources": {

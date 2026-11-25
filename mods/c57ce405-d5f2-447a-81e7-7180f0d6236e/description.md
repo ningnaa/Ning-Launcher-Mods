@@ -1,9 +1,26 @@
-# QianLongStar
+# 星星家族
 
-**The hidden dragon leaves its pool — power gathered, then released.**
+潜龙之星可通过七件首领遗物解锁七种能力。此版包含星族武器、捕获仆从的星星控制器、血肉培养箱和可从游戏控件打开的图鉴指南。
 
-An accessory that grows stronger the longer you stay online; a small cyan star floats above your head while worn.
+适用于 Terraria Build 1720。适用于柠版泰拉启动器 JS 模组环境。
 
-- The longer you stay online, the higher your defense, damage, speed, damage reduction and minion/sentry slots.
-- Craft it with relics of King Slime, Eye of Cthulhu, Queen Bee, Eater of Worlds and Brain of Cthulhu to unlock five powers in any order.
-- Four star weapons are included.
+制作人员：Z菌大人（作者）。作者包未标注独立许可证。
+
+## 作者说明
+
+# 星星家族（QianLongStar）
+
+**潜龙出渊，厚积薄发。**
+
+本模组内容不多，偶尔会更新一些有趣的“时尚”小垃圾。
+
+一件随在线时间慢慢变强的饰品，佩戴后头顶跟着一颗小悬浮星。
+
+- 在线越久，防御、伤害、速度、免伤和仆从/哨兵位越高。
+- 与七件 Boss 遗物合成可解锁对应能力，顺序随意：史莱姆王、克苏鲁之眼、蜂王、世界吞噬者、克苏鲁之脑、骷髅王、肉山。
+- 星系武器：剑星、彗尾长弓、星核法杖、坠星召唤杖、双子星、食双星镰、七彩星河、腐化血肉鞭。
+- 扭曲超新星：法力之星 + 生命水晶合成，佩戴 +60 生命、+60 法力。
+- 腐化血肉：血肉培养箱击杀怪物 1% 掉落的召唤鞭，甩出 S 形鞭身穿透物块，命中中毒、减速 30%，标记为仆从优先目标。
+- 星星控制器：把培养箱捕获的怪物制成跟随仆从，附带随机词条。
+- 血肉培养箱：攻击/捕获双模式，15 格范围。
+- 星星家族指南：可在游戏控件里添加本模组的游戏指南，打开分类图鉴面板，各条目挂物品贴图，收录全部物品的合成方式、属性与功能说明。

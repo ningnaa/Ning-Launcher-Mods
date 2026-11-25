@@ -1,0 +1,30 @@
+{
+  "uid": "d7a3c9e1-5b2f-4c8a-9e14-202611240a01",
+  "id": "thornlaurel",
+  "name": "荆棘桂冠",
+  "version": "1.0.2",
+  "blVersion": 3,
+  "gameVersion": [
+    301720,
+    301720
+  ],
+  "dependencies": [],
+  "summary": "戴上荆棘桂冠后会与角色永久绑定，并开启七项生存限制。戴冠击败原版首领可取得专属典籍。",
+  "localizedSummaries": {
+    "zh-Hans": "戴上荆棘桂冠后会与角色永久绑定，并开启七项生存限制。戴冠击败原版首领可取得专属典籍。"
+  },
+  "category": "饰品",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "哈基米",
+      "role": "设计与程序",
+      "color": "#C93B4B"
+    }
+  ],
+  "description": "# 荆棘桂冠\n\n戴上荆棘桂冠后会与角色永久绑定，并开启七项生存限制。戴冠击败原版首领可取得专属典籍。\n\n适用于 Terraria Build 1720。需要支持 C# 模组的柠版泰拉启动器。\n\n制作人员：哈基米（设计与程序）。许可：MIT。\n",
+  "updated": "2026-11-26",
+  "localizedNames": {
+    "zh-Hans": "荆棘桂冠"
+  }
+}

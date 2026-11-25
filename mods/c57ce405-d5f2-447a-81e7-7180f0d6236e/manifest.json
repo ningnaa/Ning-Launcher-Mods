@@ -4,13 +4,13 @@
   "name": "星星家族",
   "localizedNames": {
     "zh-Hans": "星星家族",
-    "en-US": "QianLongStar"
+    "en-US": "Star Family"
   },
   "localizedSummaries": {
-    "zh-Hans": "佩戴潜龙之星可逐步增强属性，并用五种 Boss 遗物解锁能力。另有四件星族武器。",
-    "en-US": "An accessory that grows stronger while you stay online, with a small star floating above your head; craft it with five boss relics to unlock powers, plus four star weapons."
+    "zh-Hans": "潜龙之星可通过七件首领遗物解锁七种能力。此版包含星族武器、捕获仆从的星星控制器、血肉培养箱和可从游戏控件打开的图鉴指南。",
+    "en-US": "This mod is small; we occasionally add some fun little \"fashion\" trinkets. The Hidden Dragon Star grows stronger while you stay online, with a small star floating above; combine it with seven boss relics to unlock seven powers. Includes several star weapons, a capture-minion star controller, and a flesh cultch chamber; add this mod's in-game guide from the controls menu to open a categorized illustrated guide with item icons."
   },
-  "version": "1.16.71",
+  "version": "1.18.272",
   "authors": [
     {
       "name": "Z菌大人",
@@ -18,10 +18,10 @@
       "color": "#7FE3FF"
     }
   ],
-  "category": "Itens",
-  "summary": "佩戴潜龙之星可逐步增强属性，并用五种 Boss 遗物解锁能力。另有四件星族武器。",
+  "category": "物品",
+  "summary": "潜龙之星可通过七件首领遗物解锁七种能力。此版包含星族武器、捕获仆从的星星控制器、血肉培养箱和可从游戏控件打开的图鉴指南。",
   "featured": false,
-  "updated": "2026-11-20",
+  "updated": "2026-11-26",
   "blVersion": 2,
   "gameVersion": [
     301720,
@@ -36,6 +36,6 @@
       "file": "docs/guide.md"
     }
   ],
-  "description": "# 星星家族\n\n**潜龙出渊，厚积薄发。**\n\n一件随在线时间慢慢变强的饰品，佩戴后头顶跟着一颗青蓝色小悬浮星。\n\n- 在线越久，防御、伤害、速度、免伤和仆从/哨兵位越高。\n- 与史莱姆王、克苏鲁之眼、蜂王、世界吞噬者、克苏鲁之脑遗物合成，可解锁五种能力，顺序随意。\n- 另附四件星系武器。\n\n适用于 Terraria 1.4.5.8.6（Build 1720），无需额外前置。\n\n制作：Z菌大人。\n",
+  "description": "# 星星家族\n\n潜龙之星可通过七件首领遗物解锁七种能力。此版包含星族武器、捕获仆从的星星控制器、血肉培养箱和可从游戏控件打开的图鉴指南。\n\n适用于 Terraria Build 1720。适用于柠版泰拉启动器 JS 模组环境。\n\n制作人员：Z菌大人（作者）。作者包未标注独立许可证。\n\n## 作者说明\n\n# 星星家族（QianLongStar）\n\n**潜龙出渊，厚积薄发。**\n\n本模组内容不多，偶尔会更新一些有趣的“时尚”小垃圾。\n\n一件随在线时间慢慢变强的饰品，佩戴后头顶跟着一颗小悬浮星。\n\n- 在线越久，防御、伤害、速度、免伤和仆从/哨兵位越高。\n- 与七件 Boss 遗物合成可解锁对应能力，顺序随意：史莱姆王、克苏鲁之眼、蜂王、世界吞噬者、克苏鲁之脑、骷髅王、肉山。\n- 星系武器：剑星、彗尾长弓、星核法杖、坠星召唤杖、双子星、食双星镰、七彩星河、腐化血肉鞭。\n- 扭曲超新星：法力之星 + 生命水晶合成，佩戴 +60 生命、+60 法力。\n- 腐化血肉：血肉培养箱击杀怪物 1% 掉落的召唤鞭，甩出 S 形鞭身穿透物块，命中中毒、减速 30%，标记为仆从优先目标。\n- 星星控制器：把培养箱捕获的怪物制成跟随仆从，附带随机词条。\n- 血肉培养箱：攻击/捕获双模式，15 格范围。\n- 星星家族指南：可在游戏控件里添加本模组的游戏指南，打开分类图鉴面板，各条目挂物品贴图，收录全部物品的合成方式、属性与功能说明。\n",
   "changelog": "## 星星家族 1.16.71（2026-11-20）\n\n- 收录成长饰品「潜龙之星」、五种 Boss 遗物能力与四件星族武器。\n- 适用于 Terraria 1.4.5.8.6（Build 1720），无需额外前置。\n\n制作：Z菌大人。\n"
 }

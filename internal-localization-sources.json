@@ -2793,6 +2793,54 @@
       "size": 7792939,
       "originalSha256": "7d18af2e642dc2b5e652e40eabfa23621af79e7e8cf48914dabec61f4541972c",
       "scope": "author-supplied-mobile-release-catalog-packaging"
+    },
+    {
+      "uid": "ffacb771-9540-5b79-bf9d-f28d8a3e705e",
+      "id": "SilkyUIFramework",
+      "version": "0.3.0-r.4",
+      "baseVersion": "0.3.0",
+      "tag": "mod-SilkyUIFramework-v0.3.0-r.4",
+      "file": "SilkyUIFramework-0.3.0-r.4.bl",
+      "sha256": "1bcab6918d5a45f81ee0e2fef7ad7e2eaf6ebd1649a8a36ec9c9a629d3a5c8c3",
+      "size": 1208217,
+      "originalSha256": "628d279b73d401af9eca883ccbbe9af64d7dd928873b2a23161db2a0dcff001a",
+      "scope": "verified-standalone-assets"
+    },
+    {
+      "uid": "7ac6559e-6c48-5dc2-aa96-432cf366faeb",
+      "id": "ImproveGame",
+      "version": "1.8.2-r.8",
+      "baseVersion": "1.8.2",
+      "tag": "mod-ImproveGame-v1.8.2-r.8",
+      "file": "ImproveGame-1.8.2-r.8.bl",
+      "sha256": "1175b5f6b58327e4794094629bb2b9deb4a01230bebc867f796cf0d386d51d6d",
+      "size": 9202246,
+      "originalSha256": "02ad0787932a4d6b9fb1883702c76e1f2ee769d360c067ee65d2e3163084dfc6",
+      "scope": "verified-standalone-assets"
+    },
+    {
+      "uid": "ee508d07-bbc9-564c-9c43-b842b9bdc1fc",
+      "id": "RecipeBrowser",
+      "version": "0.12.0.3-r.4",
+      "baseVersion": "0.12.0.3",
+      "tag": "mod-RecipeBrowser-v0.12.0.3-r.4",
+      "file": "RecipeBrowser-0.12.0.3-r.4.bl",
+      "sha256": "c4e5a91c36c00413a67f67280d576481d3e9a3b9cbc0025f71a642533f006481",
+      "size": 555686,
+      "originalSha256": "38fec1891343ef304f5235cca82ccc0a60ab11105159fed85f41a3c57df5c3ba",
+      "scope": "verified-standalone-assets"
+    },
+    {
+      "uid": "7e6a6f0a-2479-3e54-b905-1e2f9f1b759c",
+      "id": "texture-7e6a6f0a-2479-3e54-b905-1e2f9f1b759c",
+      "version": "1.10.0-r.5",
+      "baseVersion": "1.10.0",
+      "tag": "mod-texture-7e6a6f0a-2479-3e54-b905-1e2f9f1b759c-v1.10.0-r.5",
+      "file": "texture-7e6a6f0a-2479-3e54-b905-1e2f9f1b759c-1.10.0-r.5.bl",
+      "sha256": "4b18aa34549e4635c6d7bb4bd5ccd8db3e7090100a46b7a94d352d09f0eee146",
+      "size": 5442401,
+      "originalSha256": "6e75533994a986253704311f645c835457c3ab1912d5fcb525ec7f33ab22effd",
+      "scope": "verified-standalone-assets"
     }
   ],
   "authorChineseSources": {

@@ -1,0 +1,31 @@
+{
+  "source": "作者包附件",
+  "packages": [
+    {
+      "uid": "b7e3c1a9-4d28-4f6b-9a12-202611260001",
+      "id": "hakimiblueprint",
+      "baseVersion": "1.7.2",
+      "originalSha256": "b720d2a51274cdc3e8309b73c21dcb0c078150e738a346767d7ed1749156cccd",
+      "version": "1.7.2-r.1",
+      "sha256": "7a5a67abcd59f7f54e70ebe8505a60f2714464a2a155ce147408b4ea9139b743",
+      "size": 77744,
+      "file": "hakimiblueprint-1.7.2-r.1.bl",
+      "tag": "mod-hakimiblueprint-v1.7.2-r.1",
+      "previousVersion": null,
+      "license": "CC-BY-NC-4.0"
+    },
+    {
+      "uid": "d224fff2-6731-4fe5-a726-ad3b8eb3c89a",
+      "id": "MeleeWeaponEffects",
+      "baseVersion": "1.8.60",
+      "originalSha256": "ef82888aa2e6504489336a5a019e1f85dec69b0d1e843b87d17e5a0eed713338",
+      "version": "1.8.60-r.1",
+      "sha256": "4027e22ffb36520ce1208a00b657dffb4970d443f935095ec20f5d54182bf031",
+      "size": 810871,
+      "file": "MeleeWeaponEffects-1.8.60-r.1.bl",
+      "tag": "mod-MeleeWeaponEffects-v1.8.60-r.1",
+      "previousVersion": "1.8.34-r.1",
+      "license": "MIT"
+    }
+  ]
+}

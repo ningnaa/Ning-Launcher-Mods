@@ -9,8 +9,8 @@
   "localizedSummaries": {
     "zh-Hans": "为近战武器增加刀光、命中反馈和触屏蓄力斩，提供轻量模式。"
   },
-  "description": "# 近战特效修改\n\n为近战武器增加刀光、命中反馈和触屏蓄力斩，提供轻量模式。\n\n长按屏幕上的「蓄力斩」后松手发动蓄力斩。需要气浪时可在模组设置中开启。\n\n适用于支持 C# 模组（Format 3）的柠版泰拉启动器及 Terraria Build 1720。包内声明许可为 MIT。\n\n制作人员为WindMind（原版作者 / Original author）、小绿（手机端移植 / Mobile port）。\n",
-  "version": "1.8.34-r.1",
+  "description": "# 近战特效修改\n\n为近战武器增加刀光、命中反馈和触屏蓄力斩，提供轻量模式。\n\n长按触屏「蓄力斩」并在蓄满后松手。刀光宽度拉到 0 时保留伤害判定。气浪默认关闭，可在模组设置中开启。长矛、回旋镖、悠悠球、链球沿用原版动作。\n\n需要支持 C# 模组（Format 3）的启动器及 Terraria Build 1720。联机时双方应使用同一模组版本。\n\nWindMind（原版作者）、小绿（手机端移植）、柠版泰拉启动器（移动版汉化与维护）。许可为 MIT。\n",
+  "version": "1.8.60-r.1",
   "authors": [
     {
       "name": "WindMind",
@@ -22,11 +22,15 @@
       "role": "手机端移植 / Mobile port",
       "color": "#6FE38A",
       "avatar": "avatar_xiaolv.png"
+    },
+    {
+      "name": "柠版泰拉启动器",
+      "role": "移动版汉化与维护"
     }
   ],
   "category": "玩法",
   "license": "MIT",
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "blVersion": 3,
   "dependencies": [],
   "links": [
@@ -36,8 +40,12 @@
     }
   ],
   "localizedDescriptions": {
-    "zh-Hans": "# 近战特效修改\n\n为近战武器增加刀光、命中反馈和触屏蓄力斩，提供轻量模式。\n\n长按屏幕上的「蓄力斩」后松手发动蓄力斩。需要气浪时可在模组设置中开启。\n\n适用于支持 C# 模组（Format 3）的柠版泰拉启动器及 Terraria Build 1720。包内声明许可为 MIT。\n\n制作人员为WindMind（原版作者 / Original author）、小绿（手机端移植 / Mobile port）。\n"
+    "zh-Hans": "# 近战特效修改\n\n为近战武器增加刀光、命中反馈和触屏蓄力斩，提供轻量模式。\n\n长按触屏「蓄力斩」并在蓄满后松手。刀光宽度拉到 0 时保留伤害判定。气浪默认关闭，可在模组设置中开启。长矛、回旋镖、悠悠球、链球沿用原版动作。\n\n需要支持 C# 模组（Format 3）的启动器及 Terraria Build 1720。联机时双方应使用同一模组版本。\n\nWindMind（原版作者）、小绿（手机端移植）、柠版泰拉启动器（移动版汉化与维护）。许可为 MIT。\n"
   },
+  "gameVersion": [
+    301720,
+    301720
+  ],
   "pages": [
     {
       "title": "更新日志",

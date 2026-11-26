@@ -9713,28 +9713,29 @@
     {
       "uid": "4b9e63eb-842f-44ed-8469-9df609c69645",
       "id": "cursedledger",
-      "name": "咒术账",
-      "version": "2.7.38",
+      "name": "咒术账 · 测试版",
+      "version": "2.8.27-r.1",
       "runtime": "js",
       "download": {
-        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-cursedledger-v2.7.38/cursedledger-2.7.38.bl",
-        "sha256": "d5e6aa6e50bd4e47f479f8cbc4ad65b3eea9c00a099b3ed03bb55e7b1924f6c3",
-        "size": 1393169
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-cursedledger-v2.8.27-r.1/cursedledger-2.8.27-r.1.bl",
+        "size": 2101721,
+        "sha256": "7d26e07723c04fd8bb5002f4d45a2026e058773bcc920b2c25e8ee714aac47d8"
       },
       "files": [
         "manifest.json",
         "icon.png",
         "description.md",
-        "description_zh-Hans.md",
         "changelog.md",
+        "license.md",
         "changelog_zh-Hans.md",
+        "description_zh-Hans.md",
         "authors/OMO.jpg"
       ],
       "manifest": {
         "uid": "4b9e63eb-842f-44ed-8469-9df609c69645",
         "id": "cursedledger",
-        "name": "咒术账",
-        "version": "2.7.38",
+        "name": "咒术账 · 测试版",
+        "version": "2.8.27-r.1",
         "authors": [
           {
             "name": "OMO",
@@ -9748,21 +9749,30 @@
         ],
         "entry": "main.js",
         "dependencies": [],
-        "summary": "以首领进度成长的六眼饰品，可使用苍、赫、茈和无量空处。",
-        "description": "# 咒术账\n\n以首领进度成长的六眼饰品，可使用苍、赫、茈和无量空处。\n\n合成并佩戴六眼后，通过触屏术式按钮施放能力，随击败原版首领解锁术式。详细配方与数值见包内指南。\n\n适用于支持 JS 模组的柠版泰拉启动器及 Terraria Build 1720。原包未声明独立许可证。\n\n制作人员为OMO（作者）。\n\n数值平衡模式默认开启。六眼与觉醒饰品、术式解锁以及领域续耗以包内配方表和游戏设置为准。\n",
+        "summary": "随首领进度成长的咒术模组，提供六眼和宿傩之指两条路线。",
+        "description": "# 咒术账 · 测试版\n\n随首领进度成长的咒术模组，提供六眼和宿傩之指两条路线。\n\n在铁砧合成并佩戴六眼或宿傩之指，通过触屏术式按钮施放对应技能。六眼可随击败首领逐步解锁苍、赫、茈等术式，宿傩路线提供斩、灶·开以及伏魔御厨子。数值平衡模式默认开启，具体配方与操作见包内指南。\n\n适用于柠版泰拉启动器的 JS 模组环境与 Terraria Build 1720，无需额外前置。此版本为测试版。\n\n作者：OMO。原作者保留所有权利。\n",
         "localizedSummaries": {
-          "zh-Hans": "以首领进度成长的六眼饰品，可使用苍、赫、茈和无量空处。",
-          "en-US": "A ten-tier Six Eyes accessory, four technique buttons (Blue, Red, Purple and Domain), Unlimited Void crowd-freezing with a ramping cost, a circuit-breaker lockout and percent-based damage. The Sukuna line is currently disabled."
+          "zh-Hans": "随首领进度成长的咒术模组，提供六眼和宿傩之指两条路线。",
+          "en-US": "A ten-tier Six Eyes line and a parallel Sukuna line: Blue, Red, Purple and Domain, plus Slash, Furnace Open and Malevolent Shrine's automatic cuts. Unlimited Void freezing with ramping cost, circuit-breaker lockout and percent-based damage. Sukuna content is enabled."
         },
         "localizedNames": {
-          "zh-Hans": "咒术账",
-          "en-US": "Cursed Ledger"
+          "zh-Hans": "咒术账 · 测试版",
+          "en-US": "Cursed Ledger (Beta)"
         },
-        "updated": "2026-11-23",
+        "license": "保留所有权利（All Rights Reserved）",
+        "category": "玩法",
+        "updated": "2026-11-26",
         "localizedDescriptions": {
-          "zh-Hans": "# 咒术账\n\n以首领进度成长的六眼饰品，可使用苍、赫、茈和无量空处。\n\n合成并佩戴六眼后，通过触屏术式按钮施放能力，随击败原版首领解锁术式。详细配方与数值见包内指南。\n\n适用于支持 JS 模组的柠版泰拉启动器及 Terraria Build 1720。原包未声明独立许可证。\n\n制作人员为OMO（作者）。\n\n数值平衡模式默认开启。六眼与觉醒饰品、术式解锁以及领域续耗以包内配方表和游戏设置为准。\n"
-        }
-      }
+          "zh-Hans": "# 咒术账 · 测试版\n\n随首领进度成长的咒术模组，提供六眼和宿傩之指两条路线。\n\n在铁砧合成并佩戴六眼或宿傩之指，通过触屏术式按钮施放对应技能。六眼可随击败首领逐步解锁苍、赫、茈等术式，宿傩路线提供斩、灶·开以及伏魔御厨子。数值平衡模式默认开启，具体配方与操作见包内指南。\n\n适用于柠版泰拉启动器的 JS 模组环境与 Terraria Build 1720，无需额外前置。此版本为测试版。\n\n作者：OMO。原作者保留所有权利。\n"
+        },
+        "pages": [
+          {
+            "title": "更新日志",
+            "file": "changelog_zh-Hans.md"
+          }
+        ]
+      },
+      "updatedAt": "2026-11-26T15:21:38Z"
     },
     {
       "uid": "d27d11c1-b4b5-4bda-870c-34fc1906b3d8",
@@ -10184,6 +10194,62 @@
         ]
       },
       "updatedAt": "2026-11-26T12:25:09Z"
+    },
+    {
+      "uid": "e96ab5e2-8bd6-483e-8be1-33a1f4f57101",
+      "id": "gembracelet",
+      "name": "宝石手镯",
+      "version": "1.7.7",
+      "runtime": "js",
+      "download": {
+        "url": "https://github.com/ningnaa/Ning-Launcher-Mods/releases/download/mod-gembracelet-v1.7.7/gembracelet-1.7.7.bl",
+        "size": 53750,
+        "sha256": "5d34636f6be6c8cff34ebe05cb344b1c8c5f6e59fcf74e9d336fe9479ee9905b"
+      },
+      "files": [
+        "manifest.json",
+        "icon.png",
+        "description.md",
+        "changelog.md",
+        "changelog_zh-Hans.md",
+        "description_zh-Hans.md"
+      ],
+      "manifest": {
+        "uid": "e96ab5e2-8bd6-483e-8be1-33a1f4f57101",
+        "id": "gembracelet",
+        "name": "宝石手镯",
+        "version": "1.7.7",
+        "authors": [
+          {
+            "name": "3分制作🤔",
+            "role": "制作",
+            "color": "#a97bff"
+          }
+        ],
+        "category": "物品",
+        "summary": "佩戴后让指定箭矢和魔法弹幕获得追踪、爆炸、分裂与反弹效果。",
+        "updated": "2026-11-26",
+        "blVersion": 2,
+        "entry": "main.js",
+        "dependencies": [],
+        "localizedNames": {
+          "zh-Hans": "宝石手镯"
+        },
+        "localizedSummaries": {
+          "zh-Hans": "佩戴后让指定箭矢和魔法弹幕获得追踪、爆炸、分裂与反弹效果。"
+        },
+        "description": "# 宝石手镯\n\n佩戴后让指定箭矢和魔法弹幕获得追踪、爆炸、分裂与反弹效果。\n\n在铁砧用七种宝石各 10 颗和 20 个铂金锭合成。佩戴后，符合条件的单发箭矢和单发魔法弹幕获得追踪、爆炸、双螺旋弹与反弹。箭矢反弹一次后在下一次命中时消失，魔法弹幕反弹两次后在下一次命中时停驻约两秒。投掷飞刀及部分指定枪械只获得追踪。普通枪械子弹、多发弓和连续光束不触发这些效果。\n\n适用于柠版泰拉启动器的 JS 模组环境。无需额外前置。\n\n制作：3分制作🤔。\n",
+        "localizedDescriptions": {
+          "zh-Hans": "# 宝石手镯\n\n佩戴后让指定箭矢和魔法弹幕获得追踪、爆炸、分裂与反弹效果。\n\n在铁砧用七种宝石各 10 颗和 20 个铂金锭合成。佩戴后，符合条件的单发箭矢和单发魔法弹幕获得追踪、爆炸、双螺旋弹与反弹。箭矢反弹一次后在下一次命中时消失，魔法弹幕反弹两次后在下一次命中时停驻约两秒。投掷飞刀及部分指定枪械只获得追踪。普通枪械子弹、多发弓和连续光束不触发这些效果。\n\n适用于柠版泰拉启动器的 JS 模组环境。无需额外前置。\n\n制作：3分制作🤔。\n"
+        },
+        "pages": [
+          {
+            "title": "更新日志",
+            "file": "changelog_zh-Hans.md"
+          }
+        ]
+      },
+      "updatedAt": "2026-11-26T15:21:38Z"
     }
   ],
   "featured": [

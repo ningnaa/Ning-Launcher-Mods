@@ -1,0 +1,29 @@
+{
+  "source": "作者模组附件",
+  "packages": [
+    {
+      "uid": "4b9e63eb-842f-44ed-8469-9df609c69645",
+      "id": "cursedledger",
+      "baseVersion": "2.8.27",
+      "originalSha256": "86ce3c1171a27ebadfa553fa4ecd01df7ee5aca3685b552d4b0f403590de5659",
+      "version": "2.8.27-r.1",
+      "sha256": "7d26e07723c04fd8bb5002f4d45a2026e058773bcc920b2c25e8ee714aac47d8",
+      "size": 2101721,
+      "file": "cursedledger-2.8.27-r.1.bl",
+      "tag": "mod-cursedledger-v2.8.27-r.1",
+      "previousVersion": "2.7.38"
+    },
+    {
+      "uid": "e96ab5e2-8bd6-483e-8be1-33a1f4f57101",
+      "id": "gembracelet",
+      "baseVersion": "1.7.7",
+      "originalSha256": "013a8254f605edad636112113bb5e4e6a42b121787ec2975950d976c1a8e43e5",
+      "version": "1.7.7",
+      "sha256": "5d34636f6be6c8cff34ebe05cb344b1c8c5f6e59fcf74e9d336fe9479ee9905b",
+      "size": 53750,
+      "file": "gembracelet-1.7.7.bl",
+      "tag": "mod-gembracelet-v1.7.7",
+      "previousVersion": null
+    }
+  ]
+}
